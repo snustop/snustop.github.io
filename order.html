@@ -1,0 +1,81 @@
+---
+title-seo: Оформить заказ | Купить снюс
+descr: Ищете где купить снюс в Киеве или Украине? Закажите его у нас. Оформите заявку
+  на сайте, и завтра снюс будет у Вас. Звоните! &amp;#9742; 067-568-02-30
+keywords: заказать снюс, купить снюс
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+		
+		{% include top-line.html %}
+
+		<div class="container">
+
+			<main id="checkout" class="margin-top-2rem">
+				<h1>Оформить заказ</h1>
+				<div class="simpleCart_items"></div>
+				<div class="text-right mb-3">
+					<div>
+						<small>Cкидка 5% (купон: <b>5disc</b>)</small><br>
+						<small>10 любых банок = скидка 7% (купон: <b>10cans</b>) </small>
+					</div>
+					<div class="order-coupon">
+						<label>
+							<small>Введите купон, (<a href="#couponModal" data-toggle="modal" data-target="#couponModal">где взять купон?</a>)</small>
+							<input type="text" class="form-control" id="promo-code" placeholder="Ваш купон">
+						</label><br>
+						<button type="button" class="btn btn-sm btn-primary" id="discount-btn">Применить купон</button>
+					</div>
+
+					<span id="form-total">Итого: <span class="simpleCart_grandTotal"></span><br>
+						<span id="cart-rate">Скидка 0%: 0 грн</span><br>
+						К оплате: <b class="simpleCart_grandTotal" id="cart-discount"></b></span>
+					
+				</div>
+				
+				
+				<form id="contact-form">
+					<div class="form-group">
+						<label for="phone">Ваш телефон</label>
+						<input type="tel" name="Телефон" class="form-control" id="phone" placeholder="Введите Ваш телефон">
+					</div>
+					<div class="form-group">
+						<label for="message">Данные для отправки</label>
+						<textarea class="form-control" name="Сообщение" id="message" rows="3" placeholder="город, отделение новой почты, фамилия имя получателя, наложеный платеж или перевод на карту, прочие пожелания"></textarea>
+					</div>
+					<input type="hidden" name="_subject" value="Новый заказ" />
+					<button type="submit" class="btn btn-success">Отправить</button>
+				</form>
+			</main>
+
+			
+		</div>
+	</div>
+
+	{% include modal-contact.html %}
+
+	<!-- modal где взять coupon start -->
+	<div class="modal fade" id="couponModal" tabindex="-1" role="dialog" aria-labelledby="couponModal" aria-hidden="true">
+		<div class="modal-dialog modal-sm">
+			<article class="modal-content">
+				<p class="p-3">Cкидка 5% на весь <strong>шведский снюс</strong> (купон: <b>5disc</b>), действует до 1 января.<br>
+					При покупке от 10 любых банок действуют скидка 7% (купон: <b>10cans</b>).<br>
+				Для постоянных клиентов, которые суммарно купили болee 50 банок - купон со скидкой 10% .</p>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+				</div>
+			</article>
+		</div>
+	</div>
+	<!-- modal где взять coupon end -->
+	
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+
+	{% include foot-scripts.html %}

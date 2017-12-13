@@ -1,0 +1,59 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+
+
+		<div class="container">
+			<main class="margin-top-2rem">
+
+				<div class="row">
+					<div class="col-lg-3">
+						{% include filter.html %}
+					</div>
+					<div class="col-lg-9">
+						<main class="catalog">
+
+							<section>
+								<h2>{{ page.filter-name-h2 }}</h2>
+								<p>{{ content }}</p>
+							</section>
+
+							<div class="row">
+								
+								<!-- PRODUCTS start -->
+								<!-- PRODUCT START -->
+								{% assign sorted_items = site.products | sort:"position" | where: "brand", page.filter-brand-list %}
+								{% for product in sorted_items %}
+								
+								{% include item-product.html %}
+
+								{% endfor %}
+								<!-- PRODUCT END -->
+								<!-- PRODUCTS end -->
+
+
+							</div>
+
+						</main>
+						
+					</div>
+				</div>
+
+			</main>
+		</div>
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+
+	{% include foot-scripts.html %}

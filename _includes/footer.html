@@ -1,0 +1,47 @@
+<footer class="main-foot container">
+	<hr>
+	<div class="foot-wrap-info">
+		<div class="d-flex justify-content-between">
+			<div class="foot-item">
+				<h3>Информация:</h3>
+				<ul>
+					<li><a href="/about-snus">Снюс это</a></li>
+					<li><a href="/kak-upotreblyat-snus">Как употреблять снюс?</a></li>
+				</ul>
+			</div>
+			<div class="foot-item">
+				<h3>Последние записи:</h3>
+					<ul>
+						{% assign sorted_articles_foot = site.articles | sort:"position" %}
+						{% for article in sorted_articles_foot limit: 3 %}
+						<li><a href="{{ article.url }}">{{ article.title-seo | truncate: 25 }}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+				<div class="foot-item">
+					<h3>Мы в соц сетях:</h3>
+					<ul>
+						<li>
+							<a href="//t.me/snustop" target="_blank" title="Канал telegram">
+								Канал telegram
+							</a>
+						</li>
+						<li>
+							<a href="//vk.com/snus_ukraine_kiev" target="_blank" title="вконтакте">
+								Вконтакте
+							</a>
+						</li>
+						<li>
+							<a href="//www.instagram.com/snustop.com.ua/" target="_blank" title="instagram">
+								Instagram
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="d-flex justify-content-between">
+			<span>&copy; Snustop.com.ua 2017</span>
+			<span>Made with <span class="heart">💙</span></span>
+		</div>
+	</footer>

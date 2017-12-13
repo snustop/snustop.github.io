@@ -1,0 +1,74 @@
+---
+title: Snustop.Github.Io
+timezone: UTC
+collections:
+  articles:
+    title: Articles
+    output: true
+  filter-brand:
+    title: Brands
+    output: true
+  filter-composition:
+    title: Composition
+    output: true
+  posts:
+    title: Posts
+    output: true
+  products:
+    title: Products
+    output: true
+  filter-stock:
+    title: Stock
+    output: true
+  filter-strong:
+    title: Strong
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product-page
+    permalink: "/:title"
+    title-seo: Odens Cold Dry купить в Украине
+    descr: Купить снюс Odens Cold Dry в Украине. Отправляем по всей территории Украины
+    product-name: Odens Cold Dry Extreme White Portion
+    product-alt: Odens Cold Dry
+    strong: Безникотиновый
+    brand: Odens
+    composition: Порционный
+    stock-list: 
+    price: 200
+    opt-price: 180
+    new-price: 
+    image: "/img/products/odens-cold-dry.png"
+    availability-descr: Товар заканчивается
+    has_availability: true
+    gramm: 10
+    nicotine: 22
+    portions: 13-15
+    taste: Мята
+    form: Порционный, сухой
+    composition-product: Табак, вода, соль, пищевой ароматизатор
+- scope:
+    path: ''
+    type: articles
+  values:
+    layout: page-article
+    permalink: "/:title"
+    title-seo: Снюс это
+    descr: Снюс это описание
+    img: "/img/about/kiev-snus.jpg"
+exclude:
+- package.json
+- gulpfile.js
+- node_modules
+- app/
+- Gemfile
+- Gemfile.lock
+- readme.md
+include:
+- ".htaccess"

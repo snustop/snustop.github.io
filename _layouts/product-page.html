@@ -1,0 +1,91 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+		
+		{% include header.html %}
+
+		{% include top-line.html %}
+		
+		<div class="container">
+
+			<main class="product-page margin-top-2rem mb-4">
+				<!-- section product item start -->
+				<section class="simpleCart_shelfItem">
+					<h1 class="item_name">{{ page.product-name }}</h1>
+					<div class="row">
+						<div class="col-lg-3">
+							{% include filter.html %}
+						</div>
+						<div class="col-lg-9">
+							<div class="item-wrap-img">
+								<img class="item_thumb img-fluid" src="{{ page.image }}" alt="{{ page.alt }}">
+							</div>
+							<div class="stock">Наличие: <b>{{ page.availability-descr }}</b></div>
+
+							{{ content }}
+
+
+							<table class="table table-bordered table-striped">
+								<tr>
+									<td>Содержание никотина:</td>
+									<td>{{ page.nicotine }}мг/г</td>
+								</tr>
+								<tr>
+									<td>Пакетиков в банке:</td>
+									<td>{{ page.portions }}</td>
+								</tr>
+								<tr>
+									<td>Грамм в банке:</td>
+									<td>{{ page.gramm }}г</td>
+								</tr>
+								<tr>
+									<td>Вкус:</td>
+									<td>{{ page.taste }}</td>
+								</tr>
+								<tr>
+									<td>Вид снюса:</td>
+									<td>{{ page.form }}</td>
+								</tr>
+								<tr>
+									<td>Состав:</td>
+									<td>{{ page.composition-product }}</td>
+								</tr>
+							</table>
+
+							
+							{% if page.new-price%}
+							<div class="price">Цена: <span class="old-price">{{page.price}} грн</span> <span class="item_price new-price">{{page.new-price}} грн</span></div>
+
+							{% else %}
+							<div class="product-price">Цена: <span class="price item_price">{{ page.price }} грн</span></div>
+							{% endif %}
+
+							<small>10 Банок = {{page.opt-price}}грн</small><br>
+
+							{% if page.has_availability == false %}								
+							<button type="button" class="btn btn-secondary" disabled>Нет в наличии</button>
+							{% else %}
+							<a class="btn-cart item_add btn btn-success" href="javascript:;">Добавить в корзину</a>
+							{% endif %}
+
+						</div>
+					</div>
+				</section>
+				<!-- section product item end -->
+
+			</main>
+		</div>
+	</div>
+
+
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+	
+	{% include foot-scripts.html %}

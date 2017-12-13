@@ -1,0 +1,77 @@
+---
+title-seo: Купить снюс в Украине и Киеве
+descr: Купите шведский снюс в нашем интернет-магазине! Быстрая доставка по Украине
+  и в Киев. Звоните! &amp;#9742; 067-568-02-30. Снюс всегда в наличии. Работаем с
+  популярными брендами Epok, Odens, Siberia, Thunder, Genral и другими
+keywords: Снюс, snus, шведский снюс, жевательный табак, бездымный табак, снюс купить
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+		
+		{% include banner.html %}		
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col-lg-3">
+					{% include filter.html %}
+				</div>
+				<div class="col-lg-9">
+					<main class="catalog">
+						<h2>Шведский снюс</h2>
+						<div class="row">
+
+							<!-- PRODUCTS start -->
+							<!-- PRODUCT START -->
+							{% assign sorted_items = site.products | sort:"position" %}
+							{% for product in sorted_items offset:0 limit:12 %}
+							
+							{% include item-product.html %}
+
+							{% endfor %}
+							<!-- PRODUCT END -->
+							<!-- PRODUCTS end -->
+
+							<!-- pagination start -->
+							<div class="col-12 d-flex justify-content-between mb-4">
+								<nav aria-label="Page navigation example">
+									<ul class="pagination">
+										<li class="page-item active"><a class="page-link" href="/">1</a></li>
+										<li class="page-item"><a class="page-link" href="page-2">2</a></li>
+										<li class="page-item"><a class="page-link" href="page-3">3</a></li>
+									</ul>
+								</nav>
+								<a class="btn btn-primary" href="snus-all" role="button">Показать все</a>
+							</div>
+							<!-- pagination end -->
+
+
+
+
+
+						</div>
+					</main>
+
+				</div>
+			</div>
+
+			
+		</div>
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+	
+	{% include foot-scripts.html %}
