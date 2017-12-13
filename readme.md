@@ -1,6 +1,6 @@
 <h1>Купить снюс в Украине</h1>
 <p>У нас можно <strong>купить снюс</strong> по самым выгодным ценам.</p>
-<p>Посетите наш сайт <a href="https://snustop.com.ua/">snustop</a></p>
+<p>Посетите наш сайт <a href="https://snustop.com.ua/">snustop.com.ua</a></p>
 
 <h2>Наши контакты</h2>
 <ul>
