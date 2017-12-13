@@ -9,8 +9,8 @@ product-name: XRANGE General Slim Large White Strong
 product-alt: XRANGE General Slim Large White Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
-price: 170
-opt-price: 158
+price: 175
+opt-price: 163
 image: "/img/products/general-xrange-white-strong.png"
 availability-descr: В наличии
 has_availability: true
