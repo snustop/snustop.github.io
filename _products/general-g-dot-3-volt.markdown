@@ -1,5 +1,5 @@
 ---
-title: general-g.3-volt
+title: general-g3-volt
 date: 2017-12-12 13:17:00 Z
 position: 9
 title-seo: General G.3 Volt Super Strong Snus купить в Украине
