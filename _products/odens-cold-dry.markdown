@@ -11,8 +11,9 @@ brand: Odens
 composition: Порционный
 stock-list: Лучший выбор
 price: 200
-opt-price: 186
-availability-descr: В наличии
+opt-price: 163
+new-price: 175
+availability-descr: Акция
 ---
 
 **Odens cold dry** считается одним из самых крепких, несмотря на то что в нем в два раза меньше никотина чем в [красной сибири](/siberia-white), но расслабляет не хуже. Великолепный мятный вкус, очень сбалансированный табак.
