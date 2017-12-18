@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 175
 opt-price: 163
 image: "/img/products/general-xrange-white-strong.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 16.8
 nicotine: 14
 portions: 21
