@@ -18,6 +18,7 @@
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
 	<meta name="application-name" content="Snustop.com.ua">
 
+	{% if page.url == '/' or page.url== '/about' or page.url== '/delivery' or page.url== '/opt' or page.url== '/order' %}
 	<script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
@@ -37,5 +38,72 @@
 			}
 		}
 	</script>
+
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement":
+			[
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/epok",
+					"name": "Epok"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/siberia",
+					"name": "Siberia"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 3,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/odens",
+					"name": "Odens"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 4,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/ultra-strong",
+					"name": "Очень крепкий снюс"
+				}
+			}
+			]
+		}
+	</script>
+
+	{% endif %}
+
+
+	{% if page.layout == 'product-page' %}
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Product",
+			"description": "{{ content | strip_html }}",
+			"name": "{{ page.product-name }}",
+			"image": "https://snustop.com.ua{{ page.image }}",
+			"offers": {
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "{{ page.price }}",
+				"priceCurrency": "UAH"
+			}
+		}
+	</script>
+	{% endif %}
 
 </head>
