@@ -1,7 +1,7 @@
 ---
 title: nick-johnny-americana
 date: 2017-11-20 21:01:00 Z
-position: 6
+position: 7
 title-seo: Nick & Johnny Americana Xtra Strong купить в Украине
 descr: Снюс Nick & Johnny Americana Xtra Strong купить в Украине
 product-name: Nick & Johnny Americana Xtra Strong
