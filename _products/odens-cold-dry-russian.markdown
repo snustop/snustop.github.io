@@ -7,8 +7,10 @@ descr: Купить снюс оптом Odens Cold Dry Акциз для Рос�
 product-name: Odens Cold Dry 13 грамм
 product-alt: Odens Cold Dry 13 грамм
 strong: Очень крепкий
-price: 110
+stock-list: Акция
+price: 140
 opt-price: 102
+new-price: 110
 image: "/img/products/odens-cold-dry-13.jpg"
 availability-descr: В наличии
 gramm: 13
