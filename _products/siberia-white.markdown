@@ -12,7 +12,8 @@ brand: Siberia
 composition: Порционный
 stock-list: Лучший выбор
 price: 210
-opt-price: 195
+opt-price: 181
+new-price: 195
 image: "/img/products/siberia-white-dry.png"
 gramm: 13
 nicotine: 42
