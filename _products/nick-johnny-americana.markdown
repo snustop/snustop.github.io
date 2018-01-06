@@ -11,6 +11,8 @@ brand: Swedish Match
 price: 185
 opt-price: 172
 image: "/img/products/nick-johnny-americana.jpg"
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 22
 nicotine: 14
 portions: 20
