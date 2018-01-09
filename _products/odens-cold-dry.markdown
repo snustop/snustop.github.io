@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry
 date: 2017-11-20 10:56:00 Z
-position: 5
+position: 6
 title-seo: Odens Cold Dry купить в Украине
 descr: 'Купить снюс Odens Cold Dry в Украине. '
 product-name: Odens Cold Dry Extreme White Portion
