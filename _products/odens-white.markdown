@@ -12,7 +12,8 @@ composition: Порционный
 price: 200
 opt-price: 186
 image: "/img/products/odens-white.png"
-availability-descr: В наличии
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 22
 portions: "~24"
