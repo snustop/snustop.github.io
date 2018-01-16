@@ -128,7 +128,7 @@
 				$("#phone").val("");
 				$("#message").val("");
 				simpleCart.empty();
-				$("#checkout").html('<div class="text-center"><h1>Спасибо за заказ</h1><p>Ожидайте, мы с Вами сегодня свяжемся.</p><p><a href="/">Перейти на главную</a></p></div>');
+				$("#checkout").html('<div class="text-center"><h1>Спасибо за заказ</h1><p>Ожидайте, Ваш заказ будет отправлен в ближайшее время.</p><p><a href="/">Перейти на главную</a></p></div>');
 			}).fail(function(){
 				alert("Ошибка");
 			});
