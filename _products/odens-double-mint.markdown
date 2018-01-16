@@ -7,10 +7,8 @@ descr: 'Снюс оденс двойная мята купить в Украин
 product-name: Odens Double Mint Extreme White Dry
 product-alt: Odens Double Mint Extreme White Dry Snus
 strong: Очень крепкий
-stock-list: Акция
 price: 190
-opt-price: 158
-new-price: 170
+opt-price: 177
 image: "/img/products/odens-double-mint.png"
 availability-descr: В наличии
 has_availability: true
