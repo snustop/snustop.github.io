@@ -9,11 +9,11 @@ product-name: The LAB 07 Slim xtra Strong White
 product-alt: LAB 07 Slim Extra Strong White Snus
 strong: Средней крепости
 brand: Swedish Match
-price: 185
-opt-price: 172
+price: 200
+opt-price: 186
 image: "/img/products/the-lab-07-extra-strong-white.png"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 18
 portions: 24
