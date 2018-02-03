@@ -9,7 +9,7 @@ product-alt: Odens Cold Dry Extreme White Portion
 strong: Очень крепкий
 brand: Odens
 composition: Порционный
-stock-list: Лучший выбор
+stock-list: Акция
 price: 190
 opt-price: 163
 new-price: 175
