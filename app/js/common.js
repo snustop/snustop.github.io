@@ -72,7 +72,7 @@
 				cartRate.text('Скидка 0%: 0 грн');
 			}
 
-			if (promCode == "burda" || promCode == "zak" || promCode == "koval" || promCode == "kolosov" || promCode=="kochergin" || promCode=="nechaev" || promCode=="past" || promCode=="dvorak" || promCode=="black" || promCode=="ira" || promCode=="2017") {
+			if (promCode == "burda" || promCode == "zak" || promCode == "koval" || promCode == "kolosov" || promCode=="kochergin" || promCode=="nechaev" || promCode=="past" || promCode=="dvorak" || promCode=="black" || promCode=="ira" || promCode=="dnipro" || promCode=="zorya" || promCode=="dynamo") {
 				cartDiscount.text(Math.ceil(totalPrice * .9) + " грн"); /* скидка 10% */
 				var totalDiscount = totalPrice - Math.ceil(totalPrice * .9);
 				cartRate.text('Скидка 10%: ' + totalDiscount + ' грн');
