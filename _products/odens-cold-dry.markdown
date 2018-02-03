@@ -11,7 +11,8 @@ brand: Odens
 composition: Порционный
 stock-list: Лучший выбор
 price: 190
-opt-price: 177
+opt-price: 163
+new-price: 175
 availability-descr: В наличии
 has_availability: true
 ---
