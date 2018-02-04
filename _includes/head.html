@@ -104,7 +104,7 @@
 			"offers": {
 				"@type": "Offer",
 				"availability": "http://schema.org/InStock",
-				"price": "{{ page.price }}",
+				"price": "{% if page.new-price %}{{page.new-price}}{% else %}{{page.price}}{% endif %}",
 				"priceCurrency": "UAH"
 			}
 		}
