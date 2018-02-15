@@ -10,8 +10,8 @@ strong: Крепкий
 price: 200
 opt-price: 186
 image: "/img/products/odens-white-double-mint.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 22
 portions: "~24"
