@@ -9,8 +9,7 @@ product-alt: Odens Cold Dry 13 грамм
 strong: Очень крепкий
 stock-list: Акция
 price: 150
-opt-price: 121
-new-price: 130
+opt-price: 140
 image: "/img/products/odens-cold-dry-13.jpg"
 availability-descr: В наличии
 gramm: 13
