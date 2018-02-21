@@ -12,8 +12,8 @@ brand: Siberia
 composition: Порционный
 stock-list: Акция
 price: 210
-opt-price: 177
-new-price: 190
+opt-price: 186
+new-price: 200
 image: "/img/products/siberia-white-dry.png"
 availability-descr: В наличии
 gramm: 13
