@@ -9,20 +9,22 @@
 	}
 	// filter slide (992) end
 
-	// click on the button add to cart = cart shaking START
-	var btnAddCart = $('.btn-cart');
-	var cartShake = $('.cart');
-	btnAddCart.on('click', function(){
-		
-		cartShake.addClass('cart-move');
-		cartShake.one('webkitAnimationEnd oanimationend msAnimationEnd animationend',
-			function(e) {
 
-				cartShake.removeClass('cart-move');
-
-			});
+	// sticky top-line START
+	//offset() measures how far down the sticky element is from the top of the window
+	var stickyTop = $(".top-line").offset().top;
+	//whenever the user scrolls, measure how far we have scrolled
+	$(window).scroll(function() {
+		var windowTop = $(window).scrollTop();
+  //check to see if we have scrolled past the original location of the sticky element
+  if (windowTop > stickyTop) {
+    //if so, change the sticky element to fised positioning
+    $(".top-line").addClass("stuck");
+  } else {   
+  	$(".top-line").removeClass("stuck");
+  }
 	});
-	// click on the button add to cart = cart shaking END
+	// sticky top-line END
 
 	// arrow to top START
 	var root = $('html, body');
@@ -39,7 +41,6 @@
 					}, 300);
 		});
 	// arrow to top END
-
 
 
 		// DISCOUNT START
@@ -82,6 +83,16 @@
 		// DISCOUNT END
 
 
+		// плавный скролл к комментариям START
+		$('.link-reviews').click(function(){  
+			$('html, body').stop().animate({
+				scrollTop: $( $(this).attr('href') ).offset().top - 75
+			}, 400);
+			return false;
+		});
+		// плавный скролл к комментариям END
+
+
 		// Форма заказа, приходит на почту START
 
 		var formMail = $('#contact-form');
@@ -107,7 +118,17 @@
 		updateForm();
 
 		simpleCart.bind( 'update' , function(){
+
 			updateForm();
+
+			var btnAddCart = $('.btn-cart');
+			var cartShake = $('.cart');
+			cartShake.addClass('cart-move');
+			cartShake.one('webkitAnimationEnd oanimationend msAnimationEnd animationend',
+				function(e) {
+					cartShake.removeClass('cart-move');
+				});
+
 		});
 
 		// MAIL
@@ -135,6 +156,9 @@
 		});
 
 		// Форма заказа, приходит на почту END
+
+
+
 
 
 	});

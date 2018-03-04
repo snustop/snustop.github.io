@@ -21,10 +21,18 @@
 							<div class="item-wrap-img">
 								<img class="item_thumb img-fluid" src="{{ page.image }}" alt="{{ page.product-alt }}">
 							</div>
-							<div class="stock">Наличие: <b>{{ page.availability-descr }}</b></div>
+							<div class="stock mb-3">Наличие: <b>{{ page.availability-descr }}</b>
+									<ul class="d-flex comment-rating">
+										<li class="yes">&#9733;</li>
+										<li class="yes">&#9733;</li>
+										<li>&#9733;</li>
+										<li>&#9733;</li>
+										<li>&#9733;</li>
+									</ul>
+							</div>
+
 
 							{{ content }}
-
 
 							<table class="table table-bordered table-striped">
 								<tr>
@@ -68,6 +76,73 @@
 							{% else %}
 							<a class="btn-cart item_add btn btn-success" href="javascript:;">Добавить в корзину</a>
 							{% endif %}
+
+							<div class="product-reviews margin-top-2rem">
+								<h2>Отзывы:</h2>
+
+								
+								<article class="item-review">
+									<div class="d-flex justify-content-between">
+										<span class="mb-0">Антон</span>
+										<span class="comment-rating">
+											<ul class="d-flex">
+												<li class="yes">&#9733;</li>
+												<li class="yes">&#9733;</li>
+												<li class="yes">&#9733;</li>
+												<li>&#9733;</li>
+												<li>&#9733;</li>
+											</ul>
+										</span>
+										<span><time>7 января 2017</time></span>
+									</div>
+									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рекламных безопасную точках текста что которой, строчка, агенство, реторический текстами инициал всеми переписывается коварный грустный предупредила, семантика от всех встретил оксмокс!
+									</p>
+									<hr>
+								</article>
+
+								<article class="item-review">
+									<div class="d-flex justify-content-between">
+										<span class="mb-0">Антон</span>
+										<span>
+											<ul class="d-flex comment-rating">
+												<li class="yes">&#9733;</li>
+												<li class="yes">&#9733;</li>
+												<li>&#9733;</li>
+												<li>&#9733;</li>
+												<li>&#9733;</li>
+											</ul>
+										<time>7 января 2017</time></span>
+									</div>
+									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рекламных безопасную точках текста что которой, строчка, агенство, реторический текстами инициал всеми переписывается коварный грустный предупредила, семантика от всех встретил оксмокс!
+									</p>
+									<hr>
+								</article>
+
+
+								
+
+								<form id="form-review"  class="clearfix mt-4">
+									<small>Оставьте свой отзыв, помогите другим</small>
+									<input id="input-name" class="form-control mb-2" type="text" placeholder="Имя" maxlength="25">
+									<textarea id="input-textarea" class="form-control mb-2" rows="3" placeholder="Ваш отзыв" maxlength="500" required></textarea>
+									<input type="text" placeholder="Данное поле оставьте пустым" id="captcha" style="display: none">
+									<div class="star-rating">
+										<input type="radio" id="5-stars" name="rating" value="5" checked/>
+										<label for="5-stars" class="star">&#9733;</label>
+										<input type="radio" id="4-stars" name="rating" value="4" />
+										<label for="4-stars" class="star">&#9733;</label>
+										<input type="radio" id="3-stars" name="rating" value="3" />
+										<label for="3-stars" class="star">&#9733;</label>
+										<input type="radio" id="2-stars" name="rating" value="2" />
+										<label for="2-stars" class="star">&#9733;</label>
+										<input type="radio" id="1-star" name="rating" value="1" />
+										<label for="1-star" class="star">&#9733;</label>
+									</div>
+									<button class="btn btn-primary float-right">Отправить</button>
+								</form>
+
+
+							</div>
 
 						</div>
 					</div>

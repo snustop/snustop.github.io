@@ -6,12 +6,16 @@
 	 {% endif %}
 ">
 								<article class="product text-center rounded simpleCart_shelfItem">
-									<a class="product-link" href="{{product.url}}">
+									<div class="product-link" href="{{product.url}}">
 										<span class="wrap-img">
+											<a href="{{product.url}}">
 											<img class="item_thumb" src="{{ product.image }}" alt="{{ product.product-alt }}">
+											</a>
 										</span>
+										<a href="{{product.url}}">
 										<h3 class="item_name">{{product.product-name | truncate: 75}}</h3>
-									</a>
+										</a>
+									</div>
 
 
 

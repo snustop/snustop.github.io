@@ -1,7 +1,6 @@
 ---
-title: epok-mint-strong
+title: epok-strong-ice-cool-mint
 date: 2017-11-20 10:37:00 Z
-permalink: "/epok-strong-ice-cool-mint"
 position: 3
 title-seo: Epok ice cool mint  strong slim snus  купить в Украине
 descr: Купить снюс мятный эпок в Укарине и Киеве. Epok Ice Cool Mint - очень крепкий,
