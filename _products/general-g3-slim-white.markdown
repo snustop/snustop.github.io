@@ -1,7 +1,7 @@
 ---
 title: general-g3-slim-white
 date: 2017-11-20 14:13:00 Z
-position: 8
+position: 9
 title-seo: General G.3 Extra Strong Slim White купить в Украине
 descr: Купить снюс General G.3 Extra Strong Slim White  в Украине
 product-name: General G.3 Extra Strong Slim White
@@ -11,8 +11,8 @@ brand: Swedish Match
 price: 200
 opt-price: 186
 image: "/img/products/general-G3-slim-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 21.6
 nicotine: 18
 portions: 24
