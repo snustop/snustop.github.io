@@ -1,31 +1,5 @@
 ---
-title: epok-strong-ice-cool-mint
-date: 2017-11-20 10:37:00 Z
-<<<<<<< HEAD
-position: 3
-=======
-permalink: "/epok-strong-ice-cool-mint"
-position: 5
->>>>>>> 002d52993ff1eb408981e54dcc8155ad4b44a0fc
-title-seo: Epok ice cool mint  strong slim snus  купить в Украине
-descr: Купить снюс мятный эпок в Укарине и Киеве. Epok Ice Cool Mint - очень крепкий,
-  24 белых пакетика.  Содержит белый табак.
-product-name: Epok ice cool mint strong slim
-product-alt: Epok ice cool mint strong slim
-strong: Очень крепкий
-brand: Epok
-composition: Порционный
-stock-list: Лучший выбор
-price: 260
-opt-price: 242
-image: "/img/products/epok-mint-strong.png"
-availability-descr: Ожидается
-has_availability: false
-gramm: 16.8
-nicotine: 14
-portions: 24
-taste: Очень приятная мята
-form: Порционный, slim
+title: Epok Mint Strong
 ---
 
 **Снюс Эпок** – первый в мире снюс, который использует белый табак.
