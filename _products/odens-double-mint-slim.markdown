@@ -10,7 +10,7 @@ strong: Очень крепкий
 price: 190
 opt-price: 177
 image: "/img/products/odens-double-mint-slim.jpg"
-availability-descr: Под заказ
+availability-descr: В наличии
 has_availability: true
 portions: 16
 ---
