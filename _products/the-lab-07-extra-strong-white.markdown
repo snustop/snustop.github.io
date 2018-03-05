@@ -1,7 +1,7 @@
 ---
 title: the-lab-07-extra-strong-white
 date: 2017-11-20 13:07:00 Z
-position: 10
+position: 11
 title-seo: The LAB 07 Slim Extra Strong White Snus купить в Украине
 descr: Купить снюс The LAB 07 Slim Extra Strong White Snus в Украине. Очень хороший
   снюс.
