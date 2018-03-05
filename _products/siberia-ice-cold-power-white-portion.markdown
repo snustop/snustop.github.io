@@ -3,7 +3,7 @@ title: siberia-ice-cold-power-white-portion
 date: 2018-03-05 11:05:00 Z
 title-seo: Siberia -80°C ice cold power white portion snus купить в Украине
 descr: Синяя сибирь по крепости между odens cold dry и siberia white dry, пакетики
-  очень приятные и немного увлажненные. Отправка по Украине и в Киев
+  очень приятные и немного увлажненные. Отправка по Украине и в Киев.
 product-name: Siberia ice cold power white
 product-alt: Siberia ice cold power white portion snus
 strong: Очень крепкий
