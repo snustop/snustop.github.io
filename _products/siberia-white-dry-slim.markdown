@@ -3,13 +3,14 @@ title: siberia-white-dry-slim
 date: 2017-11-20 16:20:00 Z
 position: 3
 title-seo: Siberia -80°C Slim White Dry Snus купить в Украине
-descr: Снюс Siberia -80°C Slim White Dry купить в Киеве
+descr: Снюс Siberia -80°C Slim White Dry - пакетики меньшего размера чем и более удобны,
+  чем в Siberia white dry не slim версии
 product-name: Siberia -80°C Slim White Dry
 product-alt: Siberia -80°C Slim White Dry Snus
 strong: Очень крепкий
 brand: Siberia
-price: 215
-opt-price: 200
+price: 225
+opt-price: 209
 image: "/img/products/siberia-white-dry-slim.jpg"
 availability-descr: Нет в наличии
 has_availability: false
