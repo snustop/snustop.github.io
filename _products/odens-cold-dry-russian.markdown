@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry-russian
 date: 2017-12-22 06:30:00 Z
-position: 1
+position: 0
 title-seo: Снюс Odens Cold Dry Акциз 13 грамм
 descr: Купить снюс оптом Odens Cold Dry Акциз для России 13 грамм.
 product-name: Odens Cold Dry 13 грамм
