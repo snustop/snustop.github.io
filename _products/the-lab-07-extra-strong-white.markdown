@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 200
 opt-price: 186
 image: "/img/products/the-lab-07-extra-strong-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 21.6
 nicotine: 18
 portions: 24
