@@ -8,7 +8,6 @@
 		{% include top-line.html %}
 		
 		<div class="container">
-
 			<main class="product-page margin-top-2rem mb-4">
 				<!-- section product item start -->
 				<section class="simpleCart_shelfItem">
@@ -22,15 +21,17 @@
 								<img class="item_thumb img-fluid" src="{{ page.image }}" alt="{{ page.product-alt }}">
 							</div>
 							<div class="stock mb-3">Наличие: <b>{{ page.availability-descr }}</b>
-									<ul class="d-flex comment-rating">
-										<li class="yes">&#9733;</li>
-										<li class="yes">&#9733;</li>
-										<li>&#9733;</li>
-										<li>&#9733;</li>
-										<li>&#9733;</li>
-									</ul>
+<!-- 									<div class="d-flex align-items-center flex-cent">
+										<ul class="d-flex comment-rating">
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li>&#9733;</li>
+										</ul>
+										<a href="#review-anchor" class="link-reviews"> &#160; смотреть отзывы (3)</a>
+									</div> -->
 							</div>
-
 
 							{{ content }}
 
@@ -77,51 +78,48 @@
 							<a class="btn-cart item_add btn btn-success" href="javascript:;">Добавить в корзину</a>
 							{% endif %}
 
-							<div class="product-reviews margin-top-2rem">
+<!-- 							<div class="product-reviews margin-top-2rem">
 								<h2>Отзывы:</h2>
 
-								
-								<article class="item-review">
-									<div class="d-flex justify-content-between">
-										<span class="mb-0">Антон</span>
-										<span class="comment-rating">
-											<ul class="d-flex">
-												<li class="yes">&#9733;</li>
-												<li class="yes">&#9733;</li>
-												<li class="yes">&#9733;</li>
-												<li>&#9733;</li>
-												<li>&#9733;</li>
-											</ul>
-										</span>
-										<span><time>7 января 2017</time></span>
-									</div>
-									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рекламных безопасную точках текста что которой, строчка, агенство, реторический текстами инициал всеми переписывается коварный грустный предупредила, семантика от всех встретил оксмокс!
-									</p>
-									<hr>
-								</article>
+								<div id="review-anchor">
 
-								<article class="item-review">
-									<div class="d-flex justify-content-between">
-										<span class="mb-0">Антон</span>
-										<span>
-											<ul class="d-flex comment-rating">
-												<li class="yes">&#9733;</li>
-												<li class="yes">&#9733;</li>
-												<li>&#9733;</li>
-												<li>&#9733;</li>
-												<li>&#9733;</li>
-											</ul>
-										<time>7 января 2017</time></span>
-									</div>
-									<p>Далеко-далеко за словесными горами в стране, гласных и согласных живут рыбные тексты. Рекламных безопасную точках текста что которой, строчка, агенство, реторический текстами инициал всеми переписывается коварный грустный предупредила, семантика от всех встретил оксмокс!
-									</p>
-									<hr>
-								</article>
+									<?php
 
 
-								
+									$filename = 'comments/odens-cold-dry.html';
 
-								<form id="form-review"  class="clearfix mt-4">
+									if (file_exists($filename)) {
+
+
+									#определяем константу для имени файла
+									define('FILENAME', $filename);
+
+									# проверяем наличие содержимого в файле, считывая содержимое файла в строку
+									if (!file_get_contents(FILENAME))
+									echo "Нет комментариев, будьте первым :)";
+									else {
+									$file_array =  file($filename);
+									$num_str =  $file_array;
+									$count_str =  count($file_array);
+									for ($i = 0; $i <= count($num_str) && $i < 15; $i++) 
+									{ 
+										echo $num_str[$i]; 
+									}
+								}
+
+							} else {
+							echo "Нет комментариев, будьте первым :)";
+							$fp = fopen($filename, "w");
+							fclose($fp);
+						}
+
+						
+						?>
+
+					</div>
+					
+
+					<form id="form-review"  class="clearfix mt-4">
 									<small>Оставьте свой отзыв, помогите другим</small>
 									<input id="input-name" class="form-control mb-2" type="text" placeholder="Имя" maxlength="25">
 									<textarea id="input-textarea" class="form-control mb-2" rows="3" placeholder="Ваш отзыв" maxlength="500" required></textarea>
@@ -142,25 +140,27 @@
 								</form>
 
 
-							</div>
 
-						</div>
-					</div>
-				</section>
-				<!-- section product item end -->
 
-			</main>
+				</div> -->
+
+			</div>
 		</div>
-	</div>
+	</section>
+	<!-- section product item end -->
+
+</main>
+</div>
+</div>
 
 
 
-	{% include modal-cart.html %}
+{% include modal-cart.html %}
 
-	{% include modal-contact.html %}
+{% include modal-contact.html %}
 
-	{% include arrow-to-top.html %}
+{% include arrow-to-top.html %}
 
-	{% include footer.html %}
-	
-	{% include foot-scripts.html %}
+{% include footer.html %}
+
+{% include foot-scripts.html %}
