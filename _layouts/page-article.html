@@ -1,0 +1,28 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+
+
+		<div class="container">
+			<main class="margin-top-2rem">
+
+				{{content}}
+
+			</main>
+		</div>
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+
+	{% include foot-scripts.html %}

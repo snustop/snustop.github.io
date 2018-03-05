@@ -1,0 +1,166 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+		
+		{% include header.html %}
+
+		{% include top-line.html %}
+		
+		<div class="container">
+			<main class="product-page margin-top-2rem mb-4">
+				<!-- section product item start -->
+				<section class="simpleCart_shelfItem">
+					<h1 class="item_name">{{ page.product-name }}</h1>
+					<div class="row">
+						<div class="col-lg-3">
+							{% include filter.html %}
+						</div>
+						<div class="col-lg-9">
+							<div class="item-wrap-img">
+								<img class="item_thumb img-fluid" src="{{ page.image }}" alt="{{ page.product-alt }}">
+							</div>
+							<div class="stock mb-3">Наличие: <b>{{ page.availability-descr }}</b>
+<!-- 									<div class="d-flex align-items-center flex-cent">
+										<ul class="d-flex comment-rating">
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li class="yes">&#9733;</li>
+											<li>&#9733;</li>
+										</ul>
+										<a href="#review-anchor" class="link-reviews"> &#160; смотреть отзывы (3)</a>
+									</div> -->
+							</div>
+
+							{{ content }}
+
+							<table class="table table-bordered table-striped">
+								<tr>
+									<td>Содержание никотина:</td>
+									<td>{{ page.nicotine }}мг/г</td>
+								</tr>
+								<tr>
+									<td>Пакетиков в банке:</td>
+									<td>{{ page.portions }}</td>
+								</tr>
+								<tr>
+									<td>Грамм в банке:</td>
+									<td>{{ page.gramm }}г</td>
+								</tr>
+								<tr>
+									<td>Вкус:</td>
+									<td>{{ page.taste }}</td>
+								</tr>
+								<tr>
+									<td>Вид снюса:</td>
+									<td>{{ page.form }}</td>
+								</tr>
+								<tr>
+									<td>Состав:</td>
+									<td>{{ page.composition-product }}</td>
+								</tr>
+							</table>
+
+							
+							{% if page.new-price%}
+							<div class="price">Цена: <span class="old-price">{{page.price}} грн</span> <span class="item_price new-price">{{page.new-price}} грн</span></div>
+
+							{% else %}
+							<div class="product-price">Цена: <span class="price item_price">{{ page.price }} грн</span></div>
+							{% endif %}
+
+							<small>10 Банок = {{page.opt-price}}грн</small><br>
+
+							{% if page.has_availability == false %}								
+							<button type="button" class="btn btn-secondary" disabled>Нет в наличии</button>
+							{% else %}
+							<a class="btn-cart item_add btn btn-success" href="javascript:;">Добавить в корзину</a>
+							{% endif %}
+
+<!-- 							<div class="product-reviews margin-top-2rem">
+								<h2>Отзывы:</h2>
+
+								<div id="review-anchor">
+
+									<?php
+
+
+									$filename = 'comments/odens-cold-dry.html';
+
+									if (file_exists($filename)) {
+
+
+									#определяем константу для имени файла
+									define('FILENAME', $filename);
+
+									# проверяем наличие содержимого в файле, считывая содержимое файла в строку
+									if (!file_get_contents(FILENAME))
+									echo "Нет комментариев, будьте первым :)";
+									else {
+									$file_array =  file($filename);
+									$num_str =  $file_array;
+									$count_str =  count($file_array);
+									for ($i = 0; $i <= count($num_str) && $i < 15; $i++) 
+									{ 
+										echo $num_str[$i]; 
+									}
+								}
+
+							} else {
+							echo "Нет комментариев, будьте первым :)";
+							$fp = fopen($filename, "w");
+							fclose($fp);
+						}
+
+						
+						?>
+
+					</div>
+					
+
+					<form id="form-review"  class="clearfix mt-4">
+									<small>Оставьте свой отзыв, помогите другим</small>
+									<input id="input-name" class="form-control mb-2" type="text" placeholder="Имя" maxlength="25">
+									<textarea id="input-textarea" class="form-control mb-2" rows="3" placeholder="Ваш отзыв" maxlength="500" required></textarea>
+									<input type="text" placeholder="Данное поле оставьте пустым" id="captcha" style="display: none">
+									<div class="star-rating">
+										<input type="radio" id="5-stars" name="rating" value="5" checked/>
+										<label for="5-stars" class="star">&#9733;</label>
+										<input type="radio" id="4-stars" name="rating" value="4" />
+										<label for="4-stars" class="star">&#9733;</label>
+										<input type="radio" id="3-stars" name="rating" value="3" />
+										<label for="3-stars" class="star">&#9733;</label>
+										<input type="radio" id="2-stars" name="rating" value="2" />
+										<label for="2-stars" class="star">&#9733;</label>
+										<input type="radio" id="1-star" name="rating" value="1" />
+										<label for="1-star" class="star">&#9733;</label>
+									</div>
+									<button class="btn btn-primary float-right">Отправить</button>
+								</form>
+
+
+
+
+				</div> -->
+
+			</div>
+		</div>
+	</section>
+	<!-- section product item end -->
+
+</main>
+</div>
+</div>
+
+
+
+{% include modal-cart.html %}
+
+{% include modal-contact.html %}
+
+{% include arrow-to-top.html %}
+
+{% include footer.html %}
+
+{% include foot-scripts.html %}
