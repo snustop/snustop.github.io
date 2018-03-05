@@ -27,7 +27,7 @@
 								
 								<!-- PRODUCTS start -->
 								<!-- PRODUCT START -->
-								{% assign sorted_items = site.products | sort:"position" | where: "strong", page.filter-strong-list %}
+								{% assign sorted_items = site.products | sort:"position" | where: "composition", page.filter-composition-list %}
 								{% for product in sorted_items %}
 								
 								{% include item-product.html %}
