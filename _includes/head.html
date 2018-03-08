@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<title>{{ page.title-seo }}</title>
+	<meta name="description" content="{{ page.descr }}">
+	<meta name="keywords" content="{{ page.keywords }}">
+
+	{% if page.url == '/' %}
+		<meta name="yandex-verification" content="156e93b0c44c0145" />
+		<meta name='wmail-verification' content='4c9ee4ffa58c566b64a5e1bdafe28b4b' />
+	{% endif %}
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/img/favicon/manifest.json">
+	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#00а0ff">
+	<meta name="theme-color" content="#00а0ff">
+	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
+	<meta name="application-name" content="Snustop.com.ua">
+	<link rel="stylesheet" href="/css/main.min.css">
+
+	{% if page.url == '/' or page.url== '/about' or page.url== '/delivery' or page.url== '/opt' or page.url== '/order' %}
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"name": "Snustop.com.ua",
+			"url": "https://snustop.com.ua/",
+			"logo": "https://snustop.com.ua/img/favicon/apple-touch-icon.png",
+			"telephone": "+380675680230",
+			"email": "snustop.com.ua@gmail.com",
+			"alternateName": "Снюс купить",
+			"description": "Интернет-магазин по продаже снюса в Украине",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Днепр, Украина",
+				"postalCode": "49000",
+				"streetAddress": "улица Глинки, 2"
+			}
+		}
+	</script>
+
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement":
+			[
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/epok",
+					"name": "Epok"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/siberia",
+					"name": "Siberia"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 3,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/odens",
+					"name": "Odens"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 4,
+				"item":
+				{
+					"@id": "https://snustop.com.ua/ultra-strong",
+					"name": "Очень крепкий снюс"
+				}
+			}
+			]
+		}
+	</script>
+
+	{% endif %}
+
+
+	{% if page.layout == 'product-page' %}
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Product",
+			"description": "{{ content | strip_html }}",
+			"name": "{{ page.product-name }}",
+			"image": "https://snustop.com.ua{{ page.image }}",
+			"offers": {
+				"@type": "Offer",
+				"availability": "http://schema.org/InStock",
+				"price": "{% if page.new-price %}{{page.new-price}}{% else %}{{page.price}}{% endif %}",
+				"priceCurrency": "UAH"
+			}
+		}
+	</script>
+	{% endif %}
+
+</head>
