@@ -32,7 +32,7 @@ defaults:
     type: products
   values:
     layout: product-page
-    permalink: "/:title"
+    permalink: "/:title.php"
     title-seo: Odens Cold Dry купить в Украине
     descr: Купить снюс Odens Cold Dry в Украине. Отправляем по всей территории Украины
     product-name: Odens Cold Dry Extreme White Portion
