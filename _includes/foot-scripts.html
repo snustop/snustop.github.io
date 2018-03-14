@@ -4,9 +4,8 @@
 		$(function() {
 
 			function funcSuccess(data) {
-				$("#reviews-container").html(data);
+				$("#review-anchor").html(data);
 				$("#form-review").html("<p class='text-center'>Спасибо за отзыв! Мы ценим Ваше мнение.</p>");
-				// $("#form-review").hide();
 			}
 
 			$("#form-review").submit(function(event) {
@@ -14,7 +13,7 @@
 
 				var nameAuthor  = $("#input-name").val();
 				var comment = $("#input-textarea").val();
-				var fileName = "comments/odens-cold-dry.html";
+				var fileName = "comments{{ page.url | replace:".php",".html" }}";
 				var selected = $(".star-rating input[type='radio']:checked").val();
 
 				var myCaptcha = $("#captcha").val();
