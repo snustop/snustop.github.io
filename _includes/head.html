@@ -22,6 +22,7 @@
 	<meta name="theme-color" content="#00а0ff">
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
 	<meta name="application-name" content="Snustop.com.ua">
+
 	<link rel="stylesheet" href="/css/main.min.css">
 
 	{% if page.url == '/' or page.url== '/about' or page.url== '/delivery' or page.url== '/opt' or page.url== '/order' %}
@@ -91,25 +92,6 @@
 		}
 	</script>
 
-	{% endif %}
-
-
-	{% if page.layout == 'product-page' %}
-	<script type="application/ld+json">
-		{
-			"@context": "http://schema.org",
-			"@type": "Product",
-			"description": "{{ content | strip_html }}",
-			"name": "{{ page.product-name }}",
-			"image": "https://snustop.com.ua{{ page.image }}",
-			"offers": {
-				"@type": "Offer",
-				"availability": "http://schema.org/InStock",
-				"price": "{% if page.new-price %}{{page.new-price}}{% else %}{{page.price}}{% endif %}",
-				"priceCurrency": "UAH"
-			}
-		}
-	</script>
 	{% endif %}
 
 </head>
