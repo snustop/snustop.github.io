@@ -21,7 +21,7 @@
 				if (!myCaptcha) {
 
 					$.ajax({
-						url: "review-php.php",
+						url: "review-php",
 						type: "POST",
 						data: ({Name: nameAuthor, Comment: comment, File_name: fileName, Rating_Val: selected}),
 						dataType: "html",
