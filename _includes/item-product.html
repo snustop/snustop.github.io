@@ -8,7 +8,7 @@
 								<article class="product text-center rounded simpleCart_shelfItem">
 									<div class="product-link" href="{{product.url}}">
 										<span class="wrap-img">
-											<a href="{{product.url}}">
+											<a href="{{product.url | replace:'.php','' }}">
 											<img class="item_thumb" src="{{ product.image }}" alt="{{ product.product-alt }}">
 											</a>
 										</span>
