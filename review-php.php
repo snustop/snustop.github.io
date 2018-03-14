@@ -5,6 +5,7 @@ $Comment = $_POST['Comment'];
 $File_name = $_POST['File_name'];
 $Rating_Val = $_POST['Rating_Val'];
 $date_comment = date("m.d.y");
+$date_comment_schema = date("Y-m-d");
 
 #Get old comments
 $old = fopen($File_name, "r+t");
@@ -39,7 +40,7 @@ $old_comments = fread($old, $file_size);
 #Delete everything, write down new and old comments
 $write = fopen($File_name, "w+");
 $comment_br = str_replace(array("\r", "\n"), '<br>', $Comment);
-$new_comments = "<article class='item-review'><div class='d-flex justify-content-between'><span class='mb-0'>".strip_tags($Name)."</span><span><time>".$date_comment."</time></span></div><p class='mb-0'>".strip_tags($comment_br, '<br>')."</p><ul class='comment-rating d-flex'>".$count_stars."</ul><hr></article>\n";
+$new_comments = "<article class='item-review' itemprop='review' itemscope itemtype='http://schema.org/Review'><div class='d-flex justify-content-between'><span class='mb-0' itemprop='author'>".strip_tags($Name)."</span><span><time itemprop='datePublished' content='".$date_comment_schema."'>".$date_comment."</time></span></div><p class='mb-0' itemprop='description'>".strip_tags($comment_br, '<br>')."</p><ul class='comment-rating d-flex'>".$count_stars."</ul><span itemprop='reviewRating' itemscope itemtype='http://schema.org/Rating'><meta itemprop='worstRating' content = '1'><meta itemprop='ratingValue' content = '".$Rating_Val."'><meta itemprop='bestRating' content = '5'></span><hr></article>\n";
 $string = $old_comments.$new_comments;
 fwrite($write, $string);
 fclose($write);
@@ -54,7 +55,7 @@ for ($i = 0; $i <= count($num_str) && $i < 15; $i++)
 }
 
 # записываем все в общий файл для отслеживания комментариев
-# записываем количество и страницу где оставили коммент НЕ РАБОТАЕТ, НУЖНО СДЕЛАТЬ
+# записываем количество и страницу где оставили коммент
 $write_all = fopen("comments/all-comment.html", "a");
 fwrite($write_all, $File_name.$new_comments);
 fclose($write_all);
