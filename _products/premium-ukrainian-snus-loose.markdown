@@ -1,6 +1,7 @@
 ---
 title: premium-ukrainian-snus-loose
 date: 2018-03-14 21:32:00 Z
+position: 4
 title-seo: Premium Loose Snus | Made in Ukraine
 descr: Рассыпной премиум снюс высочайшего качества от украинского производителя.  Никотиновая
   крепость 20мг/г, в банке 50 грамм качественного снюса.
