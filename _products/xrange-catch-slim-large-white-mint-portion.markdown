@@ -12,7 +12,8 @@ strong: Низкой крепости
 brand: Swedish Match
 composition: Порционный
 price: 190
-opt-price: 177
+opt-price: 149
+new-price: 160
 image: "/img/products/portion-white-large-slim-mint-catch-xrange.jpg"
 gramm: 16.8
 nicotine: "~9"
