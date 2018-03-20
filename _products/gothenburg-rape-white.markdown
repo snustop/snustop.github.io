@@ -13,7 +13,8 @@ composition: Порционный
 price: 200
 opt-price: 186
 image: "/img/products/portion-white-rape-goteborgs.jpg"
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 21.6
 nicotine: 8
 portions: 24
