@@ -7,12 +7,13 @@ descr: Купить снюс Odens Double Mint Extreme White в Украине
 product-name: Odens Double Mint Extreme White
 product-alt: Odens Double Mint Extreme White Snus
 strong: Крепкий
+stock-list: Акция
 price: 200
 opt-price: 158
 new-price: 170
 image: "/img/products/odens-white-double-mint.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: Заканчивается
+has_availability: true
 gramm: 20
 nicotine: 22
 portions: "~24"
