@@ -12,8 +12,8 @@ brand: Other Brands
 composition: Рассыпной
 stock-list: Акция
 price: 220
-opt-price: 149
-new-price: 160
+opt-price: 186
+new-price: 200
 image: "/img/products/ukrainian-snus-loose.jpg"
 availability-descr: Ограниченная партия
 gramm: 50
