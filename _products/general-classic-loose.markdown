@@ -6,7 +6,7 @@ title-seo: General Classic Loose Extra Strong - Рассыпной снюс | К
 descr: Рассыпной снюс General Classic Loose купить в Украине
 product-name: 'General Classic Loose Extra Strong '
 product-alt: General Classic Loose Extra Strong  Snus
-strong: Крепкий
+strong: Средней крепости
 brand: Swedish Match
 composition: Рассыпной
 stock-list: Акция
