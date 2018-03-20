@@ -9,6 +9,7 @@ product-alt: General Classic Loose Extra Strong  Snus
 strong: Крепкий
 brand: Swedish Match
 composition: Рассыпной
+stock-list: Акция
 price: 220
 opt-price: 167
 new-price: 180
