@@ -11,6 +11,7 @@ product-alt: XRANGE Catch climlarge white mint portion Snus
 strong: Низкой крепости
 brand: Swedish Match
 composition: Порционный
+stock-list: Акция
 price: 190
 opt-price: 149
 new-price: 160
