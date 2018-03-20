@@ -8,7 +8,8 @@ product-name: Odens Double Mint Extreme White
 product-alt: Odens Double Mint Extreme White Snus
 strong: Крепкий
 price: 200
-opt-price: 186
+opt-price: 158
+new-price: 170
 image: "/img/products/odens-white-double-mint.jpg"
 availability-descr: Под заказ
 has_availability: false
