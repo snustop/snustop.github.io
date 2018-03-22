@@ -10,8 +10,10 @@ product-alt: Odens Double Mint White Dry Portion Snus
 strong: Низкой крепости
 brand: Odens
 composition: Порционный
+stock-list: Акция
 price: 135
-opt-price: 126
+opt-price: 56
+new-price: 60
 image: "/img/products/odens-double-mint-white-dry.jpg"
 gramm: 10
 nicotine: 9
