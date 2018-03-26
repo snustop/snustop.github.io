@@ -12,8 +12,8 @@ price: 200
 opt-price: 158
 new-price: 170
 image: "/img/products/odens-white-double-mint.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 22
 portions: "~24"
