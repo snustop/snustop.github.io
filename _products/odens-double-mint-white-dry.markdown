@@ -1,7 +1,7 @@
 ---
 title: odens-double-mint-white-dry
 date: 2018-03-14 21:19:00 Z
-position: 11
+position: 10
 title-seo: Odens Double Mint White Dry Portion Snus
 descr: Оденс двойная мята - это очень популярный и освежающий вкус мяты. Крепость
   слабая, идеально подойдет для тех кто пробует снюс первый раз и ранее не курил.
