@@ -16,6 +16,8 @@ price: 190
 opt-price: 149
 new-price: 160
 image: "/img/products/portion-white-large-slim-mint-catch-xrange.jpg"
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 16.8
 nicotine: "~9"
 portions: 24
