@@ -1,7 +1,7 @@
 ---
 title: thunder-x-slim-white-dry
 date: 2017-11-20 12:50:00 Z
-position: 11
+position: 10
 title-seo: Thunder X Slim White Dry купить в Украине
 descr: Thunder X Slim White Dry  - очень крепкий. Доставка по всей территории Украины
 product-name: Thunder X Slim White Dry
