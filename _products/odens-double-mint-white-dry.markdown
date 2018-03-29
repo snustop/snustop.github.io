@@ -15,6 +15,8 @@ price: 135
 opt-price: 56
 new-price: 60
 image: "/img/products/odens-double-mint-white-dry.jpg"
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 10
 nicotine: 9
 portions: 13-14
