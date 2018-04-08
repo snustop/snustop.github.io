@@ -1,6 +1,7 @@
 ---
 title: sisu-extreme-white-dry
 date: 2018-04-08 07:15:00 Z
+position: 10
 title-seo: Sisu Extreme White Dry Snus в Украине
 descr: Купить SISU Extreme White Dry Snus в Украине. Снюс крепкий, 15 сухих пакетиков.
   Приятный мятный вкус.
