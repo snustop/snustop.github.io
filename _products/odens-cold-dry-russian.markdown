@@ -11,7 +11,8 @@ strong: Очень крепкий
 price: 150
 opt-price: 140
 image: "/img/products/odens-cold-dry-13.jpg"
-availability-descr: В наличии
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 13
 portions: 17-18
 ---
