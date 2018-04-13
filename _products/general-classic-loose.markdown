@@ -14,8 +14,8 @@ price: 220
 opt-price: 167
 new-price: 180
 image: "/img/products/general-classic-loose.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 48
 nicotine: 12
 portions: рассыпной
