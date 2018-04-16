@@ -4,10 +4,10 @@
 
 <h2>Наши контакты</h2>
 <ul> 
-	<li><a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li> 
+	<li><a href="//tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li> 
 	<li><a href="//api.whatsapp.com/send?phone=380675680230&amp;text=Привет" target="_blank" title="Написать в WhatsApp">WhatsApp</a></li>
 	<li><a href="//t.me/mirageUA" target="_blank" title="Telegram">Telegram</a></li> 
-	<li><a href="viber://chat?number=+380675680230" target="_blank" title="Написать в viber">Viber</a></li>
+	<li><a href="//viber://chat?number=+380675680230" target="_blank" title="Написать в viber">Viber</a></li>
 	<li><a href="//www.instagram.com/snustop.com.ua/" target="_blank" title="instagram">Instagram</a></li>
 	<li><a href="//vk.com/snus_ukraine_kiev" target="_blank" title="вконтакте">Вконтакте</a></li> 
 </ul>
