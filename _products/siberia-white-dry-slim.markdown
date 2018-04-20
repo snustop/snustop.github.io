@@ -12,7 +12,7 @@ brand: Siberia
 stock-list: Акция
 price: 210
 opt-price: 177
-new-price: 190
+new-price: 200
 image: "/img/products/siberia-white-dry-slim.jpg"
 availability-descr: В наличии
 has_availability: true
