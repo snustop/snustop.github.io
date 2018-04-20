@@ -13,7 +13,7 @@ composition: Рассыпной
 price: 220
 opt-price: 186
 new-price: 200
-image: "/img/products/honey-loose.png"
+image: "/img/products/honey-loose.jpg"
 availability-descr: Ограниченная партия
 gramm: 50
 nicotine: 20
