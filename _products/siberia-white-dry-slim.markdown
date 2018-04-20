@@ -14,7 +14,7 @@ price: 210
 opt-price: 177
 new-price: 200
 image: "/img/products/siberia-white-dry-slim.jpg"
-availability-descr: В наличии
+availability-descr: 23 апреля ожидается
 has_availability: true
 gramm: 13
 nicotine: 43
