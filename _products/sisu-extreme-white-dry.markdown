@@ -3,8 +3,10 @@ title: sisu-extreme-white-dry
 date: 2018-04-08 07:15:00 Z
 position: 13
 title-seo: Sisu Extreme White Dry Snus в Украине
-descr: Купить SISU Extreme White Dry Snus в Украине. Снюс крепкий, 15 сухих пакетиков.
-  Приятный мятный вкус.
+descr: Sisu Extreme - Новый ультра сильный снюс с ароматом мяты и ментола, который
+  обеспечивает интенсивный и продолжительный мятный вкус! Высокое содержание никотина
+  (20 мг/г) даёт неоспоримое преимущество перед другими видами жевательного табака,
+  имеющих приятный вкус. Порции равномерно заполнены и мягкие - прятные на ощупь!
 product-name: Sisu Extreme White Dry
 product-alt: Sisu Extreme White Dry Snus
 strong: Крепкий
