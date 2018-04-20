@@ -11,6 +11,7 @@ product-alt: Рассыпной снюс со вкусом чернослива
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
+stock-list: Акция
 price: 220
 opt-price: 186
 new-price: 200
