@@ -2,9 +2,10 @@
 title: ukrainian-premium-snus-loose
 date: 2018-03-14 21:32:00 Z
 position: 5
-title-seo: Ukrainian Premium Loose Snus
+title-seo: Ukrainian Premium Loose Snus - Классический вкус
 descr: Рассыпной премиум снюс высочайшего качества от украинского производителя.  Никотиновая
-  крепость 20мг/г, в банке 50 грамм качественного снюса.
+  крепость 20мг, в банке 50 грамм качественного снюса. Классический табачный вкус.
+  Вкус и никотиновый удар поступают очень плавно, приятный табак.
 product-name: Ukrainian Premium Loose Snus
 product-alt: Премиум снюс от украинского производителя
 strong: Средней крепости
