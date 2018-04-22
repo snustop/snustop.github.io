@@ -11,10 +11,11 @@ strong: Очень крепкий
 brand: Siberia
 composition: Порционный
 price: 200
-opt-price: 186
+opt-price: 177
+new-price: 190
 image: "/img/products/siberia-white-dry.png"
-availability-descr: 23 апреля ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 42
 portions: 17
