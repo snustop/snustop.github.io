@@ -12,7 +12,7 @@ brand: Odens
 composition: Порционный
 stock-list: Акция
 price: 200
-opt-price: 162
+opt-price: 167
 new-price: 180
 image: "/img/products/odens-extreme-melon-portion.jpg"
 availability-descr: В наличии
