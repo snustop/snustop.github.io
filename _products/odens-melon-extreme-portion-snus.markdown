@@ -10,8 +10,10 @@ product-alt: Odens melon extreme portion Snus
 strong: Средней крепости
 brand: Odens
 composition: Порционный
+stock-list: Акция
 price: 200
-opt-price: 186
+opt-price: 162
+new-price: 180
 image: "/img/products/odens-extreme-melon-portion.jpg"
 availability-descr: В наличии
 has_availability: true
