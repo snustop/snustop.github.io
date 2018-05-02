@@ -16,7 +16,8 @@ price: 220
 opt-price: 186
 new-price: 200
 image: "/img/products/prunes-loose.jpg"
-availability-descr: Ограниченная партия
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 50
 nicotine: 20
 portions: Рассыпной
