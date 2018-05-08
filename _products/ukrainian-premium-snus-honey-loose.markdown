@@ -15,10 +15,10 @@ price: 220
 opt-price: 186
 new-price: 200
 image: "/img/products/honey-loose.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
-nicotine: 20
+nicotine: 28
 portions: Рассыпной
 taste: Мед
 form: Рассыпной
