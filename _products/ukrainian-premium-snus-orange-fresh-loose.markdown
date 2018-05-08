@@ -13,7 +13,7 @@ composition: Рассыпной
 price: 220
 opt-price: 186
 new-price: 200
-image: "/img/products/orange-loose.png"
+image: "/img/products/orange-loose.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: 50
