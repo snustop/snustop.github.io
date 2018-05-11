@@ -14,8 +14,8 @@ composition: Порционный
 price: 200
 opt-price: 186
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: 17 мая будет
+has_availability: false
 gramm: 15
 nicotine: 43
 portions: 16-17
