@@ -10,11 +10,11 @@ product-alt: Copenhagen Southern Blend Long Cut Snus
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
-price: 200
-opt-price: 186
+price: 220
+opt-price: 205
 image: "/img/products/copenhagen-southern.png"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 34
 nicotine: 14
 portions: Рассыпной
