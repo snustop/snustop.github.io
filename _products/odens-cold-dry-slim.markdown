@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry-slim
 date: 2017-11-20 18:28:00 Z
-position: 10
+position: 8
 title-seo: Odens Extreme Slim Cold White Dry Portion купить в Украине
 descr: Снюс Oden's Extreme Slim Cold White Dry Portion купить в Украине
 product-name: Odens Extreme Slim Cold White Dry
