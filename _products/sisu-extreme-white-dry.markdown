@@ -15,12 +15,12 @@ composition: Порционный
 price: 160
 opt-price: 149
 image: "/img/products/sisu-extreme-white-dry.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 11
 nicotine: 20
 portions: 15-16
 ---
 
 Снюс Sisu довольно крепок. Приятный мятный вкус. Пакетики удобные и сухие.<br>
-Как только я получу обратную связь, я добавлю описание.
+Хорошая альтернатива [odens cold dry(/odens-cold-dry), оденс совсем немного крепче, но sisu приятней не вкус и мешочки приятнее.
