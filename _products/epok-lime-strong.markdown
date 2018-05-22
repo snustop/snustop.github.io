@@ -11,8 +11,8 @@ brand: Epok
 price: 260
 opt-price: 242
 image: "/img/products/epok-lime-strong.png"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.8
 nicotine: 1.4
 portions: 24
@@ -20,5 +20,5 @@ taste: Лайм
 form: Порционный, белый, slim
 ---
 
-Снюс epok lime strong - очень крепкий, но менее крепок чем Epok **Ice Cool mint strong** и **Epok Strong Licorice**, но зато эпок лайм - долгоиграющий, идеально подойдет в перелете.<br>
+Снюс epok lime strong - очень крепкий, но менее крепок чем Epok **Ice Cool mint strong** и **Epok Strong Licorice**, но зато эпок лайм - долгоиграющий, идеально подойдет для длительных поездок.<br>
 Вкус очень приятный, аромат тоже.
