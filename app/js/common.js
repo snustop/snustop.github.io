@@ -9,23 +9,6 @@
 	}
 	// filter slide (992) end
 
-
-	// sticky top-line START
-	//offset() measures how far down the sticky element is from the top of the window
-	var stickyTop = $(".top-line").offset().top;
-	//whenever the user scrolls, measure how far we have scrolled
-	$(window).scroll(function() {
-		var windowTop = $(window).scrollTop();
-  //check to see if we have scrolled past the original location of the sticky element
-  if (windowTop > stickyTop) {
-    //if so, change the sticky element to fised positioning
-    $(".top-line").addClass("stuck");
-  } else {   
-  	$(".top-line").removeClass("stuck");
-  }
-	});
-	// sticky top-line END
-
 	// arrow to top START
 	var root = $('html, body');
 	$(window).scroll(function() {
@@ -156,9 +139,5 @@
 		});
 
 		// Форма заказа, приходит на почту END
-
-
-
-
 
 	});
