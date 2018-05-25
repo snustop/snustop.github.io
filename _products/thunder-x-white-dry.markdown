@@ -9,11 +9,11 @@ product-name: Thunder X White Dry
 product-alt: Thunder X White Dry Portion Snus
 strong: Очень крепкий
 brand: Thunder
-price: 150
-opt-price: 140
+price: 160
+opt-price: 149
 image: "/img/products/thunder-x-white-dry.png"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 11.7
 nicotine: 45
 portions: 18
