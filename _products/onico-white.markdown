@@ -13,7 +13,7 @@ opt-price: 195
 image: "/img/products/onico-white.jpg"
 availability-descr: Нет в наличии
 has_availability: false
-gramm: "-"
+gramm: "- "
 nicotine: 'free '
 portions: 24
 taste: бергамот, цитрусовые, перец
