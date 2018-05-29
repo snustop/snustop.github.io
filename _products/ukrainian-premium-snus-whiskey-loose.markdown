@@ -15,7 +15,8 @@ price: 220
 opt-price: 186
 new-price: 200
 image: "/img/products/whiskey.png"
-availability-descr: В наличии
+availability-descr: Под заказ
+has_availability: false
 gramm: 50
 nicotine: 25
 portions: Рассыпной
