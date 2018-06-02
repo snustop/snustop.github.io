@@ -15,8 +15,8 @@ composition: Порционный
 price: 160
 opt-price: 149
 image: "/img/products/sisu-extreme-white-dry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 7 июня
+has_availability: false
 gramm: 11
 nicotine: 20
 portions: 15-16
