@@ -1,7 +1,7 @@
 ---
 title: siberia-brown-slim
 date: 2017-11-20 16:27:00 Z
-position: 8
+position: 7
 title-seo: Siberia -80°C Slim Brown Portion Snus в Украине
 descr: Купить Siberia -80°C Slim Brown Portion в Украине
 product-name: Siberia -80°C Slim Brown
