@@ -4,7 +4,7 @@ $Name = $_POST['Name'];
 $Comment = $_POST['Comment'];
 $File_name = $_POST['File_name'];
 $Rating_Val = $_POST['Rating_Val'];
-$date_comment = date("m.d.y");
+$date_comment = date("d.m.y");
 $date_comment_schema = date("Y-m-d");
 
 #Get old comments
