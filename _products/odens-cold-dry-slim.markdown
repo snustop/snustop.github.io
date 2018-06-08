@@ -10,8 +10,8 @@ strong: Очень крепкий
 price: 190
 opt-price: 177
 image: "/img/products/odens-cold-dry-slim.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 portions: 16
 ---
 
