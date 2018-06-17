@@ -7,7 +7,7 @@ descr: Купить снюс мятный эпок в Укарине и Киев
   24 белых пакетика.  Содержит белый табак.
 product-name: Epok ice cool mint strong slim
 product-alt: Epok ice cool mint strong slim
-strong: Очень крепкий
+strong: Крепкий
 brand: Epok
 composition: Порционный
 stock-list: Лучший выбор
