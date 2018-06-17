@@ -1,7 +1,7 @@
 ---
 title: ukrainian-premium-snus-loose
 date: 2018-03-14 21:32:00 Z
-position: 23
+position: 25
 title-seo: Ukrainian Premium Loose Snus
 descr: Рассыпной премиум снюс высочайшего качества от украинского производителя.  Никотиновая
   крепость 20мг/г, в банке 50 грамм качественного снюса.
