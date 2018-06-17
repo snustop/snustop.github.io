@@ -7,7 +7,7 @@ descr: Синяя сибирь по крепости между odens cold dry �
   очень приятные и немного увлажненные. Отправка по Украине и в Киев.
 product-name: Siberia Ice Cold Power White Portion
 product-alt: Siberia ice cold power white portion snus
-strong: Очень крепкий
+strong: Крепкий
 brand: Siberia
 composition: Порционный
 price: 200
