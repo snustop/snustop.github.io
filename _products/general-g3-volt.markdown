@@ -7,7 +7,7 @@ descr: Снюс General G.3 Volt Super Strong Snus.  Самый крепкий �
   выпускал Swedish Match. Очень качественный табак.
 product-name: General G.3 Volt Super Strong
 product-alt: General G.3 Volt Super Strong Snus
-strong: Очень крепкий
+strong: Крепкий
 brand: Swedish Match
 composition: Порционный
 stock-list: Лучший выбор
