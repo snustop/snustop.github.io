@@ -9,7 +9,7 @@ descr: Sisu Extreme - Новый ультра сильный снюс с аро�
   имеющих приятный вкус. Порции равномерно заполнены и мягкие - прятные на ощупь!
 product-name: Sisu Extreme White Dry
 product-alt: Sisu Extreme White Dry Snus
-strong: Крепкий
+strong: Средней крепости
 brand: Other Brands
 composition: Порционный
 price: 160
