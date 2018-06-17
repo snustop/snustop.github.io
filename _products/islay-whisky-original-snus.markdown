@@ -8,7 +8,7 @@ descr: Islay Whisky Original  – снюс для тех, кто ценит ка
   табака, хранящегося в бочках, ранее использовавшихся для виски.
 product-name: Islay Whisky Original
 product-alt: Islay Whisky Original Снюс
-strong: Крепкий
+strong: Средней крепости
 brand: Other Brands
 composition: Порционный
 price: 250
