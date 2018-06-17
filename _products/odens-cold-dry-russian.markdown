@@ -7,7 +7,7 @@ descr: Жевательный табак Оденс колд драй 13 гра�
   специально для России.
 product-name: Odens Cold Dry 13 грамм
 product-alt: Odens Cold Dry 13 грамм
-strong: Очень крепкий
+strong: Крепкий
 price: 150
 opt-price: 140
 image: "/img/products/odens-cold-dry-13.jpg"
