@@ -6,7 +6,7 @@ title-seo: Odens Extreme Slim Cold White Dry Portion купить в Украи�
 descr: Снюс Oden's Extreme Slim Cold White Dry Portion купить в Украине
 product-name: Odens Extreme Slim Cold White Dry
 product-alt: Oden's Extreme Slim Cold White Dry Portion snus
-strong: Очень крепкий
+strong: Крепкий
 price: 190
 opt-price: 177
 image: "/img/products/odens-cold-dry-slim.png"
