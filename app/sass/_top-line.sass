@@ -1,16 +1,12 @@
 .top-line
 	padding: 0
+	position: sticky
 	top: 0
 	width: 100%
 	padding: 3px 0
 	z-index: 1
 	background: #eceff1
-
-// sticky js addClass
-.stuck
-	position: fixed
-
-
+	
 .cart
 	padding: 3px 10px
 	padding-left: 0
@@ -101,6 +97,10 @@
 	.cart-product-name
 		font-weight: 500
 		margin-bottom: 5px
+		a
+			transition: all .3s
+			&:hover
+				color: #0056b3
 	.item-quantity
 		input
 			text-align: center

@@ -75,7 +75,7 @@
 					cartStyle				: "div",
 					cartColumns			: [
 					{ view: function(item, column){
-						return   '<div class="cart-item"><img src="' + item.get('thumb') + '" alt="snus">' + '<div class="cart-product d-inline-block"><span class="cart-product-name">' + item.get('name') + '</span><br><span class="cart-product-price">' + item.get('price') + ' грн</span> &times; ' + '<span class="item-quantity"><input type="text" maxlength="3" value="' + '' + item.get('quantity') + '" class="simpleCart_input" onkeypress="return event.charCode >= 48 && event.charCode <= 57"></span> &#61; ' + item.get('total') + ' грн</div>' +'<span class="item-remove"><a href="javascript:;" class="close simpleCart_remove">×</a></span></div>';
+						return   '<div class="cart-item"><a href="' + item.get('link') + '"><img src="' + item.get('thumb') + '" alt="' + item.get('name') + '"></a>' + '<div class="cart-product d-inline-block"><span class="cart-product-name"><a href="' + item.get('link') + '">' + item.get('name') + '</a></span><br><span class="cart-product-price">' + item.get('price') + ' грн</span> &times; ' + '<span class="item-quantity"><input type="text" maxlength="3" value="' + '' + item.get('quantity') + '" class="simpleCart_input" onkeypress="return event.charCode >= 48 && event.charCode <= 57"></span> &#61; ' + item.get('total') + ' грн</div>' +'<span class="item-remove"><a href="javascript:;" class="close simpleCart_remove">×</a></span></div>';
 					}, attr: 'custom' }
 					],
 

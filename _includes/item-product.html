@@ -12,9 +12,10 @@
 											<img class="item_thumb" src="{{ product.image }}" alt="{{ product.product-alt }}">
 											</a>
 										</span>
-										<a href="{{product.url}}">
+										<a href="{{product.url | replace:'.php','' }}">
 										<h3 class="item_name">{{product.product-name | truncate: 75}}</h3>
 										</a>
+										<span class="item_link d-none">{{product.url | replace:'.php','' }}</span>
 									</div>
 
 
@@ -55,7 +56,7 @@
 										</div>
 									</div>															
 									<div class="product-btn">	
-										<a class="detail" href="{{product.url}}">Подробнее</a>
+										<a class="detail" href="{{product.url | replace:'.php','' }}">Подробнее</a>
 
 										{% if product.has_availability == false %}								
 										<a href="#" class="btn btn-secondary disabled rounded-0" role="button" aria-disabled="true">Нет в наличии</a>

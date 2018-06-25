@@ -56,7 +56,7 @@
 				cartRate.text('Скидка 0%: 0 грн');
 			}
 
-			if (promCode == "burda" || promCode == "zak" || promCode == "koval" || promCode == "kolosov" || promCode=="kochergin" || promCode=="nechaev" || promCode=="past" || promCode=="dvorak" || promCode=="black" || promCode=="ira" || promCode=="dnipro" || promCode=="zorya" || promCode=="dynamo") {
+			if (promCode == "burda" || promCode == "zak" || promCode == "koval" || promCode == "kolosov" || promCode=="kochergin" || promCode=="nechaev" || promCode=="past" || promCode=="dvorak" || promCode=="black" || promCode=="ira" || promCode=="днепр" || promCode=="заря" || promCode=="шахта" || promCode=="динамо" || promCode=="zah") {
 				cartDiscount.text(Math.ceil(totalPrice * .9) + " грн"); /* скидка 10% */
 				var totalDiscount = totalPrice - Math.ceil(totalPrice * .9);
 				cartRate.text('Скидка 10%: ' + totalDiscount + ' грн');
@@ -132,12 +132,37 @@
 				$("#phone").val("");
 				$("#message").val("");
 				simpleCart.empty();
-				$("#checkout").html('<div class="text-center"><h1>Спасибо за заказ</h1><p>Ожидайте, Ваш заказ будет отправлен в ближайшее время.</p><p><a href="/">Перейти на главную</a></p></div>');
+				$("#checkout").html('<div class="text-center"><h1>Спасибо за заказ</h1><p>Ожидайте, мы с Вами свяжемся в течение часа.<br><span class="text-muted">Если по каким-то причинам мы не связались, что бывает крайне редко, то свяжитесь с нами сами: <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></p><p><a href="/">Перейти на главную</a></span></p></div>');
 			}).fail(function(){
-				alert("Ошибка");
+				alert("Ошибка, оформите заказ связавшись с нами: +380675680230");
 			});
 		});
 
 		// Форма заказа, приходит на почту END
+
+		// добавляет ссылку когда копируют START
+		function addLink() {
+        //Get the selected text and append the extra info
+        var selection = window.getSelection(),
+        pagelink = '<br /><br /> Подробнее: ' + document.location.href,
+        copytext = selection + pagelink,
+        newdiv = document.createElement('div');
+
+        //hide the newly created container
+        newdiv.style.position = 'absolute';
+        newdiv.style.left = '-99999px';
+
+        //insert the container, fill it with the extended text, and define the new selection
+        document.body.appendChild(newdiv);
+        newdiv.innerHTML = copytext;
+        selection.selectAllChildren(newdiv);
+
+        window.setTimeout(function () {
+        	document.body.removeChild(newdiv);
+        }, 100);
+      }
+
+      document.addEventListener('copy', addLink);
+		// добавляет ссылку когда копируют END
 
 	});

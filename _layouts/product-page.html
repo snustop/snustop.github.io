@@ -20,9 +20,9 @@
 						<div class="col-lg-9">
 							<div class="item-wrap-img">
 								<img class="item_thumb img-fluid" src="{{ page.image }}" alt="{{ page.product-alt }}">
-
 							</div>
 							<div class="stock mb-3">Наличие: <b>{{ page.availability-descr }}</b>
+									<span class="item_link d-none">{{page.url | replace:'.php','' }}</span>
 									<div class="d-flex align-items-center flex-cent" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
 										<?php
 										$filename = 'comments{{ page.url | replace:".php",".html" }}';
@@ -76,7 +76,6 @@
 										?>
 									</div>
 							</div>
-
 							<div itemprop="description">{{ content }}
 							</div>
 
