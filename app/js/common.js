@@ -158,6 +158,8 @@
 				$('#phone').val(phoneStorage);
 				$('#message').val(messageStorage);
 				$('#promo-code').val(promoCodeStorage);
+				
+				$('#discount-btn').click();
 			}	
 		// ЗАПОМИНАЕТ ДАННЫЕ телефон, сообщение и промо-код END
 
