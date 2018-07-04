@@ -123,6 +123,14 @@
 			var promCodeForm = $('#promo-code').val();
 			var cartTotalForm = $('#form-total').text();
 
+			// запишем в local storage START
+			phone = $('#phone').val();
+			message = $('#message').val();
+			localStorage.setItem('phone', phone);
+			localStorage.setItem('message', message);
+			localStorage.setItem('coupon', promCodeForm);
+			// запишем в local storage END
+
 			$.ajax({
 				url: "//formspree.io/snustop.com.ua@gmail.com", 
 				method: "POST",
@@ -139,6 +147,19 @@
 		});
 
 		// Форма заказа, приходит на почту END
+
+		// ЗАПОМИНАЕТ ДАННЫЕ телефон, сообщение и промо-код START
+		var phoneStorage, messageStorage, promoCodeStorage;
+		
+		if (localStorage.getItem('phone')!==null) {
+				phoneStorage = localStorage.getItem('phone');
+				messageStorage = localStorage.getItem('message');
+				promoCodeStorage = localStorage.getItem('coupon');
+				$('#phone').val(phoneStorage);
+				$('#message').val(messageStorage);
+				$('#promo-code').val(promoCodeStorage);
+			}	
+		// ЗАПОМИНАЕТ ДАННЫЕ телефон, сообщение и промо-код END
 
 		// добавляет ссылку когда копируют START
 		function addLink() {
