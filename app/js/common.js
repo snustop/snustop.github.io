@@ -115,17 +115,20 @@
 		});
 
 		// MAIL
+		var phone, message, promCodeForm, cartTotalForm;
 
 		formMail.submit(function(event) {
 
 			event.preventDefault();
 
-			var promCodeForm = $('#promo-code').val();
-			var cartTotalForm = $('#form-total').text();
+			$('#send-order').html('Ждите...<i class="loading"></i>');
 
-			// запишем в local storage START
 			phone = $('#phone').val();
 			message = $('#message').val();
+			promCodeForm = $('#promo-code').val();
+			cartTotalForm = $('#form-total').text();
+
+			// запишем в local storage START
 			localStorage.setItem('phone', phone);
 			localStorage.setItem('message', message);
 			localStorage.setItem('coupon', promCodeForm);
@@ -137,8 +140,6 @@
 				data: formMail.serialize() + "&coupon= " + promCodeForm + "&Итого= " + cartTotalForm,
 				dataType: "json"
 			}).done(function(){
-				$("#phone").val("");
-				$("#message").val("");
 				simpleCart.empty();
 				$("#checkout").html('<div class="text-center"><h1>Спасибо за заказ</h1><p>Ожидайте, мы с Вами свяжемся в течение часа.<br><span class="text-muted">Если по каким-то причинам мы не связались, что бывает крайне редко, то свяжитесь с нами сами: <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></p><p><a href="/">Перейти на главную</a></span></p></div>');
 			}).fail(function(){
