@@ -12,8 +12,8 @@ price: 190
 opt-price: 153
 new-price: 165
 image: "/img/products/odens-double-mint.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 ---
 
 Имеет явный мятный вкус. Очень хороший снюс. Очень похож на [odens cold dry](/odens-cold-dry), немного отличается вкусом.
