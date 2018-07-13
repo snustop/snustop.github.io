@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 220
 opt-price: 205
 image: "/img/products/copenhagen-southern.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 34
 nicotine: 14
 portions: Рассыпной
