@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry-russian
 date: 2017-12-22 06:30:00 Z
-position: 36
+position: 35
 title-seo: Снюс Odens Cold Dry Акциз 13 грамм
 descr: Жевательный табак Оденс колд драй 13 грамм, купить в Украине. Изготавливается
   специально для России.
