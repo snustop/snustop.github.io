@@ -13,7 +13,7 @@ brand: Other Brands
 composition: Порционный
 price: 240
 opt-price: 223
-image: "/img/products/skruf-super-white-slim-fresh-no3-strong.jpg"
+image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
 has_availability: true
 gramm: 17.3
 nicotine: 12-14
