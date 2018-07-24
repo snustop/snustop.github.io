@@ -11,7 +11,6 @@ product-alt: Рассыпной снюс со вкусом чернослива
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
-stock-list: Акция
 price: 220
 opt-price: 205
 image: "/img/products/prunes-loose.jpg"
