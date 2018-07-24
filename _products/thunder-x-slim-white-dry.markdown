@@ -8,8 +8,8 @@ product-name: Thunder X Slim White Dry
 product-alt: Thunder X Slim White Dry  Portion Snus
 strong: Очень крепкий
 brand: Thunder
-price: 160
-opt-price: 149
+price: 180
+opt-price: 167
 image: "/img/products/thunder-x-slim-white-dry.png"
 availability-descr: В наличии
 has_availability: true
