@@ -13,11 +13,10 @@ brand: Other Brands
 composition: Рассыпной
 stock-list: Акция
 price: 220
-opt-price: 186
-new-price: 200
+opt-price: 205
 image: "/img/products/prunes-loose.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 20
 portions: Рассыпной
