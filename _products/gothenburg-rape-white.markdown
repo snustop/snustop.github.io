@@ -3,7 +3,8 @@ title: gothenburg-rape-white
 date: 2018-03-05 12:31:00 Z
 position: 16
 title-seo: Göteborgs Rapé White Portion снюс купить в Украине
-descr: Шведский снюс Göteborgs Rapé White от Swedish Match. Легкий снюс с очень приятным табачным ароматом сопровождающими намеками на травы. Отправляем по Украине.
+descr: Шведский снюс Göteborgs Rapé White от Swedish Match. Легкий снюс с очень приятным
+  табачным ароматом сопровождающими намеками на травы. Отправляем по Украине.
 product-name: Göteborgs Rapé White Portion
 product-alt: Göteborgs Rapé White Portion Snus
 strong: Низкой крепости
