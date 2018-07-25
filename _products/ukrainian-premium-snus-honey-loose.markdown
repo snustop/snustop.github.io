@@ -3,8 +3,7 @@ title: ukrainian-premium-snus-honey-loose
 date: 2018-04-20 21:27:00 Z
 position: 33
 title-seo: Ukrainian Honey Loose Snus
-descr: Рассыпной премиум снюс высочайшего качества с приятным медовым вкусом. Никотиновая
-  крепость 20мг, в банке 50 грамм. Вязкий, не распадается во рту, минимальный потек.
+descr: Рассыпной премиум снюс высочайшего качества с приятным медовым вкусом. Никотиновая крепость 20мг, в банке 50 грамм. Вязкий, не распадается во рту, минимальный потек.
 product-name: Ukrainian Honey Loose Snus
 product-alt: Ukrainian Honey Loose Snus
 strong: Крепкий

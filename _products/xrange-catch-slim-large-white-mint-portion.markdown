@@ -3,9 +3,7 @@ title: xrange-catch-slim-large-white-mint-portion
 date: 2018-03-05 11:39:00 Z
 position: 45
 title-seo: XRANGE Catch climlarge white mint portion Snus купить в Украине
-descr: XRANGE Catch Slim Large White Mint Portion Snus имеет мягкий табачный вкус
-  с отчетливыми нотами мяты, а также намеками на эвкалипт и кедра. Снюс низкой крепости.
-  Отправляем по всей Украине.
+descr: XRANGE Catch Slim Large White Mint Portion Snus имеет мягкий табачный вкус с отчетливыми нотами мяты, а также намеками на эвкалипт и кедра. Снюс низкой крепости. Отправляем по всей Украине.
 product-name: XRANGE Catch Slim Large White Mint
 product-alt: XRANGE Catch climlarge white mint portion Snus
 strong: Низкой крепости

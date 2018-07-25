@@ -3,8 +3,7 @@ title: odens-cold
 date: 2018-06-17 09:38:00 Z
 position: 18
 title-seo: Oden's Cold Original Portion – легкий снюс
-descr: Oden's Cold – содержит 9мг никотина, 20 оригинальных пакетика. Подойдет любителям
-  некрепких табаков. Отправка по Украине.
+descr: Oden's Cold – содержит 9мг никотина, 20 оригинальных пакетика. Подойдет любителям некрепких табаков. Отправка по Украине.
 product-name: Oden's Cold Original Portion
 product-alt: Oden's Cold Original Portion Снюс
 strong: Низкой крепости

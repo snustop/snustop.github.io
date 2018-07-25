@@ -3,8 +3,7 @@ title: siberia-white
 date: 2017-11-20 11:16:00 Z
 position: 2
 title-seo: Siberia Extremely Strong White Dry купить в Украине
-descr: Купить снюс красная сибирь в Украине. Siberia White Dry - самый крепкий снюс
-  в мире. Содержит 42мг никотина!
+descr: Купить снюс красная сибирь в Украине. Siberia White Dry - самый крепкий снюс в мире. Содержит 42мг никотина!
 product-name: Siberia Extremely Strong White Dry
 product-alt: Siberia Extremely Strong White Dry
 strong: Очень крепкий

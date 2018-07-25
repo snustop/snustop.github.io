@@ -3,7 +3,7 @@ title: siberia-brown-slim
 date: 2017-11-20 16:27:00 Z
 position: 9
 title-seo: Siberia -80°C Slim Brown Portion Snus в Украине
-descr: Купить Siberia -80°C Slim Brown Portion в Украине
+descr: Коричневая сибирь слим - очень крепкая. 24 тонких пакетика. Немного слабее siberia white dry, но никотиновый удар более плавный и длится гораздо дольше.
 product-name: Siberia -80°C Slim Brown
 product-alt: Siberia -80°C Slim Brown Portion Snus
 strong: Очень крепкий

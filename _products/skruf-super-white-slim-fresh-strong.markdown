@@ -3,9 +3,7 @@ title: skruf-super-white-slim-fresh-strong
 date: 2018-07-16 10:20:00 Z
 position: 14
 title-seo: Skruf Super White Slim Fresh Strong No.3
-descr: Белый снюс как Epok, только не содержит табака. Вместо него используются другие
-  растительные волокна. Низкая крепость 12-14 мг/г. 24 пакетика в банке. Мятный вкус.  Пакетики
-  приятные и удобные.
+descr: Белый снюс как Epok, только не содержит табака. Вместо него используются другие растительные волокна. Низкая крепость 12-14 мг/г. 24 пакетика в банке. Мятный вкус.  Пакетики приятные и удобные.
 product-name: Skruf Super White Slim Fresh Strong No.3
 product-alt: Skruf Super White Slim Fresh Strong No.3
 strong: Низкой крепости

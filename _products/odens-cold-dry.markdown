@@ -3,8 +3,7 @@ title: odens-cold-dry
 date: 2017-11-20 10:56:00 Z
 position: 1
 title-seo: Odens Cold Extreme White Dry купить в Украине
-descr: Жевательный табак Odens Cold Extreme White Dry - очень крепкий. Великолепный
-  мятный вкус, приятные порции. Доставка по всей Украине.
+descr: Жевательный табак Odens Cold Extreme White Dry - очень крепкий. Великолепный мятный вкус, приятные порции. Доставка по всей Украине.
 product-name: Odens Cold Dry Extreme White Portion
 product-alt: Odens Cold Dry Extreme White Portion
 strong: Крепкий

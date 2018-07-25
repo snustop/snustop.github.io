@@ -3,8 +3,7 @@ title: thunder-x-white-dry
 date: 2017-11-20 12:54:00 Z
 position: 20
 title-seo: Thunder X White Dry Snus купить в Украине
-descr: Купить снюс Thunder X White Dry Portion. Очень крепкий табак, сравнив в siberia
-  white dry
+descr: Купить снюс Thunder X White Dry Portion. Очень крепкий табак, сравнив в siberia white dry
 product-name: Thunder X White Dry
 product-alt: Thunder X White Dry Portion Snus
 strong: Очень крепкий
