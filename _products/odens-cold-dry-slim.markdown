@@ -3,7 +3,8 @@ title: odens-cold-dry-slim
 date: 2017-11-20 18:28:00 Z
 position: 3
 title-seo: Odens Extreme Slim Cold White Dry Portion купить в Украине
-descr: 16 тонких пакетиков, довольно крепок, сравним с odens cold dry. Отправка по Украине.
+descr: 16 тонких пакетиков, довольно крепок, сравним с odens cold dry. Отправка по
+  Украине.
 product-name: Odens Extreme Slim Cold White Dry
 product-alt: Oden's Extreme Slim Cold White Dry Portion snus
 strong: Крепкий

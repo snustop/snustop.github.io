@@ -3,7 +3,8 @@ title: general-classic-loose
 date: 2017-11-20 14:10:00 Z
 position: 31
 title-seo: General Classic Loose Extra Strong - Рассыпной снюс | Купить в Украине
-descr: Рассыпной снюс General Classic Loose купить в Украине. Отправка Новой Почтой. Звоните 0675680230
+descr: Рассыпной снюс General Classic Loose купить в Украине. Отправка Новой Почтой.
+  Звоните 0675680230
 product-name: 'General Classic Loose Extra Strong '
 product-alt: General Classic Loose Extra Strong  Snus
 strong: Средней крепости
