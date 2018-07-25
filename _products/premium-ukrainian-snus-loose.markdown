@@ -15,8 +15,8 @@ price: 220
 opt-price: 186
 new-price: 200
 image: "/img/products/ukrainian-snus-loose.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 20
 portions: рассыпной
