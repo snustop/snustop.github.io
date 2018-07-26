@@ -10,10 +10,8 @@ product-alt: Премиум снюс от украинского произво�
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
-stock-list: Акция
 price: 220
-opt-price: 186
-new-price: 200
+opt-price: 205
 image: "/img/products/ukrainian-snus-loose.jpg"
 availability-descr: В наличии
 has_availability: true
