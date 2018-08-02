@@ -14,6 +14,8 @@ composition: Порционный
 price: 250
 opt-price: 232
 image: "/img/products/islay-whisky-snus.jpg"
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 12
 portions: 20
