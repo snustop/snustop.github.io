@@ -1,7 +1,7 @@
 ---
 title: odens-melon-extreme-portion-snus
 date: 2018-03-05 10:18:00 Z
-position: 9
+position: 8
 title-seo: Odens melon extreme portion snus купить в Украине
 descr: Снюс Odens melon extreme со вкусом медовой дыни, средняя крепость, порции влажные,
   очень приятный вкус. Высылаем по всей Украине.
