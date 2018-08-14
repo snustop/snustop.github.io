@@ -13,8 +13,8 @@ price: 190
 opt-price: 149
 new-price: 160
 image: "/img/products/odens-cold-dry-slim.png"
-availability-descr: Ожидается 10 августа
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 portions: 16
 ---
 
