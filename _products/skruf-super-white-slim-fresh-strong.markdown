@@ -14,7 +14,8 @@ composition: Порционный
 price: 200
 opt-price: 186
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 17.3
 nicotine: 12-14
 portions: 24
