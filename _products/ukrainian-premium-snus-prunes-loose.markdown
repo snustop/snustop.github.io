@@ -14,8 +14,8 @@ composition: Рассыпной
 price: 220
 opt-price: 205
 image: "/img/products/prunes-loose.jpg"
-availability-descr: 'Ожидается '
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 20
 portions: Рассыпной

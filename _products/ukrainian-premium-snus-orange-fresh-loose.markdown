@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 220
 opt-price: 205
 image: "/img/products/orange-loose.jpg"
-availability-descr: Ожидается 11 августа
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 28
 portions: Рассыпной
