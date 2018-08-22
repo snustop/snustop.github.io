@@ -11,8 +11,8 @@ strong: Очень крепкий
 brand: Siberia
 composition: Порционный
 price: 200
-opt-price: 172
-new-price: 185
+opt-price: 177
+new-price: 190
 image: "/img/products/siberia-white-dry.png"
 availability-descr: В наличии
 has_availability: true
