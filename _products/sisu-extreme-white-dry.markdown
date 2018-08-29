@@ -1,7 +1,7 @@
 ---
 title: sisu-extreme-white-dry
 date: 2018-04-08 07:15:00 Z
-position: 3
+position: 20
 title-seo: Sisu Extreme White Dry Snus в Украине
 descr: Sisu Extreme - Новый ультра сильный снюс с ароматом мяты и ментола, который
   обеспечивает интенсивный и продолжительный мятный вкус! Высокое содержание никотина
