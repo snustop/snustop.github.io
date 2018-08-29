@@ -7,7 +7,7 @@ descr: Рассыпной премиум снюс высочайшего кач�
   производителя snus.biz. Аромат и вкус очень приятный. Снюс довольно крепок.
 product-name: Ukrainian Orange Fresh Loose Snus
 product-alt: Ukrainian Orange Fresh Loose Snus | Snus.biz
-strong: Крепкий
+strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
 price: 220
