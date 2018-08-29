@@ -10,8 +10,8 @@ product-alt: General Classic Extra Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Порционный
-price: 215
-opt-price: 200
+price: 220
+opt-price: 205
 image: "/img/products/general-classic-extra-strong-portion.png"
 availability-descr: В наличии
 has_availability: true
