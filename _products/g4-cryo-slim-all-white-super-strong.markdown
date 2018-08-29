@@ -13,8 +13,8 @@ composition: Порционный
 price: 200
 opt-price: 186
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 19.2
 nicotine: 22
 portions: 24
