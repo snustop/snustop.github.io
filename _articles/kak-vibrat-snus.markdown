@@ -33,7 +33,7 @@ img: "/img/blog/kak-vibrat-snus/snus-choose.jpg"
 			<a href="/normal-strong"><img class="img-fluid" src="/img/products/more/gothenburg-snus.jpg" alt="Снюс средней крепости"></a>
 			<p>Иногда курите и хотите попробовать что-то некрепкое, то Вам подойдет <a href="/normal-strong">снюс средней крепости</a> и <a href="/low-strong">снюс низкой крепости</a>.</p>
 		</div>
-		<div class="col-lg-6 mb-3">
+		<div class="col-lg-6">
 			<h2 id="choose-lowstrong">Практически никогда не имели дело в табаком</h2>
 			<a href="/low-strong"><img class="img-fluid" src="/img/blog/kak-vibrat-snus/snus.jpg" alt="Снюс низкой крепости"></a>
 			<p>Если никогда не имели дело с табаком, то лучше и не начинайте. Снюс вызывает никотиновую зависимость. Если все-таки решитесь попробовать что-то, то обратите внимание на <a href="/low-strong">снюс низкой</a> или <a href="/normal-strong">средней крепости</a>.</p>
