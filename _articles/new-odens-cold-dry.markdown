@@ -1,6 +1,7 @@
 ---
 title: new odens cold dry
 date: 2017-11-25 10:28:00 Z
+position: 0
 title-seo: Новый odens cold dry
 descr: Odens cold dry в новой банке отличается крышечкой, и пакетики еще меньше текут.
   Вторяки с него почти сухие.
