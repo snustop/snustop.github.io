@@ -11,12 +11,12 @@ img: "/img/blog/kak-vibrat-snus/snus-choose.jpg"
 <section class="mb-4">
 	<h1 class="mb-4">Как выбрать снюс?</h1>
 	<span class="lead">Мы поделили людей на несколько категорий:</span>
-	<ol class="pl-3">
-		<li><a href="#choose-ultastrong" class="link-reviews">Используете насвай и Вам нужен самый сильный эффект</a></li>
-		<li><a href="#choose-strong" class="link-reviews">Очень много курите и пробовали другие табачные изделия</a></li>
-		<li><a href="#choose-normalstrong" class="link-reviews">Иногда курите</a></li>
-		<li><a href="#choose-lowstrong" class="link-reviews">Практически никогда не имели дело с табаком</a></li>
-	</ol>
+	<ul class="mb-2">
+		<li>1. <a href="#choose-ultastrong" class="link-reviews">Используете насвай и Вам нужен самый сильный эффект</a></li>
+		<li>2. <a href="#choose-strong" class="link-reviews">Очень много курите и пробовали другие табачные изделия</a></li>
+		<li>3. <a href="#choose-normalstrong" class="link-reviews">Иногда курите</a></li>
+		<li>4. <a href="#choose-lowstrong" class="link-reviews">Практически никогда не имели дело с табаком</a></li>
+	</ul>
 	<div class="row">
 		<div class="col-lg-6 mb-3">
 			<h2 id="choose-ultastrong">Используете насвай</h2>
