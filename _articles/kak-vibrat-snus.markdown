@@ -11,7 +11,7 @@ img: "/img/blog/kak-vibrat-snus/snus-choose.jpg"
 <section class="mb-4">
 	<h1 class="mb-4">Как выбрать снюс?</h1>
 	<span class="lead">Мы поделили людей на несколько категорий:</span>
-	<ol>
+	<ol class="pl-3">
 		<li><a href="#choose-ultastrong" class="link-reviews">Используете насвай и Вам нужен самый сильный эффект</a></li>
 		<li><a href="#choose-strong" class="link-reviews">Очень много курите и пробовали другие табачные изделия</a></li>
 		<li><a href="#choose-normalstrong" class="link-reviews">Иногда курите</a></li>
