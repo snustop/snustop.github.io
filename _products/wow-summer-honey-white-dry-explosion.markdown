@@ -11,12 +11,10 @@ product-alt: WOW! Summer Honey White Dry Explosion
 strong: Очень крепкий
 brand: Other Brands
 composition: Порционный
-stock-list: Акция
 price: 200
-opt-price: 163
-new-price: 175
+opt-price: 186
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: В наличии (Акция действует до конца августа)
+availability-descr: В наличии
 has_availability: true
 gramm: 15
 nicotine: 43
