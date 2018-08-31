@@ -16,7 +16,7 @@ availability-descr: В наличии
 has_availability: true
 gramm: 15
 nicotine: 8.5
-portions: 17
+portions: 20-21
 taste: Мед
 form: Порционный, влажный, белый
 ---
