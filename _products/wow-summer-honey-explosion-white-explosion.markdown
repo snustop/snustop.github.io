@@ -1,5 +1,5 @@
 ---
-title: wow-summer-honey-explosion-white-explosion
+title: wow-summer-honey-explosion-white
 date: 2018-09-01 21:59:00 Z
 position: 3
 title-seo: Wow Summer Honey Explosion White Explosion Snus
