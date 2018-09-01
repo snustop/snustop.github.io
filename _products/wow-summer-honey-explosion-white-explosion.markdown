@@ -23,3 +23,5 @@ form: Порционный, влажный
 
 Очень крепкий снюс wow, очень похож на своего брата [WOW! Summer Honey White Dry Explosion](/wow-summer-honey-white-dry-explosion), но без слова "Dry", что значит данный снюс более влажный, и соответственно никотиновый удар и вкус будут немного отличаться.<br>
 Рекомендуется любителям [очень крепких табаков](/ultra-strong).
+На фото видно отличия между банками.
+<img class="img-fluid" src="/img/products/more/snus-wow.jpg" alt="Snus Wow">
