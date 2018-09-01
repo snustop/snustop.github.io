@@ -12,7 +12,7 @@ strong: Очень крепкий
 brand: Other Brands
 composition: Порционный
 opt-price: 186
-image: "/img/products/wow-summer-honey-explosion-white-explosion.png"
+image: "/img/products/wow-summer-honey-explosion-white.png"
 availability-descr: В наличии
 has_availability: true
 gramm: 15
