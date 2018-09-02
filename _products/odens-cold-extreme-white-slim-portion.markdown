@@ -3,6 +3,8 @@ title: odens-cold-extreme-white-slim-portion
 date: 2018-09-02 10:01:00 Z
 position: 13
 title-seo: Oden’s Cold Extreme White Slim Portion Snus
+descr: Крепкий снюс, но слабее odens cold dry. Порции тонкие и влажные, 23 порции.
+  Крепость 22 мг никотина. Приятный мятный вкус. Пакетики White. Отправляем по Украине.
 product-name: Oden’s Cold Extreme White Slim Portion
 product-alt: Oden’s Cold Extreme White Slim Portion Snus
 strong: Крепкий
