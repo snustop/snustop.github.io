@@ -13,8 +13,8 @@ composition: Порционный
 price: 220
 opt-price: 205
 image: "/img/products/general-classic-extra-strong-portion.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 22
 nicotine: 14
 portions: 20
