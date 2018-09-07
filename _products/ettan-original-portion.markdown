@@ -9,8 +9,8 @@ product-name: Ettan Original Portion
 product-alt: Ettan Original Portion Snus
 strong: Низкой крепости
 brand: Swedish Match
-price: 180
-opt-price: 167
+price: 220
+opt-price: 205
 image: "/img/products/ettan-original-portion.png"
 availability-descr: В наличии
 has_availability: true
