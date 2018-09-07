@@ -7,7 +7,7 @@ descr: Снюс Ettan Original Portion - Это классический сню�
   и нотками черного шоколада.
 product-name: Ettan Original Portion
 product-alt: Ettan Original Portion Snus
-strong: Средней крепости
+strong: Низкой крепости
 brand: Swedish Match
 price: 180
 opt-price: 167
