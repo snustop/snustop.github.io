@@ -1,6 +1,7 @@
 ---
 title: black-line-ultra-strong-mint-slim-white
 date: 2018-09-07 20:03:00 Z
+position: 0
 title-seo: Black Line Ultra Strong Mint Slim White Snus
 descr: Очень крепкий снюс линейки Black Line от бренда Skruf. 24 порции, пакетики
   очень мягкие и удобно сидят под губой. Никотиновый удар на среднем уровне, 27 мг
