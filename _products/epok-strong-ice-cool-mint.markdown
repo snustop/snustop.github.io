@@ -12,7 +12,8 @@ brand: Epok
 composition: Порционный
 stock-list: Лучший выбор
 price: 260
-opt-price: 242
+opt-price: 200
+new-price: 215
 image: "/img/products/epok-mint-strong.png"
 availability-descr: В наличии
 has_availability: true
