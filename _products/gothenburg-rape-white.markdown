@@ -10,8 +10,8 @@ product-alt: Göteborgs Rapé White Portion Snus
 strong: Низкой крепости
 brand: Swedish Match
 composition: Порционный
-price: 230
-opt-price: 214
+price: 220
+opt-price: 205
 image: "/img/products/portion-white-rape-goteborgs.jpg"
 availability-descr: Нет в наличии
 has_availability: false
