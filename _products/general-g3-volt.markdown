@@ -13,7 +13,8 @@ brand: Swedish Match
 composition: Порционный
 stock-list: Лучший выбор
 price: 250
-opt-price: 233
+opt-price: 200
+new-price: 215
 image: "/img/products/general-volt.jpg"
 availability-descr: В наличии
 has_availability: true
