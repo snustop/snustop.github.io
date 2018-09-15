@@ -1,7 +1,7 @@
 ---
 title: g3-load-slim-white-dry-super-strong
 date: 2018-09-01 22:27:00 Z
-position: 29
+position: 28
 title-seo: G.3 Load Slim White Dry Super Strong Snus
 descr: Очень крепкий снюс. Порции тонкие и мягкие с содержанием влаги 27%, что обеспечивает
   минимальный потек. Вкус очень уникален. Лакрица не слишком подавляет намеки на какао,
