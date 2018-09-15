@@ -1,7 +1,7 @@
 ---
 title: wow-summer-honey-explosion-white
 date: 2018-09-01 21:59:00 Z
-position: 2
+position: 3
 title-seo: Wow Summer Honey Explosion White Explosion Snus
 descr: Мега-крепкий снюс WOW! Summer Honey White Explosion с приятным вкусом меда.
   Крепость 43 мг никотина, 15 грамм табака в банке, 16 порций.  Вкус и никотиновый
