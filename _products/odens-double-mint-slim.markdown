@@ -1,7 +1,7 @@
 ---
 title: odens-double-mint-slim
 date: 2017-11-20 14:17:00 Z
-position: 30
+position: 5
 title-seo: Odens Extreme Slim Double Mint White Dry купить в Украине
 descr: снюс Odens Extreme Slim Double Mint White Dry купить в Украине
 product-name: Odens Extreme Slim Double Mint White Dry
