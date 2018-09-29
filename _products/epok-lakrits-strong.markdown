@@ -12,8 +12,8 @@ price: 260
 opt-price: 200
 new-price: 215
 image: "/img/products/epok-lakrits-strong.png"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.8
 nicotine: 14
 portions: 24
