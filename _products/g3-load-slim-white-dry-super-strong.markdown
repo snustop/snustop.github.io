@@ -13,7 +13,8 @@ brand: Swedish Match
 price: 210
 opt-price: 195
 image: "/img/products/g3-load-slim-white-dry-super-strong.jpg"
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.6
 nicotine: 26
 portions: 24
