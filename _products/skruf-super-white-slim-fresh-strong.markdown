@@ -11,11 +11,11 @@ product-alt: Skruf Super White Slim Fresh Strong No.3
 strong: Низкой крепости
 brand: Other Brands
 composition: Порционный
-price: 200
-opt-price: 186
+price: 215
+opt-price: 200
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 17.3
 nicotine: 12-14
 portions: 24
