@@ -12,6 +12,7 @@ product-alt: Sisu Extreme White Dry Snus
 strong: Средней крепости
 brand: Other Brands
 composition: Порционный
+stock-list: Акция
 price: 160
 opt-price: 121
 new-price: 130
