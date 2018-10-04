@@ -14,7 +14,7 @@ price: 210
 opt-price: 195
 image: "/img/products/general-classic-extra-strong-portion.png"
 availability-descr: Ожидается
-has_availability: true
+has_availability: false
 gramm: 22
 nicotine: 14
 portions: 20
