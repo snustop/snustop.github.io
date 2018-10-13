@@ -1,7 +1,7 @@
 ---
 title: odens-extreme-cold
 date: 2018-06-17 09:26:00 Z
-position: 16
+position: 15
 title-seo: Oden’s Cold Extreme Original Portion | Снюс Киев
 descr: Снюс Oden’s Cold Extreme содержит 22мг никотина, 20 коричневых пакетика. Снюс
   средней крепости. Отправка по всей Украина.
