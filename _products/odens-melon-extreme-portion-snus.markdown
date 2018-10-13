@@ -13,8 +13,8 @@ composition: Порционный
 price: 185
 opt-price: 172
 image: "/img/products/odens-extreme-melon-portion.jpg"
-availability-descr: 10 октября будет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 18
 nicotine: 22
 portions: 16-20
