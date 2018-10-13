@@ -10,8 +10,8 @@ product-name: G.3 Load Slim White Dry Super Strong
 product-alt: G.3 Load Slim White Dry Super Strong Snus
 strong: Крепкий
 brand: Swedish Match
-price: 210
-opt-price: 195
+price: 215
+opt-price: 200
 image: "/img/products/g3-load-slim-white-dry-super-strong.jpg"
 availability-descr: В наличии
 has_availability: true
