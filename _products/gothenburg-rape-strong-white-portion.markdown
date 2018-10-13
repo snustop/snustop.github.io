@@ -10,8 +10,8 @@ product-name: Gothenburgs rape strong white
 product-alt: Gothenburgs rape strong white snus
 strong: Средней крепости
 brand: Swedish Match
-price: 220
-opt-price: 205
+price: 215
+opt-price: 200
 image: "/img/products/gothenburg-rape-strong-white-portion.jpg"
 availability-descr: В наличии
 has_availability: true
