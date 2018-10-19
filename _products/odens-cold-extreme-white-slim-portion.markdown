@@ -11,8 +11,8 @@ strong: Крепкий
 price: 195
 opt-price: 181
 image: "/img/products/odens-cold-slim-extreme-white.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 22
 portions: 23
