@@ -13,8 +13,8 @@ composition: Порционный
 price: 155
 opt-price: 144
 image: "/img/products/wow-sunny-honey.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 15
 nicotine: 8.5
 portions: 20-21
