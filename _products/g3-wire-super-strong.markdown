@@ -16,7 +16,8 @@ opt-price: 200
 image: "/img/products/g3-wire-super-strong.jpg"
 availability-descr: В наличии
 gramm: '16,6'
-portions: 26
+nicotine: 26
+portions: 24
 taste: Ягоды, табак, тропические фрукты
 form: Порционный, сухой, slim
 ---
