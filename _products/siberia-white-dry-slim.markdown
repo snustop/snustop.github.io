@@ -28,7 +28,7 @@ form: Порционный, сухой, slim
 Никотиновый удар очень сильный.<br>
 Пакетиков в банке больше, но они немного меньше.<br>
 Подойдет любителями чрезвычайно крепкого табака.
-<div>
+<div class="mb-3">
 <img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/siberia-snus-ukraine.jpg" alt="снюс красная сибирь слим">
 <img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/snus-siberia-white-dry-kiev.jpg" alt="Siberia -80°C Slim White Dry Snus">
 <img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg" alt="Снюс красная сибирь">
