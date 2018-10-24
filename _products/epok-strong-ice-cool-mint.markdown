@@ -30,7 +30,7 @@ form: Порционный, slim
 Этот снюс довольно крепкий, не обращайте внимания, что заявлено малое количество никотина, никотиновый удар сравним с [Odens Cold Dry](/odens-cold-dry), видимо из-за очень высокого качества табака.
 24 пакетика в банке, что почти в два раза больше чем у вышеупомянутого Оденса.
 Подойдет любителям крепких табаков.
-<div>
+<div class="mb-2">
 <img class="img-fluid" style="width:32%" src="/img/products/epok-ice-cool-mint/snustop-epok-ice-cool-mint.jpg" alt="снюс эпок Украина">
 <img class="img-fluid" style="width:32%" src="/img/products/epok-ice-cool-mint/snus-epok-ice-cool-mint-snustop.jpg" alt="Epok Strong Ice Cool Mint White Snus">
 <img class="img-fluid" style="width:32%" src="/img/products/epok-ice-cool-mint/snus-epok-ice-cool-mint-snustop.com.ua.jpg" alt="Snus Epok Strong Ice Cool Mint White">
