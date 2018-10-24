@@ -26,3 +26,8 @@ Siberia Extremely Strong White Dry(**красная сибирь**) считае
 Пакетики белые и сухие, имеют аромат мяты. 
 В Украине довольно-таки популярен. Подойдет тем, кто уже имел дело с табаком, новичкам не рекомендуется из-за сильного никотинового удара.<br>
 Так же есть [slim версия сибири](/siberia-white-dry-slim).
+<div>
+<img class="img-fluid" style="width:32%" src="img/siberia-snus-white-dry.jpg" alt="Siberia -80°C EXTREMELY Strong White Dry">
+<img class="img-fluid" style="width:32%" src="img/siberia-snus.jpg" alt="Снюс красная сибирь">
+<img class="img-fluid" style="width:32%" src="img/snus-siberia.jpg" alt="красная сибирь снюс">
+</div>
