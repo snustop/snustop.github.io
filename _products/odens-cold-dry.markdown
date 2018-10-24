@@ -24,7 +24,7 @@ basename: full
 Великолепный мятный вкус, нейтральный табачный аромат, очень сбалансированный табак. Минимальное выделение слюны(не течет). Аромат длится очень долго. Порции очень мягкие и приятные, хорошо сидит под губой.
 Если вам нравится сильный никотиновый удар, тогда обязательно попробуйте данный снюс.<br>
 Самый продаваемый на территории СНГ, многие именно с него и начинали )
-<div>
+<div class="mb-3">
 <img class="img-fluid" style="width:32%" src="/img/products/odens-cold-dry/snus-odens-cold-dry-kiev.jpg" alt="Снюс Оденс колд драй Киев">
 <img class="img-fluid" style="width:32%" src="/img/products/odens-cold-dry/snus-odens-cold-dry-odessa.jpg" alt="Оденс колд драй снюс Одесса">
 <img class="img-fluid" style="width:32%" src="/img/products/odens-cold-dry/snustop-odens-cd.jpg" alt="Odens Cold Extreme White Dry">
