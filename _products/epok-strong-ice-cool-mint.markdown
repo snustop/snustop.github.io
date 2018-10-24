@@ -36,7 +36,7 @@ form: Порционный, slim
 <img class="img-fluid" style="width:32%" src="img/epok-ice-cool-mint/snus-epok-ice-cool-mint-snustop.com.ua.jpg" alt="Snus Epok Strong Ice Cool Mint White">
 </div>
 
-<div>
+<div class="mb-2">
 <img class="img-fluid" style="width:32%" src="img/epok-ice-cool-mint/epok-dnipro.jpg" alt="Эпок снюс Днепр">
 <img class="img-fluid" style="width:32%" src="img/epok-ice-cool-mint/epok-kiev.jpg" alt="Snus epok Kiev">
 <img class="img-fluid" style="width:32%" src="img/epok-ice-cool-mint/epok-odessa.jpg" alt="Снюс эпок в Одессе">
