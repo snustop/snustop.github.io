@@ -11,11 +11,11 @@ product-alt: Thunder NRG White Dry Portion Snus
 strong: Очень крепкий
 brand: Thunder
 composition: Порционный
-price: 150
-opt-price: 140
+price: 165
+opt-price: 153
 image: "/img/products/thunder-nrg-white-dry.png"
-availability-descr: Ожидается 20 октября
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '11,7'
 nicotine: 45
 portions: 18
