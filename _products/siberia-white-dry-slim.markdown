@@ -12,8 +12,8 @@ brand: Siberia
 price: 200
 opt-price: 186
 image: "/img/products/siberia-white-dry-slim.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 7 ноября
+has_availability: false
 gramm: 13
 nicotine: 43
 portions: 21
