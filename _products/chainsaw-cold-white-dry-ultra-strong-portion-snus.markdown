@@ -10,7 +10,7 @@ strong: Крепкий
 brand: Other Brands
 price: 130
 opt-price: 121
-image: "/img/prodcts/chainsaw-cold-white-dry.jpg"
+image: "/img/products/chainsaw-cold-white-dry.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: '10,4'
