@@ -30,6 +30,6 @@ Thunder NRG - чрезвычайно крепкий, он содержит 45 м
 * никотиновый удар и аромат не такой длительный
 Подойдет любителям очень крепких табаков и любителям энергетических напитков.
 <div class="mb-3">
-<img class="img-fluid" style="width:32%" src="/img/products/thunder-nrg-original/snus-thunder-nrg.jpg" alt="Thunder NRG Snus">
-<img class="img-fluid" style="width:32%" src="/img/products/thunder-nrg-original/thunder-nrg-portion.jpg" alt="Тандер Снюс со вкусом энергетика влажный">
+<img class="img-fluid" style="width:49%" src="/img/products/thunder-nrg-original/snus-thunder-nrg.jpg" alt="Thunder NRG Snus">
+<img class="img-fluid" style="width:49%" src="/img/products/thunder-nrg-original/thunder-nrg-portion.jpg" alt="Тандер Снюс со вкусом энергетика влажный">
 </div>
