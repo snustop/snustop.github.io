@@ -15,8 +15,8 @@ price: 260
 opt-price: 200
 new-price: 215
 image: "/img/products/epok-mint-strong.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 7 ноября
+has_availability: false
 gramm: 16.8
 nicotine: 14
 portions: 24
