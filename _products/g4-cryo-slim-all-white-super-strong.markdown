@@ -1,7 +1,7 @@
 ---
 title: g4-cryo-slim-all-white-super-strong
 date: 2018-07-27 16:03:00 Z
-position: 8
+position: 7
 title-seo: G.4 CRYO Slim All White Super Strong — белый табак
 descr: Белый снюс, 24 пакетика, приятный мятный вкус. Крепость 22 мг никотина. Отправляем
   по всей Украине. Звоните 0675680230
