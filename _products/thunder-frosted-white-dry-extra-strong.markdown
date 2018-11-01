@@ -18,4 +18,4 @@ nicotine: 27
 portions: 18
 ---
 
-Довольно крепкий снюс, немного напоминает [Odens cold dry](/odens-cold-dry), но немного слабее.
+Довольно крепкий снюс, напоминает [Odens cold dry](/odens-cold-dry), но немного слабее.
