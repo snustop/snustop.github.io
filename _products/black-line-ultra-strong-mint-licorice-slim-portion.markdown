@@ -31,5 +31,5 @@ Skruf Black Line Ultra Strong сочетает в себе качественн�
 Подойдет любителям умеренно крепких табаков.
 <div class="mb-3">
 <img class="img-fluid" style="width:49%" src="/img/products/skruf-blackline/black-line-ultra-strong-mint-licorice-slim-portion-ukraine.jpg" alt="Snus Skruf Black Line Ukraine">
-<img class="img-fluid" style="width:49" src="/img/products/skruf-blackline/snus-blackline-skruf.jpg" alt="Снюс скраф Блек Лайн">
+<img class="img-fluid" style="width:49%" src="/img/products/skruf-blackline/snus-blackline-skruf.jpg" alt="Снюс скраф Блек Лайн">
 </div>
