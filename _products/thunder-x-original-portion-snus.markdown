@@ -20,14 +20,14 @@ form: Порционный, влажный
 
 Thunder X Original Portion - очень крепкий, содержит 45 мг никотина.<br>
 Вкус табачный с нотками мяты.<br>
-Основные отличия от [Thunder X White Dry](/thunder-x-white-dry)<br>
+Основные отличия от [Thunder X White Dry](/thunder-x-white-dry)<br><br>
 **Преимущества**:<br>
 - *больше порций 22 против 17*<br>
 - *быстрый никотиновый удар и вкус*<br><br>
-Недостатки:<br>
+  **Недостатки**:<br>
 - *пакеты могут течь*<br>
-- *никотиновый удар не такой долгий как у сухих порций*<br>
-<div class="mb-3">
-<img class="img-fluid" style="width:49%" src="/img/products/thunder-x-original/thunder-snus-original-portion.jpg" alt="Thunder X original portion snus">
-<img class="img-fluid" style="width:49%" src="/img/products/thunder-x-original/thunder-x-snus-original-portion.jpg" alt="Тандер Х снюс">
-</div>
+- *никотиновый удар не такой долгий как у сухих порций*<br><br>
+  <div class="mb-3">
+  <img class="img-fluid" style="width:49%" src="/img/products/thunder-x-original/thunder-snus-original-portion.jpg" alt="Thunder X original portion snus">
+  <img class="img-fluid" style="width:49%" src="/img/products/thunder-x-original/thunder-x-snus-original-portion.jpg" alt="Тандер Х снюс">
+  </div>
