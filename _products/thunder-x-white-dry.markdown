@@ -12,8 +12,8 @@ brand: Thunder
 price: 170
 opt-price: 158
 image: "/img/products/thunder-x-white-dry.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 11.7
 nicotine: 45
 portions: 18
