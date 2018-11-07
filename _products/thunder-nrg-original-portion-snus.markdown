@@ -12,7 +12,8 @@ brand: Thunder
 price: 165
 opt-price: 153
 image: "/img/products/thunder-nrg-portion.jpg"
-availability-descr: В наличии
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,8'
 nicotine: 45
 portions: 22
