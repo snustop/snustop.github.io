@@ -9,8 +9,8 @@ product-alt: Siberia Brown Portion Snus
 strong: Очень крепкий
 brand: Siberia
 composition: Порционный
-price: 210
-opt-price: 195
+price: 200
+opt-price: 186
 image: "/img/products/siberia-brown.jpg"
 availability-descr: Под заказ
 has_availability: false
