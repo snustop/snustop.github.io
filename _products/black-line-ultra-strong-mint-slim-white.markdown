@@ -14,8 +14,8 @@ composition: Порционный
 price: 225
 opt-price: 209
 image: "/img/products/black-line-ultra-strong-mint-slim-white.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 16.8
 nicotine: 27
 portions: 24
