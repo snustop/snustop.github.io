@@ -25,9 +25,20 @@
 		});
 	// arrow to top END
 
+		// Трясти корзину при добавлении товара (при нажатии на кнопку добавить в корзину) START
+		var btnAddCart = $('.btn-cart');
+		var cartShake = $('.cart');
+
+		btnAddCart.on('click', function() {
+			cartShake.addClass('cart-move');
+			cartShake.one('webkitAnimationEnd oanimationend msAnimationEnd animationend',
+				function(e) {
+					cartShake.removeClass('cart-move');
+				});
+		});
+		// Трясти корзину при добавлении товара (при нажатии на кнопку добавить в корзину) END
 
 		// DISCOUNT START
-
 		$('#discount-btn').on('click', function() { /* при клике на кнопку ПРИМЕНИТЬ КУПОН вызывается ф-ция */
 			addDiscount();
 		});
@@ -65,6 +76,27 @@
 		};
 		// DISCOUNT END
 
+		// MAGNIFIC POPUP на главной section instagram START
+		$('.popup-gallery').magnificPopup({
+			delegate: 'a',
+			type: 'image',
+			tLoading: 'Loading image #%curr%...',
+			mainClass: 'mfp-img-mobile',
+			fixedContentPos: false,
+			gallery: {
+				enabled: true,
+				navigateByImgClick: true,
+			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+		},
+		image: {
+			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+			titleSrc: function(item) {
+				return item.el.attr('title') + '<small>by Instagram <a href="//www.instagram.com/snustop.com.ua/" target="_blank" title="instagram"><i class="icon-instagram"></i>snustop.com.ua</a></small>';
+			}
+		}
+		});
+		// MAGNIFIC POPUP на главной section instagram END
+
 
 		// плавный скролл к комментариям START
 		$('.link-reviews').click(function(){  
@@ -77,7 +109,6 @@
 
 
 		// Форма заказа, приходит на почту START
-
 		var formMail = $('#contact-form');
 
 		function updateForm()  {
@@ -101,17 +132,7 @@
 		updateForm();
 
 		simpleCart.bind( 'update' , function(){
-
 			updateForm();
-
-			var btnAddCart = $('.btn-cart');
-			var cartShake = $('.cart');
-			cartShake.addClass('cart-move');
-			cartShake.one('webkitAnimationEnd oanimationend msAnimationEnd animationend',
-				function(e) {
-					cartShake.removeClass('cart-move');
-				});
-
 		});
 
 		// MAIL
@@ -146,22 +167,21 @@
 				alert("Ошибка, оформите заказ связавшись с нами: +380675680230");
 			});
 		});
-
 		// Форма заказа, приходит на почту END
 
 		// ЗАПОМИНАЕТ ДАННЫЕ телефон, сообщение и промо-код START
 		var phoneStorage, messageStorage, promoCodeStorage;
 		
 		if (localStorage.getItem('phone')!==null) {
-				phoneStorage = localStorage.getItem('phone');
-				messageStorage = localStorage.getItem('message');
-				promoCodeStorage = localStorage.getItem('coupon');
-				$('#phone').val(phoneStorage);
-				$('#message').val(messageStorage);
-				$('#promo-code').val(promoCodeStorage);
-				
-				$('#discount-btn').click();
-			}	
+			phoneStorage = localStorage.getItem('phone');
+			messageStorage = localStorage.getItem('message');
+			promoCodeStorage = localStorage.getItem('coupon');
+			$('#phone').val(phoneStorage);
+			$('#message').val(messageStorage);
+			$('#promo-code').val(promoCodeStorage);
+
+			$('#discount-btn').click();
+		}	
 		// ЗАПОМИНАЕТ ДАННЫЕ телефон, сообщение и промо-код END
 
 		// добавляет ссылку когда копируют START
