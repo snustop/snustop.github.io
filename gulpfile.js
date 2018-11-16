@@ -30,6 +30,7 @@ gulp.task('js', ['common-js'], function() {
 		'app/libs/jquery/jquery-3.2.1.min.js',
 		'app/libs/bootstrap/bootstrap.bundle.js',
 		'app/libs/simpleCartJs/simpleCart.js',
+		'app/libs/magnific/jquery.magnific-popup.min.js',
 		'app/js/common.min.js', // Всегда в конце
 		])
 	.pipe(concat('scripts.min.js'))
@@ -57,6 +58,7 @@ gulp.task('sass', function() {
 	.pipe(rename({suffix: '.min', prefix : ''}))
 	.pipe(autoprefixer(['last 15 versions']))
 	.pipe(cleanCSS()) // Опционально, закомментировать при отладке
+	.pipe(gulp.dest('_site/css/'))
 	.pipe(gulp.dest('css/'))
 	.pipe(browserSync.reload({stream: true}));
 });
@@ -64,9 +66,7 @@ gulp.task('sass', function() {
 gulp.task('watch', ['sass', 'js', 'browser-sync'], function() {
 	gulp.watch('app/sass/**/*.sass', ['sass']);
 	gulp.watch(['libs/**/*.js', 'app/js/common.js'], ['js']);
-	
-	// временно удалил автообновление
-	// gulp.watch('_site/*.html', browserSync.reload);
+	gulp.watch('_site/*.html', browserSync.reload);
 });
 
 gulp.task('imagemin', function() {
