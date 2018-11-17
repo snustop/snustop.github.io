@@ -11,8 +11,8 @@ product-alt: Black Line Ultra Strong Mint Slim White Snus
 strong: Крепкий
 brand: Other Brands
 composition: Порционный
-price: 225
-opt-price: 209
+price: 220
+opt-price: 205
 image: "/img/products/black-line-ultra-strong-mint-slim-white.jpg"
 availability-descr: В наличии
 has_availability: true
