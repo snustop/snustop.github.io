@@ -11,7 +11,7 @@ brand: Thunder
 price: 170
 opt-price: 158
 image: "/img/products/thunder-x-original-portion-snus.png"
-availability-descr: Ожидается
+availability-descr: В наличии
 has_availability: false
 gramm: '19,8'
 nicotine: 45
