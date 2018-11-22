@@ -3,7 +3,9 @@ title: epok-lime-strong
 date: 2017-11-20 18:05:00 Z
 position: 42
 title-seo: Epok Strong Lime White Snus купить в Украине
-descr: Снюс Epok Strong Lime White купить в Украине
+descr: Snus Epok Lime Strong  - белый снюс с великолепным вкусом лайма. 24 белый пакетика,
+  по крепости довольно крепок, хоть и заявленно малое количество никотина. Снюс эпок
+  не оставляет следов на зубах.
 product-name: Epok Strong Lime White
 product-alt: Epok Strong Lime White Snus
 strong: Крепкий
@@ -12,8 +14,8 @@ price: 260
 opt-price: 200
 new-price: 215
 image: "/img/products/epok-lime-strong.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.8
 nicotine: 1.4
 portions: 24
@@ -21,5 +23,6 @@ taste: Лайм
 form: Порционный, белый, slim
 ---
 
-Снюс epok lime strong - очень крепкий, но менее крепок чем Epok **Ice Cool mint strong** и **Epok Strong Licorice**, но зато эпок лайм - долгоиграющий, идеально подойдет для длительных поездок.<br>
-Вкус очень приятный, аромат тоже.
+Снюс epok lime strong - очень крепкий, но менее крепок чем Epok **[Ice Cool mint strong](/epok-strong-ice-cool-mint)** и **[Epok Strong Licorice](/epok-lakrits-strong)**, но зато эпок лайм - долгоиграющий, идеально подойдет для длительных поездок.<br>
+Вкус и запах просто божественный. Идеально подойдет тем кто любит снюс мятный эпок, но хочет какого-нибудь разнообразия.<br><br>
+Snus Epok Lime Strong - белый снюс с великолепным вкусом лайма. Используется белый табак - Это все тот же классический коричневый табак, который проходит высокую степень очистки и в результате чего сводятся к минимуму нежелательные вещества, такие как тяжелые металлы и нитрозамины. Пакетики тонкие и длинные, которые очень удобно укладываются под губу и практически не текут. Материал пакетиков очень мягкий и приятен. Снюс эпок не оставляет следов на зубах, что является большим плюсом.
