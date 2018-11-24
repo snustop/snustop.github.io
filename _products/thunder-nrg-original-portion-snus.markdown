@@ -1,7 +1,7 @@
 ---
 title: Thunder NRG Original Portion Snus
 date: 2018-11-01 21:13:00 Z
-position: 18
+position: 20
 title-seo: Thunder NRG Original Portion Snus
 descr: Thunder NRG - чрезвычайно крепкий, он содержит 45 мг никотина. 22 порции. Вкус
   очень интересный, энергетического напитка и на заднем плане вкус табака.
