@@ -1,7 +1,7 @@
 ---
 title: g3-tnt-slim-white-dry-super-strong
 date: 2018-10-21 09:30:00 Z
-position: 20
+position: 19
 title-seo: G.3 T.N.T Slim White Dry Super Strong Snus
 descr: Снюс General линейки G.3 - очень крепкий, 24 slim white dry пакетика, крепость
   26 мг никотина, по ощущениям сравнимо с odens cold dry. Классический табачный вкус.
