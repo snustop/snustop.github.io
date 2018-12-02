@@ -22,8 +22,9 @@ nicotine: 14
 portions: 24
 taste: Очень приятная мята
 form: Порционный, slim
-similar-product_body: "<div>\n\t\t<a href=\"/epok-lime-strong\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/epok-lime-strong/snus-epok-lime-strong.jpg\"
+similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
+  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/epok-lime-strong\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/epok-lime-strong/snus-epok-lime-strong.jpg\"
   alt=\"Epok Lime Slim Ultra White Snus\"></a>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
   FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
