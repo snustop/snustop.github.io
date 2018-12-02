@@ -22,21 +22,13 @@ nicotine: 14
 portions: 24
 taste: Очень приятная мята
 form: Порционный, slim
-similar-product_body: "<div class=\"row\">\n\t<article class=\"col-md-4\">\n\t\t<h3>Epok
-  Lime Strong</h3>\n\t\t<p>Тоже белый как эпок, содержит 14 мг никотина, но ощущается
-  немного слабее, но более длительный, приятный вкус лайма.</p>\n\t\t<a href=\"/epok-lime-strong\"><img
-  src=\"/img/products/epok-lime-strong/snus-epok-lime-strong.jpg\" alt=\"Epok Lime
-  Slim Ultra White Snus\"></a>\n\t\t<a href=\"/epok-lime-strong\" role=\"button\"
-  class=\"btn btn-primary\">Подробнее</a>\n\t</article>\n\t<article class=\"col-md-4\">\n\t\t<h3>General
-  G.4 Apple</h3>\n\t\t<p>Заялвенно 19 мг никотина, по крепости сравним с эпоком, приятный
-  яблочный вкус, порции белые.</p>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  src=\"/img/inst/snustop-1.jpg\" alt=\"G.4 FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a
-  href=\"/general-g4-slim-apple-white\" role=\"button\" class=\"btn btn-primary\">Подробнее</a>\n\t</article>\n\t<article
-  class=\"col-md-4\">\n\t\t<h3>G.4 CRYO Slim All White</h3>\n\t\t<p>Белые порции,
-  подойдет для разнообразия. Кому-то он заходит лучше эпока, кому-то хуже.</p>\n\t\t<a
-  href=\"/g4-cryo-slim-all-white-super-strong\"><img src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"
-  role=\"button\" class=\"btn btn-primary\">Подробнее</a>\n\t</article>\n</div>"
+similar-product_body: "<div>\n\t\t<a href=\"/epok-lime-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/epok-lime-strong/snus-epok-lime-strong.jpg\"
+  alt=\"Epok Lime Slim Ultra White Snus\"></a>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
+  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
+  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
 ---
 
 **Снюс Эпок** – первый в мире снюс, который использует белый табак.
