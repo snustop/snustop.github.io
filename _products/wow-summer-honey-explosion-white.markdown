@@ -13,8 +13,8 @@ brand: Other Brands
 composition: Порционный
 opt-price: 186
 image: "/img/products/wow-summer-honey-explosion-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 15
 nicotine: 43
 portions: 13-15
