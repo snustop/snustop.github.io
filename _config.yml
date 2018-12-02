@@ -53,6 +53,7 @@ defaults:
     taste: Мята
     form: Порционный, сухой
     composition-product: Табак, вода, соль, пищевой ароматизатор
+    similar-product_body: 
 - scope:
     path: ''
     type: articles
