@@ -15,8 +15,8 @@ price: 225
 opt-price: 191
 new-price: 205
 image: "/img/products/black-line-ultra-strong-mint-licorice-slim-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '21,6'
 nicotine: 27
 portions: 24
