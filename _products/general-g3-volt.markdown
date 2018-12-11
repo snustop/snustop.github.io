@@ -16,7 +16,7 @@ price: 250
 opt-price: 200
 new-price: 215
 image: "/img/products/general-volt.jpg"
-availability-descr: Ожидается (наверное уже в 2019)
+availability-descr: Ожидается (уже в 2019)
 has_availability: false
 gramm: 16.6
 nicotine: 26
