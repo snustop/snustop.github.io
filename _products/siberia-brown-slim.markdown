@@ -12,7 +12,7 @@ brand: Siberia
 price: 220
 opt-price: 205
 image: "/img/products/siberia-brown-slim.jpg"
-availability-descr: Ожидается (наверное уже в 2019)
+availability-descr: Ожидается (уже в 2019)
 has_availability: false
 gramm: 20
 nicotine: 43
