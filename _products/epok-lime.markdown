@@ -14,8 +14,8 @@ composition: Порционный
 price: 160
 opt-price: 149
 image: "/img/products/epok-lime-vit-tobak-snus.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '16,8'
 nicotine: 8
 portions: 24
