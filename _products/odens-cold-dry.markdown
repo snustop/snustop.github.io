@@ -11,9 +11,8 @@ strong: Крепкий
 brand: Odens
 composition: Порционный
 stock-list: Акция
-price: 175
-opt-price: 149
-new-price: 160
+price: 165
+opt-price: 153
 availability-descr: В наличии
 has_availability: true
 basename: full
