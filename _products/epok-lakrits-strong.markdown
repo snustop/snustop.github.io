@@ -8,9 +8,8 @@ product-name: Epok Strong Licorice White
 product-alt: Epok Strong Licorice White Snus
 strong: Крепкий
 brand: Epok
-price: 260
+price: 215
 opt-price: 200
-new-price: 215
 image: "/img/products/epok-lakrits-strong.png"
 availability-descr: Ожидается
 has_availability: false
