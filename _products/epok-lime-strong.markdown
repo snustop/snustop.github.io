@@ -10,9 +10,8 @@ product-name: Epok Strong Lime White
 product-alt: Epok Strong Lime White Snus
 strong: Крепкий
 brand: Epok
-price: 260
+price: 215
 opt-price: 200
-new-price: 215
 image: "/img/products/epok-lime-strong.png"
 availability-descr: В наличии
 has_availability: true
