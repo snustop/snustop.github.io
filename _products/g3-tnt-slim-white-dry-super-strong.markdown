@@ -1,7 +1,7 @@
 ---
 title: g3-tnt-slim-white-dry-super-strong
 date: 2018-10-21 09:30:00 Z
-position: 16
+position: 43
 title-seo: G.3 T.N.T Slim White Dry Super Strong Snus
 descr: Снюс General линейки G.3 - очень крепкий, 24 slim white dry пакетика, крепость
   26 мг никотина, по ощущениям сравнимо с odens cold dry. Классический табачный вкус.
@@ -13,7 +13,8 @@ brand: Swedish Match
 price: 215
 opt-price: 200
 image: "/img/products/g3-tnt-slim-white-dry-super-strong.jpg"
-availability-descr: В наличии
+availability-descr: Под заказ
+has_availability: false
 gramm: '16,6'
 nicotine: 26
 portions: 24
