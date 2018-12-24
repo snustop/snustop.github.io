@@ -16,7 +16,7 @@ img: "/img/blog/odessa/snus-odessa.jpg"
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Одесса</strong>
-			<p>К сожалению временно в Одессе никого нет, но мы можем отправить "Новой Почтой" и на следующий день снюс будет у Вас.<a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> для уточнения информации. Для нас самый удобный способ связи - <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snustop</a></p>
+			<p>К сожалению временно в Одессе никого нет, но мы можем отправить "Новой Почтой" и на следующий день снюс будет у Вас. <a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> для уточнения информации. Для нас самый удобный способ связи - <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snustop</a></p>
 		</div>
 	</div>
 </section>
