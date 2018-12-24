@@ -1,6 +1,6 @@
 ---
 title: Snus Dnepr
-position: 5
+position: 4
 title-seo: Снюс Днепр
 descr: Купить снюс в Днепре, Мост-Сити. В наличии siberia, odens, epok, thunder, general
   и другие.
