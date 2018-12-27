@@ -12,12 +12,11 @@ strong: Крепкий
 brand: Swedish Match
 composition: Порционный
 stock-list: Лучший выбор
-price: 250
+price: 215
 opt-price: 200
-new-price: 215
 image: "/img/products/general-volt.jpg"
-availability-descr: Ожидается (уже в 2019)
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.6
 nicotine: 26
 portions: 24
