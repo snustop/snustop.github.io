@@ -12,7 +12,8 @@ strong: Крепкий
 price: 180
 opt-price: 167
 image: "/img/products/odens-original-extreme-portion-snus.jpg"
-availability-descr: В наличии
+availability-descr: Ожидается
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 18-20
