@@ -11,8 +11,8 @@ brand: Thunder
 price: 170
 opt-price: 158
 image: "/img/products/thunder-frosted-white-dry-extra-strong.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 11.7
 nicotine: 27
 portions: 18
