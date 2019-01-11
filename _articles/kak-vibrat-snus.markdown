@@ -40,3 +40,22 @@ img: "/img/blog/kak-vibrat-snus/snus-choose.jpg"
 		</div>
 	</div>
 </section>
+
+<section class="mb-4">
+	<h2>Каталог снюса</h2>
+	<div class="row">
+		<!-- PRODUCTS start -->
+		<!-- PRODUCT START -->
+		{% assign sorted_items = site.products | sort:"position" %}
+		{% for product in sorted_items offset:0 limit:6 %}
+		
+		{% include item-product.html %}
+
+		{% endfor %}
+		<!-- PRODUCT END -->
+		<!-- PRODUCTS end -->
+	</div>
+	<div>
+		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
+	</div>
+</section>
