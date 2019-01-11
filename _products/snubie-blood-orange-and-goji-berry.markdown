@@ -13,7 +13,7 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/Snubie-Blood-Orange-Goji-Berry.png"
-availability-descr: Под заказа
+availability-descr: Под заказ
 has_availability: false
 gramm: 50
 portions: loose
