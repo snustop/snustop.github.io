@@ -13,7 +13,8 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/Snubie-Blood-Orange-Goji-Berry.png"
-availability-descr: В наличии
+availability-descr: Под заказа
+has_availability: false
 gramm: 50
 portions: loose
 taste: Апельсиновый с нотками табака и ягодами годжи
