@@ -8,7 +8,7 @@ descr: Snus Epok Lime Strong  - белый снюс с великолепным 
   не оставляет следов на зубах.
 product-name: Epok Strong Lime White
 product-alt: Epok Strong Lime White Snus
-strong: Крепкий
+strong: Средней крепости
 brand: Epok
 price: 215
 opt-price: 200
