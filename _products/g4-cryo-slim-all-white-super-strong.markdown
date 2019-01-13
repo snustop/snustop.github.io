@@ -7,7 +7,7 @@ descr: Белый снюс, 24 пакетика, приятный мятный �
   по всей Украине. Звоните 0675680230
 product-name: G.4 CRYO Slim All White Super Strong
 product-alt: G.4 CRYO Slim All White Super Strong
-strong: Средней крепости
+strong: Крепкий
 brand: Swedish Match
 composition: Порционный
 price: 215
