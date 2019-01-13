@@ -7,7 +7,7 @@ descr: Белый снюс General G.4, приятный яблочный вку
   содержащий белый табак. Крепость 19 мг никотина.
 product-name: G4 Apple Mint Slim All White
 product-alt: G.4 FU:ZN Slim All White Extra Strong Portion
-strong: Средней крепости
+strong: Крепкий
 brand: Swedish Match
 composition: Порционный
 price: 215
