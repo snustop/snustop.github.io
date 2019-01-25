@@ -8,7 +8,7 @@ img: "/img/blog/snus-airport/snus-airport.jpg"
 ---
 
 <h1>Можно ли перевозить снюс в самолете?</h1>
-<p class="clearfix"><img class="float-left" style="width: 100%; max-width: 500px; min-width: 200px; margin-right: 10px" src="/img/blog/snus-airport/snus-airport.jpg" alt="Снюс в самолете">Многие задаются вопросами: <strong>Можно ли брать снюс в самолет?</strong>, <strong>Не заберут ли снюс на границе?</strong>, <strong>сколько банок снюса можно брать в самолет?</strong>
+<p class="clearfix"><img class="float-left mb-2" style="width: 100%; max-width: 500px; min-width: 200px; margin-right: 10px" src="/img/blog/snus-airport/snus-airport.jpg" alt="Снюс в самолете">Многие задаются вопросами: <strong>Можно ли брать снюс в самолет?</strong>, <strong>Не заберут ли снюс на границе?</strong>, <strong>сколько банок снюса можно брать в самолет?</strong>
 <br>
 <br>
 Карткий ответ: <i>берите не больше 10 банок</i><br><br>
