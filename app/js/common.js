@@ -156,7 +156,7 @@
 			// запишем в local storage END
 
 			$.ajax({
-				url: "//formspree.io/snustop.com.ua@gmail.com", 
+				url: "https://formspree.io/snustop.com.ua@gmail.com", 
 				method: "POST",
 				data: formMail.serialize() + "&coupon= " + promCodeForm + "&Итого= " + cartTotalForm,
 				dataType: "json"
