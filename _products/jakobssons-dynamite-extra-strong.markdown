@@ -18,7 +18,6 @@ nicotine: 18
 portions: 20
 taste: Бергамот, травы, табак
 form: Порционный, влажный
-published: false
 
 ---
 Jakobsson's Dynamite Extra Strong - мощный снюс с четко выраженным вкусом бергамота.
