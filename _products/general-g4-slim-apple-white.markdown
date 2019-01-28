@@ -13,8 +13,8 @@ composition: Порционный
 price: 215
 opt-price: 200
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 31 января
+has_availability: false
 gramm: 19.2
 nicotine: 19
 portions: 24
