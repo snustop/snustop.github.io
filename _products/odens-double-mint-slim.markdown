@@ -13,8 +13,8 @@ price: 180
 opt-price: 154
 new-price: 165
 image: "/img/products/odens-double-mint-slim.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 portions: 16
 ---
 
