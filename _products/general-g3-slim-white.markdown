@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 200
 opt-price: 186
 image: "/img/products/general-G3-slim-white.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 18
 portions: 24
