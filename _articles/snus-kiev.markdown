@@ -15,7 +15,12 @@ img: "/img/blog/kiev/snus-kiev.jpg"
 			<img class="img-fluid" src="/img/blog/kiev/snus-kiev.jpg" alt="Снюс Киев">
 		</div>
 		<div class="col-md-5">
-			<strong>Купить снюс в Киеве</strong>
+			<strong>Купить снюс в Киеве</strong>, есть три варианта доставки по Киеву:
+			<ul>
+				<li>1. Самовывоз (уточняйте)</li>
+				<li>2. Отправить курьером по городу (быстрая доставка)</li>
+				<li>3. Отправить Новой Почтой (самый оптимальный способ, экономится время, доставка по городу 30 грн. Если до 12 часов отправить, то в тот же день будет у Вас на отделении.</li>
+			</ul>
 			<p><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> для уточнения информации. Для нас самый удобный способ связи - <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snustop</a></p>
 		</div>
 	</div>
