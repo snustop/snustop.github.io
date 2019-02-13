@@ -15,7 +15,11 @@ img: "/img/blog/odessa/snus-odessa.jpg"
 			<img class="img-fluid" src="/img/blog/odessa/snus-odessa.jpg" alt="Снюс Одесса">
 		</div>
 		<div class="col-md-5">
-			<strong>Купить снюс в Одессе</strong>
+			<strong>Купить снюс в Одессе</strong>, есть три варианта доставки по Одессе:
+			<ul>
+				<li>1. Самовывоз (уточняйте, редко доступен)</li>
+				<li>2. Отправить Новой Почтой (самый оптимальный способ, экономится время, но придет на следующий день на Ваше отделение.</li>
+			</ul>
 			<p><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> для уточнения информации. Для нас самый удобный способ связи - <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snustop</a></p>
 		</div>
 	</div>
