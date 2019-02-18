@@ -1,7 +1,7 @@
 ---
 title: gothenburg-rape-strong-white-portion
 date: 2017-11-20 20:35:00 Z
-position: 33
+position: 32
 title-seo: Gothenburgs rape strong white portion купить в Украине
 descr: Шведский снюс Gothenburgs Rape Strong White от Swedish Match. Снюс средней
   крепости, очень приятный табачный аромат сопровождающими намеками на травы. Отправляем
