@@ -12,8 +12,8 @@ brand: Siberia
 price: 215
 opt-price: 200
 image: "/img/products/siberia-brown-slim.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 22 февраля
+has_availability: false
 gramm: 20
 nicotine: 43
 portions: 24
