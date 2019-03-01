@@ -16,8 +16,8 @@ opt-price: 214
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
-gramm: 16,8 г
-nicotine: 14 мг/г
+gramm: '16,8'
+nicotine: 14
 portions: 24
 taste: Приятная мята
 form: Порционный, all white, slim
