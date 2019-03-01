@@ -8,7 +8,7 @@ descr: LYFT Strong Ice Cool Mint Slim All White - купить в Украине
 product-name: LYFT Strong Ice Cool Mint Slim All White
 product-alt: LYFT Strong Ice Cool Mint Slim All White снюс купить
 strong: Крепкий
-brand: Epok
+brand: Lyft
 composition: Порционный
 price: 230
 opt-price: 214
