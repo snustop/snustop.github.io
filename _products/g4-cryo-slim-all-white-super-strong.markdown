@@ -23,7 +23,7 @@ form: Порционный, белый, slim
 similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
   картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
   style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
   style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
   alt=\"Lyft ice cool mint strong snus\"></a>\n</div>"
 ---
