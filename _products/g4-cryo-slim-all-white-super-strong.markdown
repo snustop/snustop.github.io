@@ -20,7 +20,26 @@ nicotine: 22
 portions: 24
 taste: Ваниль, мята
 form: Порционный, белый, slim
+similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
+  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
+  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
+  alt=\"Lyft ice cool mint strong snus\"></a>\n</div>"
 ---
 
-Белый снюс, как и всем известный [мятный эпок](/epok-strong-ice-cool-mint). Порции белого цвета с приятным ванильным вкусом и их 24, по ощущениям немного крепче эпока.
-Подойдет любителям белых табаков, которым эпок немного приелся и хочется что-то попробовать для разнообразия. 
+Самый крепкий снюс из белых, с приятным ванильным вкусом.<br>
+G.4 CRYO Slim White Super Strong — это еще один белый снюс, со вкусом перечной мяты и нотками ванили.<br><br>
+
+G.4 CRYO преподносится как очень крепкий, с содержанием никотина 22 мг/г, поэтому вы обязательно получите от него удовольствие.
+<br><br>
+
+Пакетики тонкие и белые, они прекрасно умещаются прямо под губой. Табак влажен внутри, но сухой снаружи - это для того, чтобы снюс "не тек". Все данные факторы приводят к длительному выделению вкуса и ощущению охлаждения. Белый цвет пакетиков остается белым до, во время и после использования. Не красит зубы! Очень мягкие пакетики! Наполнитель (растительные волокна табака) обработаны настолько качественно - что пакетик нежный, словно вата!
+<br><br>
+Данный снюс подойдет любителям средних и крепких табаков. Он конечно слабее красной сибири, но все равно от него хороший эффект.
+Так же хорошо зайдет любителям эпока и нового [Lyft Snus All White](/lyft-strong-ice-cool-mint-slim-all-white).
+
+<div class="mb-2">
+<img class="img-fluid" style="width:49%" src="/img/products/cryo/cryo-snus-g4.jpg" alt="G.4 CRYO Slim All White Super Strong - купить снюс">
+<img class="img-fluid" style="width:49%" src="/img/products/cryo/g4cryo-snus.jpg" alt="Snus G.4 CRYO Slim All White Super Strong">
+</div>
