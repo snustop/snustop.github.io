@@ -21,6 +21,12 @@ portions: 24
 taste: Яблоко, мята, табак
 form: Порционный, белый, slim
 composition-product: Табак, вода, пищевые волокна, соль, пищевой ароматизатор
+similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
+  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
+  alt=\"Lyft ice cool mint strong snus\"></a>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
+  alt=\"Lyft ice cool mint strong snus\"></a>\n</div>"
 ---
 
 Белый снюс от **Swedish Match*, приятный яблочный вкус с нотками мяты.<br>
