@@ -1,7 +1,7 @@
 ---
 title: general-xrange-white-strong
 date: 2017-11-20 13:00:00 Z
-position: 10
+position: 17
 title-seo: XRANGE General Slim Large White Strong Portion Snus купить в Украине
 descr: XRANGE General Slim Large White Strong Portion Snus. Доставка по всей территории
   Украины. Звоните 0675680230
