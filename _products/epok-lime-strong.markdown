@@ -13,7 +13,7 @@ brand: Epok
 price: 215
 opt-price: 200
 image: "/img/products/epok-lime-strong.png"
-availability-descr: Ожидается
+availability-descr: Снят с производства
 has_availability: false
 gramm: 16.8
 nicotine: 1.4
