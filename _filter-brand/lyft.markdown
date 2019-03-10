@@ -27,4 +27,4 @@ Lyft (выпускающийся вместо Epok на том же заводе
 	<li>✅<a href="/lyft-melon-slim-all-white">Дыня</a> (вкус очень классный, но очень слабый никотиновый удар)</li>
 	<li>✅<a href="/lyft-blueberry-slim-all-white-portion">Черника</a> (вкус восхитительный, но слабый)</li>
 </ul>
-Самый крепкий из перечисленных - это [Lyft ice Cool Mint strong](/lyft-strong-ice-cool-mint-slim-all-white), остальные слабее, там где нет надписи **STRONG** - очень слабые, Вы их можете даже не почувствовать.
+Самый крепкий из перечисленных - это [Lyft ice Cool Mint strong](/lyft-strong-ice-cool-mint-slim-all-white), остальные слабее, там где нет надписи **STRONG** - очень слабые, Вы их можете даже не почувствовать, даже если Вы впервые пробуете снюс.
