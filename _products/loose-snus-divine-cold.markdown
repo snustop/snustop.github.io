@@ -10,7 +10,7 @@ strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
 price: 230
-opt-price: 207
+opt-price: 214
 image: "/img/products/snusbiz-loose-snus-divine-cold.jpg"
 availability-descr: В наличии
 gramm: 50
