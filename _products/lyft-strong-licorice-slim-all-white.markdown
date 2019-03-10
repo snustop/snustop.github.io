@@ -23,10 +23,12 @@ composition-product: Вода, соль, волокна эвкалипта и с
   поваренная сода, пищевой ароматизатор.
 similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
   картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
+  style=\"width:33%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
   FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+  style=\"width:33%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
+  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
+  style=\"width:33%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
+  alt=\"Снюс Лифт ice cool mint strong\"></a>\n</div>"
 ---
 
 LYFT со вкусом лакрицы - очень крепкий снюс (несмотря на то что в нем заявлено такое малое количество никотина 14мг). Имеет сбалансированный вкус между табаком и лакрицей. Подойдет любителям белых табаков, которым [мятный LYFT](/lyft-strong-ice-cool-mint-slim-all-white) очень приелся и хочется какого-то разнообразия. По вкусу и по никотиновому удару немного проигрывает мятному брату, так как мята придает жжения и из-за этого эффект лучше. Но сильнее [лаймогово Lyft](/lyft-strong-lime-slim-all-white), несмотря на то, что везде заявлено одинаковое количество никотина (14 мг/г).
