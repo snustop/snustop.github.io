@@ -1,7 +1,7 @@
 ---
 title: thunder-frosted-white-dry-extra-strong
 date: 2017-11-23 08:46:00 Z
-position: 41
+position: 38
 title-seo: Thunder Frosted White Dry (Extra Strong)
 descr: Купить снюс Thunder Frosted White Dry (Extra Strong) в Украине
 product-name: Thunder Frosted White Dry (Extra Strong)
