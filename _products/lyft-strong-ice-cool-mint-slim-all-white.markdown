@@ -15,8 +15,8 @@ stock-list: Лучший выбор
 price: 230
 opt-price: 214
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: 12 марта будет (вторник)
+has_availability: false
 gramm: '16,8'
 nicotine: 14
 portions: 24
