@@ -1,7 +1,7 @@
 ---
 title: odens-original-extreme-portion
 date: 2018-10-21 09:59:00 Z
-position: 36
+position: 40
 title-seo: Odens Original Extreme Portion Snus
 descr: Odens Original Extreme Portion Snus - крепкий классически снюс. Содержит 22
   мг никотина, приятный табачный вкус,  18-20 пакетиков в банке. Никотиновый удар
