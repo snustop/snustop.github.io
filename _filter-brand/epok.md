@@ -18,3 +18,8 @@ Epok snus - это новый вид снюса, который использу
 Пакетики тонкие и длинные, которые очень удобно укладываются под губу и практически не текут. Материал пакетиков очень мягкий и приятный.<br>
 Вкусы есть разные, но большинству нравится именно [мятный эпок](/epok-strong-ice-cool-mint).<br>
 Снюс эпок не оставляет следов на зубах, что является большим плюсом.
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://youtu.be/UgJ82xIq_0o" allowfullscreen></iframe>
+</div>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UgJ82xIq_0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
