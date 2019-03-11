@@ -32,6 +32,3 @@ P.S. <br>
 Подойдет любителям [рассыпного снюса](/loose-snus), которые в первую очередь хотят насладиться вкусом и качеством табака, а не получить быстрое расслабление.<br><br>
 P.P.S.<br>
 Заметил такую тенденцию что данный снюс в основном нравится людям старше 30 и чаще всего иностранцам. Я не могу объяснить с чем это связано, но об этом говорит статистика.
-<div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-WFCEqUhQ9w" allowfullscreen></iframe>
-</div>
