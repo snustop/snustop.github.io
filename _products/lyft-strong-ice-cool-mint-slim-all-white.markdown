@@ -59,6 +59,6 @@ Lyft — инновационный продукт не содержащий т�
 <img class="img-fluid" style="width:49%" src="/img/products/lyft-ice-cool-mint/snus-lyft-ice-cool-mint.jpg" alt="Lyft Snus купить Украина">
 <img class="img-fluid" style="width:49%" src="/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG" alt="Lyft Strong Ice Cool Mint White Snus">
 </div>
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UgJ82xIq_0o" allowfullscreen></iframe>
 </div>
