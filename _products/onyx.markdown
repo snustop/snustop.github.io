@@ -15,8 +15,8 @@ price: 240
 opt-price: 210
 new-price: 225
 image: "/img/products/onyx.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 16 марта
+has_availability: false
 gramm: 21.6
 nicotine: 12
 portions: 24
