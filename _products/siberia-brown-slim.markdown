@@ -9,11 +9,11 @@ product-name: Siberia -80°C Slim Brown
 product-alt: Siberia -80°C Slim Brown Portion Snus
 strong: Очень крепкий
 brand: Siberia
-price: 215
-opt-price: 200
+price: 210
+opt-price: 195
 image: "/img/products/siberia-brown-slim.jpg"
-availability-descr: Ожидается 22 февраля
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 24
