@@ -1,7 +1,7 @@
 ---
 title: Thunder NRG White Dry Portion Snus
 date: 2018-10-04 12:32:00 Z
-position: 24
+position: 34
 title-seo: Thunder NRG White Dry Portion Snus 45 мг никотина
 descr: Очень крепкий снюс со вкусом энергетического напитка, подчеркнутый взрывным
   количеством никотина. Крепость 45 мг никотина. Порции белые и сухие, их в банке
