@@ -15,7 +15,8 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/snusbiz-loose-snus-cuba-libre.jpg"
-availability-descr: В наличии
+availability-descr: Под заказ, ждать 1 день
+has_availability: false
 gramm: 50
 nicotine: 20
 portions: loose
