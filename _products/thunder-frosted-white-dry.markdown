@@ -1,7 +1,7 @@
 ---
 title: thunder-frosted-white-dry
 date: 2017-11-20 14:24:00 Z
-position: 27
+position: 26
 title-seo: Thunder Ultra Frosted White Dry Snus купить в Украине
 descr: Снюс Thunder Ultra Frosted White Dry Snus купить в Украине
 product-name: Thunder Ultra Frosted White Dry
