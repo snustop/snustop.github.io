@@ -8,10 +8,12 @@ product-name: Thunder Ultra Frosted White Dry
 product-alt: Thunder Ultra Frosted White Dry Snus
 strong: Крепкий
 brand: Thunder
+stock-list: Акция
 price: 170
 opt-price: 158
+new-price: 60
 image: "/img/products/thunder-frosted-white-dry.png"
-availability-descr: В наличии
+availability-descr: Немного суховат, неправильно хранился
 has_availability: true
 gramm: 11.7
 portions: 18
