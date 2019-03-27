@@ -1,7 +1,7 @@
 ---
 title: islay-whisky-original-snus
 date: 2018-06-16 22:17:00 Z
-position: 63
+position: 62
 title-seo: 'Islay Whisky Original | Снюс Купить Киев '
 descr: Islay Whisky Original  – снюс для тех, кто ценит качество. В  20 оригинальных
   порций в металлической банке. Снюс Islay производится с использованием высококачественного
