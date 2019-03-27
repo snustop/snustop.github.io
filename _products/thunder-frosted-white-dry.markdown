@@ -13,8 +13,8 @@ price: 170
 opt-price: 158
 new-price: 60
 image: "/img/products/thunder-frosted-white-dry.png"
-availability-descr: Немного суховат, неправильно хранился
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 11.7
 portions: 18
 ---
