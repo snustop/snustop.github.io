@@ -2,14 +2,16 @@
 title: G4 Blush Slim All White
 date: 2019-03-29 11:57:00 Z
 title-seo: G.4 Blush Slim All White Portion Snus
-descr: Снюс со вкусом грейпфрута и имбиря. Пакеты белые, что не оставляет следов на
-  зубах. 24 порции в банке. Крепость 12 мг, не очень крепкий снюс.
+descr: Снюс со вкусом грейпфрута и имбиря. Пакеты белые, оставляет следов на зубах.
+  24 порции в банке. Крепость 12 мг, не очень крепкий снюс.
 product-name: General G.4 Blush Ginger Blood Orange
 product-alt: G.4 Blush Slim All White Portion Snus
 strong: Низкой крепости
 brand: Swedish Match
 price: 200
 opt-price: 186
+image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
+availability-descr: В наличии
 gramm: '19,2'
 nicotine: 12
 portions: 24
