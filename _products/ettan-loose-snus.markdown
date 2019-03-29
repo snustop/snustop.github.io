@@ -12,7 +12,7 @@ brand: Swedish Match
 composition: Рассыпной
 price: 215
 opt-price: 200
-image: "/img/products/jakobssons-special-blueberry-vanilla-strong-portion-snus.jpg"
+image: "/img/products/loose-ettan-snus.jpg"
 availability-descr: В наличии
 gramm: 42
 nicotine: 7.5
