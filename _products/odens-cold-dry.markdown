@@ -16,6 +16,12 @@ opt-price: 130
 new-price: 140
 availability-descr: В наличии
 has_availability: true
+similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg\"
+  alt=\"красная сибирь слим\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
+  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
 basename: full
 ---
 
