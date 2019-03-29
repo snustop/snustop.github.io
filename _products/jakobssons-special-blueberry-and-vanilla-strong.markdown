@@ -4,7 +4,7 @@ date: 2019-03-29 21:04:00 Z
 title-seo: Jakobsson's Special blueberry & Vanilla Strong  снюс
 descr: Снюс со вкусом черники и ванили, порции коричневые (влажные). В банке 20 порций,
   14 мг никотина - крепость чуть ниже среднего.
-product-name: Jakobsson's Special blueberry & Vanilla Strong
+product-name: Jakobsson's Special Черника  и Ваниль Strong
 product-alt: Jakobsson's Special Blåbär & Vanilj Strong Portion Snus
 strong: Средней крепости
 brand: Other Brands
