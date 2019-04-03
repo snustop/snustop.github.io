@@ -8,6 +8,7 @@ product-name: LYFT Lime Slim
 product-alt: LYFT Lime Slim низкой крепости
 strong: Низкой крепости
 brand: Lyft
+stock-list: Акция
 price: 230
 opt-price: 171
 new-price: 190
