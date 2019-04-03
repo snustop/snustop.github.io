@@ -7,7 +7,7 @@ descr: Snus Lyft - это новая версия Epok Snus. Не содержи
   По всем остальным характеристикам очень похож на epok snus. Пакеты белые, не оставляют
   следов на зубах.
 keywords: Lyft, snus lyft, новый эпок
-filter-name-h2: Lyft snus (снюс лифт)
+filter-name-h2: Lyft snus (снюс лифт / снюс люфт)
 filter-brand-list: Lyft
 layout: filter-brand
 ---
