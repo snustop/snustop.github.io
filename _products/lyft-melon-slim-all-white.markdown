@@ -12,7 +12,7 @@ brand: Lyft
 price: 230
 opt-price: 214
 image: "/img/products/lyft-melon-slim-all-white-portion.png"
-availability-descr: В наличии
+availability-descr: Ожидается
 has_availability: true
 gramm: '16,8'
 nicotine: 8
