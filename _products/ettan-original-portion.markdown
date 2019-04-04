@@ -11,6 +11,7 @@ strong: Низкой крепости
 brand: Swedish Match
 price: 215
 opt-price: 200
+new-price: 140
 image: "/img/products/ettan-original-portion.png"
 availability-descr: В наличии
 has_availability: true
