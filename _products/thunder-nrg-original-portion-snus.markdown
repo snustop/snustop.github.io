@@ -9,8 +9,8 @@ product-name: Thunder NRG Original Portion
 product-alt: Thunder NRG Original Portion Snus
 strong: Очень крепкий
 brand: Thunder
-price: 170
-opt-price: 158
+price: 180
+opt-price: 167
 image: "/img/products/thunder-nrg-portion.jpg"
 availability-descr: Ожидается
 has_availability: false
