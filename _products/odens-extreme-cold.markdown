@@ -13,8 +13,8 @@ composition: Порционный
 price: 180
 opt-price: 167
 image: "/img/products/odens-extreme-cold.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 18
 nicotine: 22
 portions: 20
