@@ -12,8 +12,8 @@ strong: Крепкий
 brand: Lyft
 stock-list: Акция
 price: 230
-opt-price: 167
-new-price: 180
+opt-price: 186
+new-price: 200
 image: "/img/products/lyft-liquorice-strong-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
