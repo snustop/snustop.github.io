@@ -11,6 +11,7 @@ brand: Lyft
 composition: Порционный
 price: 230
 opt-price: 214
+image: "/img/products/lyft-x-strong-freeze-slim-white.jpg"
 availability-descr: Ожидается
 has_availability: false
 gramm: 16.8
