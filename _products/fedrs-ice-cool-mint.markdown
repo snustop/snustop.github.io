@@ -20,5 +20,5 @@ form: Порционный, белый
 composition-product: без понятия что в составе
 ---
 
-Fedrs Ice Cool Extra Strong mint 8 — полностью белый сухой крепкий порционный бестабачный снюс с приятным ароматом мяты.
+Fedrs Ice Cool Extra Strong mint 8 — полностью белый сухой крепкий порционный безтабачный снюс с приятным ароматом мяты.
 В России попробовали закосить под очень популярный белый снюс [LYFT ice cool mint strong](/lyft-strong-ice-cool-mint-slim-all-white).
