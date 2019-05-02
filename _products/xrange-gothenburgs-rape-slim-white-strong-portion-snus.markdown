@@ -10,6 +10,7 @@ product-name: XRANGE Göteborgs Rapé Slim White Strong
 product-alt: XRANGE Göteborgs Rapé Slim White Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
+composition: Dry
 price: 185
 opt-price: 172
 image: "/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg"
