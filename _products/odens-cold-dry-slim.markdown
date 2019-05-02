@@ -8,6 +8,7 @@ descr: 16 тонких пакетиков, довольно крепок, сра
 product-name: Odens Extreme Slim Cold White Dry
 product-alt: Oden's Extreme Slim Cold White Dry Portion snus
 strong: Крепкий
+composition: Dry
 stock-list: Акция
 price: 190
 opt-price: 163
