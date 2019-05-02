@@ -7,6 +7,7 @@ product-name: Skruf Strong White
 product-alt: Skruf Strong White snus
 strong: Средней крепости
 brand: Other Brands
+composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/skruf-strong-white.jpg"
