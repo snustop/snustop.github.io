@@ -9,6 +9,7 @@ product-name: Lyft Winter Chill X-strong
 product-alt: Lyft Winter Chill X-strong Slim White
 strong: Крепкий
 brand: Lyft
+composition: Белый
 price: 230
 opt-price: 214
 image: "/img/products/lyft-winter-chill-x-strong.jpg"
