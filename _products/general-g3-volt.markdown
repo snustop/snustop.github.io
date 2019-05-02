@@ -10,7 +10,7 @@ product-name: General G.3 Volt Super Strong
 product-alt: General G.3 Volt Super Strong Snus
 strong: Крепкий
 brand: Swedish Match
-composition: Порционный
+composition: Dry
 stock-list: Лучший выбор
 price: 215
 opt-price: 200
