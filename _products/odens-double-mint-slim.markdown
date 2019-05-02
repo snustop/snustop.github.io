@@ -8,6 +8,7 @@ descr: Снюс Odens Extreme Slim Double Mint White Dry купить в Укр�
 product-name: Odens Extreme Slim Double Mint White Dry
 product-alt: Odens Extreme Slim Double Mint White Dry Snus
 strong: Крепкий
+composition: Dry
 stock-list: Акция
 price: 180
 opt-price: 154
