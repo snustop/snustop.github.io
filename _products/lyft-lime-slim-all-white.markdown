@@ -9,6 +9,7 @@ product-name: LYFT Lime Slim
 product-alt: LYFT Lime Slim низкой крепости
 strong: Низкой крепости
 brand: Lyft
+composition: Белый
 stock-list: Акция
 price: 230
 opt-price: 171
