@@ -9,6 +9,7 @@ product-name: LYFT Melon Slim All White
 product-alt: LYFT Melon Slim All White Snus
 strong: Низкой крепости
 brand: Lyft
+composition: Белый
 price: 230
 opt-price: 214
 image: "/img/products/lyft-melon-slim-all-white-portion.png"
