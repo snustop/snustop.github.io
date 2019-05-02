@@ -9,6 +9,7 @@ product-name: General G.4 Blush Имбирь Апельсин
 product-alt: G.4 Blush Slim All White Portion Snus
 strong: Низкой крепости
 brand: Swedish Match
+composition: Белый
 price: 200
 opt-price: 186
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
