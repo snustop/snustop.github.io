@@ -9,7 +9,7 @@ product-name: LYFT Blueberry Slim All White
 product-alt: LYFT Blueberry Slim All White Snus
 strong: Низкой крепости
 brand: Lyft
-composition: Порционный
+composition: Белый
 price: 230
 opt-price: 214
 image: "/img/products/lyft-blueberry-slim-all-white-portion.png"
