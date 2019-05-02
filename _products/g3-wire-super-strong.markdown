@@ -10,7 +10,7 @@ product-name: G.3 Wire Super Strong Snus
 product-alt: G.3 Wire Super Strong Snus
 strong: Крепкий
 brand: Swedish Match
-composition: Порционный
+composition: Dry
 price: 215
 opt-price: 200
 image: "/img/products/g3-wire-super-strong.jpg"
