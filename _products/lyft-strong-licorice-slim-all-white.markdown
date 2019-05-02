@@ -10,6 +10,7 @@ product-name: LYFT Strong Licorice Slim All White
 product-alt: LYFT Strong Licorice Slim All White Snus
 strong: Крепкий
 brand: Lyft
+composition: Белый
 stock-list: Акция
 price: 230
 opt-price: 186
