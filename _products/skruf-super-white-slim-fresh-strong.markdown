@@ -10,7 +10,7 @@ product-name: Skruf Super White Slim Fresh Strong No.3
 product-alt: Skruf Super White Slim Fresh Strong No.3
 strong: Низкой крепости
 brand: Other Brands
-composition: Порционный
+composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
