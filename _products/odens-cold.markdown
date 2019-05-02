@@ -9,7 +9,7 @@ product-name: Oden's Cold Original Portion
 product-alt: Oden's Cold Original Portion Снюс
 strong: Низкой крепости
 brand: Odens
-composition: Порционный
+composition: Оригинальный
 price: 155
 opt-price: 144
 image: "/img/products/odens-cold.jpg"
