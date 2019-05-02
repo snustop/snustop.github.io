@@ -9,6 +9,7 @@ product-name: CHAINSAW Cold White Dry Ultra Strong
 product-alt: CHAINSAW Cold White Dry Ultra Strong Portion Snus
 strong: Крепкий
 brand: Other Brands
+composition: Dry
 stock-list: Акция
 price: 145
 opt-price: 121
