@@ -9,7 +9,7 @@ product-name: Epok ice cool mint strong slim
 product-alt: Epok ice cool mint strong slim
 strong: Крепкий
 brand: Epok
-composition: Порционный
+composition: Белый
 stock-list: Лучший выбор
 price: 215
 opt-price: 200
