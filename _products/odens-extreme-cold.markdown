@@ -9,7 +9,7 @@ product-name: Oden’s Cold Extreme Original
 product-alt: Oden’s Cold Extreme Original Snus
 strong: Средней крепости
 brand: Odens
-composition: Порционный
+composition: Оригинальный
 price: 180
 opt-price: 167
 image: "/img/products/odens-extreme-cold.jpg"
