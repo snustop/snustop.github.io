@@ -9,6 +9,7 @@ descr: Odens Original Extreme Portion Snus - крепкий классическ
 product-name: Oden's Original Extreme Portion
 product-alt: Oden's Original Extreme Portion Snus
 strong: Крепкий
+composition: Оригинальный
 price: 180
 opt-price: 167
 image: "/img/products/odens-original-extreme-portion-snus.jpg"
