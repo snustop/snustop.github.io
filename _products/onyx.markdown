@@ -10,6 +10,7 @@ product-name: General ONYX
 product-alt: General ONYX Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
+composition: Оригинальный
 price: 225
 opt-price: 210
 image: "/img/products/onyx.png"
