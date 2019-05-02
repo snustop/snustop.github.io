@@ -9,6 +9,7 @@ product-name: Fedrs Ice Cool Mint 8
 product-alt: Fedrs Ice Cool Mint 8 Extra Strong снюс
 strong: Очень крепкий
 brand: Other Brands
+composition: Белый
 price: 200
 opt-price: 186
 image: "/img/products/fedrs-ice-cool-mint-8.jpeg"
