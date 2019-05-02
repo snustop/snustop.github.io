@@ -75,16 +75,12 @@
 										}				
 										?>
 									</div>
-
 								<div>
 									{% if page.new-price%}
-									<div class="price">Цена: <span class="old-price">{{page.price}} грн</span> <span class="item_price new-price">{{page.new-price}} грн</span></div>
-									
+									<div class="price">Цена: <span class="old-price">{{page.price}} грн</span> <span class="new-price">{{page.new-price}} грн</span></div>
 									{% else %}
-									<div class="product-price">Цена: <span class="price item_price">{{ page.price }} грн</span></div>
+									<div class="product-price">Цена: <span class="price">{{ page.price }} грн</span></div>
 									{% endif %}
-									
-									<small>10 Банок = {{page.opt-price}} грн (за банку)</small><br>
 									
 									{% if page.has_availability == false %}								
 									<button type="button" class="btn btn-secondary" disabled>Нет в наличии</button>
@@ -92,9 +88,7 @@
 									<a class="btn-cart item_add btn btn-success" href="javascript:;">Добавить в корзину</a>
 									{% endif %}
 								</div>
-
 							</div>
-
 							<div itemprop="description">{{ content }}
 							</div>
 
@@ -137,7 +131,7 @@
 								<div class="product-price">Цена: <span class="price item_price">{{ page.price }} грн</span></div>
 								{% endif %}
 								
-								<small>10 Банок = {{page.opt-price}} грн (за банку)</small><br>
+								<small>10 банок = {{page.opt-price}} грн</small><br>
 								
 								{% if page.has_availability == false %}								
 								<button type="button" class="btn btn-secondary" disabled>Нет в наличии</button>
