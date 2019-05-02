@@ -1,6 +1,6 @@
 ---
 title: Dry
-permalink: all-white-snus
+permalink: white-dry-snus
 title-seo: White Dry Snus
 descr: Сухой снюс (красная сибирь, оденс колд драй и другие) - обеспечивает длительный
   никотиновый удар и вкус с минимальным выделением слюны.
