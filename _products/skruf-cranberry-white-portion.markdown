@@ -9,6 +9,7 @@ product-name: Skruf Клюква White Portion
 product-alt: Skruf Cranberry White Portion Snus
 strong: Низкой крепости
 brand: Other Brands
+composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/portion-white-cranberry-skruf.jpg"
