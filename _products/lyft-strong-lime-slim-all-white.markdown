@@ -10,6 +10,7 @@ product-name: LYFT Strong Lime Slim All White
 product-alt: LYFT Strong Lime Slim All White snus
 strong: Средней крепости
 brand: Lyft
+composition: Белый
 price: 230
 opt-price: 215
 image: "/img/products/lyft-lime-strong-slim-all-white-portion.png"
