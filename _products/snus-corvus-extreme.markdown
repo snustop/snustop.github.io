@@ -9,6 +9,7 @@ product-name: Corvus Extreme Snus
 product-alt: Корвус снюс Extreme
 strong: Очень крепкий
 brand: Other Brands
+composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/corvus-extreme-snus.png"
