@@ -10,6 +10,7 @@ product-name: Black Line Ultra Strong Mint Licorice
 product-alt: Black Line Ultra Strong Mint Licorice Slim Portion
 strong: Крепкий
 brand: Other Brands
+composition: Оригинальный
 stock-list: Акция
 price: 225
 opt-price: 191
