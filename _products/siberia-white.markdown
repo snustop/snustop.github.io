@@ -9,7 +9,7 @@ product-name: Siberia Extremely Strong White Dry
 product-alt: Siberia Extremely Strong White Dry
 strong: Очень крепкий
 brand: Siberia
-composition: Порционный
+composition: Dry
 price: 190
 opt-price: 177
 image: "/img/products/siberia-white-dry.png"
