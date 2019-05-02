@@ -9,6 +9,7 @@ product-name: Jakobsson's Special Черника  и Ваниль Strong
 product-alt: Jakobsson's Special Blåbär & Vanilj Strong Portion Snus
 strong: Средней крепости
 brand: Other Brands
+composition: Оригинальный
 price: 200
 opt-price: 186
 image: "/img/products/jakobssons-special-blueberry-vanilla-strong-portion-snus.jpg"
