@@ -8,6 +8,7 @@ product-name: Thunder X Original Portion
 product-alt: Thunder X Original Portion Snus
 strong: Очень крепкий
 brand: Thunder
+composition: Оригинальный
 price: 180
 opt-price: 167
 image: "/img/products/thunder-x-original-portion-snus.png"
