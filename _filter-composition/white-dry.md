@@ -10,6 +10,7 @@ filter-composition-list: Dry
 layout: filter-composition
 ---
 
+<img class="img-fluid" src="/img/composition/white-dry-snus.jpg" alt="White Dry Snus"><br>
 White Dry snus (яркие представители: <a href="/odens-cold-dry">odens cold dry</a>, <a href="/siberia-white-dry-slim">siberia white dry slim</a>, <a href="/thunder-x-slim-white-dry">thunder white dry slim</a>)<br>
 Преимущества таких порций:<br>
 ✅ меньшее слюновыделение.<br>
