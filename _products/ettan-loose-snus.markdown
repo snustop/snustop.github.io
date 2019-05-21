@@ -14,7 +14,8 @@ composition: Рассыпной
 price: 215
 opt-price: 200
 image: "/img/products/loose-ettan-snus.jpg"
-availability-descr: В наличии
+availability-descr: Под заказ
+has_availability: false
 gramm: 42
 nicotine: 7.5
 portions: loose
