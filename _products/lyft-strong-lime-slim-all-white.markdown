@@ -14,8 +14,8 @@ composition: Белый
 price: 230
 opt-price: 215
 image: "/img/products/lyft-lime-strong-slim-all-white-portion.png"
-availability-descr: Ожидается 17 мая
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '16,8'
 nicotine: 14
 portions: 24
