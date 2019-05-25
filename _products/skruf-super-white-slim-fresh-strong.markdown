@@ -13,8 +13,8 @@ brand: Other Brands
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 181
-new-price: 195
+opt-price: 167
+new-price: 180
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
 availability-descr: В наличии
 has_availability: true
