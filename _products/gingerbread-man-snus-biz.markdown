@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/snusbiz-loose-snus-gingerbread-man.jpg"
-availability-descr: Под заказ, ждать 1 день
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 20
 portions: рассыпной
