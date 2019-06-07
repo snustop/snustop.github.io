@@ -14,8 +14,8 @@ composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 43
 portions: 16-17
@@ -29,3 +29,4 @@ taste: Мед, лимон
 Вкус и никотиновый удар длится очень долго.<br>
 Ранее [очень крепкие виды снюса](/ultra-strong) были со вкусом мяты, но данный бренд старается это изменить.<br>
 Подойдет любителям чрезвычайно крепких видов снюса, которые устали от вкуса мяты.
+Добавлю от себя: вкус так себе, на любителя, первые пакеты еще нормально, а потом быстро надоедает, большинство предпочитает мятный снюс (и мята добавляет крепости).
