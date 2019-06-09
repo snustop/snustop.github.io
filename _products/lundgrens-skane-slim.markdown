@@ -1,7 +1,7 @@
 ---
 title: Lundgrens Skåne Slim
 date: 2019-06-07 13:03:00 Z
-position: 0
+position: 32
 title-seo: Lundgrens Skåne Slim Snus
 product-name: Lundgrens Skåne Slim
 product-alt: Lundgrens Skåne Slim White Snus
