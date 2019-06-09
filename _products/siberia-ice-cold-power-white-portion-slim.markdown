@@ -1,7 +1,7 @@
 ---
 title: siberia-ice-cold-power-white-portion-slim
 date: 2019-03-29 09:15:00 Z
-position: 40
+position: 42
 title-seo: Siberia -80°C Slim ICE COLD POWER White Snus
 descr: Снюс синяя сибирь слим - содержит 24 мг никотина. В банке 21-22 порция. Порции
   white slim.
