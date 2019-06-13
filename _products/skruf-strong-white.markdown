@@ -13,7 +13,7 @@ price: 200
 opt-price: 93
 new-price: 100
 image: "/img/products/skruf-strong-white.jpg"
-availability-descr: 'Уценка (просрочен: до 29 мая)'
+availability-descr: 'Уценка (просрочен: до 1 апреля)'
 gramm: '21,6'
 nicotine: normal
 portions: 24
