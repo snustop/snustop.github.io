@@ -11,9 +11,9 @@ composition: Dry
 stock-list: Акция
 price: 200
 opt-price: 153
-new-price: 170
+new-price: 100
 image: "/img/products/skruf-strong-white.jpg"
-availability-descr: В наличии
+availability-descr: 'Уценка (просрочен: до 29 мая)'
 gramm: '21,6'
 nicotine: normal
 portions: 24
