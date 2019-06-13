@@ -14,7 +14,7 @@ price: 200
 opt-price: 93
 new-price: 100
 image: "/img/products/nick-johnny-green-ice-slim-white-portion.jpg"
-availability-descr: 'Уценка (просрочен: до 1 апреля)'
+availability-descr: 'Уценка (просрочен: до 29 мая)'
 gramm: 19.2
 nicotine: 14
 portions: 24
