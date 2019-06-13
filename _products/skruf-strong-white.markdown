@@ -10,7 +10,7 @@ brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 200
-opt-price: 153
+opt-price: 93
 new-price: 100
 image: "/img/products/skruf-strong-white.jpg"
 availability-descr: 'Уценка (просрочен: до 29 мая)'
