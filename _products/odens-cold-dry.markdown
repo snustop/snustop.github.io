@@ -12,8 +12,8 @@ brand: Odens
 composition: Dry
 price: 160
 opt-price: 149
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте
   полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
   style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg\"
