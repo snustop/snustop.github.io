@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 214
 image: "/img/products/LYFT-Tropic-Breeze-Slim-All-White.jpg"
-availability-descr: Товар заканчивается
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,8'
 nicotine: 8
 portions: 24
