@@ -13,8 +13,8 @@ composition: Dry
 price: 205
 opt-price: 191
 image: "/img/products/general-G3-slim-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 21.6
 nicotine: 18
 portions: 24
