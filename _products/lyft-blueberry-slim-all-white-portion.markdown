@@ -1,7 +1,7 @@
 ---
 title: lyft-blueberry-slim-all-white-portion
 date: 2019-03-10 22:01:00 Z
-position: 21
+position: 19
 title-seo: LYFT Blueberry Slim All White | Лифт со вкусом черники
 descr: Снюс Лифт со вкусом черники. Порции очень приятные и полностью белые, что не
   красит Ваши зубы. Крепость 8 мг. 24 порции.
