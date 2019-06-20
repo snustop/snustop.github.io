@@ -14,7 +14,8 @@ composition: Dry
 price: 185
 opt-price: 172
 image: "/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg"
-availability-descr: В наличии
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,8'
 nicotine: 14
 portions: 21
