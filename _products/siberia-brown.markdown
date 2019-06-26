@@ -12,8 +12,8 @@ composition: Оригинальный
 price: 200
 opt-price: 186
 image: "/img/products/siberia-brown.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 20
