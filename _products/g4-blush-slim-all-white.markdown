@@ -13,7 +13,8 @@ composition: Белый
 price: 200
 opt-price: 186
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
-availability-descr: В наличии
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,2'
 nicotine: 12
 portions: 24
