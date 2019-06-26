@@ -15,7 +15,7 @@ price: 180
 opt-price: 140
 new-price: 150
 image: "/img/products/thunder-x-slim-white-dry.png"
-availability-descr: В наличии (Акция действует до 23 июня включительно)
+availability-descr: В наличии (Акция действует до 30 июня включительно)
 has_availability: true
 gramm: 15.4
 nicotine: 45
