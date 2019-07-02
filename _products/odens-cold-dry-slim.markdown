@@ -9,10 +9,8 @@ product-name: Odens Extreme Slim Cold White Dry
 product-alt: Oden's Extreme Slim Cold White Dry Portion snus
 strong: Крепкий
 composition: Dry
-stock-list: Акция
-price: 190
-opt-price: 163
-new-price: 175
+price: 165
+opt-price: 153
 image: "/img/products/odens-cold-dry-slim.png"
 availability-descr: В наличии
 has_availability: true
