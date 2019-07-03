@@ -13,7 +13,8 @@ composition: Оригинальный
 price: 200
 opt-price: 186
 image: "/img/products/jakobssons-special-blueberry-vanilla-strong-portion-snus.jpg"
-availability-descr: В наличии
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 14
 portions: "~20"
