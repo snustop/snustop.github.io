@@ -1,7 +1,7 @@
 ---
 title: general-g4-slim-apple-white
 date: 2018-07-27 16:21:00 Z
-position: 21
+position: 22
 title-seo: G4 Apple Mint Slim All White Snus
 descr: Белый снюс General G.4, приятный яблочный вкус с нотками мяты. 24 тонких пакетика
   содержащий белый табак. Крепость 19 мг никотина.
