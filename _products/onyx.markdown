@@ -14,8 +14,8 @@ composition: Оригинальный
 price: 225
 opt-price: 210
 image: "/img/products/onyx.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 21.6
 nicotine: 12
 portions: 24
