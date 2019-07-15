@@ -1,7 +1,7 @@
 ---
 title: Fedrs Ice Cool Mint
 date: 2019-04-22 10:04:00 Z
-position: 49
+position: 50
 title-seo: Fedrs Ice Cool Mint 8 Extra Strong снюс купить в Украине
 descr: Fedrs Ice Cool — полностью белый сухой крепкий порционный бестабачный снюс
   с приятным ароматом мяты. 20 порций. Крепость 48 мг.
