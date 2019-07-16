@@ -13,11 +13,10 @@ brand: Other Brands
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 167
-new-price: 180
+opt-price: 200
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 17.3
 nicotine: 12-14
 portions: 24
