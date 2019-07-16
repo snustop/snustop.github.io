@@ -12,8 +12,8 @@ composition: Оригинальный
 price: 200
 opt-price: 186
 image: "/img/products/siberia-brown.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 20
@@ -22,4 +22,5 @@ form: Порционный, влажный
 ---
 
 Siberia Brown(**коричневая сибирь**) по содержанию никотина такая же, как и [Siberia white dry(43mg)](/siberia-white) но, по ощущениям чуть слабее. Порций в пачке больше чем в красной и они более влажные. 
-Приятный вкус табака с оттенком мяты.
+Приятный вкус табака.
+Идеально подойдет любителям крепких табаков без всяких ароматизаторов.
