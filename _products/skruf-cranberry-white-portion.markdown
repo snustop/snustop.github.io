@@ -12,11 +12,11 @@ brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 200
-opt-price: 186
-new-price: 99
+opt-price: 144
+new-price: 155
 image: "/img/products/portion-white-cranberry-skruf.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: Заканчивается
+has_availability: true
 gramm: '21,6'
 nicotine: normal
 portions: 24
