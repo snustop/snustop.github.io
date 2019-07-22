@@ -12,8 +12,8 @@ composition: Оригинальный
 price: 180
 opt-price: 167
 image: "/img/products/thunder-x-original-portion-snus.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '19,8'
 nicotine: 45
 portions: 22
