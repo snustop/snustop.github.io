@@ -13,7 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/g4-fizzy-slim-all-white.png"
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,2'
 nicotine: 13
 portions: 24
