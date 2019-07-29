@@ -9,10 +9,8 @@ product-name: Granit White Portion Snus
 product-alt: Granit White Portion Snus
 strong: Низкой крепости
 brand: Other Brands
-stock-list: Акция
 price: 170
-opt-price: 130
-new-price: 140
+opt-price: 158
 image: "/img/products/granit-original-white-large.jpg"
 has_availability: true
 gramm: '17,6'
