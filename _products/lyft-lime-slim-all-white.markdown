@@ -12,8 +12,8 @@ brand: Lyft
 composition: Белый
 stock-list: Акция
 price: 230
-opt-price: 171
-new-price: 190
+opt-price: 186
+new-price: 200
 image: "/img/products/lyft-lime-slim-all-white-portion.jpg"
 availability-descr: В наличии
 has_availability: true
