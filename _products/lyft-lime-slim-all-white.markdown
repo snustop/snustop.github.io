@@ -1,7 +1,7 @@
 ---
 title: lyft-lime-slim-all-white
 date: 2019-04-03 20:46:00 Z
-position: 28
+position: 27
 title-seo: 'Купить Снюс LYFT Lime Slim | Люфт лайм '
 descr: Люфт лайм - белый снюс со вкусом лайма, который не оставляет следов на зубах.
   24 порции.
