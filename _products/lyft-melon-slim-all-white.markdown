@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 214
 image: "/img/products/lyft-melon-slim-all-white-portion.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '16,8'
 nicotine: 8
 portions: 24
