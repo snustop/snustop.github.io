@@ -1,7 +1,7 @@
 ---
 title: G.4 Fizzy Slim All White Portion
 date: 2019-07-15 07:15:00 Z
-position: 40
+position: 39
 title-seo: G.4 Fizzy Slim All White Portion Snus
 descr: G.4 Fizzy - белый снюс со вкусом персика и оттенками грейпфрута. Крепость 13
   мг, 24 белых порций.
