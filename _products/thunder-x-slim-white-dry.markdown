@@ -12,10 +12,8 @@ brand: Thunder
 composition: Dry
 stock-list: Акция
 price: 180
-opt-price: 121
-new-price: 130
+opt-price: 167
 image: "/img/products/thunder-x-slim-white-dry.png"
-availability-descr: "(Акция до 7 августа)"
 has_availability: true
 gramm: 15.4
 nicotine: 45
