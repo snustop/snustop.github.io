@@ -10,13 +10,11 @@ product-alt: Skruf Cranberry White Portion Snus
 strong: Низкой крепости
 brand: Other Brands
 composition: Dry
-stock-list: Акция
 price: 200
-opt-price: 144
-new-price: 155
+opt-price: 186
 image: "/img/products/portion-white-cranberry-skruf.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '21,6'
 nicotine: normal
 portions: 24
