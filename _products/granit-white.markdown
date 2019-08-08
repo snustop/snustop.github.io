@@ -12,7 +12,8 @@ brand: Other Brands
 price: 170
 opt-price: 158
 image: "/img/products/granit-original-white-large.jpg"
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '17,6'
 nicotine: 10
 portions: 22
