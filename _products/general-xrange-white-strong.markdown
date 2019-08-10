@@ -13,8 +13,8 @@ composition: Dry
 price: 185
 opt-price: 172
 image: "/img/products/general-xrange-white-strong.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.8
 nicotine: 14
 portions: 21
