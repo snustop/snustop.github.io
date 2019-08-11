@@ -13,8 +13,8 @@ composition: Dry
 price: 145
 opt-price: 135
 image: "/img/products/chainsaw-cold-white-dry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '10,4'
 nicotine: 22
 portions: 13
