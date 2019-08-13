@@ -15,8 +15,8 @@ price: 230
 opt-price: 186
 new-price: 200
 image: "/img/products/lyft-lime-slim-all-white-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '16,8'
 nicotine: 8
 portions: 24
