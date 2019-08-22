@@ -46,5 +46,5 @@ P.S. Не знаю как эти ребята делают такой крепк
 
 Если Вы любитель белых и крепких табаков, тогда lyft Freeze Вам понравится.
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UgJ82xIq_0o" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_Ke7ttVrjs4" allowfullscreen></iframe>
 </div>
