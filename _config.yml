@@ -73,5 +73,6 @@ exclude:
 - Gemfile.lock
 - readme.md
 - comments/
+- snustop-final/
 include:
 - ".htaccess"

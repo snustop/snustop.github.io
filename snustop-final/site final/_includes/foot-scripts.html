@@ -1,0 +1,48 @@
+	<script src="/js/scripts.min.js"></script>
+	{% if page.layout == 'product-page' %}
+	<script>
+		$(function() {
+
+			function funcSuccess(data) {
+				$("#review-anchor").html(data);
+				$("#form-review").html("<p class='text-center'>Спасибо за отзыв! Мы ценим Ваше мнение.</p>");
+			}
+
+			$("#form-review").submit(function(event) {
+				event.preventDefault();
+
+				var nameAuthor  = $("#input-name").val();
+				var comment = $("#input-textarea").val();
+				var fileName = "comments{{ page.url | replace:".php",".html" }}";
+				var selected = $(".star-rating input[type='radio']:checked").val();
+
+				var myCaptcha = $("#captcha").val();
+
+				if (!myCaptcha) {
+
+					$.ajax({
+						url: "review-php",
+						type: "POST",
+						data: ({Name: nameAuthor, Comment: comment, File_name: fileName, Rating_Val: selected}),
+						dataType: "html",
+						success: funcSuccess
+					});
+
+				}
+
+			});
+		});
+	</script>
+	{% endif %}
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119205467-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-119205467-1');
+	</script>
+</body>
+</html>
