@@ -1,7 +1,7 @@
 ---
 title: skruf-xtra-strong-portion
 date: 2017-11-20 13:04:00 Z
-position: 67
+position: 51
 title-seo: Skruf Portion Xtra Strong Snus купить в Украине
 descr: Купить снюс Skruf Portion Xtra Strong в Украине. Доставка новой почтой в любую
   точку Украины
