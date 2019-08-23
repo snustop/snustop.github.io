@@ -72,5 +72,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - readme.md
+- comments/
 include:
 - ".htaccess"

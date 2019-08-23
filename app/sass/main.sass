@@ -78,7 +78,6 @@ header
 		text-align: left
 	.popup-gallery
 		display: flex
-		margin-bottom: 1rem
 		a
 			margin: 5px
 			&:first-child
@@ -94,13 +93,12 @@ header
 		color: #fff
 		padding: .375rem .75rem
 		border-radius: .25rem
-		background: #e1306c
-		background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)
+		background: #1d98dc
 		transition: all .3s
 		&:hover
-			background: linear-gradient(-45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)
+			background: #0e8ed4
 		&:active
-			background: linear-gradient(90deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%)
+			background: darken(#0e8ed4, 5%)
 
 // Стили для ссылки в POPUP окне
 .mfp-title
@@ -163,6 +161,13 @@ header
 				left: -10px
 			&:hover
 				text-decoration: underline
+		.btn-telegram,
+		.btn-instagram
+			color: #fff
+			&:before
+				display: none
+			&:hover
+				text-decoration: none
 	span
 		font-size: .9em
 	.heart
@@ -174,6 +179,30 @@ header
 @keyframes heart
 	100%
 		transform: scale(1.2)
+
+.btn-telegram
+	background: #1d98dc
+	color: #fff
+	transition: all .3s
+	border: none
+	&:hover
+		background: #0e8ed4
+	&:focus
+		background: darken(#0e8ed4, 5%)
+	i
+		margin-left: 5px
+
+.btn-instagram
+	background: linear-gradient(45deg, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, #f56040, #f77737, #fcaf45)
+	color: #fff
+	transition: all .3s
+	border: none
+	&:hover
+		background: linear-gradient(-45deg, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, #f56040, #f77737, #fcaf45)
+	&:focus
+		background: #e1306c
+	i
+		margin-left: 5px
 
 
 // order start

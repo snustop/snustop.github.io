@@ -91,7 +91,7 @@
 		image: {
 			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
 			titleSrc: function(item) {
-				return item.el.attr('title') + '<small>by Instagram <a href="//www.instagram.com/snustop.com.ua/" target="_blank" title="instagram"><i class="icon-instagram"></i>snustop.com.ua</a></small>';
+				return item.el.attr('title') + '<small>by Telegram <a href="//t.me/snustopUA" target="_blank" title="telegram"><i class="icon-telegram"></i>snustopUA</a></small>';
 			}
 		}
 		});
@@ -162,19 +162,24 @@
 				dataType: "json"
 			}).done(function(){
 				simpleCart.empty();
+
+				root.animate({
+						scrollTop : 0                   // Scroll to top of body чтоб пользователь прочитал всю информацию
+					}, 300);
+
 				$("#checkout").html('<div class="text-center">\
 					<h1>Спасибо за заказ</h1>\
-					<p><b>Ваш заказ будет отправлен в 17:30</b><br>\
-					Ожидайте, мы с Вами свяжемся (через смс или звонок).<br>\
-					<span class="text-muted">Если в течение часа не пришла смс, то свяжитесь с нами сами: <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></p>\
+					<p><b>Отправка в 17:30</b><br>\
+					Ожидайте, мы с Вами свяжемся (через смс).<br>\
+					<span class="text-muted">Если в течение 2-х часов не пришла смс, то свяжитесь с нами сами: <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a> <br>Удобней всего писать в телеграмм: <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>Написать в Telegram</a></p>\
 					<hr />\
 					<div class="text-left">\
 					<h2>Частые вопросы</h2>\
 					<p><b>Когда будет отправлен мой заказ?</b><br>Отправка каждый день в 17:30.</p>\
-					<p><b>Сколько стоит доставка?</b><br>Примерно 40 грн, +25(если есть наложка).</p>\
+					<p><b>Сколько стоит доставка?</b><br>Примерно 40 грн, +25 (если есть наложка).</p>\
 					<p><b>Когда придет мой заказ?</b><br>Завтра (иногда послезавтра, если это западная часть Украины). Вам придет смс-уведомление от Новой Почты.</p>\
-					<p><b>Скиньте номер накладной!</b><br>После отправки в течение часа Вам придет номер накладной в смс.</p>\
-					<p><b>Остались вопросы?</b><br>Пишите смс<a href="sms:+380-67-568-0230" title="Отправить смс"> 0675680230 </a> либо звоните <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a> нам удобнее смс :)</p>\
+					<p><b>Скиньте номер накладной!</b><br>После отправки (в 17:30) в течение часа Вам придет номер накладной в смс, если не пришла, свяжитесь с нами!</p>\
+					<p><b>Остались вопросы?</b><br><a href="sms:+380-67-568-0230" title="Отправить смс">Пишите смс 0675680230</a>, <a href="//t.me/snustop" target="_blank" title="Telegram"><i class="icon-telegram"></i>пишите в Telegram</a>, либо звоните <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a> нам удобнее телеграмм или смс :)</p>\
 					</div>\
 					<p><a class="btn btn-primary" href="/">Перейти на главную</a></span></p></div>');
 			}).fail(function(){
