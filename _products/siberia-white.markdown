@@ -13,8 +13,8 @@ composition: Dry
 price: 190
 opt-price: 177
 image: "/img/products/siberia-white-dry.png"
-availability-descr: 29 августа будет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 42
 portions: 17
