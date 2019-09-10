@@ -13,8 +13,8 @@ composition: Dry
 price: 180
 opt-price: 167
 image: "/img/products/thunder-x-slim-white-dry.png"
-availability-descr: Ожидается 10 сентября
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15.4
 nicotine: 45
 portions: 22
