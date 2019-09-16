@@ -12,7 +12,7 @@ strong: Средней крепости
 brand: Lyft
 composition: Белый
 price: 230
-opt-price: 215
+opt-price: 207
 image: "/img/products/lyft-lime-strong-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
