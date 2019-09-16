@@ -10,7 +10,7 @@ strong: Очень крепкий
 brand: Siberia
 composition: Оригинальный
 price: 200
-opt-price: 186
+opt-price: 180
 image: "/img/products/siberia-brown.jpg"
 availability-descr: В наличии
 has_availability: true
