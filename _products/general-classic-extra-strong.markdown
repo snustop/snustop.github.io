@@ -11,7 +11,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
 price: 210
-opt-price: 195
+opt-price: 189
 image: "/img/products/general-classic-extra-strong-portion.png"
 availability-descr: В наличии
 has_availability: true
