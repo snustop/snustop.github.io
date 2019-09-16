@@ -10,8 +10,8 @@ product-alt: Loose snus Divine Cold Snus.biz manufactured
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
-price: 230
-opt-price: 207
+price: 220
+opt-price: 198
 image: "/img/products/snusbiz-loose-snus-divine-cold.jpg"
 availability-descr: В наличии
 has_availability: true
