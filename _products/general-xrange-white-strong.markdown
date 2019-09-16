@@ -11,7 +11,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Dry
 price: 185
-opt-price: 172
+opt-price: 167
 image: "/img/products/general-xrange-white-strong.png"
 availability-descr: В наличии
 has_availability: true
