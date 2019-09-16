@@ -10,7 +10,7 @@ product-alt: Nick & Johnny Green Ice Slim White Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 price: 200
-opt-price: 186
+opt-price: 180
 image: "/img/products/nick-johnny-green-ice-slim-white-portion.jpg"
 availability-descr: В наличии
 has_availability: true
