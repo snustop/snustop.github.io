@@ -12,7 +12,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
 price: 225
-opt-price: 210
+opt-price: 203
 image: "/img/products/onyx.png"
 availability-descr: В наличии
 has_availability: true
