@@ -11,7 +11,7 @@ strong: Крепкий
 brand: Odens
 composition: Dry
 price: 160
-opt-price: 149
+opt-price: 144
 availability-descr: В наличии
 has_availability: true
 similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте
