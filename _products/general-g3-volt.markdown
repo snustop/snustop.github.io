@@ -13,7 +13,7 @@ brand: Swedish Match
 composition: Dry
 stock-list: Лучший выбор
 price: 215
-opt-price: 200
+opt-price: 194
 image: "/img/products/general-volt.jpg"
 availability-descr: Ожидается
 has_availability: false
