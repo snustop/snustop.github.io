@@ -11,7 +11,7 @@ strong: Низкой крепости
 brand: Other Brands
 composition: Dry
 price: 200
-opt-price: 186
+opt-price: 180
 image: "/img/products/portion-white-cranberry-skruf.jpg"
 availability-descr: В наличии
 has_availability: true
