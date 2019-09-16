@@ -11,7 +11,7 @@ strong: Крепкий
 brand: Swedish Match
 composition: Белый
 price: 215
-opt-price: 200
+opt-price: 194
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
 availability-descr: В наличии
 has_availability: true
