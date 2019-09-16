@@ -10,7 +10,7 @@ strong: Очень крепкий
 brand: Thunder
 composition: Оригинальный
 price: 180
-opt-price: 167
+opt-price: 162
 image: "/img/products/thunder-x-original-portion-snus.png"
 availability-descr: В наличии
 has_availability: true
