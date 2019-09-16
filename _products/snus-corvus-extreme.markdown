@@ -13,8 +13,8 @@ composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/corvus-extreme-snus.png"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 14
 nicotine: 44
 portions: 20
@@ -28,3 +28,5 @@ composition-product: Без понятия что там в составе
 
 Данный продукт для тех людей, которым все равно чем утолить "никотиновую жажду".
 Советуем все-таки взять проверенный и крепкий [снюс красная сибирь](/siberia-white).
+
+Заказывая данный снюс на свой страх и риск, мы его не рекомендуем!
