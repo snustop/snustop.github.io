@@ -12,7 +12,7 @@ strong: Низкой крепости
 brand: Other Brands
 composition: Белый
 price: 215
-opt-price: 200
+opt-price: 194
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
 availability-descr: В наличии
 has_availability: true
