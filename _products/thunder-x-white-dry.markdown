@@ -11,7 +11,7 @@ strong: Очень крепкий
 brand: Thunder
 composition: Dry
 price: 170
-opt-price: 158
+opt-price: 153
 image: "/img/products/thunder-x-white-dry.png"
 availability-descr: В наличии
 has_availability: true
