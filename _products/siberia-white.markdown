@@ -11,7 +11,7 @@ strong: Очень крепкий
 brand: Siberia
 composition: Dry
 price: 190
-opt-price: 177
+opt-price: 171
 image: "/img/products/siberia-white-dry.png"
 availability-descr: В наличии
 has_availability: true
