@@ -11,7 +11,7 @@ strong: Крепкий
 brand: Other Brands
 composition: Рассыпной
 price: 220
-opt-price: 205
+opt-price: 198
 image: "/img/products/orange-loose.jpg"
 availability-descr: В наличии
 has_availability: true
