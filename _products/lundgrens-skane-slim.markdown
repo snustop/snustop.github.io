@@ -10,7 +10,7 @@ product-alt: Lundgrens Skåne Slim White Snus
 strong: Низкой крепости
 brand: Other Brands
 price: 185
-opt-price: 172
+opt-price: 167
 image: "/img/products/lundgrens-skane-slim.jpg"
 availability-descr: В наличии
 has_availability: true
