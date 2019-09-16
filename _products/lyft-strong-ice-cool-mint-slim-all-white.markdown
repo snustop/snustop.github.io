@@ -13,7 +13,7 @@ brand: Lyft
 composition: Белый
 stock-list: Лучший выбор
 price: 230
-opt-price: 214
+opt-price: 207
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
