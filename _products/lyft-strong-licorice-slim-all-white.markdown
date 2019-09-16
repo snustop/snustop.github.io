@@ -12,7 +12,7 @@ strong: Крепкий
 brand: Lyft
 composition: Белый
 price: 230
-opt-price: 214
+opt-price: 207
 image: "/img/products/lyft-liquorice-strong-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
