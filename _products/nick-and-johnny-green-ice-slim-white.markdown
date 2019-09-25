@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 200
 opt-price: 180
 image: "/img/products/nick-johnny-green-ice-slim-white-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 19.2
 nicotine: 14
 portions: 24
