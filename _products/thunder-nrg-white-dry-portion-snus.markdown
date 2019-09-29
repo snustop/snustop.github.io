@@ -14,8 +14,8 @@ composition: Dry
 price: 200
 opt-price: 180
 image: "/img/products/thunder-nrg-white-dry.png"
-availability-descr: В наличии (снят с производства)
-has_availability: true
+availability-descr: Снят с производства
+has_availability: false
 gramm: '11,7'
 nicotine: 45
 portions: 18
