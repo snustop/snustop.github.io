@@ -25,9 +25,9 @@ form: Порционный, all white, slim
 composition-product: Вода, соль, волокна эвкалипта и сосны, никотиновый экстракт,
   поваренная сода, пищевой ароматизатор.
 similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Lyft X-strong Freeze\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
   style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
   alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
 ---
