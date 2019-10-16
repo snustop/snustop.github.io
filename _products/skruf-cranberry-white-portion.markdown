@@ -13,8 +13,8 @@ composition: Dry
 price: 200
 opt-price: 180
 image: "/img/products/portion-white-cranberry-skruf.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '21,6'
 nicotine: normal
 portions: 24
