@@ -11,11 +11,10 @@ strong: Очень крепкий
 brand: Other Brands
 composition: Dry
 price: 150
-opt-price: 89
-new-price: 99
+opt-price: 135
 image: "/img/products/offroad-x-white-dry-arctic-explorer.jpg"
-availability-descr: Акция до 24 включительно
-has_availability: true
+availability-descr: В наличии
+has_availability: false
 gramm: '9,75'
 nicotine: 45
 portions: 15
