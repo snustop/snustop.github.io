@@ -121,6 +121,7 @@
 
 							
 							<div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
+								<link itemprop="url" href="https://snustop.com.ua{{page.url | replace:'.php','' }}" />
 								<meta itemprop="price" content="{% if page.new-price %}{{page.new-price}}{% else %}{{page.price}}{% endif %}"/>
                 <meta itemprop="priceCurrency" content="UAH"/>
                 <link itemprop="availability" href="http://schema.org/InStock"/>
@@ -163,7 +164,7 @@
 									$file_array =  file($filename);
 									$num_str =  $file_array;
 									$count_str =  count($file_array);
-									for ($i = 0; $i <= count($num_str) && $i < 15; $i++) 
+									for ($i = 0; $i <= count($num_str) && $i < 45; $i++) 
 									{ 
 										echo $num_str[$i]; 
 									}
