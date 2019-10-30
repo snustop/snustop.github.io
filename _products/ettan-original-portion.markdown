@@ -13,8 +13,8 @@ composition: Оригинальный
 price: 210
 opt-price: 189
 image: "/img/products/ettan-original-portion.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 24
 nicotine: 8.5
 portions: 24
