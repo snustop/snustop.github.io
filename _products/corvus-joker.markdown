@@ -11,7 +11,7 @@ price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-joker.png"
 availability-descr: " В наличии"
-has_availability: false
+has_availability: true
 gramm: 13
 nicotine: 50
 portions: " ~25"
