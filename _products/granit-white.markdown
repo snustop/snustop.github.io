@@ -1,7 +1,7 @@
 ---
 title: Granit White
 date: 2019-07-15 06:34:00 Z
-position: 45
+position: 48
 title-seo: Granit White Portion Snus
 descr: Снюс Гранит с классическим табачным вкусом. 22 порции, крепость 10 мг. Никотиновый
   удар очень плавный и долгий
