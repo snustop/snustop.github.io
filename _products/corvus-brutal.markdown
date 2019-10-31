@@ -1,7 +1,7 @@
 ---
 title: corvus brutal
 date: 2019-09-18 10:15:00 Z
-position: 55
+position: 52
 title-seo: Corvus Brutal | Корвус брутал купить в Украине
 descr: 'Корвус Брутал очень крепкий продукт от которого аж становится плохо. '
 product-name: Corvus Brutal
