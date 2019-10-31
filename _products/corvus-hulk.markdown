@@ -16,7 +16,7 @@ gramm: 13
 nicotine: 50
 portions: 25-29
 taste: Фейхоа
-form: Порционный
+form: Порционный, Slim
 composition-product: Неизвестно
 ---
 
