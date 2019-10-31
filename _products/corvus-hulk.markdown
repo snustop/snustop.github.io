@@ -2,7 +2,7 @@
 title: corvus-hulk
 date: 2019-10-31 10:55:00 Z
 title-seo: Corvus Hulk купить в Украине
-descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, 25-29 порций, заявлено 50 мг никотина,
+descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, 25 порций, заявлено 50 мг никотина,
   сильно разъедает губу. Не содержит табака. "
 product-name: Corvus Hulk
 product-alt: Corvus Hulk со вкусом Feijoa
@@ -14,7 +14,7 @@ image: "/img/products/corvus/corvus-hulk.png"
 availability-descr: В наличии
 gramm: 13
 nicotine: 50
-portions: 25-29
+portions: "~25"
 taste: Фейхоа
 form: Порционный, Slim
 composition-product: Неизвестно
