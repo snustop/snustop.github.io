@@ -1,7 +1,7 @@
 ---
 title: LYFT-Strawberry-Bloom-Slim-All-White
 date: 2019-10-31 23:16:00 Z
-position: 1
+position: 26
 title-seo: "LYFT Strawberry \U0001F353 Bloom Slim All White снюс купить в Украине"
 descr: "Белый снюс Lyft  с превосходным вкусом клубники \U0001F353. В банке 24 порции,
   крепость 8 мг/г. Аромат длиться 40-50 минут. "
