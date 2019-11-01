@@ -2,9 +2,9 @@
 title: corvus-logan
 date: 2019-10-31 11:35:00 Z
 position: 60
-title-seo: Corvus Logan Melon купить в Украине
-descr: 'Corvus Logan  со вкусом дыни. Крепость 50 мг никотина. 25 порций. Порции тонкие
-  и маленькие. '
+title-seo: "Corvus Logan Melon\U0001F348 купить в Украине"
+descr: "Corvus Logan  со вкусом дыни \U0001F348. Крепость 50 мг никотина. 25 порций.
+  Порции тонкие и маленькие. "
 product-name: Corvus Logan
 product-alt: 'Corvus Logan Melon '
 strong: Очень крепкий
