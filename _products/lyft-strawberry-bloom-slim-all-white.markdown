@@ -13,7 +13,7 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-strawberry-bloom-slim-summer-edition.jpg"
-availability-descr: Лимитированная партия
+availability-descr: Ожидается 7 ноября (Лимитированная партия)
 has_availability: false
 gramm: '16,8'
 nicotine: 8
