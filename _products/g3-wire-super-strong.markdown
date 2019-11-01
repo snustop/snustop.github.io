@@ -14,7 +14,8 @@ composition: Dry
 price: 215
 opt-price: 200
 image: "/img/products/g3-wire-super-strong.jpg"
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,6'
 nicotine: 26
 portions: 24
