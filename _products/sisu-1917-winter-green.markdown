@@ -19,7 +19,7 @@ has_availability: true
 gramm: 14
 nicotine: 20
 portions: 20
-taste: 'табачной-мятный '
+taste: 'табачно-мятный '
 ---
 
 SISU 1917 Winter Green White Dry Portion. Sisu - это шведский снюс изготовлен в Дании, с финским названием. С финского sisu - означает *решимость и храбрость*. 
