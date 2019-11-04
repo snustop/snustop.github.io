@@ -1,7 +1,7 @@
 ---
 title: XRANGE Gothenburgs rape Slim White Strong Portion Snus
 date: 2019-03-29 21:49:00 Z
-position: 15
+position: 16
 title-seo: XRANGE Göteborgs Rapé Slim White Strong Portion Snus купить
 descr: Снюс XRANGE Göteborgs Rapé Slim White Strong  имеет сбалансированный вкус табака
   с настоящим ароматом можжевельника и нотками лаванды. 21 белая порция. Крепость
