@@ -2,11 +2,12 @@
 title: ukrainian-premium-snus-orange-fresh-loose
 date: 2018-05-02 09:38:00 Z
 position: 17
-title-seo: Orange Fresh Loose Snus | Ukrainian snus.biz
-descr: Рассыпной премиум снюс высочайшего качества со вкусом апельсина от украинского
-  производителя snus.biz. Аромат и вкус очень приятный. Снюс довольно крепок.
-product-name: Ukrainian Orange Fresh Loose Snus
-product-alt: Ukrainian Orange Fresh Loose Snus | Snus.biz
+title-seo: "Orange \U0001F34A Fresh Loose Snus | Ukrainian snus.biz"
+descr: "Рассыпной премиум снюс высочайшего качества со вкусом апельсина \U0001F34A
+  от украинского производителя snus.biz. Аромат и вкус очень приятный. Снюс довольно
+  крепок."
+product-name: "Ukrainian Orange \U0001F34A Fresh Loose Snus"
+product-alt: "Ukrainian Orange \U0001F34A Fresh Loose Snus | Snus.biz"
 strong: Крепкий
 brand: Other Brands
 composition: Рассыпной
