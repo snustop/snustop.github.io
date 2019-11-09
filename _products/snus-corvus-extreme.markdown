@@ -8,7 +8,7 @@ descr: "Корвус снюс купить в Украине. Супер-мег�
 product-name: Corvus Extreme Snus
 product-alt: Корвус снюс Extreme
 strong: Очень крепкий
-brand: Other Brands
+brand: Corvus
 composition: Dry
 price: 200
 opt-price: 186
