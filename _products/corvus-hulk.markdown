@@ -8,7 +8,7 @@ descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, 25 порц�
 product-name: Corvus Hulk
 product-alt: Corvus Hulk со вкусом Feijoa
 strong: Очень крепкий
-brand: Other Brands
+brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-hulk.png"
