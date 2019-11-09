@@ -8,7 +8,7 @@ descr: "Снюс Корвус — очень крепкий снюс. Не со�
   Logan \U0001F348 и другие. Купить в Украине."
 keywords: Corvus, корвус, снюс, Украина
 filter-name-h2: Снюс Корвус
-filter-brand-list: corvus
+filter-brand-list: Corvus
 layout: filter-brand
 ---
 
