@@ -8,7 +8,7 @@ descr: "Corvus Flash со вкусом апельсина \U0001F34A. Крепо
 product-name: Corvus Flash
 product-alt: Corvus Flash со вкусом апельсина
 strong: Очень крепкий
-brand: Other Brands
+brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-flash.png"
