@@ -8,7 +8,7 @@ descr: "Корвус Брутал - очень крепкий \U0001F44A про�
 product-name: Corvus Brutal
 product-alt: Corvus Brutal купить в Украине
 strong: Очень крепкий
-brand: Other Brands
+brand: Corvus
 price: 200
 opt-price: 180
 image: "/img/products/corvus-brutal-snus.jpg"
