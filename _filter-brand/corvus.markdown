@@ -9,6 +9,7 @@ descr: "Снюс Корвус — очень крепкий снюс. Не со�
 keywords: Corvus, корвус, снюс, Украина
 filter-name-h2: Снюс Корвус
 filter-brand-list: Corvus
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/corvus">
 layout: filter-brand
 ---
 
