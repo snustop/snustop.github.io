@@ -20,6 +20,7 @@ layout: filter-brand
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_Tn_aefLRwc" allowfullscreen></iframe>
 </div>
+<img class="img-fluid" src="/img/products/corvus/snus-corvus-extreme-open.jpg" alt="Corvus Extreme Снюс пакеты">
 
 Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Некоторые из продуктов сильно разъедают губу и десну. Наш интернет-магазин <b>snustop.com.ua</b> не может рекомендовать данный продукт, особенно людям, которые ранее не использовали снюс и никотиновые продукты. 
 Но ввиду сильной рекламы данной продукции, мы предоставляем Вам выбор.
