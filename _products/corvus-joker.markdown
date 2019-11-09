@@ -8,7 +8,7 @@ descr: 'Corvus Joker со вкусом лесных ягод. 50 мг никот
 product-name: Corvus Joker
 product-alt: Corvus Joker Wild Berries
 strong: Очень крепкий
-brand: Other Brands
+brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-joker.png"
