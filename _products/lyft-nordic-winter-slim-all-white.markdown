@@ -1,7 +1,7 @@
 ---
 title: lyft-nordic-winter-slim-all-white
 date: 2019-10-31 23:05:00 Z
-position: 10
+position: 11
 title-seo: Lyft nordic winter slim all white snus в Украине
 descr: Снюс Lyft Nordic Winter - не содержит табака и порции полностью белые. В банке
   24 порции, крепость 8 мг/г. Вкус сочетает лаванду, ягоды и травы с нотами ели и
