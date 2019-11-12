@@ -11,7 +11,7 @@ strong: Очень крепкий
 brand: Other Brands
 price: 215
 opt-price: 194
-image: "/img/products/kurwa-grape.jpg"
+image: "/img/products/kurwa-grape.png"
 availability-descr: " В наличии"
 has_availability: true
 gramm: 14
