@@ -13,7 +13,7 @@ price: 215
 opt-price: 194
 image: "/img/products/kurwa-grape.jpg"
 availability-descr: " В наличии"
-has_availability: false
+has_availability: true
 gramm: 14
 nicotine: 90
 portions: 20
