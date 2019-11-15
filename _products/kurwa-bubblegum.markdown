@@ -12,8 +12,8 @@ brand: Other Brands
 price: 215
 opt-price: 194
 image: "/img/products/kurwa.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 14
 nicotine: 90
 portions: 20
