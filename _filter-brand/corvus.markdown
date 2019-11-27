@@ -74,7 +74,7 @@ layout: filter-brand
 		</tr>
 <tr>
 			<td><a href="/corvus-fenix"><img style="width: 40px" src="/img/products/corvus/corvus-fenix-barberry" alt="Corvus Fenix Barberry"></a></td>
-			<td><a href="/corvus-fenix-barberry">Corvus Barberry</a></td>
+			<td><a href="/corvus-fenix.png">Corvus Barberry</a></td>
 			<td>50</td>
 			<td>Барбарис</td>
 		</tr>
