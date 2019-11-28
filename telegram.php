@@ -42,7 +42,7 @@ $txt = $order_message.$txt;
 $sendToTelegram = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&parse_mode=html&text={$txt}","r");
 
 $txt = str_replace("%0A","<br/>",$txt);
-$to = "12BDC21@gmail.com";
+$to = "snustop.com.ua@gmail.com";
 $subject = "Заявка!";
 $message = "$subject  <br> $txt";
 $headers = "Content-type: text/html; charset=UTF-8 \r\n";
