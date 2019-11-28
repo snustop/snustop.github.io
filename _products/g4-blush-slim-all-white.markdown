@@ -10,8 +10,10 @@ product-alt: G.4 Blush Slim All White Portion Snus
 strong: Низкой крепости
 brand: Swedish Match
 composition: Белый
+stock-list: Акция
 price: 215
-opt-price: 200
+opt-price: 158
+new-price: 175
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
 availability-descr: В наличии
 has_availability: true
