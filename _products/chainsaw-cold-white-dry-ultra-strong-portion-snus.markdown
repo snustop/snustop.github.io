@@ -11,7 +11,8 @@ strong: Крепкий
 brand: Other Brands
 composition: Dry
 price: 145
-opt-price: 135
+opt-price: 95
+new-price: 105
 image: "/img/products/chainsaw-cold-white-dry.jpg"
 availability-descr: В наличии
 has_availability: true
