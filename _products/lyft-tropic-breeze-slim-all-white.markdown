@@ -1,7 +1,7 @@
 ---
 title: LYFT Tropic Breeze Slim All White
 date: 2019-06-07 12:31:00 Z
-position: 15
+position: 14
 title-seo: "LYFT Tropic \U0001F96D\U0001F334 Breeze Slim All White снюс"
 descr: "Белый снюс со вкусом тропических фруктов \U0001F96D\U0001F334. 24 порции,
   крепость 8 мг никотина. Не содержит табака, прекрасно сочетают вкусы маракуя, манго
