@@ -5,12 +5,10 @@
 	<title>{{ page.title-seo }}</title>
 	<meta name="description" content="{{ page.descr }}">
 	<meta name="keywords" content="{{ page.keywords }}">
-
 	{% if page.url == '/' %}
 		<meta name="yandex-verification" content="156e93b0c44c0145" />
 		<meta name='wmail-verification' content='4c9ee4ffa58c566b64a5e1bdafe28b4b' />
 	{% endif %}
-
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -23,7 +21,11 @@
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
 	<meta name="application-name" content="Snustop.com.ua">
 
-	<link rel="stylesheet" href="/css/main.min.css">
+	{% if !page.link-amp-page %}
+		{{ page.link-amp-page }}
+	{% endif %}
+
+	<link rel="stylesheet" href="/css/main.min.css?version=3">
 
 	{% if page.url == '/' or page.url== '/about' or page.url== '/delivery' or page.url== '/opt' or page.url== '/order' or page.url== '/about.html' or page.url== '/delivery.html' or page.url== '/opt.html' or page.url== '/order.html' %}
 	<script type="application/ld+json">
@@ -36,17 +38,51 @@
 			"telephone": "+380675680230",
 			"email": "snustop.com.ua@gmail.com",
 			"alternateName": "Снюс купить",
-			"description": "Интернет-магазин по продаже снюса в Украине",
+			"description": "Интернет-магазин по продаже снюса в Украине и крупных городах (Киев, Одесса, Харьков, Днепр, Львов и другие)",
 			"address": {
 				"@type": "PostalAddress",
 				"addressLocality": "Днепр, Украина",
-				"postalCode": "49000",
-				"streetAddress": "улица Глинки, 2"
+				"postalCode": "49100",
+				"streetAddress": "улица Героев, 3"
 			}
 		}
 	</script>
+	{% endif %}
 
+	{% if page.url == "/lyft-x-strong-freeze-slim-white.php" %}
 	<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement":
+      [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item":
+        {
+          "@id": "https://snustop.com.ua/ultra-strong",
+          "name": "Очень крепкий"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item":
+        {
+          "@id": "https://snustop.com.ua/all-white-snus",
+          "name": "Белый снюс"
+        }
+      }
+      ]
+    }
+    </script>
+   {% endif %}
+
+	{% if page.url == "/lyft-strong-ice-cool-mint-slim-all-white.php"
+		or page.url == "/lyft-x-strong-winter-chill-slim-white.php"
+	 %}
+		<script type="application/ld+json">
 		{
 			"@context": "http://schema.org",
 			"@type": "BreadcrumbList",
@@ -57,8 +93,8 @@
 				"position": 1,
 				"item":
 				{
-					"@id": "https://snustop.com.ua/lyft",
-					"name": "Lyft"
+					"@id": "https://snustop.com.ua/ultra-strong",
+					"name": "Крепкий"
 				}
 			},
 			{
@@ -66,22 +102,36 @@
 				"position": 2,
 				"item":
 				{
-					"@id": "https://snustop.com.ua/siberia",
-					"name": "Siberia"
+					"@id": "https://snustop.com.ua/all-white-snus",
+					"name": "Белый снюс"
 				}
-			},
+			}
+			]
+		}
+		</script>
+	{% endif %}
+
+	{% if page.url == "/siberia-white-dry-slim.php" or page.url == "/siberia-white.php"
+			or page.url == "/siberia-brown-slim.php"
+			or page.url == "/siberia-brown.php"
+			or page.url == "/thunder-x-slim-white-dry.php"
+			or page.url == "/thunder-x-white-dry.php"
+			or page.url == "/thunder-x-original-portion-snus.php"
+			or page.url == "/offroad-x-white-dry-arctic-explorer.php"
+			or page.url == "/thunder-nrg-white-dry-portion-snus.php"
+			or page.url == "/wow-summer-honey-white-dry-explosion.php"
+			or page.url == "/thunder-nrg-original-portion-snus.php"
+			or page.url == "/snus-corvus-extreme.php"
+	%}
+		<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement":
+			[
 			{
 				"@type": "ListItem",
-				"position": 3,
-				"item":
-				{
-					"@id": "https://snustop.com.ua/odens",
-					"name": "Odens"
-				}
-			},
-			{
-				"@type": "ListItem",
-				"position": 4,
+				"position": 1,
 				"item":
 				{
 					"@id": "https://snustop.com.ua/ultra-strong",
@@ -90,8 +140,10 @@
 			}
 			]
 		}
-	</script>
-
+		</script>
 	{% endif %}
 
+	{% if !page.article-schema-org %}
+		{{ page.article-schema-org }}
+	{% endif %}
 </head>
