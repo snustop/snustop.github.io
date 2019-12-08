@@ -4,7 +4,9 @@
 где, XXXXXXXXXXXXXXXXXXXXXXX - токен вашего бота, полученный ранее */
 
 $phone = $_POST['Телефон'];
-$mess = $_POST['Сообщение'];
+$mess_text = strip_tags($_POST['Сообщение']);
+$mess = str_replace('
+',' ',$mess_text);
 $cart_code = $_POST['some_code'];
 $cart_fileds = $_POST['some_param'];
 $order_list = (array) json_decode(stripslashes($_POST['order_list']));  //(array) json_decode(stripslashes($_POST["cnt_rest"]));
@@ -23,7 +25,7 @@ $arr = array(
 
 
 foreach($arr as $key => $value) {
-  $txt .= "<b>".$key."</b> ".$value."%0A";
+  $txt .= "<b>".$key."</b>".$value."%0A";
 };
 
 $order_message = "";
@@ -43,8 +45,8 @@ $sendToTelegram = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_i
 
 $txt = str_replace("%0A","<br/>",$txt);
 $to = "snustop.com.ua@gmail.com";
-$subject = "Заявка!";
-$message = "$subject  <br> $txt";
+$subject = "Заказ";
+$message = "$txt";
 $headers = "Content-type: text/html; charset=UTF-8 \r\n";
 $headers .= "From: wth\r\n";
 
