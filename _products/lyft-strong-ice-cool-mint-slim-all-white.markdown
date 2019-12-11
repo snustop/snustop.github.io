@@ -1,7 +1,7 @@
 ---
 title: LYFT Strong Ice Cool Mint Slim All White
 date: 2019-02-28 13:57:00 Z
-position: 35
+position: 2
 title-seo: LYFT Strong Ice Cool Mint Slim All White - снюс купить
 descr: LYFT Strong Ice Cool Mint Slim All White - купить в Украине. Lyft не содержит
   табака, но содержит никотин. Очень крепкий. 24 порции, они белые, не оставляют следов
