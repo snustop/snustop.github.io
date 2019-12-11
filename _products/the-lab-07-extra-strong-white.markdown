@@ -13,8 +13,8 @@ composition: Dry
 price: 210
 opt-price: 195
 image: "/img/products/the-lab-07-extra-strong-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 21.6
 nicotine: 18
 portions: 24
