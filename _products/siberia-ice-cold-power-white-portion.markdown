@@ -10,8 +10,10 @@ product-alt: Siberia ice cold power white portion snus
 strong: Крепкий
 brand: Siberia
 composition: Порционный
+stock-list: Акция
 price: 200
-opt-price: 180
+opt-price: 153
+new-price: 170
 image: "/img/products/siberia-ice-cold-power-white.jpg"
 availability-descr: В наличии
 has_availability: true
