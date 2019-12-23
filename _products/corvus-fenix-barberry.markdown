@@ -13,7 +13,7 @@ price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-fenix.png"
 availability-descr: 25 декабря будет
-has_availability: true
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "~25"
