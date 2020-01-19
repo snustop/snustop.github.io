@@ -1,7 +1,7 @@
 ---
 title: G4 Blush Slim All White
 date: 2019-03-29 11:57:00 Z
-position: 37
+position: 20
 title-seo: G.4 Blush Slim All White Portion Snus
 descr: Снюс со вкусом грейпфрута и имбиря. Пакеты белые, оставляет следов на зубах.
   24 порции в банке. Крепость 12 мг, не очень крепкий снюс.
