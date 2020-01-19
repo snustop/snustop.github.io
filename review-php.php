@@ -15,7 +15,7 @@ define('FILENAME', $File_name);
 if (!file_get_contents(FILENAME))
   $file_size = 2024;
 else {
-  $file_size = 25555;
+  $file_size = 35555;
 }
 
 # выводит количество звезд в зависимости от от оценки START
