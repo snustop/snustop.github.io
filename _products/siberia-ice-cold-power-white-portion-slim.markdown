@@ -14,8 +14,8 @@ price: 210
 opt-price: 99
 new-price: 110
 image: "/img/products/siberia-blue-slim-white.jpg"
-availability-descr: Срок до 29 января (пакеты сухие)
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: 21-22
