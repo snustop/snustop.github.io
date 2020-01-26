@@ -10,7 +10,6 @@ product-alt: Lyft Freeze X-Strong Slim White Snus
 strong: Очень крепкий
 brand: Lyft
 composition: Белый
-stock-list: Акция
 price: 230
 opt-price: 207
 new-price: 230
