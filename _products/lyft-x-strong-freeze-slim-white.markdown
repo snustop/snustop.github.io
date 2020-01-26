@@ -13,7 +13,6 @@ composition: Белый
 stock-list: Лучший выбор
 price: 230
 opt-price: 207
-new-price: 230
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
 availability-descr: В наличии
 has_availability: true
