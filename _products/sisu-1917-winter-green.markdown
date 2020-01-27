@@ -14,8 +14,8 @@ composition: Dry
 price: 150
 opt-price: 135
 image: "/img/products/sisu-1917-fresh-wintergreen-vit-portion.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 14
 nicotine: 20
 portions: 20
