@@ -12,9 +12,10 @@ brand: Lyft
 composition: Белый
 stock-list: Лучший выбор
 price: 230
-opt-price: 207
+opt-price: 171
+new-price: 190
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
-availability-descr: В наличии
+availability-descr: Акция до 21:00 6 февраля
 has_availability: true
 gramm: 16.8
 nicotine: 16
