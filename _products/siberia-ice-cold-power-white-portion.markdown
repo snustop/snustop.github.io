@@ -5,7 +5,7 @@ position: 17
 title-seo: Siberia -80°C ice cold power white portion snus купить в Украине
 descr: Синяя сибирь по крепости между odens cold dry и siberia white dry, пакетики
   очень приятные и немного увлажненные. Отправка по Украине и в Киев.
-product-name: Siberia Ice Cold Power White Portion
+product-name: Синяя сибирь White portion 20 грамм
 product-alt: Siberia ice cold power white portion snus
 strong: Крепкий
 brand: Siberia
@@ -15,9 +15,9 @@ opt-price: 180
 image: "/img/products/siberia-ice-cold-power-white.jpg"
 availability-descr: В наличии
 has_availability: true
-gramm: 15
+gramm: 20
 nicotine: 24
-portions: 16-18
+portions: "±20"
 taste: Мята, табак
 form: Порционный, увлажненный
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
@@ -30,4 +30,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 
 **Снюс синяя сибирь** по крепости немного крепче [оденса кд](/odens-cold-dry), но слабее [красной сибири](/siberia-white-dry-slim), пакетики более влажные и очень мягкие.<br>
 Никотиновый удар быстрый, но не такой долгий как в пакетах dry.
-Идеально подойдет любителям **odens cold dry**.
+Идеально подойдет любителям **odens cold dry**.<br>
+В новой 20-ти граммовой версии стало больше пакетов, теперь ±20 порций. Обратите внимание что порции [White](/white-dry-snus), но при этом не Dry, и не путать с [полностью белыми](/all-white-snus) пакетами, как в [Lyft Freeze](/lyft-x-strong-freeze-slim-white).<br>
+Подойдет любителям средней крепости табаков. 
