@@ -11,11 +11,10 @@ strong: Крепкий
 brand: Siberia
 stock-list: Акция
 price: 210
-opt-price: 99
-new-price: 110
+opt-price: 189
 image: "/img/products/siberia-blue-slim-white.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 24
 portions: 21-22
