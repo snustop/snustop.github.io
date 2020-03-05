@@ -2,20 +2,19 @@
 title: skruf-super-white-slim-fresh-strong
 date: 2018-07-16 10:20:00 Z
 position: 28
-title-seo: Skruf Super White Slim Fresh Strong No.3
-descr: Белый снюс как Epok, только не содержит табака. Вместо него используются другие
-  растительные волокна. Низкая крепость 12-14 мг/г. 24 пакетика в банке. Мятный вкус.  Пакетики
-  приятные и удобные.
-product-name: Skruf Super White Slim Fresh Strong No.3
-product-alt: Skruf Super White Slim Fresh Strong No.3
-strong: Низкой крепости
+title-seo: Skruf Super White Slim Fresh Strong No.4
+descr: Белый снюс как Lyft, не содержит табака. Вместо него используются другие растительные
+  волокна. Средняя крепость 17 мг/г. 24 пакетика в банке. Приятный мятный вкус.
+product-name: Skruf Super White Slim Fresh Strong No.4
+product-alt: Skruf Super White Slim Fresh Strong No.4
+strong: Крепкий
 brand: Other Brands
 composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/skruf-super-white-slim-fresh-no3-strong-new.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 17.3
 nicotine: 12-14
 portions: 24
@@ -24,7 +23,7 @@ form: Порционный, бестабачный
 composition-product: Растительные волокна, вода, соль, никотин, ароматизатор
 ---
 
-Белый снюс становится популярным, и это не удивительно, он не оставляет следов на зубах, а эффект такой же как и от традиционного снюса. Ярким представителем белого снюса является [epok ice cool mint](/epok-strong-ice-cool-mint).<br>
-В банке **Skruf Super White Slim Fresh Strong №3** такие же белые пакеты как и в [снюсe Epok](/epok), только в самих пакетах не табак, а растительные волокна и никотин. Это интересный продукт, тем, кто не только хочет **бросить курить**, но и **отказаться от табака**.<br>
+Белый снюс становится популярным, и это не удивительно, он не оставляет следов на зубах, а эффект такой же как и от традиционного снюса. Ярким представителем белого снюса является [lyft ice cool mint](/lyft-strong-ice-cool-mint-slim-all-white).<br>
+В банке **Skruf Super White Slim Fresh Strong №4** такие же белые пакеты как и в [снюсe Lyft](/lyft), только в самих пакетах не табак, а растительные волокна и никотин. Это интересный продукт, тем, кто не только хочет **бросить курить**, но и **отказаться от табака**.<br>
 Аромат - свежий запах мяты. Порции мягкие и удобные, хорошо сидят под губой, ничем не отличаются от традиционного снюса. Вкус приятный, слегка сладкий вкус мяты.<br>
-Подойдет любителям некрепких табаков. Хоть данный снюс и позиционируются как крепкий (крепость 12-14 мг никотина), но на деле это не так, он слабее того же эпока. 
+Подойдет любителям крепких табаков. Хоть данный снюс и позиционируются как крепкий (крепость 17 мг никотина), но на деле это не так, он слабее того же [Lyft Freeze](/lyft-x-strong-freeze-slim-white). 
