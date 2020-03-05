@@ -15,7 +15,7 @@ opt-price: 162
 availability-descr: В наличии
 has_availability: true
 gramm: 16
-portions: 20
+portions: "±20"
 similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте
   полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
   style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg\"
