@@ -2,7 +2,7 @@
 title: g4-cryo-slim-all-white-super-strong
 date: 2018-07-27 16:03:00 Z
 position: 4
-title-seo: G.4 CRYO Slim All White Super Strong — белый табак
+title-seo: G.4 CRYO Slim All White Super Strong — белый снюс
 descr: Белый снюс, 24 пакетика, приятный мятно-ванильный вкус. Крепость 22 мг никотина,
   по ощущениям немного крепче эпока. Не красит зубы. Высылаем новой почтой
 product-name: G.4 CRYO Slim All White Super Strong
@@ -38,7 +38,11 @@ G.4 CRYO преподносится как очень крепкий, с сод�
 Данный снюс подойдет любителям средних и крепких табаков. Он конечно слабее красной сибири, но все равно от него хороший эффект.
 Так же хорошо зайдет любителям эпока и нового [Lyft Snus All White](/lyft-strong-ice-cool-mint-slim-all-white).
 
-<div class="mb-2">
-<img class="img-fluid" style="width:49%" src="/img/products/cryo/cryo-snus-g4.jpg" alt="G.4 CRYO Slim All White Super Strong - купить снюс">
-<img class="img-fluid" style="width:49%" src="/img/products/cryo/g4cryo-snus.jpg" alt="Snus G.4 CRYO Slim All White Super Strong">
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/cryo/g4-cryo-all-white-open-portion.jpg" title="Белый снюс (Ванильный крио)"><img class="img-fluid" src="/img/products/cryo/g4-cryo-all-white-open-portion.jpg" alt="G4 Cryo All White Snus Open"></a>
+	<a class="mr-2" href="/img/products/cryo/cryo-all-white-open-snus.jpg" title="G4 Cryo All White"><img class="img-fluid" src="/img/products/cryo/cryo-all-white-open-snus.jpg" alt="Ванильный g4 Cryo"></a>
+	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-open.jpg" title="Как открыть банку? Потяните за open, след фото"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-open.jpg" alt="Ванильный g4 Cryo открыть"></a>
+	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-open.jpg" title="Тяните ленточку"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-open.jpg" alt="Ванильный g4 Cryo открываем"></a>
+	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-strong.jpg" title="g4 cryo крепче чем <a href='/general-g4-slim-apple-white'>g4 Apple</a>"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-strong.jpg" alt="g4 cryo крепче чем g4 apple"></a>
+	<a href="/img/products/cryo/cryo-and-apple-strong.jpg" title="g4 cryo крепче чем <a href='/general-g4-slim-apple-white'>g4 Apple</a>"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-strong.jpg" alt="g4 cryo крепче чем g4 apple"></a>
 </div>
