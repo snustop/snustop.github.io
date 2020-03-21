@@ -21,6 +21,14 @@ gramm: 13
 nicotine: 45
 portions: 20
 taste: Табачный вкус с нотами мяты
+similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/thunder-x-slim-white-dry\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс
+  тандер х слим\"></a>\n</div>"
 ---
 
 Действует акция (99 грн, вместо 155), по датам свежий, до **10 декабря 2020** года (на фото видно), соблюдены все требования для качественного хранения данного продукта (температура 8℃), но порции суховаты. Количество ограничено.<br>
