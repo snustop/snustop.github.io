@@ -26,7 +26,7 @@ similar-product_body: "<p>Похожи по крепости и по цвету 
   картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
   FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
   alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
   alt=\"Снюс Лифт ice cool mint strong\"></a>\n</div>"
