@@ -13,10 +13,10 @@ brand: Swedish Match
 composition: Оригинальный
 stock-list: Акция
 price: 225
-opt-price: 171
-new-price: 190
+opt-price: 157
+new-price: 175
 image: "/img/products/onyx.png"
-availability-descr: В наличии
+availability-descr: Просрочен (на свойства не влияет)
 has_availability: true
 gramm: 21.6
 nicotine: 12
