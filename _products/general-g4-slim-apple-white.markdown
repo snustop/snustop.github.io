@@ -23,12 +23,14 @@ portions: 24
 taste: Яблоко, мята, табак
 form: Порционный, белый, slim
 composition-product: Табак, вода, пищевые волокна, соль, пищевой ароматизатор
-similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
-  alt=\"Lyft ice cool mint strong snus\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 Белый снюс от **Swedish Match*, приятный яблочный🍏 вкус с нотками мяты.<br>
