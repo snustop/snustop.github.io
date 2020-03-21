@@ -29,8 +29,8 @@ similar-product_body: "<p>Товары которые часто берут лю
 
 Такая же как и [красная сибирь](/siberia-white), только в slim исполнении. Когда открываете банку, то слышите очень резкий запах мяты.<br>Пакетики  более тонкие, чем в обычной красной порции Сибири, очень комфортно их держать под губой.<br>Никотиновый удар очень сильный.<br>Пакетиков в банке больше, но они немного меньше.<br>Подойдет любителями чрезвычайно крепкого табака.
 
-<div class="mb-3">
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/siberia-snus-ukraine.jpg" alt="снюс красная сибирь слим" />
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/snus-siberia-white-dry-kiev.jpg" alt="Siberia -80°C Slim White Dry Snus" />
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg" alt="Снюс красная сибирь" />
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg" title="Красная сибирь слим порции, а сзади <a href='/siberia-brown-slim'>коричневая слим</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg" alt="Красная сибирь слим"></a>
+	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь самый крепкий шведский снюс, на заднем фоне <a href='//g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
+	<a href="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" title="Порции на солнце"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" alt="Красная сибирь слим открытая, порции"></a>
 </div>
