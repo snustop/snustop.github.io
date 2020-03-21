@@ -20,12 +20,14 @@ nicotine: 22
 portions: 24
 taste: Ваниль, мята
 form: Порционный, белый, slim
-similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
-  alt=\"Lyft ice cool mint strong snus\"></a>\n</div>"
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/snus-lyft-ice-cool-mint.jpg\"
+  alt=\"Снюс Lyft ice cool\"></a>\n</div>"
 ---
 
 Самый крепкий снюс из белых, с приятным ванильным вкусом.<br>
