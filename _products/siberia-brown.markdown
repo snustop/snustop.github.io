@@ -28,9 +28,10 @@ similar-product_body: "<p>Вас могут заинтересовать. <small
   src=\"/img/products/corvus/corvus-brutal-open.jpg\" alt=\"Корвус брутал открытый\"></a>\n</div>"
 ---
 
-**Действует акция** (120 грн, вместо 200), просроченный, соблюдены все требования для качественного хранения данного продукта (температура 8℃). Количество ограничено.<br>
-**На что это влияет?** Никотиновый удар по-прежнему сильный, но наступает не так быстро как в свежем и табачный вкус менее насыщен.  В свежем снюсе это происходит за считанные секунды, так как порции более влажные. Ниже на фото, несмотря на то что он просроченный, порции достаточно влажные.<br>
-<img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-open.jpg" alt="Siberia Brown Open"><br>
 Siberia Brown(**коричневая сибирь**) по содержанию никотина такая же, как и [Siberia white dry(43mg)](/siberia-white) но, по ощущениям чуть слабее. Порций в пачке больше чем в красной и они более влажные. Никотиновый удар очень быстрый, так как не нужно ждать пока пакет увлажнится, вкус более насыщенный.
 Приятный вкус табака.
 Идеально подойдет любителям крепких табаков без всяких ароматизаторов.
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/siberia-brown/siberia-brown-open-2.jpg" title="Коричневая сибирь большие пакеты"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-open-2.jpg" alt="Коричневая сибирь большие пакеты открытая"></a>
+	<a href="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" title="Коричневые сибири, большие и  <a href='/siberia-brown-slim'>тонкие пакеты</a>"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" alt="Коричневая сибирь слим vs коричневая сибирь большие пакеты"></a>
+</div>
