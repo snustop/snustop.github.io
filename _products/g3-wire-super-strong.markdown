@@ -21,6 +21,14 @@ nicotine: 26
 portions: 24
 taste: Ягоды, табак, тропические фрукты
 form: Порционный, сухой, slim
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 General G.3 Wire Super Strong Slim White Dry Portion Snus - имеет фруктовый аромат красных ягод и тропических фруктов, в сочетании с большим количеством никотина и минимальной влажностью.<br>
