@@ -35,3 +35,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 
 Заказывая данный снюс на свой страх и риск, мы его не рекомендуем из-за низкого качества и множества побочных эффектов (головная боль, ускоренное сердцебиение, тошнота, сильно разъедает десна).
 [Смотреть всю линейку корвус](/corvus)
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/corvus/corvus-hulk-open-snus.jpg" title="Корвус халк зеленые порции"><img class="img-fluid" src="img/products/corvus/corvus-hulk-open-snus.jpg" alt="Корвус халк снюс"></a>
+	<a href="/img/products/corvus/corvus-hulk-portion.jpg" title="Корвус халк 25 порций slim"><img class="img-fluid" src="/img/products/corvus/corvus-hulk-portion.jpg" alt="Корвус халк 25 порций"></a>
+</div>
