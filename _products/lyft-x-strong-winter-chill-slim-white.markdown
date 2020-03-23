@@ -23,6 +23,14 @@ taste: Хвоя-эвкалипт и нотки зимней ягоды
 form: Порционный, all white, slim
 composition-product: Вода, соль, волокна эвкалипта и сосны, никотиновый экстракт,
   поваренная сода, пищевой ароматизатор.
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 Lyft Winter Chill X-strong - невероятно крепкий снюс от бренда [Lyft](/lyft). На банке стоит 4 точки - что означает очень крепкий, но на деле сравним с [lyft ice cool mint (3 точки)](/lyft-strong-ice-cool-mint-slim-all-white). Вкус необычный, хвоя-эвкалипт и зимняя ягода. (На любителя, многие сравнивают его со вкусом мази "звездочка").
