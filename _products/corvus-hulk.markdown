@@ -20,6 +20,14 @@ portions: "~25"
 taste: Фейхоа
 form: Порционный, Slim
 composition-product: Неизвестно
+similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t<a href=\"/corvus-logan\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus/covrus-logan-portion.jpg\" alt=\"Корвус
+  логан со вкусом дыни\"></a>\n\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open-snus.jpg\" alt=\"Корвус
+  брутал\"></a>\n</div>"
 ---
 
 Снюс Corvus Hulk со вкусом киви 🥝, но на самом деле это вкус фейхоа (что-то среднее между киви и клубникой), но этот вкус очень приедается после нескольких вкидок и становится противно чувствовать даже запах. 
