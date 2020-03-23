@@ -19,6 +19,13 @@ nicotine: 43
 portions: 20
 taste: Классический
 form: Порционный, влажный
+similar-product_body: "<p>Вас могут заинтересовать. <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/corvus-brutal\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/corvus/corvus-brutal-open.jpg\" alt=\"Корвус брутал открытый\"></a>\n</div>"
 ---
 
 **Действует акция** (120 грн, вместо 200), просроченный, соблюдены все требования для качественного хранения данного продукта (температура 8℃). Количество ограничено.<br>
