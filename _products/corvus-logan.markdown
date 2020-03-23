@@ -36,5 +36,5 @@ Corvus snus Logan Melon со вкусом дыни. Заявлено 50 мг н�
 [Смотреть всю линейку корвус](/corvus)
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/covrus-logan-portion.jpg" title="Корвус логан желтые порции"><img class="img-fluid" src="img/products/corvus/covrus-logan-portion.jpg" alt="Корвус логан 25 порций"></a>
-	<a href="/img/products/corvus/corvus-logan-open.jpg" title="Корвус со вкусом дыни"><img class="img-fluid" src="//img/products/corvus/corvus-logan-open.jpg" alt="Корвус логан со вкусом дыни"></a>
+	<a href="/img/products/corvus/corvus-logan-open.jpg" title="Корвус со вкусом дыни"><img class="img-fluid" src="/img/products/corvus/corvus-logan-open.jpg" alt="Корвус логан со вкусом дыни"></a>
 </div>
