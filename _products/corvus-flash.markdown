@@ -20,6 +20,14 @@ portions: "~25"
 taste: Апельсин
 form: Порционный
 composition-product: Неизвестно
+similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t<a href=\"/corvus-logan\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus/covrus-logan-portion.jpg\" alt=\"Корвус
+  логан со вкусом дыни\"></a>\n\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open-snus.jpg\" alt=\"Корвус
+  брутал\"></a>\n</div>"
 ---
 
 Corvus Flash со вкусом апельсина 🍊. Заявленная крепость 50 мг, но ощущается слабее.
