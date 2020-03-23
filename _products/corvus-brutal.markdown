@@ -37,3 +37,8 @@ Corvus – популярный российский бренд бестабач
 
 Подробнее: https://snustop.com.ua/corvus
 [Смотреть всю линейку корвус](/corvus)
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-snus.jpg" title="Корвус брутал 66 мг никотина"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-snus.jpg" alt="Корвус брутал 66 мг никотина"></a>
+	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-2.jpg" title="Корвус брутал ±20 порций"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-2.jpg" alt="Corvus Brutal Snus открытый"></a>
+	<a href="/img/products/corvus/corvus-brutal-portion.jpg" title="Порции часто рвутся"><img class="img-fluid" src="/img/products/corvus/corvus-brutal-portion.jpg" alt="Корвус brutal зеленая порция"></a>
+</div>
