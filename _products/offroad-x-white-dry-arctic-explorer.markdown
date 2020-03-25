@@ -12,8 +12,8 @@ brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 155
-opt-price: 89
-new-price: 99
+opt-price: 108
+new-price: 120
 image: "/img/products/offroad-x-white-dry-arctic-explorer.jpg"
 availability-descr: Акция (суховат)
 has_availability: true
