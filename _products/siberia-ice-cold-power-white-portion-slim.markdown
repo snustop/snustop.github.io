@@ -9,10 +9,12 @@ product-name: Siberia -80°C Slim ICE COLD POWER
 product-alt: Siberia -80°C Slim ICE COLD POWER White Snus
 strong: Крепкий
 brand: Siberia
+stock-list: Акция
 price: 210
-opt-price: 189
+opt-price: 89
+new-price: 99
 image: "/img/products/siberia-blue-slim-white.jpg"
-availability-descr: В наличии
+availability-descr: Просрочен
 has_availability: true
 gramm: 20
 nicotine: 24
