@@ -18,20 +18,21 @@ has_availability: false
 gramm: 16
 nicotine: 42
 portions: 20-24
-similar-product_body: "<p>Товары которые часто берут любители красной сибири. <small>Жмите
-  на картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg\"
-  alt=\"красная сибирь слим\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open.jpg\" alt=\"Корвус
+  брутал открытый\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\" alt=\"Лифт
+  фриз\"></a>\n<a href=\"/thunder-x-slim-white-dry\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс тандер х слим\"></a>\n</div>"
 ---
 
 Siberia Extremely Strong White Dry(**красная сибирь**) считается самым крепким **жевательным табаком** из всех существующих, содержит 43 мг никотина.
 Пакетики белые и сухие, имеют аромат мяты.<br>Это <i>новая версия</i> в которой добавили количество пакетов, теперь тут 20-24 порции (ранее было 15-17 порций).<br>
 В Украине довольно-таки популярен. Подойдет тем, кто уже имел дело с табаком, новичкам не рекомендуется из-за сильного никотинового удара.<br>
 Так же есть [slim версия сибири](/siberia-white-dry-slim) она более удобная, так как пакеты не такие <i>"толстые"</i> и удобно сидят под губой.
-<div class="mb-3">
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry/siberia-snus-white-dry.jpg" alt="Siberia -80°C EXTREMELY Strong White Dry">
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry/siberia-snus.jpg" alt="Снюс красная сибирь">
-<img class="img-fluid" style="width:32%" src="/img/products/siberia-white-dry/snus-siberia.jpg" alt="красная сибирь снюс">
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" title="Красная сибирь большие порции"><img class="img-fluid" src="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" alt="Красная сибирь большие порции"></a>
+	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь слим, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
+	<a href="/img/products/siberia-white-dry/siberia-large-date.jpg" title="Годен до 6 ноября 2020 года"><img class="img-fluid" src="/img/products/siberia-white-dry/siberia-large-date.jpg" alt="Красная сибирь дата"></a>
 </div>
