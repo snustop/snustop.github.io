@@ -11,7 +11,7 @@ brand: Siberia
 composition: Dry
 stock-list: Акция
 price: 750
-opt-price: 675
+opt-price: "-"
 image: "/img/products/5-siberia.png"
 availability-descr: Акция
 has_availability: true
