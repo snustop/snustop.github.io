@@ -16,7 +16,7 @@ price: 225
 opt-price: 158
 new-price: 175
 image: "/img/products/onyx.png"
-availability-descr: Уценка, просрочен
+availability-descr: Уценка (просрочен)
 has_availability: true
 gramm: 21.6
 nicotine: 12
