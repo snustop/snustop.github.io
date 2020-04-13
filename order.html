@@ -33,11 +33,10 @@ layout: compress
 					</div>
 
 					<span id="form-total">Итого: <span class="simpleCart_grandTotal"></span><br>
-						<span id="cart-rate">Скидка 0%: 0 грн</span><br>
-						К оплате: <b class="simpleCart_grandTotal" id="cart-discount"></b></span>
+					<span id="cart-rate">Скидка 0%: 0 грн</span><br>
+					К оплате: <b class="simpleCart_grandTotal" id="cart-discount"></b></span>
 					
 				</div>
-				
 				
 				<form id="contact-form">
 					<div class="form-group">
@@ -47,6 +46,10 @@ layout: compress
 					<div class="form-group">
 						<label for="message">Данные для отправки</label>
 						<textarea class="form-control" name="Сообщение" id="message" rows="3" maxlength="300" placeholder="город, отделение Новой Почты, фамилия имя, наложенный платеж или перевод на карту, прочие пожелания"></textarea>
+					</div>
+					<div class="form-group">
+						<label for="contact-social" class="text-secondary">Телеграмм или инстаграм для связи (не обязательно)</label>
+						<input type="text" name="social" class="form-control" id="contact-social" placeholder="@username" maxlength="30">
 					</div>
 					<input type="hidden" name="_subject" value="Новый заказ" />
 					<button id="send-order" type="submit" class="btn btn-success">Отправить</button>
