@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-fenix.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: 17 апреля будет
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "~25"
