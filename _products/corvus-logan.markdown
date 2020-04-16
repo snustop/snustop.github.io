@@ -1,7 +1,7 @@
 ---
 title: corvus-logan
 date: 2019-10-31 11:35:00 Z
-position: 37
+position: 36
 title-seo: "Corvus Logan Melon\U0001F348 снюс купить в Украине"
 descr: "Corvus Logan  со вкусом дыни \U0001F348. Крепость 50 мг никотина. 25 порций.
   Порции тонкие и маленькие. "
@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-logan.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: 17 апреля будет
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "~25"
