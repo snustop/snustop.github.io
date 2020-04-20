@@ -1,5 +1,5 @@
 ---
-title: can-menthol-strong
+title: chn-menthol-strong
 date: 2020-04-20 11:26:00 Z
 title-seo: Снюс CHN Strong Mentol
 descr: Снюс CHN Strong Mentol — крепкая бестабачная жевательная смесь от Corvus. Крепость
