@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 220
 opt-price: 198
 image: "/img/products/snusbiz-loose-snus-divine-cold.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 50
 nicotine: 27
 portions: рассыпной
