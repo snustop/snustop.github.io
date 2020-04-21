@@ -10,10 +10,36 @@ $cart_code = $_POST['some_code'];
 $cart_fileds = $_POST['some_param'];
 $order_list = (array) json_decode(stripslashes($_POST['order_list']));  //(array) json_decode(stripslashes($_POST["cnt_rest"]));
 
+// функция которая убирает лишние символы и +38, чтоб привести номер в единый формат
+function unify_phone_numbers($phones) {
+    // Replace unwanted symbols.
+    $pattern = [
+        '/[\s\(\)+-]+/',
+        '/^38/',
+    ];
+    $replacement = '';
+    $phones = preg_replace($pattern, $replacement, $phones);
+
+    // Append zero at start.
+    $phones = array_map(function ($value) {
+        return $value[0] != '0' ? '0' . $value : $value;
+    }, $phones);
+
+    return $phones;
+}
+
+$phones_orig = [
+    $phone
+];
+
+$phone_format = unify_phone_numbers($phones_orig);
+$viber = '<a href="viber://chat?number=%2B38' . $phone_format[0] . '">' . $phone .'</a>';
+
 $token = "554609758:AAEomr1gL9A_rD6ivlvQ3y4-FsL-6Fa4Lt8";
 $chat_id = "-256547191";
 $arr = array(
 	'Телега или инст: ' => $social,
+	'Вайбер: ' => $viber,
   'Телефон: ' => $phone,
   'Cообщение: ' => $mess,
   'Промо код: ' => $cart_code,
