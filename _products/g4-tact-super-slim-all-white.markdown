@@ -1,7 +1,7 @@
 ---
 title: g4-tact-super-slim-all-white
 date: 2019-10-31 21:54:00 Z
-position: 30
+position: 29
 title-seo: G4 TACT Strong Super Slim All Spearmint
 descr: 'G4 Tach - белый снюс с невероятно тонкими пакетами, которые удобно сидят под
   губой. Крепость 19 грамм никотина. Количество порций: 20.  Вкус - мята.'
