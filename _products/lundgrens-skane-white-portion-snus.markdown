@@ -10,7 +10,7 @@ strong: Низкой крепости
 brand: Other Brands
 price: 185
 opt-price: 167
-image: "/img/products/"
+image: "/img/products/lundgrens-white.jpg"
 has_availability: true
 gramm: '19,2'
 nicotine: 8
