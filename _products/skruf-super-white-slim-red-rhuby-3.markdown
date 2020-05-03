@@ -11,7 +11,7 @@ brand: Other Brands
 composition: Белый
 price: 215
 opt-price: 194
-image: "/img/products/skruf-super-white-slim-red-rhuby-no3.png"
+image: "/img/products/skruf-super-white-slim-red-rhuby-no3.jpg"
 gramm: '17,3'
 nicotine: 12
 portions: 24
