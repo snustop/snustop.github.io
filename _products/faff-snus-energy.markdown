@@ -2,10 +2,10 @@
 title: faff-snus-energy
 date: 2020-05-03 17:36:00 Z
 title-seo: Снюс Faff Energy Red Bull 75 мг никотина
-descr: 'Снюс Faff Energy 75 мг, очень крепкий снюс со вкусом Red Bull. 29 тонких порций
+descr: 'Снюс Фафф Energy 75 мг, очень крепкий снюс со вкусом Red Bull. 29 тонких порций
   белого цвета. Наш телеграмм: 380675680230'
-product-name: Faff Energy
-product-alt: Снюс Faff Energy Red Bull 75 м
+product-name: Faff Cola
+product-alt: Снюс Faff Energy 75 mg
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
