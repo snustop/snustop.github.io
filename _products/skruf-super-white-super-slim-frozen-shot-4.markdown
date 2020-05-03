@@ -11,7 +11,7 @@ brand: Other Brands
 composition: Белый
 price: 215
 opt-price: 194
-image: "/img/products/skruf-super-white-frozen-shot-4.jpg"
+image: "/img/products/skruf-super-white-super-slim-frozen-shot-no4.png"
 gramm: 17.2
 nicotine: 18
 portions: 24
