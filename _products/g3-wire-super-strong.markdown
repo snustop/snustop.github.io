@@ -12,8 +12,8 @@ strong: Крепкий
 brand: Swedish Match
 composition: Dry
 stock-list: Акция
-price: 171
-opt-price: 200
+price: 200
+opt-price: 171
 new-price: 190
 image: "/img/products/g3-wire-super-strong.jpg"
 availability-descr: В наличии
