@@ -33,7 +33,7 @@ $phones_orig = [
 ];
 
 $phone_format = unify_phone_numbers($phones_orig);
-$viber = '<a href="viber://chat?number=%2B38' . $phone_format[0] . '">' . $phone .'</a>, 38'. $phone_format[0];
+$viber = '<a href="https://crm365.top/viber.php?n=' . $phone_format[0] . '">' . $phone .'</a>, 38'. $phone_format[0];
 
 $token = "554609758:AAEomr1gL9A_rD6ivlvQ3y4-FsL-6Fa4Lt8";
 $chat_id = "-256547191";
