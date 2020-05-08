@@ -84,7 +84,7 @@ Lyft (выпускающийся вместо Epok на том же заводе
 	</tbody>
 </table>
 
-<div class="faq-details" itemscope itemtype="https://schema.org/FAQPage">
+<div class="faq-details mb-2" itemscope itemtype="https://schema.org/FAQPage">
 	<h2>Частые вопросы:</h2>
 	<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 		<summary itemprop="name">💪Какая крепость у снюса Lyft?</summary>
