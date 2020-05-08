@@ -83,3 +83,41 @@ Lyft (выпускающийся вместо Epok на том же заводе
 		</tr>
 	</tbody>
 </table>
+
+<div class="faq-details" itemscope itemtype="https://schema.org/FAQPage">
+	<h2>Частые вопросы:</h2>
+	<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+		<summary itemprop="name">💪Какая крепость у снюса Lyft?</summary>
+		<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+			<div itemprop="text">
+				Есть 4-ри крепости:
+				<ul>
+					<li><a href="/lyft-x-strong-freeze-slim-white">Lyft Frezze (серый)</a> самый крепий, в нем заявленно 16 мг никотина, но ощущается больше.</li>
+					<li><a href="/lyft-strong-ice-cool-mint-slim-all-white">Lyft Ice Cool (синий)</a> 14 мг никотина.</li>
+					<li><a href="/lyft-x-strong-winter-chill-slim-white">Winter Chill</a> заявленно 16 мг никотина, но ощущается примерно как 14 мг у синего лифта.</li>
+					<li><a href="/lyft-strong-licorice-slim-all-white">Лифт Лакрица</a> 14 мг никотина, но ощущается слабее синего лифта, так как не мятный, а мята добавляет крепости.</li>
+					<li><a href="/lyft-strong-lime-slim-all-white">Lyft Lime Strong</a> 14 мг.</li>
+					<li><a href="/lyft-tropic-breeze-slim-all-white">Lyft Tropic Breezee</a> 8 мг.</li>
+				</ul>
+			</div>
+		</div>
+	</details>
+	<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+		<summary itemprop="name">💰Какая цена на снюс Lyft в Украине?</summary>
+		<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+			<p itemprop="text">У нас все позиции по 230 грн. Иногда бывает акции и скидки, чтоб не пропустить их, подпишитесь на наш телеграмм канал: <a href="//t.me/snustopUA" title="Канал telegram">@snustopUA</a></p>
+		</div>
+	</details>
+	<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+		<summary itemprop="name">😋Какие вкусы есть у Lyft?</summary>
+		<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+			<p itemprop="text"><a href="/lyft-x-strong-freeze-slim-white">Мята (freeze)</a>, <a href="/lyft-strong-ice-cool-mint-slim-all-white">Мята (ice cool)</a>, <a href="/lyft-urban-vibe">Красные ягодоы (Urban Vibe)</a>, <a href="/lyft-strong-licorice-slim-all-white">Лакрица</a>, <a href="/lyft-strong-lime-slim-all-white">Лайм</a>, <a href="/lyft-tropic-breeze-slim-all-white">Тропические фрукты</a>. Существуют еще вкусы: <a href="/lyft-strawberry-bloom-slim-all-white">Клубника 🍓</a>, <a href="/lyft-blueberry-slim-all-white-portion">Черная смородина</a>, <a href="/lyft-melon-slim-all-white">Дыня 🍈</a>, но они пока что сняты с производства.</p>
+		</div>
+	</details>
+	<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+		<summary itemprop="name">👍Какой Lyft самый лучший?</summary>
+		<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+			<p itemprop="text">Все по своему хороши, но <a href="/lyft-x-strong-freeze-slim-white">Мята (freeze)</a> самый популярный из-за своей крепости.</p>
+		</div>
+	</details>
+</div>
