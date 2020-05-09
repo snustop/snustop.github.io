@@ -11,7 +11,8 @@ strong: Низкой крепости
 brand: Swedish Match
 composition: Белый
 price: 215
-opt-price: 194
+opt-price: 135
+new-price: 150
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
 availability-descr: В наличии
 has_availability: true

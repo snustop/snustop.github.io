@@ -10,8 +10,10 @@ product-alt: G4 TACT Strong Super Slim All Spearmint
 strong: Крепкий
 brand: Swedish Match
 composition: Белый
+stock-list: Акция
 price: 215
-opt-price: 194
+opt-price: 135
+new-price: 150
 image: "/img/products/G4-TACT-Strong-Super-Slim-All-White-Spearmint.jpg"
 availability-descr: В наличии
 has_availability: true

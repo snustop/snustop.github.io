@@ -10,8 +10,10 @@ product-alt: General G.3 Extra Strong Slim White Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Dry
+stock-list: Акция
 price: 215
-opt-price: 194
+opt-price: 107
+new-price: 120
 image: "/img/products/general-G3-slim-white.png"
 availability-descr: В наличии
 has_availability: true
