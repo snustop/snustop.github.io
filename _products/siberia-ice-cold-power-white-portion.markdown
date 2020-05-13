@@ -13,8 +13,8 @@ composition: Порционный
 price: 200
 opt-price: 180
 image: "/img/products/siberia-ice-cold-power-white.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: "±20-22"
