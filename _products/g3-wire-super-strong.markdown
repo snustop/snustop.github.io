@@ -13,11 +13,10 @@ brand: Swedish Match
 composition: Dry
 stock-list: Акция
 price: 215
-opt-price: 108
-new-price: 120
+opt-price: 194
 image: "/img/products/g3-wire-super-strong.jpg"
-availability-descr: Просрочен (до 14 мая)
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,6'
 nicotine: 26
 portions: 24
