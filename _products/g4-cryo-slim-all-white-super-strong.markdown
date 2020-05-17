@@ -1,7 +1,7 @@
 ---
 title: g4-cryo-slim-all-white-super-strong
 date: 2018-07-27 16:03:00 Z
-position: 7
+position: 38
 title-seo: G.4 CRYO Slim All White Super Strong — белый снюс
 descr: Белый снюс, 24 пакетика, приятный мятно-ванильный вкус. Крепость 22 мг никотина,
   по ощущениям немного крепче эпока. Не красит зубы. Высылаем новой почтой
@@ -13,7 +13,7 @@ composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
-availability-descr: В наличии
+availability-descr: Заканчивается
 has_availability: true
 gramm: 19.2
 nicotine: 22
