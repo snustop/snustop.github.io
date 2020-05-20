@@ -15,8 +15,8 @@ stock-list: Лучший выбор
 price: 215
 opt-price: 194
 image: "/img/products/general-volt.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.6
 nicotine: 26
 portions: 24
