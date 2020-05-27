@@ -10,8 +10,10 @@ product-name: Skruf Super White Slim красный ревень №3
 product-alt: Skruf Super White Slim Red Rhuby 3
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 215
-opt-price: 194
+opt-price: 176
+new-price: 195
 image: "/img/products/skruf-super-white-slim-red-rhuby-no3.jpg"
 gramm: '17,3'
 nicotine: 12
