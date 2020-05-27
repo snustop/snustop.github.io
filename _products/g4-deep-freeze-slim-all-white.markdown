@@ -7,7 +7,7 @@ descr: G.4 Deep Freeze белый снюс — очень крепкий, со �
   24 порции Slim, крепость 18,5 мг никотина, крепче чем Lyft Freeze X-strong.
 product-name: G.4 Deep Freeze Slim All White
 product-alt: 'G.4 Deep Freeze Slim All White '
-strong: Крепкий
+strong: Очень крепкий
 brand: Swedish Match
 composition: Белый
 stock-list: Акция
