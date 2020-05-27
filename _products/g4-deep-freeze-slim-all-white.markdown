@@ -23,14 +23,14 @@ portions: 24
 taste: Эвкалипт
 form: Порционный, белый, Slim
 composition-product: Целлюлоза, табак, вода, соль, пищевые ароматизаторы
-similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n<a href=\"/g4-dark-frost\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/deep/deep-dark-frost-open.jpg\"
-  alt=\"Снюс g4 Темный мороз\"></a>\n</div>"
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 G.4 Deep Freeze — очень крепкий белый снюс, со вкусом эвкалипта и ментола. Он не слишком сладкий, и в нем есть приятная свежесть.<br>
