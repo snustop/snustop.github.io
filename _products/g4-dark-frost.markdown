@@ -35,6 +35,6 @@ similar-product_body: "<p>Похожи по крепости и по цвету 
 Аромат и вкус: легкий и приятный аромат ментола и темных ягод (напоминает чернику с нотками винограда). Порции slim версии, очень мягкие и удобно сидят под губой с минимальным выделением слюны.<br>
 Как только кладете под губу, сразу чувствуется сильное жжение, а затем сразу приятное охлаждение. Заявлено 18.5 мг никотина, но ощущается больше, я б поставил его на равне с [красной Сибирью](/siberia-white-dry-slim).
 <div class="popup-gallery d-flex mb-2">
-	<a class="mr-2" href="/img/products/deep/deep-dark-frost-open.jpg" title="G.4 DARK FROST крепче чем <a href='/lyft-x-strong-freeze-slim-white'>Lyft Freeze</a>"><img class="img-fluid" src="/img/products/deep/deep-dark-frost-open.jpg" alt="Красная сибирь большие порции"></a>
-	<a href="/img/products/deep/deep-dark-frost-open.jpg" title="G.4 DARK FROST с мятно-ягодным вкусом"><img class="img-fluid" src="/img/products/deep/deep-dark-frost-open.jpg" alt="Красная сибирь большие порции"></a>
+	<a class="mr-2" href="/img/products/deep/deep-dark-frost-open.jpg" title="G.4 DARK FROST крепче чем <a href='/lyft-x-strong-freeze-slim-white'>Lyft Freeze</a>"><img class="img-fluid" src="/img/products/deep/deep-dark-frost-open.jpg" alt="g4 dark frost snus"></a>
+	<a href="/img/products/deep/deep-dark-frost-open.jpg" title="G.4 DARK FROST с мятно-ягодным вкусом"><img class="img-fluid" src="/img/products/deep/deep-dark-frost-open.jpg" alt="Снюс g4 Темный мороз"></a>
 </div>
