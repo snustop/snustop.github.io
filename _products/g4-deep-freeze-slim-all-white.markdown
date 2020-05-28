@@ -37,5 +37,5 @@ G.4 Deep Freeze — очень крепкий белый снюс, со вкус
 В банке 24 порции, пакеты белые, имеют форму Slim — удобно сидят под губой.<br>
 Как только кладете под губу, сразу чувствуется сильное жжение, а затем сразу приятное охлаждение. Заявлено 18.5 мг никотина, но ощущается больше, я б поставил его наравне с [красной Сибирью](/siberia-white-dry-slim). Если сравнивать с [белым лифт фриз](/lyft-x-strong-freeze-slim-white), то g4 deep ощущается немного крепче, на 10%-15% процентов.
 <div class="popup-gallery d-flex mb-2">
-	<a class="mr-2" href="/img/products/deep/deep-freeze-open.jpg" title="Deep freeze очень похож на фриз, но ощущается еще крепче"><img class="img-fluid" src="/img/products/deep/deep-freeze-open.jpg" alt="g4 Deep freeze"></a>
+	<a href="/img/products/deep/deep-freeze-open.jpg" title="Deep freeze очень похож на фриз, но ощущается еще крепче"><img class="img-fluid" src="/img/products/deep/deep-freeze-open.jpg" alt="g4 Deep freeze"></a>
 </div>
