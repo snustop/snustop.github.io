@@ -45,13 +45,13 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 				</div>
 				<div class="col-lg-9">
 					<main class="catalog">
-						<h2">Шведский снюс</h2>
+						<h2>Шведский снюс</h2>
 						<div class="row">
 
 							<!-- PRODUCTS start -->
 							<!-- PRODUCT START -->
 							{% assign sorted_items = site.products | sort:"position" %}
-							{% for product in sorted_items offset:0 limit:15 %}
+							{% for product in sorted_items offset:0 limit:18 %}
 							
 							{% include item-product.html %}
 
@@ -89,7 +89,7 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 						<ul itemprop="text">
 							<li>- Новой почтой 30-40 грн, без наложки (предоплата).</li>
 							<li>- Если наложка, то 40 грн доставка и дополнительно + 20 грн и + 2% от суммы.</li>
-							<li>- Самовывоз - Бесплатно (уточните связавшись с нами: <a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a> или позвонить <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
+							<li>- Самовывоз - Бесплатно (уточните связавшись с нами): <a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a> или позвонить <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
 							<li>- Доставка по городу, зависит от расстояния (уточните связавшись с нами: <a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a> или позвонить <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
 						</ul>
 					</div>
