@@ -8,6 +8,7 @@ descr: Skruf Super White Slim Red Rhuby № 3 — это полностью бе
   дозой никотина. Крепость 12 мг, порции Slim.
 product-name: Skruf Super White Slim красный ревень №3
 product-alt: Skruf Super White Slim Red Rhuby 3
+strong: Средней крепости
 brand: Other Brands
 composition: Белый
 stock-list: Акция
