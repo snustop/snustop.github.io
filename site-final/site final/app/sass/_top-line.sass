@@ -1,0 +1,144 @@
+.top-line
+	padding: 0
+	position: sticky
+	top: 0
+	width: 100%
+	padding: 3px 0
+	z-index: 3
+	background: #151515
+	
+.cart
+	padding: 3px 10px
+	padding-left: 0
+	color: #fff
+	transition: all .3s
+	position: relative
+	span
+		position: absolute
+		top: 2px
+		left: 28px
+		font-size: .9rem
+	&:hover
+		color: #00cdff
+	.icon-basket
+		font-size: 1.2rem
+
+
+.head-contacts
+	color: #fff
+	transition: all .3s
+	letter-spacing: .5px
+	&:hover
+		color: #00cdff
+
+@keyframes shake 
+	10%, 90%
+		transform: translate(-1px)
+	20%, 80%
+		transform: translate(2px)
+	30%, 50%, 70%
+		transform: translate(-4px)
+	40%, 60%
+		transform: translate(4px)
+
+
+.cart-move
+	animation: shake 0.82s cubic-bezier(0.36, 0.07, 0.19, 0.97) both
+
+
+.cart-item
+	display: flex
+	align-items: center
+	padding: 10px 25px 10px 15px
+	border-bottom: 1px solid #eee
+	position: relative
+	img
+		margin-right: 10px
+		width: 75px
+		height: auto
+	.close
+		position: absolute
+		top: 5px
+		right: 10px
+		padding: 5px
+		cursor: pointer
+		font-size: 1.1rem
+
+#cartModal
+	.modal-body
+		padding: 0
+	.cart-total
+		padding: 10px 15px
+
+#contactModal
+	ul
+		margin: 0
+		padding: 0
+	li
+		border-bottom: 1px solid #eee
+		&:last-child
+			border-bottom: none
+	a
+		display: flex
+		align-items: center
+		padding: 5px 5px 5px 25px
+	i
+		margin-right: 7px
+		font-size: 22px
+	.icon-mobile
+		color: #000
+	.icon-viber
+		color: #59267c
+	.icon-whatsapp
+		color: #25d366
+	.icon-vkontakte
+		color: #45668e
+	.icon-instagram
+		color: #e1306c
+	.icon-telegram
+		color: #0088cc
+
+.headerRow
+	display: none
+
+.simpleCart_items
+	.cart-product-name
+		font-weight: 500
+		margin-bottom: 5px
+		display: inline-block
+		a
+			transition: all .3s
+			&:hover
+				color: #0056b3
+	.item-quantity
+		input
+			text-align: center
+			width: 35px
+			border-radius: 0
+			border: none
+			box-shadow: none
+			margin: 0 2px
+	a
+		color: #000
+		display: inline-block
+	.cart-total-price
+		font-weight: 500
+	.item-decrement,
+	.item-increment
+		a
+			color: #fff
+			background: #28a745
+			width: 30px
+			font-weight: bold
+			font-size: 1.2rem
+			text-align: center
+			border-radius: 5px
+	.item-decrement
+		a
+			background: #868e96
+			&:focus
+				background: darken(#868e96, 10%)
+	.item-increment
+		a
+			&:focus
+				background: darken(#28a745, 10%)

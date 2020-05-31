@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<title>{{ page.title-seo }}</title>
+	<meta name="description" content="{{ page.descr }}">
+	<meta name="keywords" content="{{ page.keywords }}">
+	{% if page.url == '/' %}
+		<meta name="yandex-verification" content="156e93b0c44c0145" />
+		<meta name='wmail-verification' content='4c9ee4ffa58c566b64a5e1bdafe28b4b' />
+	{% endif %}
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-touch-icon512.png">
+	<link rel="icon" type="image/png" href="/img/favicon/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/img/favicon/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#00а0ff">
+	<meta name="theme-color" content="#00а0ff">
+	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
+	<meta name="application-name" content="Snustop.com.ua">
+
+	{% if !page.link-amp-page %}
+		{{ page.link-amp-page }}
+	{% endif %}
+
+	<link rel="stylesheet" href="/css/main.min.css?version=5">
+
+	{% if page.url == '/' or page.url== '/about' or page.url== '/delivery' or page.url== '/opt' or page.url== '/order' or page.url== '/about.html' or page.url== '/delivery.html' or page.url== '/opt.html' or page.url== '/order.html' %}
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@type": "Organization",
+			"name": "Snustop.com.ua",
+			"url": "https://snustop.com.ua/",
+			"logo": "https://snustop.com.ua/img/favicon/apple-touch-icon.png",
+			"telephone": "+380675680230",
+			"email": "snustop.com.ua@gmail.com",
+			"alternateName": "Снюс купить",
+			"description": "Интернет-магазин по продаже снюса в Украине и крупных городах (Киев, Одесса, Харьков, Днепр, Львов и другие)",
+			"address": {
+				"@type": "PostalAddress",
+				"addressLocality": "Днепр, Украина",
+				"postalCode": "49100",
+				"streetAddress": "проспект Героев, 3"
+			}
+		}
+	</script>
+	{% endif %}
+
+	{% if !page.article-schema-org %}
+		{{ page.article-schema-org }}
+	{% endif %}
+
+	{% if !page.pwa-script %}
+		{{ page.pwa-script }}
+	{% endif %}
+</head>

@@ -1,0 +1,62 @@
+<div class="
+{% if page.url == '/snus-all' %}
+		col-lg-3 col-md-4 col-6
+	 {% else %}
+		col-md-4 col-6
+	 {% endif %}
+">
+								<article class="product text-center rounded simpleCart_shelfItem">
+
+									<div class="product-link">
+										<span class="wrap-img">
+											<a href="{{product.url | replace:'.php','' }}">
+											<img class="item_thumb" src="{{ product.image }}" alt="{{ product.product-alt }}">
+											</a>
+										</span>
+										<a href="{{product.url | replace:'.php','' }}">
+										<h3 class="item_name">{{product.product-name | truncate: 75}}</h3>
+										</a>
+										<span class="item_link d-none">{{product.url | replace:'.php','' }}</span>
+									</div>
+
+									{% if product.new-price %}
+									<div class="price"><span class="old-price">{{product.price}} грн</span> <span class="item_price new-price">{{product.new-price}} грн</span></div>
+									{% else %}			
+									<div class="price item_price">{{product.price}} грн</div>
+									{% endif %}
+
+									<div class="product-info bg-light small">
+										<div class="row justify-content-between align-items-center">
+											<div class="col-6">
+												<span class="strength">
+													{{product.strong}}
+												</span><br>
+											</div>
+											<div class="col-6">
+												<span>{{product.portions}}</span><br>порций
+											</div>
+										</div>
+									</div>															
+									<div class="product-btn">	
+
+										{% if product.has_availability == false %}								
+										<a href="#" class="btn btn-secondary disabled rounded-0" role="button" aria-disabled="true">Нет в наличии</a>
+										{% else %}
+											<a class="btn-cart item_add" href="javascript:;">Купить <i class="icon-basket"></i></a>
+										{% endif %}
+
+									</div>
+
+									{% if product.stock-list == 'Лучший выбор' %}
+									<span class="product-lable product-best">
+									{{product.stock-list}}
+									</span>
+									{% endif %}
+
+									{% if product.stock-list == 'Акция' %}
+									<span class="product-lable product-sale">
+									{{product.stock-list}}
+									</span>
+									{% endif %}
+								</article>
+							</div>
