@@ -6,6 +6,7 @@
 	box-shadow: 0 0 1px #ccc
 	&:hover
 		box-shadow: 0 6px 18px 0 #8d8d8d
+	// изображение не карточки товара, а часть продукта что выводится на главной карточка товара в файле main
 	.wrap-img
 		display: inline-block
 		width: 200px
@@ -36,8 +37,16 @@
 
 .product-link
 	padding: 10px
+	display: -webkit-flex
+	display: -moz-flex
+	display: -ms-flex
+	display: -o-flex
+	display: flex
+	flex-direction: column
+	align-items: center
 	a
 		color: #212529
+		display: inline-block
 		&:hover
 			color: #000
 
@@ -71,18 +80,28 @@
 			background: #c6c8ca
 			color: #1b1e21
 
-.detail
-	background: #3395ff
-	&:hover
-		background: darken(#3395ff, 3%)
-	&:active
-		background: darken(#3395ff, 6%)
+
 .btn-cart
 	background: #2bb149
 	&:hover
 		background: darken(#2bb149, 3%)
 	&:active
 		background: darken(#2bb149, 6%)
+	.icon-basket
+		display: inline-block
+		animation: scale 10s infinite 10s
+
+@keyframes scale
+  from
+    transform: scale(1)
+  50%
+  	transform: scale(1)
+  55%
+  	transform: scale(1.09)
+  60%
+  	transform: scale(1)
+  to
+		transform: scale(1)
 
 .price
 	font-size: 1.2rem

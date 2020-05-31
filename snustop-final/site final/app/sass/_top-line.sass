@@ -105,6 +105,7 @@
 	.cart-product-name
 		font-weight: 500
 		margin-bottom: 5px
+		display: inline-block
 		a
 			transition: all .3s
 			&:hover
@@ -112,13 +113,32 @@
 	.item-quantity
 		input
 			text-align: center
-			width: 50px
+			width: 35px
 			border-radius: 0
-			border: 1px solid #ccc
+			border: none
 			box-shadow: none
+			margin: 0 2px
 	a
 		color: #000
 		display: inline-block
-		padding: 5px
 	.cart-total-price
 		font-weight: 500
+	.item-decrement,
+	.item-increment
+		a
+			color: #fff
+			background: #28a745
+			width: 30px
+			font-weight: bold
+			font-size: 1.2rem
+			text-align: center
+			border-radius: 5px
+	.item-decrement
+		a
+			background: #868e96
+			&:focus
+				background: darken(#868e96, 10%)
+	.item-increment
+		a
+			&:focus
+				background: darken(#28a745, 10%)
