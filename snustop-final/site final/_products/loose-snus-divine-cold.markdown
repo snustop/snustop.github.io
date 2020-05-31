@@ -1,7 +1,7 @@
 ---
 title: Loose snus Divine Cold
 date: 2019-03-10 22:42:00 Z
-position: 25
+position: 37
 title-seo: Loose snus Divine Cold | Snus.biz manufactured
 descr: 'Loose snus Divine Cold - mada in Ukraine. This snus contains a mixture of
   three tobaccos: Latakia, Virginia, and Burley. '
@@ -10,8 +10,8 @@ product-alt: Loose snus Divine Cold Snus.biz manufactured
 strong: Средней крепости
 brand: Other Brands
 composition: Рассыпной
-price: 230
-opt-price: 207
+price: 220
+opt-price: 198
 image: "/img/products/snusbiz-loose-snus-divine-cold.jpg"
 availability-descr: В наличии
 has_availability: true

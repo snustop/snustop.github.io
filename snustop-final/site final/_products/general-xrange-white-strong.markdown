@@ -1,7 +1,7 @@
 ---
 title: general-xrange-white-strong
 date: 2017-11-20 13:00:00 Z
-position: 21
+position: 29
 title-seo: XRANGE General Slim Large White Strong Portion Snus купить в Украине
 descr: XRANGE General Slim Large White Strong Portion Snus. Доставка по всей территории
   Украины. Звоните 0675680230
@@ -11,7 +11,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Dry
 price: 185
-opt-price: 172
+opt-price: 167
 image: "/img/products/general-xrange-white-strong.png"
 availability-descr: В наличии
 has_availability: true

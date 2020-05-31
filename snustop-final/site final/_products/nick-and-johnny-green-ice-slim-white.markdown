@@ -1,7 +1,7 @@
 ---
 title: Nick and Johnny Green Ice Slim White
 date: 2019-03-29 20:38:00 Z
-position: 18
+position: 58
 title-seo: Nick & Johnny Green Ice Slim White Portion Snus
 descr: Nick & Johnny Green Ice - снюс средней крепости (14 мг никотина), 24 порции.
   Отличный освежающий вкус, но не сильный мятный.
@@ -10,10 +10,10 @@ product-alt: Nick & Johnny Green Ice Slim White Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 price: 200
-opt-price: 186
+opt-price: 180
 image: "/img/products/nick-johnny-green-ice-slim-white-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 19.2
 nicotine: 14
 portions: 24

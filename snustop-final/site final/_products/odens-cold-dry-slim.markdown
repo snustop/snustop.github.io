@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry-slim
 date: 2017-11-20 18:28:00 Z
-position: 27
+position: 64
 title-seo: Odens Extreme Slim Cold White Dry Portion купить в Украине
 descr: 16 тонких пакетиков, довольно крепок, сравним с odens cold dry. Отправка по
   Украине.
@@ -10,10 +10,10 @@ product-alt: Oden's Extreme Slim Cold White Dry Portion snus
 strong: Крепкий
 composition: Dry
 price: 165
-opt-price: 153
+opt-price: 149
 image: "/img/products/odens-cold-dry-slim.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 portions: 16
 ---
 

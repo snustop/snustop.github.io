@@ -1,7 +1,7 @@
 ---
 title: general-g3-volt
 date: 2017-12-12 13:17:00 Z
-position: 13
+position: 46
 title-seo: General G.3 Volt Super Strong Snus купить в Украине
 descr: Снюс General G.3 Volt Super Strong Snus.  Самый крепкий снюс, который когда-либо
   выпускал Swedish Match. Очень качественный табак. 24 пакетика. По крепости как odens
@@ -13,7 +13,7 @@ brand: Swedish Match
 composition: Dry
 stock-list: Лучший выбор
 price: 215
-opt-price: 200
+opt-price: 194
 image: "/img/products/general-volt.jpg"
 availability-descr: В наличии
 has_availability: true

@@ -1,7 +1,7 @@
 ---
 title: thunder-x-white-dry
 date: 2017-11-20 12:54:00 Z
-position: 9
+position: 51
 title-seo: Thunder X White Dry Snus купить в Украине
 descr: Купить снюс Thunder X White Dry Portion. Очень крепкий табак, сравнив в siberia
   white dry
@@ -11,10 +11,10 @@ strong: Очень крепкий
 brand: Thunder
 composition: Dry
 price: 170
-opt-price: 158
+opt-price: 153
 image: "/img/products/thunder-x-white-dry.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 11.7
 nicotine: 45
 portions: 18

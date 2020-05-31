@@ -1,7 +1,7 @@
 ---
 title: general-classic-extra-strong
 date: 2018-03-05 11:56:00 Z
-position: 15
+position: 33
 title-seo: General Classic Extra Strong Snus купить в Украине
 descr: Снюс General Classic Extra Strong от Swedish Match. Божественный снюс, очень
   сбалансированный вкус. Снюс средней крепости. Доставка по Украине.
@@ -11,7 +11,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
 price: 210
-opt-price: 195
+opt-price: 189
 image: "/img/products/general-classic-extra-strong-portion.png"
 availability-descr: В наличии
 has_availability: true

@@ -1,7 +1,7 @@
 ---
 title: Thunder X Original Portion Snus
 date: 2018-11-01 21:44:00 Z
-position: 10
+position: 62
 title-seo: Thunder X Original Portion Snus
 descr: Thunder X Original Portion - очень крепкий, содержит 45 мг никотина.
 product-name: Thunder X Original Portion
@@ -10,10 +10,10 @@ strong: Очень крепкий
 brand: Thunder
 composition: Оригинальный
 price: 180
-opt-price: 167
+opt-price: 162
 image: "/img/products/thunder-x-original-portion-snus.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,8'
 nicotine: 45
 portions: 22

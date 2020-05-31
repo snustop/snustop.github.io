@@ -1,7 +1,7 @@
 ---
 title: LYFT Strong Ice Cool Mint Slim All White
 date: 2019-02-28 13:57:00 Z
-position: 1
+position: 7
 title-seo: LYFT Strong Ice Cool Mint Slim All White - снюс купить
 descr: LYFT Strong Ice Cool Mint Slim All White - купить в Украине. Lyft не содержит
   табака, но содержит никотин. Очень крепкий. 24 порции, они белые, не оставляют следов
@@ -13,7 +13,7 @@ brand: Lyft
 composition: Белый
 stock-list: Лучший выбор
 price: 230
-opt-price: 214
+opt-price: 207
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
@@ -24,12 +24,14 @@ taste: Приятная мята
 form: Порционный, all white, slim
 composition-product: Вода, соль, волокна эвкалипта и сосны, никотиновый экстракт,
   поваренная сода, пищевой ароматизатор.
-similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
+  alt=\"Siberia White dry slim\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 Lyft — инновационный продукт не содержащий табака, но по-прежнему содержит никотин.<br>
@@ -60,5 +62,5 @@ Lyft — инновационный продукт не содержащий т�
 <img class="img-fluid" style="width:49%" src="/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG" alt="Lyft Strong Ice Cool Mint White Snus">
 </div>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_Ke7ttVrjs4" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UgJ82xIq_0o" allowfullscreen></iframe>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: lyft-strong-lime-slim-all-white
 date: 2019-03-10 21:11:00 Z
-position: 30
+position: 34
 title-seo: LYFT Lime Strong Slim All White | Снюс Лифт лайм
 descr: Снюс Lyft - обладает освежающим сладковатым вкусом сочного лайма. 24 белых
   порции. Не оставляет следов на зубах. Крепость 14 мг никотина, но мятный Lyft ощущается
@@ -12,10 +12,10 @@ strong: Средней крепости
 brand: Lyft
 composition: Белый
 price: 230
-opt-price: 215
+opt-price: 207
 image: "/img/products/lyft-lime-strong-slim-all-white-portion.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '16,8'
 nicotine: 14
 portions: 24

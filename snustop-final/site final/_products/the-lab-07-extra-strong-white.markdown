@@ -1,7 +1,7 @@
 ---
 title: the-lab-07-extra-strong-white
 date: 2017-11-20 13:07:00 Z
-position: 40
+position: 54
 title-seo: The LAB 07 Slim Extra Strong White Snus купить в Украине
 descr: Купить снюс The LAB 07 Slim Extra Strong White Snus в Украине. Очень хороший
   снюс.
@@ -13,7 +13,7 @@ composition: Dry
 price: 210
 opt-price: 195
 image: "/img/products/the-lab-07-extra-strong-white.png"
-availability-descr: Ожидается
+availability-descr: Под заказ
 has_availability: false
 gramm: 21.6
 nicotine: 18

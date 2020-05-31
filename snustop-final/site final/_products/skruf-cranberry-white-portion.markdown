@@ -1,7 +1,7 @@
 ---
 title: Skruf Cranberry White Portion
 date: 2019-03-29 21:17:00 Z
-position: 17
+position: 62
 title-seo: Skruf Cranberry White Portion Snus
 descr: Skruf Cranberry White — сухой порционный снюс со вкусом клюквы. Крепость -
   чуть ниже среднего. Порции White  и их 24
@@ -11,10 +11,10 @@ strong: Низкой крепости
 brand: Other Brands
 composition: Dry
 price: 200
-opt-price: 186
+opt-price: 180
 image: "/img/products/portion-white-cranberry-skruf.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: '21,6'
 nicotine: normal
 portions: 24
