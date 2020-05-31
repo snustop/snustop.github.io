@@ -3,4 +3,5 @@ _site
 .jekyll-metadata
 /node_modules/
 /snustop-final/site final/node_modules/
+/site-final/
 *.onetoc2
