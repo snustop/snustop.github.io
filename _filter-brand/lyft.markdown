@@ -3,12 +3,13 @@ title: Lyft
 date: 2019-03-01 09:03:00 Z
 permalink: "/lyft"
 title-seo: Lyft Снюс | Снюс Лифт - Белый Снюс
-descr: 'Снюс Lyft - белый снюс, не оставляют следов на зубах и имеет очень приятный вкус и аромат. Вкусы: мята, черника, дыня, лакрица, лайм и другие'
+descr: 'Снюс Lyft - белый снюс, не оставляют следов на зубах и имеет очень приятный
+  вкус и аромат. Вкусы: мята, черника, дыня, лакрица, лайм и другие'
 keywords: Lyft, snus lyft, эпок
 filter-name-h2: Lyft snus (снюс лифт / снюс люфт)
 filter-brand-list: Lyft
 layout: filter-brand
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/lyft">'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/lyft">
 ---
 
 Lyft (выпускающийся вместо Epok на том же заводе, теми же людьми) — это инновационный продукт не содержащий табака, но по-прежнему содержит никотин. Порции белого цвета — что не оставляет следов на зубах.
