@@ -1,7 +1,7 @@
 ---
 title: White Fox Slim All White
 date: 2019-03-14 11:49:00 Z
-position: 48
+position: 11
 title-seo: White Fox Slim All White Portion Snus | Снюс Украина
 descr: White Fox — белый снюс с приятным вкусом мяты не содержащий табака. 20 порций,
   крепостью 17 мг. Порции slim. По ощущениям немного слабее LYFT (epok).
@@ -10,25 +10,27 @@ product-alt: White Fox Slim All White Portion Snus
 strong: Крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 210
-opt-price: 195
+opt-price: 176
+new-price: 195
 image: "/img/products/white-fox-all-white-portion-snus.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 17
 portions: 20
 taste: Мята
 form: Порционный, slim, all white
 composition-product: Пищевые волокна, вода, соль, сода, ароматизатор
-similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
-  alt=\"Lyft ice cool mint strong snus\"></a>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+similar-product_body: "<p>Похожие товары: <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4 FU:ZN Slim All White
+  Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
 White Fox Slim All White Portion — белый снюс от известного бренда GN Tobacco, данный бренд известен своими мега-крепкими продуктами [siberia](/siberia).<br>
