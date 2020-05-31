@@ -74,5 +74,6 @@ exclude:
 - readme.md
 - comments/
 - snustop-final/
+- site-final/
 include:
 - ".htaccess"
