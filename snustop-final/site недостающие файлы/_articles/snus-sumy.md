@@ -4,14 +4,14 @@ position: 26
 title-seo: Снюс Суми | Купить снюс в Сумах
 descr: Купити снюс в Сумах. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/сумы.jpg"
+img: "/img/blog/cities/sumi.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Сумы</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/сумы.jpg" alt="Снюс в Сумах">
+			<img class="img-fluid" src="/img/blog/cities/sumi.jpg" alt="Снюс в Сумах">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Сумах</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/сумы.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

@@ -4,14 +4,14 @@ position: 13
 title-seo: Снюс Запорожье | Купить снюс в Запорожье
 descr: Купить снюс в Запорожье. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/запорожье.jpg"
+img: "/img/blog/cities/zaporojie.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Запорожье</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/запорожье.jpg" alt="снюс в Запорожье">
+			<img class="img-fluid" src="/img/blog/cities/zaporojie.jpg" alt="снюс в Запорожье">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Запорожье</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/запорожье.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

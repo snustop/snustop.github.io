@@ -4,14 +4,14 @@ position: 10
 title-seo: Снюс Бровары | Купить снюс в Броварах
 descr: Купить снюс в Броварах. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/бровары.jpg"
+img: "/img/blog/cities/brovari.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Бровары</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/бровары.jpg" alt="Снюс Бровары">
+			<img class="img-fluid" src="/img/blog/cities/brovari.jpg" alt="Снюс Бровары">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Броварах</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/бровары.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

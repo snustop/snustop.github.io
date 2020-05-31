@@ -4,14 +4,14 @@ position: 15
 title-seo: Снюс Каменское | Купить снюс в Каменском
 descr: Купить снюс в Каменском (Днепродзержинске). В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/каменское.jpg"
+img: "/img/blog/cities/kamenskoe.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Каменское</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/каменское.jpg" alt="снюс в Каменском">
+			<img class="img-fluid" src="/img/blog/cities/kamenskoe.jpg" alt="снюс в Каменском">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Каменском</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/каменское.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

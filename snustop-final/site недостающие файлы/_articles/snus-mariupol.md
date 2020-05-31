@@ -4,14 +4,14 @@ position: 21
 title-seo: Снюс Мариуполь | Купить снюс в Мариуполе
 descr: Купить снюс в Мариуполе. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/мариуполь.jpg"
+img: "/img/blog/cities/mariupol.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Мариуполь</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/мариуполь.jpg" alt="Снюс в Мариуполе">
+			<img class="img-fluid" src="/img/blog/cities/mariupol.jpg" alt="Снюс в Мариуполе">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Мариуполе</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/мариуполь.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

@@ -46,4 +46,4 @@ img: "/img/blog/popular-snus.jpg"
 		<div>
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 		</div>
-	</section>
+		</section>

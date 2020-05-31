@@ -4,14 +4,14 @@ position: 17
 title-seo: Снюс Кременчуг | Купить снюс в Кременчуге
 descr: Купить снюс в Кременчуге. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/кременчуг.jpg"
+img: "/img/blog/cities/kremenchug.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Кременчуг</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/кременчуг.jpg" alt="снюс в Кременчуге">
+			<img class="img-fluid" src="/img/blog/cities/kremenchug.jpg" alt="снюс в Кременчуге">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Кременчуге</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/кременчуг.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

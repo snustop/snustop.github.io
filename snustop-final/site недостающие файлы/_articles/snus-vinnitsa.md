@@ -4,14 +4,14 @@ position: 11
 title-seo: Снюс Винница | Купити снюс в Вінниці
 descr: Купить снюс в Вінниці. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/винница.jpg"
+img: "/img/blog/cities/vinnica.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Винница</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/винница.jpg" alt="снюс в Вінниці">
+			<img class="img-fluid" src="/img/blog/cities/vinnica.jpg" alt="снюс в Вінниці">
 		</div>
 		<div class="col-md-5">
 			<strong>Купити снюс в Вінниці</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/винница.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

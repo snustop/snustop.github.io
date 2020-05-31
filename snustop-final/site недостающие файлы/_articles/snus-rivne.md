@@ -4,14 +4,14 @@ position: 25
 title-seo: Снюс Ровно | Купити снюс в Рівне
 descr: Купити снюс в Рівне. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/ровно.jpg"
+img: "/img/blog/cities/rovno.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Рівне</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/ровно.jpg" alt="Снюс в Рівне">
+			<img class="img-fluid" src="/img/blog/cities/rovno.jpg" alt="Снюс в Рівне">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Ровно</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/ровно.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

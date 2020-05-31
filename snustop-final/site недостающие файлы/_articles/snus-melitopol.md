@@ -4,14 +4,14 @@ position: 22
 title-seo: Снюс Мелитополь | Купить снюс в Мелитополе
 descr: Купить снюс в Мелитополе. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/мелитополь.jpg"
+img: "/img/blog/cities/melitiopol.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Мелитополь</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/мелитополь.jpg" alt="Снюс в Мелитополе">
+			<img class="img-fluid" src="/img/blog/cities/melitiopol.jpg" alt="Снюс в Мелитополе">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Мелитополе</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/мелитополь.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

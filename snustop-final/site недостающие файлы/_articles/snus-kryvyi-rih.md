@@ -4,14 +4,14 @@ position: 18
 title-seo: Снюс Кривой Рог | Купить снюс в Кривом Роге
 descr: Купить снюс в Кривом Рогу. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/кривой-рог.jpg"
+img: "/img/blog/cities/krivoi-rog.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Кривой Рог</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/кривой-рог.jpg" alt="снюс Кривой Рог">
+			<img class="img-fluid" src="/img/blog/cities/krivoi-rog.jpg" alt="снюс Кривой Рог">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Кривом Роге</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/кривой-рог.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

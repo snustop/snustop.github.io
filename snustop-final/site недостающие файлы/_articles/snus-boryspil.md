@@ -4,14 +4,14 @@ position: 9
 title-seo: Снюс Борисполь | Купить снюс в Борисполе
 descr: Купить снюс в Борисполе. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/борисполь.jpg"
+img: "/img/blog/cities/borispol.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Бердянск</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/борисполь.jpg" alt="Снюс Борисполь">
+			<img class="img-fluid" src="/img/blog/cities/borispol.jpg" alt="Снюс Борисполь">
 		</div>
 		<div class="col-md-5">
 			<strong>Купить снюс в Борисполе</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/борисполь.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-

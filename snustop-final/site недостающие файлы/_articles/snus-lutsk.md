@@ -4,14 +4,14 @@ position: 19
 title-seo: Снюс Луцк | Купити снюс у Луцьку
 descr: Купити снюс в Луцьку. В наличии siberia, odens, lyft, thunder, general и другие.
   Звоните +380675680230
-img: "/img/blog/cities/луцк.jpg"
+img: "/img/blog/cities/lutsk.jpg"
 ---
 
 <section class="mb-4">
 	<h1>Снюс Луцк</h1>
 	<div class="row">
 		<div class="col-md-7">
-			<img class="img-fluid" src="/img/blog/cities/луцк.jpg" alt="Купити снюс у Луцьку">
+			<img class="img-fluid" src="/img/blog/cities/lutsk.jpg" alt="Купити снюс у Луцьку">
 		</div>
 		<div class="col-md-5">
 			<strong>Купити снюс у Луцьку</strong>
@@ -39,4 +39,3 @@ img: "/img/blog/cities/луцк.jpg"
 		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
 	</div>
 </section>
-
