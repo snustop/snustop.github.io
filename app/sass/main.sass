@@ -70,10 +70,20 @@ header
 .catalog
 	margin-top: .6rem
 
+.faq-details
+	details
+		margin-bottom: 0.5rem
+	summary
+		font-size: 1.1rem
+		font-weight: bold
+
 .inst-photo
 	margin-top: 1.5rem
 	margin-bottom: 1rem
 	text-align: right
+	h3
+		font-weight: bold
+		font-size: 1rem
 	h2
 		text-align: left
 	.popup-gallery
@@ -116,8 +126,10 @@ header
 // продукты
 @import "products"
 
-// карточка товара START
-
+// карточка товара START но основаяная часть в файле products
+.product-page
+	.item-wrap-img
+		max-width: 200px
 // карточка товара END
 
 // arrow to top START
@@ -215,6 +227,10 @@ header
 
 #promo-code
 	text-transform: lowercase
+
+#contact-form
+	label
+		font-size: .8rem
 
 // loading btn
 .loading
