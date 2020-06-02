@@ -13,9 +13,10 @@ brand: Other Brands
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 176
-new-price: 195
+opt-price: 144
+new-price: 160
 image: "/img/products/skruf-super-white-slim-red-rhuby-no3.jpg"
+availability-descr: Подходят сроки
 gramm: '17,3'
 nicotine: 12
 portions: 24
@@ -36,3 +37,5 @@ Skruf Super White Slim Red Rhuby № 3 — это полностью белый 
 Легкий, терпкий и приятный. Вкус чем-то похож на кислое яблоко с нотками мяты.<br>
 В банке 24 порции крепость 12 мг. <br>
 Подойдет любителям некрепких табаков.
+
+Сроки годности подходят, но на свойства не влияет, он не сухой, так как хранится в правильных условиях, и + производитель пишет срок годности всего пол года, как другие же дают год.
