@@ -11,8 +11,8 @@ brand: Other Brands
 price: 210
 opt-price: 189
 image: "/img/products/Mad-Blackberry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 13
 nicotine: 56
 portions: 20
