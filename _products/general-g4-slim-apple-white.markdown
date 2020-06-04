@@ -39,7 +39,7 @@ similar-product_body: "<p>Вам могут понравится: <small>Жми�
 Детальный обзор фото + видео на просроченные товары: <a href="//telegra.ph/Snyus-po-akcii-ucenka-05-10" target="_black" title="Телеграф">жми сюда</a> 👈 
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://youtu.be/k5l-p_gkgQo" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/k5l-p_gkgQo" allowfullscreen></iframe>
 </div>
 
 Белый снюс от **Swedish Match*, приятный яблочный🍏 вкус с нотками мяты.<br>
