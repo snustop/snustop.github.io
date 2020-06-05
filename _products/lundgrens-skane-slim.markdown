@@ -1,7 +1,7 @@
 ---
 title: Lundgrens Skåne Slim
 date: 2019-06-07 13:03:00 Z
-position: 57
+position: 55
 title-seo: Lundgrens Skåne Slim White Snus
 descr: нюс Lundgrens Skåne Slim - сбалансированный снюс низкой крепости (8 мг никотина).
   24 порции slim. Вкус табачный с нотками лесных ягод. В банке 24 порции.
