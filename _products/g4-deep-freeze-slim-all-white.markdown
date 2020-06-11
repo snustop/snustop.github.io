@@ -10,10 +10,8 @@ product-alt: 'G.4 Deep Freeze Slim All White '
 strong: Очень крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: Акция
 price: 215
-opt-price: 176
-new-price: 195
+opt-price: 194
 image: "/img/products/g4-deep-freeze.jpg"
 availability-descr: В наличии
 has_availability: true
