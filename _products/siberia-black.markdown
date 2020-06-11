@@ -13,8 +13,8 @@ composition: Оригинальный
 price: 215
 opt-price: 194
 image: "/img/products/siberia-black.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: Заканчивается
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 20
