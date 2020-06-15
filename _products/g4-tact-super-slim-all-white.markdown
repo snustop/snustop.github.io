@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 135
-new-price: 150
+opt-price: 126
+new-price: 140
 image: "/img/products/G4-TACT-Strong-Super-Slim-All-White-Spearmint.jpg"
 availability-descr: Просрочен (до 15 мая)
 has_availability: true
