@@ -13,6 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-cola.png"
+availability-descr: 17 июня будет в наличии
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±28"
