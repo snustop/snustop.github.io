@@ -10,8 +10,10 @@ product-alt: G.4 Fizzy Slim All White Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Белый
+stock-list: Акция
 price: 215
-opt-price: 194
+opt-price: 176
+new-price: 195
 image: "/img/products/g4-fizzy-slim-all-white.png"
 availability-descr: В наличии
 has_availability: true
