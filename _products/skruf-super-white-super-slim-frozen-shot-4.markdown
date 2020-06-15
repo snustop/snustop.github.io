@@ -1,7 +1,7 @@
 ---
 title: Skruf Super White Super Slim Frozen Shot 4
 date: 2020-05-03 11:54:00 Z
-position: 13
+position: 12
 title-seo: Skruf Super White Super Slim Frozen Shot No.4
 descr: Белый снюс Skruf Slim Frozen Shot № 4 — максимально тонкие порции. Порции белые
   и их 24 в банке. Крепость ниже средней, заявлено 18 мг никотина.
