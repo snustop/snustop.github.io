@@ -15,8 +15,8 @@ price: 190
 opt-price: 153
 new-price: 170
 image: "/img/products/extremely-strong-white-dry-16.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Снят с производства
+has_availability: false
 gramm: 13
 nicotine: 45
 portions: 15-17
