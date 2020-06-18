@@ -1,7 +1,7 @@
 ---
 title: odens-cold-dry
 date: 2017-11-20 10:56:00 Z
-position: 53
+position: 15
 title-seo: Odens Cold Extreme White Dry 16 грамм купить в Украине
 descr: Новый Оденс колд драй 16 граммовой банке, 20 порций (ранее было всего 13 порций),
   очень крепкий, пакетики мягкие и удобно сидят под губой
@@ -12,8 +12,8 @@ brand: Odens
 composition: Dry
 price: 180
 opt-price: 162
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16
 portions: "±20"
 similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте

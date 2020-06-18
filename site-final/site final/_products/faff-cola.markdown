@@ -1,7 +1,7 @@
 ---
 title: faff-cola
 date: 2020-05-03 17:57:00 Z
-position: 40
+position: 33
 title-seo: Снюс Faff Cola 75 мг никотина
 descr: 'Снюс Фафф Кола 75 мг, очень крепкий снюс со вкусом Кока-кола. 29 тонких порций
   белого цвета. Наш телеграмм: 380675680230'
@@ -13,6 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-cola.png"
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 75
 portions: "±28"
