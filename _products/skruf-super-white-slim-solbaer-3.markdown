@@ -13,6 +13,8 @@ composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/Skruf-Super-White-Slim-Solbar-No3.jpg"
+availability-descr: Под заказ
+has_availability: false
 gramm: 17.2
 nicotine: 12
 portions: 24
