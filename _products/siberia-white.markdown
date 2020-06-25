@@ -13,8 +13,8 @@ composition: Dry
 price: 200
 opt-price: 180
 image: "/img/products/siberia-white-dry.png"
-availability-descr: Ожидается на неделе
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16
 nicotine: 42
 portions: 20-24
@@ -34,5 +34,4 @@ Siberia Extremely Strong White Dry(**красная сибирь**) считае
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" title="Красная сибирь большие порции"><img class="img-fluid" src="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" alt="Красная сибирь большие порции"></a>
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь слим, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
-	<a href="/img/products/siberia-white-dry/siberia-large-date.jpg" title="Годен до 6 ноября 2020 года"><img class="img-fluid" src="/img/products/siberia-white-dry/siberia-large-date.jpg" alt="Красная сибирь дата"></a>
 </div>
