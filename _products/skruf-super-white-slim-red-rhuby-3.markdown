@@ -1,7 +1,7 @@
 ---
 title: Skruf Super White Slim Red Rhuby 3
 date: 2020-05-03 12:30:00 Z
-position: 21
+position: 22
 title-seo: Skruf Super White Slim Red Rhuby 3 — белый снюс
 descr: Skruf Super White Slim Red Rhuby № 3 — это полностью белый порционный снюс,
   состоящий из растительных волокон и вымытого табака со свежим вкусом ревеня и сильной
