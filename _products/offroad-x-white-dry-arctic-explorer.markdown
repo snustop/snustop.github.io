@@ -13,8 +13,8 @@ composition: Dry
 price: 155
 opt-price: 140
 image: "/img/products/offroad-x-white-dry-arctic-explorer.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 45
 portions: 20
