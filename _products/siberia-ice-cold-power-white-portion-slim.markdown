@@ -12,8 +12,8 @@ brand: Siberia
 price: 210
 opt-price: 189
 image: "/img/products/siberia-blue-slim-white.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: 22-24
