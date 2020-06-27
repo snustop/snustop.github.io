@@ -1,7 +1,7 @@
 ---
 title: ukrainian-premium-snus-prunes-loose
 date: 2018-04-20 21:48:00 Z
-position: 36
+position: 64
 title-seo: Рассыпной снюс со вкусом чернослива
 descr: Рассыпной  снюс  с приятным  вкусом чернослива. Никотиновая крепость 20мг,
   в банке 50 грамм. Вязкий, не распадается во рту, минимальный потек. Данный продукт
@@ -14,8 +14,8 @@ composition: Рассыпной
 price: 220
 opt-price: 205
 image: "/img/products/prunes-loose.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 50
 nicotine: 20
 portions: Рассыпной

@@ -359,7 +359,7 @@
 				<li><a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram @snustop</a></li>
 				<li><a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
 				<li><a href="sms:+380-67-568-0230" title="Отправить смс">Отправить SMS</a></li>
-				<li><a href="viber://add?number=380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написать на Viber</a></li>
+				<li><a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написать на Viber</a></li>
 				<li><a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написать в WhatsApp</a></li>
 				<li><a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">snustop.com.ua@gmail.com</a></li>
 			</ul>

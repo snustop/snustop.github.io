@@ -18,32 +18,7 @@
 	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#00а0ff">
 	<meta name="theme-color" content="#00а0ff">
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
-	<meta name="application-name" content="Snustop.com.ua">	
-
-	<script type="application/ld+json">
-		{
-			"@context": "http://schema.org",
-			"@type": "Article",
-			"author": {
-			"@type": "Organization",
-			"name": "Snustop"
-		},
-		"publisher": {
-		"@type": "Organization",
-		"name": "Snustop",
-		"logo": {
-		"@type": "ImageObject",
-		"url": "https://snustop.com.ua/img/favicon/apple-touch-icon.png",
-		"height": "180",
-		"width": "180"
-	}
-},
-"datePublished": "2020-02-13T12:34:22+00:00",
-"image": "https://snustop.com.ua/img/blog/cities/lviv.jpg",
-"headline": "Снюс Киев",
-"description": "Доставка по Киеву, самовывоз метро нивки. В наличии siberia, lyft, thunder, general, corvus, odens. Звоните +380675680230"
-}
-</script>
+	<meta name="application-name" content="Snustop.com.ua">
 
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
@@ -281,7 +256,7 @@
 				<li><a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram @snustop</a></li>
 				<li><a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
 				<li><a href="sms:+380-67-568-0230" title="Отправить смс">Отправить SMS</a></li>
-				<li><a href="viber://add?number=380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Напиcать на Viber</a></li>
+				<li><a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Напиcать на Viber</a></li>
 				<li><a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написать в WhatsApp</a></li>
 				<li><a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">snustop.com.ua@gmail.com</a></li>
 			</ul>

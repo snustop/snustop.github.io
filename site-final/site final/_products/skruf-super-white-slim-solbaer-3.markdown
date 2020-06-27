@@ -1,7 +1,7 @@
 ---
 title: Skruf Super White Slim Solbaer 3
 date: 2020-05-03 12:26:00 Z
-position: 21
+position: 62
 title-seo: 'Skruf Super White Slim Solbaer #3'
 descr: Белый снюс со вкусом черном смородины и сладкой мяты. В банке 24 белые порции
   слим. Крепость 12 мг. Заказы принимаем на сайте.
@@ -13,6 +13,8 @@ composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/Skruf-Super-White-Slim-Solbar-No3.jpg"
+availability-descr: Под заказ
+has_availability: false
 gramm: 17.2
 nicotine: 12
 portions: 24

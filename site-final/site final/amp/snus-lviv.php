@@ -18,48 +18,7 @@
 	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#00а0ff">
 	<meta name="theme-color" content="#00а0ff">
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
-	<meta name="application-name" content="Snustop.com.ua">	
-
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "LocalBusiness",
-			"name": "Снюс Львів",
-			"image": "https://snustop.com.ua/img/blog/cities/lviv.jpg",
-			"telephone": "380675680230",
-			"url": "https://snustop.com.ua/snus-lviv",
-			"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "вулиця стрийська 79",
-			"addressLocality": "Львів",
-			"postalCode": "79000",
-			"addressCountry": "UA"
-		},
-		"openingHoursSpecification": [
-		{
-			"@type": "OpeningHoursSpecification",
-			"dayOfWeek": [
-			"Monday",
-			"Tuesday",
-			"Wednesday",
-			"Thursday",
-			"Friday"
-			],
-			"opens": "09:00",
-			"closes": "20:00"
-		},
-		{
-			"@type": "OpeningHoursSpecification",
-			"dayOfWeek": [
-			"Saturday",
-			"Sunday"
-			],
-			"opens": "10:00",
-			"closes": "20:00"
-		}
-		]
-	}
-</script>
+	<meta name="application-name" content="Snustop.com.ua">
 
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
@@ -352,7 +311,7 @@
 				<li><a href="//t.me/snustop" target="_blank" title="Telegram">Написати в Telegram @snustop</a></li>
 				<li><a href="tel:+380675680230" title="Подзвонити">+38 067 568 02 30</a></li>
 				<li><a href="sms:+380-67-568-0230" title="Отправить смс">Відправити SMS</a></li>
-				<li><a href="viber://add?number=380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написати на Viber</a></li>
+				<li><a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написати на Viber</a></li>
 				<li><a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написати в WhatsApp</a></li>
 				<li><a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">snustop.com.ua@gmail.com</a></li>
 			</ul>

@@ -6,46 +6,6 @@ descr: Купити снюс у Львові, кур'єрська доставк
   Зв'язок +380675680230
 img: "/img/blog/cities/lviv.jpg"
 link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-lviv">'
-article-schema-org: '<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "LocalBusiness",
-			"name": "Снюс Львів",
-			"image": "https://snustop.com.ua/img/blog/cities/lviv.jpg",
-			"telephone": "380675680230",
-			"url": "https://snustop.com.ua/snus-lviv",
-			"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "вулиця стрийська 79",
-			"addressLocality": "Львів",
-			"postalCode": "79000",
-			"addressCountry": "UA"
-		},
-		"openingHoursSpecification": [
-		{
-			"@type": "OpeningHoursSpecification",
-			"dayOfWeek": [
-			"Monday",
-			"Tuesday",
-			"Wednesday",
-			"Thursday",
-			"Friday"
-			],
-			"opens": "09:00",
-			"closes": "20:00"
-		},
-		{
-			"@type": "OpeningHoursSpecification",
-			"dayOfWeek": [
-			"Saturday",
-			"Sunday"
-			],
-			"opens": "10:00",
-			"closes": "20:00"
-		}
-		]
-		}
-	</script>'
 ---
 
 <section class="mb-4">

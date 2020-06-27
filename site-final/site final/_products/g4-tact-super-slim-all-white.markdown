@@ -1,7 +1,7 @@
 ---
 title: g4-tact-super-slim-all-white
 date: 2019-10-31 21:54:00 Z
-position: 2
+position: 3
 title-seo: G4 TACT Strong Super Slim All Spearmint
 descr: 'G4 Tach - белый снюс с невероятно тонкими пакетами, которые удобно сидят под
   губой. Крепость 19 грамм никотина. Количество порций: 20.  Вкус - мята.'
@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 126
-new-price: 140
+opt-price: 115
+new-price: 125
 image: "/img/products/G4-TACT-Strong-Super-Slim-All-White-Spearmint.jpg"
 availability-descr: Просрочен (до 15 мая)
 has_availability: true

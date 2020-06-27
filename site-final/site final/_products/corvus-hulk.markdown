@@ -1,7 +1,7 @@
 ---
 title: corvus-hulk
 date: 2019-10-31 10:55:00 Z
-position: 27
+position: 46
 title-seo: "Corvus Hulk \U0001F95D снюс купить в Украине"
 descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, 25 порций, заявлено 50 мг никотина,
   сильно разъедает губу. Не содержит табака. "
@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-hulk.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "~25"

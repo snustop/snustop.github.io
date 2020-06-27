@@ -2,11 +2,11 @@
 <html amp lang="ru">
 <head>
 	<meta charset="utf-8">
-	<title>Снюс Киев | Купить снюс Киев</title>
-	<meta name="description" content="Доставка по Киеву Ⓜ️, самовывоз нивки. В наличии siberia, lyft, thunder, general, corvus, odens. Звоните +380675680230">
-	<meta name="keywords" content="Снюс, Киев, Украина, купить">
+	<title>Снюс Одесса | Купить снюс в Одессе</title>
+	<meta name="description" content="Купить снюс в Одессе. Звоните 0995532140 Доставка по городу, самовывоз на пер. Топольского, 4. Lyft, Siberia, Corvus, Thunder, Odens и другие.">
+	<meta name="keywords" content="Снюс, Одесса, Снюс купить">
 
-	<link rel="canonical" href="https://snustop.com.ua/snus-kiev">
+	<link rel="canonical" href="https://snustop.com.ua/snus-odessa">
 	
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -18,7 +18,7 @@
 	<link rel="mask-icon" href="/img/favicon/safari-pinned-tab.svg" color="#00а0ff">
 	<meta name="theme-color" content="#00а0ff">
 	<meta name="apple-mobile-web-app-title" content="Snustop.com.ua">
-	<meta name="application-name" content="Snustop.com.ua">
+	<meta name="application-name" content="Snustop.com.ua">	
 
 <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
@@ -157,26 +157,27 @@
 
 	<header>
 		<a class="logo" href="/">Snustop</a>
-		<a class="head-telegram" href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a>
+		<a class="head-telegram" href="//t.me/snusOdessa" target="_blank" title="Telegram">Написать в Telegram</a>
 	</header>
 
 	<main>
 
 		<article>
-			<h1>Снюс Киев</h1>
-			<amp-img alt="Купить снюс в Киеве" src="https://snustop.com.ua/img/blog/kiev/snus-kiev.jpg" width="510" height="362" layout="responsive"></amp-img>
+			<h1>Снюс Одесса</h1>
+			<amp-img alt="Купить снюс в Одессе" src="https://snustop.com.ua/img/blog/odessa/snus-odessa.jpg" width="1080" height="939" layout="responsive"></amp-img>
 			<div>
-				<strong>Купить снюс в Киеве</strong>, есть три варианта доставки:
+				<strong>Купить снюс в Одессе</strong>, есть 4-ри варианта доставки:
 				<ul>
-					<li><b>Самовывоз</b> метро нивки Ⓜ️, но предварительно свяжитесь.</li>
-					<li><b>Курьером по городу</b> (быстрая доставка, по метро 50-60 грн).</li>
-					<li><b>Новой Почтой</b> (самый оптимальный способ, экономится время, цена доставки по городу 30 грн. Если до 12 часов отправить, то в тот же день будет у Вас на отделении..</li>
+					<li><b>Самовывоз</b> на <a target="_blank" href="https://goo.gl/maps/B3FY3PN6PiMeQDuq5">пер. Топольского, 4</a> (прежде чем туда ехать, свяжитесь с нами <a href="tel:+380995532140" title="Позвонить">0995532140</a> уточните наличие) <a href="//t.me/snusOdessa" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snusOdessa</a></li>
+					<li><b>Доставка по городу</b> 50-100 грн (центр: 50 грн), (Таирово: 90 грн) другие районы уточняйте по телефону. Для заказа доставки звоните: <a href="tel:+380995532140" title="Позвонить">0995532140</a> или пишите в <a href="//t.me/snusOdessa" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snusOdessa</a>. Работаем до 20:00, после - дополнительная плата.</li>
+					<li><b>Отправка на TAXI</b> (если нужно максимально срочно).</li>
+					<li><b>Новой Почтой</b> (самый оптимальный способ, экономится время, цена доставки по городу 30 грн. Если до 12 часов отправить, то в тот же день будет у Вас на отделении.</li>
 				</ul>
 			</div>
 			<br>
 
 			<table class="table table-sm">
-				<caption>Наличие снюса в Киеве</caption>
+				<caption>Наличие снюса в Одессе</caption>
 				<thead>
 					<tr>
 						<th scope="col">img</th>
@@ -230,17 +231,17 @@
 						<td>230</td>
 					</tr>
 					<tr>
-						<td><a href="/corvus-brutal"><amp-img src="/img/products/corvus-brutal-snus.jpg" alt="Снюс Corvus Brutal" width="40" height="30"></amp-img></a></td>
-						<td><a href="/corvus-brutal">Corvus Brutal</a></td>
-						<td>68</td>
+						<td><a href="/odens-cold-dry"><amp-img src="/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png" alt="Снюс Оденс колд драй" width="40" height="30"></amp-img></a></td>
+						<td><a href="/odens-cold-dry">Odens cd</a></td>
+						<td>22</td>
 						<td>мята</td>
-						<td>200</td>
+						<td>180</td>
 					</tr>
 					<tr>
-						<td><a href="/corvus-logan"><amp-img src="/img/products/corvus/corvus-logan.png" alt="Снюс Corvus Logan" width="40" height="30"></amp-img></a></td>
-						<td><a href="/corvus-logan">Corvus Logan</a></td>
-						<td>50</td>
-						<td>дыня</td>
+						<td><a href="/g4-deep-freeze-slim-all-white"><amp-img src="/img/products/g4-deep-freeze.jpg" alt="Снюс Deep Freeze" width="40" height="30"></amp-img></a></td>
+						<td><a href="/g4-deep-freeze-slim-all-white">Deep Freeze</a></td>
+						<td>18,5</td>
+						<td>Эвкалипт</td>
 						<td>215</td>
 					</tr>
 				</tbody>
@@ -253,15 +254,14 @@
 		<div class="contacts">
 			<h3>Контакти</h3>
 			<ul>
-				<li><a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram @snustop</a></li>
-				<li><a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
-				<li><a href="sms:+380-67-568-0230" title="Отправить смс">Отправить SMS</a></li>
-				<li><a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Напиcать на Viber</a></li>
-				<li><a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написать в WhatsApp</a></li>
+				<li><a href="//t.me/snusOdessa" target="_blank" title="Telegram">Написать в Telegram @snusOdessa</a></li>
+				<li><a href="tel:+380995532140" title="Позвонить">0995532140</a></li>
+				<li><a href="sms:+380995532140" title="Отправить смс">Отправить SMS</a></li>
+				<li><a href="viber://chat?number=%2B380995532140" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Напиcать на Viber</a></li>
+				<li><a href="//api.whatsapp.com/send?phone=380995532140" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написать в WhatsApp</a></li>
 				<li><a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">snustop.com.ua@gmail.com</a></li>
 			</ul>
 		</div>
-
 	</main>
 
 	<footer>

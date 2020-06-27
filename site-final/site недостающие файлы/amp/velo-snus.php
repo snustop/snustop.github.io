@@ -168,7 +168,28 @@
 		}
 	</style>
 
-	<script async src="https://cdn.ampproject.org/v0.js"></script>
+	<script type="application/ld+json">
+		{
+			"@context": "https://schema.org/",
+			"@type": "Product",
+			"name": "Velo никотиновые подушечки",
+			"image": "https://snustop.com.ua/img/blog/velo/velo-snus-cans.jpg",
+			"description": "Velo - это белые никотиновые подушечки без табака. Позиционируется как альтернатива курению, снюсу и другим никотиносодержащим продуктам. Данный продукт содержит никотин, а он в свою очередь вызывает никотиновую зависимость, поэтому подушечки VELO не рекомендуются людям которые не используют никотиновые продукты (сигареты, снюс, вейп и другие). Строго с 18-ти 🔞!",
+			"brand": {
+			"@type": "Brand",
+			"name": "Velo"
+		},
+		"offers": {
+		"@type": "Offer",
+		"url": "https://snustop.com.ua/velo-snus",
+		"priceCurrency": "UAH",
+		"price": "120",
+		"availability": "https://schema.org/InStock"
+	}
+}
+</script>
+
+<script async src="https://cdn.ampproject.org/v0.js"></script>
 
 </head>
 
@@ -338,7 +359,7 @@
 				<li><a href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram @snustop</a></li>
 				<li><a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></li>
 				<li><a href="sms:+380-67-568-0230" title="Отправить смс">Отправить SMS</a></li>
-				<li><a href="viber://add?number=380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написать на Viber</a></li>
+				<li><a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber"> <i class="icon-viber"></i>Написать на Viber</a></li>
 				<li><a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp"> <i class="icon-whatsapp"></i>Написать в WhatsApp</a></li>
 				<li><a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">snustop.com.ua@gmail.com</a></li>
 			</ul>
