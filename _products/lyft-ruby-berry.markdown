@@ -1,6 +1,7 @@
 ---
 title: LYFT Ruby Berry
 date: 2020-06-27 12:57:00 Z
+position: 8
 title-seo: "LYFT Ruby Berry\U0001F353  белый снюс"
 product-name: "LYFT Ruby Berry\U0001F353"
 product-alt: LYFT Ruby Berry Slim All White
