@@ -6,3 +6,4 @@ _site
 /site-final/site final/node_modules/
 /site-final/site final/img/
 *.onetoc2
+.DS_Store
