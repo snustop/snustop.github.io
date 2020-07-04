@@ -20,6 +20,13 @@ has_availability: true
 gramm: '10,4'
 nicotine: 22
 portions: 13
+similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/corvus-brutal-snus.jpg\" alt=\"Корвус брутал\"></a>\n\t\t<a
+  href=\"/offroad-x-white-dry-arctic-explorer\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/offroad-x-white-dry-arctic-explorer.jpg\" alt=\"Оффроад х\"></a>\n<a
+  href=\"/thunder-x-slim-white-dry\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс тандер х слим\"></a>\n</div>"
 ---
 
 Новый снюс CHAINSAW Cold White Dry Ultra Strong  - довольно крепок, содержит 22 мг никотина, сравним в [оденсом кд](/odens-cold-dry)<br>
