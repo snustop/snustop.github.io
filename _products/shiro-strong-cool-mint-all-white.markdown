@@ -13,6 +13,7 @@ stock-list: Акция
 price: 220
 opt-price: 170
 new-price: 180
+image: "/img/products/shiro/shiro-cool-mint.png"
 availability-descr: В наличии
 has_availability: true
 gramm: 12
@@ -35,3 +36,5 @@ Shiro Cool Mint — полностью белый снюс, крепостью 2
 
 Обладает освежающим вкусом мяты с приятным фруктовым характером. Пакетики длинные и тонкие (очень удобные), белые и сухие, не содержат табака, вместо него используется волокна эвкалипта и сосны и добавляют никотиновый экстракт, который был извлечен из табачного растения. Очень похож на всем известный [Lyft ice cool](/lyft-strong-ice-cool-mint-slim-all-white).
 Идеально подойдет любителям белых порций.
+
+<img class="img-fluid" src="/img/products/shiro/shiro-open.jpg" alt="shiro cool mint open">
