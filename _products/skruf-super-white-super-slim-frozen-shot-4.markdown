@@ -13,6 +13,8 @@ composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/skruf-super-white-super-slim-frozen-shot-no4.png"
+availability-descr: Под заказ
+has_availability: false
 gramm: 17.2
 nicotine: 18
 portions: 24
