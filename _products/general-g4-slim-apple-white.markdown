@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 158
-new-price: 175
+opt-price: 175
+new-price: 195
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
 availability-descr: Акция
 has_availability: true
