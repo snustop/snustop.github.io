@@ -24,7 +24,7 @@ taste: Цитрус - персик
 form: Порционный, слим, белый
 similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
   полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
   FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
   alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
