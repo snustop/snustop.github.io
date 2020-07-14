@@ -16,7 +16,7 @@ image: "/img/products/siberia-white-dry.png"
 availability-descr: В наличии
 has_availability: true
 gramm: 16
-nicotine: 42
+nicotine: 43
 portions: 20-24
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
   описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
