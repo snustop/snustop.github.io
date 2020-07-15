@@ -34,7 +34,8 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 13 порций, пакеты белые и сухие, очень мягкие на ощупь и удобно сидят под губой.
 Никотиновый удар наступает довольно быстро и держится очень хорошо.<br>
 Подойдет любителям крепких табаков.
-<div class="mb-3">
-<img class="img-fluid" style="width:49%" src="/img/products/chainsaw-cold-white-dry/snus-chainsaw-cold-white-dry.jpg" alt="Снюс CHAINSAW Cold White Dry Ultra Strong Portion">
-<img class="img-fluid" style="width:49%" src="/img/products/chainsaw-cold-white-dry/chainsaw-cold-white-dry-snus.jpg" alt="Snus CHAINSAW Cold White Dry Ultra Strong Portion">
+<div class="popup-gallery d-flex mb-2">
+	<a class="mr-2" href="/img/products/chainsaw-cold-white-dry/chainsaw-open.jpg" title="Снюс Chainsaw в открытом виде"><img class="img-fluid" src="/img/products/chainsaw-cold-white-dry/chainsaw-open.jpg" alt="Chainsaw White Dry Open"></a>
+	<a class="mr-2" href="img/products/chainsaw-cold-white-dry/chainsaw-portion.jpg" title="20 порций White Dry"><img class="img-fluid" src="img/products/chainsaw-cold-white-dry/chainsaw-portion.jpg" alt="20 порций Chainsaw"></a>
+	<a href="img/products/chainsaw-cold-white-dry/chainsaw-date.jpg" title="Дата изготовления (фото сделано 15 июля 2020)"><img class="img-fluid" src="img/products/chainsaw-cold-white-dry/chainsaw-date.jpg" alt="Дата изготовления снюса"></a>
 </div>
