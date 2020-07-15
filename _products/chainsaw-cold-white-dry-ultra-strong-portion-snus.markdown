@@ -4,7 +4,7 @@ date: 2018-11-01 13:36:00 Z
 position: 1
 title-seo: CHAINSAW Cold White Dry Ultra Strong Portion Snus
 descr: 'Снюс CHAINSAW Cold White Dry Ultra Strong - довольно крепок, 22 мг никотина,
-  13 порций, пакеты белые и сухие. Приятный вкус мяты. '
+  20 порций, пакеты White и сухие. Приятный вкус мяты. '
 product-name: CHAINSAW Cold White Dry Ultra Strong
 product-alt: CHAINSAW Cold White Dry Ultra Strong Portion Snus
 strong: Крепкий
@@ -17,9 +17,9 @@ new-price: 99
 image: "/img/products/chainsaw-cold-white-dry.jpg"
 availability-descr: В наличии
 has_availability: true
-gramm: '10,4'
+gramm: 13
 nicotine: 22
-portions: 13
+portions: 20
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
   описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/corvus-brutal-snus.jpg\" alt=\"Корвус брутал\"></a>\n\t\t<a
@@ -31,8 +31,8 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 
 Почему акция такая? он просрочен? Ответ: нет, с ним все отлично, просто решили сделать скидку.<br>
 Новый снюс CHAINSAW Cold White Dry Ultra Strong  - довольно крепок, содержит 22 мг никотина, ощущается немного сильнее, сравним в [оденсом кд](/odens-cold-dry)<br>
-13 порций, пакеты белые и сухие, очень мягкие на ощупь и удобно сидят под губой.
-Никотиновый удар наступает довольно быстро и держится очень хорошо.<br>
+20 порций, пакеты [White](/white-dry-snus) (не путать с [All White](/all-white-snus)) и сухие, очень мягкие на ощупь и удобно сидят под губой.
+Никотиновый удар наступает довольно быстро и держится очень хорошо. Вкус мята, как у [тандера Х](/thunder-x-slim-white-dry), кстати, это один и тот же производитель.<br>
 Подойдет любителям крепких табаков.
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/chainsaw-cold-white-dry/chainsaw-open.jpg" title="Снюс Chainsaw в открытом виде"><img class="img-fluid" src="/img/products/chainsaw-cold-white-dry/chainsaw-open.jpg" alt="Chainsaw White Dry Open"></a>
