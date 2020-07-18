@@ -10,10 +10,7 @@ product-alt: Красная сибирь 13 грамм
 strong: Очень крепкий
 brand: Siberia
 composition: Dry
-stock-list: Акция
 price: 190
-opt-price: 153
-new-price: 170
 image: "/img/products/extremely-strong-white-dry-16.jpg"
 availability-descr: Снят с производства
 has_availability: false
