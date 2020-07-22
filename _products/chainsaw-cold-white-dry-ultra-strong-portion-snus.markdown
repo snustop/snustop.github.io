@@ -10,13 +10,11 @@ product-alt: CHAINSAW Cold White Dry Ultra Strong Portion Snus
 strong: Крепкий
 brand: Other Brands
 composition: Dry
-stock-list: Акция
 price: 145
-opt-price: 99
-new-price: 99
+opt-price: 130
 image: "/img/products/chainsaw-cold-white-dry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 22
 portions: 20
@@ -29,7 +27,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
   src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс тандер х слим\"></a>\n</div>"
 ---
 
-Почему акция такая? Он просрочен? Ответ: **нет**, с ним все отлично, просто решили сделать скидку. Кстати, со скидкой — это лучшее предложение: "цена - качество"<br>
 Снюс CHAINSAW Cold White Dry Ultra Strong — довольно крепок, содержит **22 мг никотина**, ощущается немного сильнее, сравним с [оденсом кд](/odens-cold-dry)<br>
 **20 порций**, пакеты [White dry](/white-dry-snus) (не путать с [All White](/all-white-snus)), очень мягкие на ощупь и удобно сидят под губой.<br>
 Никотиновый удар наступает довольно быстро и держится очень хорошо. Вкус мята, как у [тандера Х](/thunder-x-slim-white-dry), кстати, они производятся на одном заводе.<br>
