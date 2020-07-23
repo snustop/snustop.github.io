@@ -14,7 +14,7 @@ stock-list: В наличии
 price: 220
 opt-price: 198
 image: "/img/products/chn-strong.jpg"
-availability-descr: Нет в наличии
+availability-descr: Под заказ
 has_availability: false
 gramm: 13
 nicotine: 45
