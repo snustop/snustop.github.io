@@ -24,7 +24,7 @@ composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/corvus-logan\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/corvus/corvus-logan.png\" alt=\"Corvus Logan\"></a>\n\t<a
-  href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=/img/products/faff-cocos.png\"
+  href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-cocos.png\"
   alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Enedry\"></a>\n</div>"
 ---
