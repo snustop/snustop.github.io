@@ -5,7 +5,7 @@ position: 23
 title-seo: "Corvus Flash \U0001F34A снюс купить в Украине"
 descr: "Corvus Flash со вкусом апельсина \U0001F34A. Крепость 50 мг, 25 порций. Порции
    очень маленькие и тонкие, цвет пакетов оранжевый. "
-product-name: Corvus Flash
+product-name: "Corvus Flash \U0001F34A"
 product-alt: Corvus Flash со вкусом апельсина
 strong: Очень крепкий
 brand: Corvus
