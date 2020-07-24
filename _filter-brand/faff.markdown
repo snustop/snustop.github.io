@@ -38,7 +38,7 @@ layout: filter-brand
 		</tr>
 		<tr>
 			<td><a href="/faff-cola"><img style="width: 40px" src="/img/products/faff-cola.png" alt="Faff Cola"></a></td>
-			<td><a href="/faff-cola">Faff Energy</a></td>
+			<td><a href="/faff-cola">Faff Cola</a></td>
 			<td>75</td>
 			<td>Кола</td>
 		</tr>
