@@ -17,7 +17,7 @@ availability-descr: В наличии
 has_availability: true
 gramm: "-"
 nicotine: 100
-portions: "±30"
+portions: "±29"
 taste: Кокос
 form: Порционный, белый
 composition-product: Неизвестно
