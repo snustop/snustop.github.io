@@ -8,7 +8,7 @@ descr: 'Снюс Фафф Energy 75 мг, очень крепкий снюс с�
 product-name: Faff Energy Red bull 75 мг
 product-alt: Снюс Faff Energy 75 mg
 strong: Очень крепкий
-brand: Other Brands
+brand: Faff
 composition: Белый
 price: 210
 opt-price: 189
