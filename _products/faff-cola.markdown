@@ -8,7 +8,7 @@ descr: 'Снюс Фафф Кола 75 мг, очень крепкий снюс �
 product-name: Снюс Faff Cola 75 mg
 product-alt: Faff Cola
 strong: Очень крепкий
-brand: Other Brands
+brand: Faff
 composition: Белый
 price: 210
 opt-price: 189
