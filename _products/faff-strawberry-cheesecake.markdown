@@ -23,11 +23,10 @@ form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/corvus-joker\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/corvus-joker.png\" alt=\"Siberia
-  White dry slim\"></a>\n\t<a href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=/img/products/faff-cocos.png\" alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff
-  Enedry\"></a>\n</div>"
+  class=\"img-fluid\" src=\"/img/products/corvus/corvus-joker.png\" alt=\"Корвус джокер\"></a>\n\t<a
+  href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=/img/products/faff-cocos.png\"
+  alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Enedry\"></a>\n</div>"
 ---
 
 Снюс FAFF Strawberry Cheesecake (Клубничный пирог) — осталось только купить кофе) Что будет если взять нежнейший клубничный чизкейк, максимально сконцентрировать его вкус и пропитать им действительно качественные никпаки? Получится FAFF STRAWBERRY CHEESECAKE.
