@@ -8,7 +8,7 @@ descr: "Faff кокос \U0001F965 — очень крепкий снюс, за�
 product-name: "Faff Кокос 100 мг \U0001F965"
 product-alt: Снюс Faff Кокос 100 мг
 strong: Очень крепкий
-brand: Other Brands
+brand: Faff
 composition: Белый
 price: 210
 opt-price: 190
