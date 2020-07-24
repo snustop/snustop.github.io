@@ -12,7 +12,7 @@ brand: Faff
 composition: Белый
 price: 210
 opt-price: 189
-image: "/img/products/tropic-strorm.jpg"
+image: "/img/products/faff-tropic-storm.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
