@@ -17,7 +17,7 @@ availability-descr: В наличии
 has_availability: true
 gramm: "-"
 nicotine: 75
-portions: "±28"
+portions: "±29"
 taste: Red Bull
 form: Порционный, белый
 composition-product: Неизвестно
