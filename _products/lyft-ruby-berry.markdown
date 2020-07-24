@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-ruby-berry-slim-all-white.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: Заканчивается
+has_availability: true
 gramm: 16.8
 nicotine: 8
 portions: 24
