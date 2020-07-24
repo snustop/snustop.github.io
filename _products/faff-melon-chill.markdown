@@ -14,7 +14,7 @@ price: 210
 opt-price: 189
 image: "/img/products/faff-melon-chill.png"
 availability-descr: Под заказ
-has_availability: true
+has_availability: false
 gramm: "-"
 nicotine: Заявлено 75
 portions: "±29"
