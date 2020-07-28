@@ -1,7 +1,7 @@
 ---
 title: general-g3-slim-white
 date: 2017-11-20 14:13:00 Z
-position: 59
+position: 60
 title-seo: General G.3 Extra Strong Slim White купить в Украине
 descr: Купить снюс General G.3 Extra Strong Slim White  в Украине. Отправка Новой
   Почтой. Звоните 0675680230
