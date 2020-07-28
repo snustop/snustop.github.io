@@ -1,7 +1,7 @@
 ---
 title: Chainsaw Cold White Dry Ultra Strong Portion Snus
 date: 2018-11-01 13:36:00 Z
-position: 50
+position: 51
 title-seo: CHAINSAW Cold White Dry Ultra Strong Portion Snus
 descr: 'Снюс CHAINSAW Cold White Dry Ultra Strong - довольно крепок, 22 мг никотина,
   20 порций, пакеты White и сухие. Приятный вкус мяты. '
