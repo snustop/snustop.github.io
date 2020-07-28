@@ -46,7 +46,7 @@ link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-lviv">
 
 <section class="mb-4">
 	<h2>Каталог снюса</h2>
-	<div class="row">
+	<div class="row catalog">
 		<!-- PRODUCTS start -->
 		<!-- PRODUCT START -->
 		{% assign sorted_items = site.products | sort:"position" %}

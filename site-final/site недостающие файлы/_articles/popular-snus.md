@@ -31,7 +31,7 @@ img: "/img/blog/popular-snus.jpg"
 
 <section class="mb-4">
 	<h2>Каталог снюса</h2>
-	<div class="row">
+	<div class="row catalog">
 		<!-- PRODUCTS start -->
 		<!-- PRODUCT START -->
 		{% assign sorted_items = site.products | sort:"position" %}

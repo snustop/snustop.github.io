@@ -26,7 +26,7 @@ img: "/img/blog/cities/poltava.jpg"
 <section class="mb-4">
 	<h2>Каталог снюса</h2>
 	<p>Цены и наличие немного отличаются чем на сайте</p>
-	<div class="row">
+	<div class="row catalog">
 		<!-- PRODUCTS start -->
 		<!-- PRODUCT START -->
 		{% assign sorted_items = site.products | sort:"position" %}

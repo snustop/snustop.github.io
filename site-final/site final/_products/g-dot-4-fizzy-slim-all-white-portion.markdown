@@ -1,7 +1,7 @@
 ---
 title: G.4 Fizzy Slim All White Portion
 date: 2019-07-15 07:15:00 Z
-position: 11
+position: 10
 title-seo: "G.4 Fizzy \U0001F351 Slim All White Portion Snus"
 descr: "G.4 Fizzy - белый снюс со вкусом персика \U0001F351 и оттенками грейпфрута.
   Крепость 13 мг, 24 белых порций."
@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 176
-new-price: 195
+opt-price: 167
+new-price: 185
 image: "/img/products/g4-fizzy-slim-all-white.png"
 availability-descr: В наличии
 has_availability: true
@@ -24,7 +24,7 @@ taste: Цитрус - персик
 form: Порционный, слим, белый
 similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
   полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
   FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
   alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
@@ -37,5 +37,4 @@ G.4 Fizzy 🍑 Slim Strong All White - это белый летний снюс.
 Вкус персика и цитрусовых с оттенками грейпфрута и бузины.
 По крепости 13 никотина, но по ощущения немного слабее всем известного [яблочного снюса](/general-g4-slim-apple-white).
 
-Просрочен! Срок до 10 января. Но на свойствах не отражается, так как соблюдены все условия хранения (температура и влажность), но по дате просрочен. Эффект и вкус такой же как от свежего. 
 <img class="img-fluid" src="/img/products/G4Fizzy.JPG" alt="g4 fizzy all white snus open">

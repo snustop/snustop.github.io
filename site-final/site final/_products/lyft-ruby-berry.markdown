@@ -1,7 +1,7 @@
 ---
 title: LYFT Ruby Berry
 date: 2020-06-27 12:57:00 Z
-position: 8
+position: 55
 title-seo: "LYFT Ruby Berry\U0001F353  белый снюс"
 descr: "Белый снюс Lyft c превосходным вкусом клубники \U0001F353. Средняя крепость
   8 мг, 24 порции слим. Аромат длится 40-50 минут."
@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-ruby-berry-slim-all-white.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 16.8
 nicotine: 8
 portions: 24

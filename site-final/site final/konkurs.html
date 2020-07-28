@@ -1,0 +1,85 @@
+---
+permalink: konkurs
+title-seo: Розыгрыш 10-ти банок
+descr: Разыграем 10-ть банок снюcа. 5 крио ваниль и 5 яблочных, условия очень просты (подписаться на канал, добавить сайт в закладки и все).  Результаты 15 июля 2020.
+keywords: снюс конкурс, снюс бесплатно
+layout: compress
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+
+
+		<div class="container">
+			<main class="margin-top-2rem">
+				<section>
+					<h1 class="h2">Розыгрыш 10-ти банок</h1>
+					<p class="lead">Разыграем 10-ть банок снюcа. 5 <a href="/g4-cryo-slim-all-white-super-strong">g4 cryo ваниль</a> и 5 <a href="/general-g4-slim-apple-white">g4 apple</a>, условия очень просты (подписаться на канал, добавить сайт в закладки и все) подробнее ниже..</p>
+					<div class="popup-gallery d-flex mb-3">
+						<a class="mr-2" href="/img/other-photo/konkurs.jpg" title="Розыгрыш 10-ти банок"><img class="img-fluid" src="/img/other-photo/konkurs.jpg" alt="Розыгрыш 10-ти банок снюса, подробности ниже."></a>
+						<a class="mr-2" href="/img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" title="g4 Apple в открытом виде"><img class="img-fluid" src="img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" alt="g4 Apple в открытом виде"></a>
+						<a href="/img/products/cryo/g4-cryo-all-white-open-portion.jpg" title="g4 Cryo ванильный в открытом виде"><img class="img-fluid" src="/img/products/cryo/g4-cryo-all-white-open-portion.jpg" alt="g4 Cryo ванильный в открытом виде"></a>
+					</div>
+					<h2>Условия</h2>
+					<ol>
+						<li>Подписаться на телеграмм канал <a target="_blank" href="//t.me/snustopUA">@snustopUA</a></li>
+						<li>Установить приложение нашего сайта на телефон (<a href="#instruction">смотреть инструкцию</a>), и сделать <b>скрин</b> рабочего стола, чтоб видно было что установлено. </li>
+						<li>Написать в личные сообщения в телеграмме <i>"участвую"</i>, писать сюда: <a target="_blank" href="//t.me/snustop">@snustop</a> и скинуть скрин где видно что установлено приложение.</li>
+					</ol>
+					<h2 id="instruction">Инструкция установки приложения</h2>
+					<span><b>Если телефон на iOS Apple</b> (инструкция на фото) </span>
+					<div class="popup-gallery mb-2">
+						<a href="/img/other-photo/instruction-ios.jpg" title="Инструкция установки приложения на ios"><img class="img-fluid" src="/img/other-photo/instruction-ios.jpg" alt="Инструкция установки приложения на ios"></a>
+					</div>
+					<span><b>Если телефон на Android:</b></span>
+					<div class="popup-gallery">
+						<a href="/img/other-photo/instuction-adnroid.jpg" title="Инструкция установки приложения на Android"><img class="img-fluid" src="/img/other-photo/instuction-adnroid.jpg" alt="Инструкция установки приложения на Android"></a>
+					</div>
+					<p>Какие преимущества этого приложения? (сайт работает еще быстрее, работает даже без интернета или с плохим интернетом). Обещаем что никакого спама не будет.</p>
+					<h2>Результаты</h2>
+					<p>Будет <b>3 победителя</b>, и участникам приятные бонусы, в виде <b>одной бесплатной доставки</b>. Результаты конкурса <b>15 июля 2020 года</b>. Победителя определим в прямом эфире.<br>
+						1-ое место 4-ри банки на выбор, 2-ое три банки, 3-е место три банки оставшиеся.
+						Следите за всеми новостями в телеграмм канале: <a target="_blank" href="//t.me/snustopUA">@snustopUA</a></p>
+					</section>
+					
+					<hr>
+	
+					<section class="mb-4">
+						<h2>Каталог снюса</h2>
+						<div class="row catalog">
+							<!-- PRODUCTS start -->
+							<!-- PRODUCT START -->
+							{% assign sorted_items = site.products | sort:"position" %}
+							{% for product in sorted_items offset:0 limit:6 %}
+
+							{% include item-product.html %}
+
+							{% endfor %}
+							<!-- PRODUCT END -->
+							<!-- PRODUCTS end -->
+						</div>
+						<div>
+							<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
+						</div>
+					</section>
+
+
+				</main>
+			</div>
+		</div>
+
+		{% include modal-cart.html %}
+
+		{% include modal-contact.html %}
+
+		{% include arrow-to-top.html %}
+
+		{% include footer.html %}
+
+		{% include foot-scripts.html %}
