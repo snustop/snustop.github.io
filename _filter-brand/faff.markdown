@@ -11,6 +11,19 @@ filter-brand-list: Faff
 layout: filter-brand
 ---
 
+---
+title: Faff
+date: 2020-07-23 14:49:00 Z
+permalink: "/faff"
+title-seo: Снюс Faff — очень крепкий снюс
+descr: Снюс Faff. Фафф — российский бренд безтабачной смеси. Акцент делают на очень
+  крепких продуктах, крепость от 65 мг - до 100 мг с различными вкусами.
+keywords: faff, фафф
+filter-name-h2: Faff Снюс
+filter-brand-list: Faff
+layout: filter-brand
+---
+
 Снюс Faff. Фафф — российский бренд безтабачной смеси. Акцент делают на очень крепкие продукты, крепость от <b>65 мг - до 100 мг</b> с различными вкусами, всего 14 вкусов, честно говоря многие, из них отвратительны, но есть и неплохие, как говориться на вкус и цвет. Насчет крепости, пишут 100 мг, но на деле ощущается гораздо слабее. Порции везде белого цвета, в банке <b>±29 порций</b>, но они очень маленькие. Ниже в таблице представлены все позиции бренда Faff.
 
 <table class="table table-sm">
@@ -66,7 +79,47 @@ layout: filter-brand
 			<td>100</td>
 			<td>Черная смородина</td>
 		</tr>
+		<tr>
+			<td><a href="/faff-citron"><img style="width: 40px" src="/img/products/faff-citron.png" alt="FAFF Citron Sprite"></a></td>
+			<td><a href="/faff-citron">FAFF Citron Sprite</a></td>
+			<td>75</td>
+			<td>Лайм-лимон</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-isabella"><img style="width: 40px" src="/img/products/faff-isabella.png" alt="FAFF IZABELLA"></a></td>
+			<td><a href="/faff-isabella">FAFF IZABELLA</a></td>
+			<td>75</td>
+			<td>Виноград</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-strawberry"><img style="width: 40px" src="/img/products/faff-strawberry.png" alt="FAFF STRAWBERRY"></a></td>
+			<td><a href="/faff-strawberry">FAFF STRAWBERRY</a></td>
+			<td>65</td>
+			<td>Клубничная жвачка</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-pina-colada"><img style="width: 40px" src="/img/products/faff-pina-colada.png" alt="FAFF PINA COLADA"></a></td>
+			<td><a href="/faff-pina-colada">FAFF PINA COLADA</a></td>
+			<td>65</td>
+			<td>Кокос-ананас</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-raspberry"><img style="width: 40px" src="/img/products/faff-raspberry.png" alt="FAFF RASPBERRY"></a></td>
+			<td><a href="/faff-raspberry">FAFF RASPBERRY</a></td>
+			<td>65</td>
+			<td>Малина</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-double-apple"><img style="width: 40px" src="/img/products/faff-double-apple.png" alt="FAFF Double-Apple"></a></td>
+			<td><a href="/faff-double-apple">FAFF Double-Apple</a></td>
+			<td>65</td>
+			<td>яблоко</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-mint"><img style="width: 40px" src="/img/products/faff-mint.jpg" alt="FAFF Spearmint"></a></td>
+			<td><a href="/faff-mint">FAFF Spearmint</a></td>
+			<td>65</td>
+			<td>Сладкая мята</td>
+		</tr>
 	</tbody>
-</table> 
-
-Другие продукты в скором времени будут добавлены.
+</table>
