@@ -10,6 +10,7 @@ product-alt: 5 банок красной сибири слим
 strong: Средней крепости
 brand: Siberia
 composition: Dry
+stock-list: Акция
 price: 850
 opt-price: 850
 image: "/img/products/siberia-slim-5cans.png"
