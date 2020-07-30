@@ -8,6 +8,7 @@ descr: Снюс Faff. Фафф — российский бренд безтаб�
 keywords: faff, фафф
 filter-name-h2: Faff Снюс
 filter-brand-list: Faff
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/faff">
 layout: filter-brand
 ---
 
