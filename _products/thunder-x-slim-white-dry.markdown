@@ -14,8 +14,8 @@ stock-list: Лучший выбор
 price: 180
 opt-price: 162
 image: "/img/products/thunder-x-slim-white-dry.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Будет в субботу
+has_availability: false
 gramm: 15.4
 nicotine: 45
 portions: 22
