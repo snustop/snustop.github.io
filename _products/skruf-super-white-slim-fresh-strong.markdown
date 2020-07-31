@@ -10,10 +10,12 @@ product-alt: Skruf Super White Slim Fresh Strong No.4
 strong: Крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 215
 opt-price: 194
+new-price: 140
 image: "/img/products/skruf-super-white-fresh-no4.png"
-availability-descr: В наличии
+availability-descr: Уценка
 has_availability: true
 gramm: 17.6
 nicotine: 18
