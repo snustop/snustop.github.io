@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-melon-chill.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Будет 1-го августа
+has_availability: false
 gramm: "-"
 nicotine: Заявлено 75
 portions: "±29"
