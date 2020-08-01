@@ -12,9 +12,18 @@ composition: Dry
 price: 165
 opt-price: 149
 image: "/img/products/odens-cold-dry-slim.png"
-availability-descr: Ожидается
-has_availability: false
-portions: 16
+availability-descr: В наличии
+has_availability: true
+gramm: 16
+portions: "±20"
+similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg\"
+  alt=\"Сибирь слим открытая\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/thunder-x-slim-white-dry\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс
+  тандер х слим\"></a>\n</div>"
 ---
 
 Odens cold dry slim - это все тот же [odens cold dry](/odens-cold-dry), только в slim варианте.<br>
