@@ -5,7 +5,7 @@ position: 29
 title-seo: Снюс FAFF Чёрная смородина Dark Night
 descr: Снюс FAFF Dark Night со вкусом черной смородины. В банке ±29 порций белого
   цвета, крепость 100 мг. Порции слим.
-product-name: FAFF Dark Night
+product-name: FAFF Dark Night (смородина)
 product-alt: FAFF Чёрная смородина Dark Night
 strong: Очень крепкий
 brand: Faff
