@@ -16,12 +16,14 @@ availability-descr: В наличии
 has_availability: true
 gramm: 16
 portions: "±20"
-similar-product_body: "<p>Вам также понравится. <small>Жмите на картинки и читайте
-  полное описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-red-white-dry-slim.jpg\"
-  alt=\"красная сибирь слим\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
-  style=\"width:49%\" class=\"img-fluid\" src=\"/img/products/cryo/g4cryo-snus.jpg\"
-  alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n</div>"
+similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg\"
+  alt=\"Сибирь слим открытая\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
+  alt=\"Лифт фриз\"></a>\n<a href=\"/thunder-x-slim-white-dry\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс
+  тандер х слим\"></a>\n</div>"
 basename: full
 ---
 
