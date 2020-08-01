@@ -10,10 +10,12 @@ product-alt: General Classic Extra Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
+stock-list: Акция
 price: 210
 opt-price: 189
+new-price: 160
 image: "/img/products/general-classic-extra-strong-portion.png"
-availability-descr: В наличии
+availability-descr: Уценка (сроки подходят)
 has_availability: true
 gramm: 22
 nicotine: 14
@@ -21,6 +23,8 @@ portions: 20
 taste: Табак, бергамот, цитрус
 form: Порционный, влажный, оригинальные порции
 ---
+
+Уценка (сроки подходят), до 11 августа. Это не означает что его нельзя использовать, это не молочные продукты! Мы соблюдаем температурный режим, чтоб снюс хранился максимально долго и не терял своих свойств.
 
 General Classic Extra Strong имеет приятный вкус, который начинается как намек на соль, смешивающийся с лимоном, примерно через 10 минут чувствуются действительно тонкие намеки на гладкий перцовый табак ползком дополняя всю симфонию вкусов. Порции  влажные и приятные.<br>
 Подойдет любителям снюса средней крепости.<br>
