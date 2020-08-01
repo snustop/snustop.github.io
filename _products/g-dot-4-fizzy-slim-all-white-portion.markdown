@@ -5,7 +5,7 @@ position: 8
 title-seo: "G.4 Fizzy \U0001F351 Slim All White Portion Snus"
 descr: "G.4 Fizzy - белый снюс со вкусом персика \U0001F351 и оттенками грейпфрута.
   Крепость 13 мг, 24 белых порций."
-product-name: "G.4 Fizzy \U0001F351 Slim All White"
+product-name: "G.4 Fizzy \U0001F351 персик all white"
 product-alt: G.4 Fizzy Slim All White Portion Snus
 strong: Средней крепости
 brand: Swedish Match
@@ -13,9 +13,9 @@ composition: Белый
 stock-list: Акция
 price: 215
 opt-price: 167
-new-price: 185
+new-price: 180
 image: "/img/products/g4-fizzy-slim-all-white.png"
-availability-descr: В наличии
+availability-descr: сроки подходят
 has_availability: true
 gramm: '19,2'
 nicotine: 13
