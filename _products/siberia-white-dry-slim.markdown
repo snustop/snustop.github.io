@@ -19,8 +19,8 @@ gramm: 13
 nicotine: 43
 portions: 21
 form: Порционный, сухой, slim
-similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
-  описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
+similar-product_body: "<p>Вам могут понравится. <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open.jpg\" alt=\"Корвус
   брутал открытый\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\" alt=\"Лифт
