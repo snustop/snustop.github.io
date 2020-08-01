@@ -5,7 +5,7 @@ position: 10
 title-seo: Corvus Fenix Barberry | снюс Корвус барбарис купить в Украине
 descr: 'Снюс корвус со вкусом барбариса, 50 мг никотина, 25-28 порций. Порции slim
   бело-красного цвета. Банка прозрачная. Купить в Украине. '
-product-name: Corvus Fenix
+product-name: Corvus Fenix (барбарис)
 product-alt: Corvus Fenix Barberry со вкусом барбариса
 strong: Очень крепкий
 brand: Corvus
