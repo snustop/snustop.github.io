@@ -22,6 +22,14 @@ nicotine: 14
 portions: 20
 taste: Табак, бергамот, цитрус
 form: Порционный, влажный, оригинальные порции
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/onyx\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/onyx/snus-onyx-open.jpg\" alt=\"Оникс открытый\"></a>\n\t\t<a
+  href=\"/xrange-gothenburgs-rape-slim-white-strong-portion-snus\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg\"
+  alt=\"general XR Goteborgs Rape\"></a>\n<a href=\"/lundgrens-skane-white-portion-snus\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lundgrens-white.jpg\"
+  alt=\"Lundgrens Skane White\"></a>\n</div>"
 ---
 
 Уценка (сроки подходят), до 11 августа. Это не означает что его нельзя использовать, это не молочные продукты! Мы соблюдаем температурный режим, чтоб снюс хранился максимально долго и не терял своих свойств.
