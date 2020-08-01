@@ -13,7 +13,7 @@ composition: Белый
 stock-list: Акция
 price: 215
 opt-price: 194
-new-price: 140
+new-price: 130
 image: "/img/products/skruf-super-white-fresh-no4.png"
 availability-descr: Уценка
 has_availability: true
