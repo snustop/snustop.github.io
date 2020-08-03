@@ -9,6 +9,9 @@ product-name: "LYFT Summer Beat \U0001F34A"
 product-alt: LYFT Summer Beat Limited Edition
 strong: Низкой крепости
 brand: Lyft
+composition: Белый
+price: 230
+opt-price: 210
 image: "/img/products/lyft-summer-beat-limited-edition.png"
 availability-descr: Лимитированая партия
 has_availability: true
