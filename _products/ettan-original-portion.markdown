@@ -20,6 +20,14 @@ nicotine: 8.5
 portions: 24
 taste: Классический, черный шоколад
 form: Порционный, влажный
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/onyx\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/onyx/snus-onyx-open.jpg\" alt=\"Оникс открытый\"></a>\n\t\t<a
+  href=\"/xrange-gothenburgs-rape-slim-white-strong-portion-snus\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg\"
+  alt=\"general XR Goteborgs Rape\"></a>\n<a href=\"/lundgrens-skane-white-portion-snus\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lundgrens-white.jpg\"
+  alt=\"Lundgrens Skane White\"></a>\n</div>"
 ---
 
 Снюс Ettan - это одна из самых старых марок в Швеции.<br>
