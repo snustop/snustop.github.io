@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 215
-opt-price: 167
-new-price: 180
+opt-price: 150
+new-price: 160
 image: "/img/products/g4-fizzy-slim-all-white.png"
 availability-descr: сроки подходят
 has_availability: true
