@@ -15,8 +15,8 @@ price: 210
 opt-price: 167
 new-price: 185
 image: "/img/products/white-fox-full-charge.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 15
 nicotine: '16,5'
 portions: 20
