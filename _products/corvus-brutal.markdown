@@ -33,10 +33,14 @@ similar-product_body: "<p>Вам могут понравится и другие
 Corvus – популярный российский бренд бестабачных жевательных смесей. 
 
 Наш интернет-магазин [snustop.com.ua](https://snustop.com.ua) не рекомендует данный продукт, особенно людям, которые ранее не использовали снюс и никотиновые продукты.
-Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Сильно разъедают губу и десну.<br>
-[Смотреть всю линейку корвус](/corvus)
+Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Сильно разъедают губу и десну.
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-snus.jpg" title="Корвус брутал 66 мг никотина"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-snus.jpg" alt="Корвус брутал 66 мг никотина"></a>
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-2.jpg" title="Корвус брутал ±20 порций"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-2.jpg" alt="Corvus Brutal Snus открытый"></a>
 	<a href="/img/products/corvus/corvus-brutal-portion.jpg" title="Порции часто рвутся"><img class="img-fluid" src="/img/products/corvus/corvus-brutal-portion.jpg" alt="Корвус brutal зеленая порция"></a>
 </div>
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+</div>
+[Смотреть всю линейку корвус](/corvus)
