@@ -10,13 +10,11 @@ product-alt: Skruf Super White Slim Fresh Strong No.4
 strong: Крепкий
 brand: Other Brands
 composition: Белый
-stock-list: Акция
 price: 215
 opt-price: 194
-new-price: 130
 image: "/img/products/skruf-super-white-fresh-no4.png"
-availability-descr: Уценка
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 17.6
 nicotine: 18
 portions: 24
@@ -32,8 +30,6 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
   class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
   alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
-
-Уценка (вышли сроки), до 27 июля. Это не означает что его нельзя использовать, это не молочные продукты! Мы соблюдаем температурный режим, чтоб снюс хранился максимально долго и не терял своих свойств.
 
 Белый снюс становится популярным, и это не удивительно, он не оставляет следов на зубах, а эффект такой же как и от традиционного снюса. Ярким представителем белого снюса является [lyft ice cool mint](/lyft-strong-ice-cool-mint-slim-all-white).<br>
 В банке **Skruf Super White Slim Fresh Strong №4** такие же белые как и в [Lyft](/lyft), только в самих пакетах не табак, а растительные волокна и никотин. Это интересный продукт, тем, кто не только хочет **бросить курить**, но и **отказаться от табака**.<br>
