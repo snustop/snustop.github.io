@@ -38,4 +38,8 @@ similar-product_body: "<p>Вам могут понравится и другие
 Советуем все-таки взять проверенный и крепкий [снюс красная сибирь](/siberia-white).
 
 Заказывая данный снюс на свой страх и риск, мы его не рекомендуем!
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+</div>
 [Смотреть всю линейку корвус](/corvus)
