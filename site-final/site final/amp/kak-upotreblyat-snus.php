@@ -238,6 +238,7 @@
 				<li><a href="/about-snus">Что такое снюс</a></li>
 				<li><a href="/kak-vibrat-snus">Как выбрать снюс?</a></li>
 				<li><a href="/snus-v-samolete">Снюс в самолете</a></li>
+				<li><a href="/">Смотреть весь ассортимент</a></li>
 			</ul>
 		</div>
 	</main>

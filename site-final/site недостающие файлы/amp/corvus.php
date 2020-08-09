@@ -64,6 +64,14 @@
 	header {
 		background: #000;
 		padding: .5rem 1rem;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		-ms-align-items: center;
+		align-items: center;
 	}
 
 	.logo {
@@ -71,7 +79,21 @@
 		text-transform: uppercase;
 		font-weight: bold;
 		letter-spacing: 2px;
-		font-size: 1.3rem;
+		font-size: 1.1rem;
+		text-decoration: none;
+	}
+
+	.head-telegram {
+		display: inline-block;
+		color: #fff;
+		font-size: .9rem;
+		padding: .375rem .75rem;
+		-webkit-border-radius: .25rem;
+		border-radius: .25rem;
+		background: #1d98dc;
+		-webkit-transition: all .3s;
+		-o-transition: all .3s;
+		transition: all .3s;
 		text-decoration: none;
 	}
 
@@ -138,6 +160,7 @@
 
 	<header>
 		<a class="logo" href="/">Snustop</a>
+		<a class="head-telegram" href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a>
 	</header>
 
 	<main>
@@ -148,12 +171,9 @@
 
 			<p>Российская марка бестабачной жевательной смеси, отличается стильной круглой упаковкой (шайбой) с изображением черного ворона. Изделие популярно в России, но мы крайне не рекомендуем данный продукт! Используйте только качественные продукты, произведенные в Швеции по жестким стандартам качества!<br>Создатели Корвуса позиционируют свой продукт как <i>хайповый</i>, возможно, именно поэтому он стал таким популярным среди молодежи. Бренд <b>Корвус</b> очень активно рекламируются, много приплаченной рекламы. Вот мотивационный ролик от Александра Тихомирова.</p>
 
-			<amp-youtube data-videoid="_Tn_aefLRwc" layout="responsive" width="480" height="270"></amp-youtube>
+			<amp-youtube data-videoid="zTAAx16JajU" layout="responsive" width="480" height="270"></amp-youtube>
 
 			<amp-img alt="Снюс Корвус" src="/img/products/corvus/snus-corvus-extreme-open.jpg" width="1078" height="810" layout="responsive"></amp-img>
-
-			<p>Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Некоторые из продуктов сильно разъедают губу и десну. Наш интернет-магазин <b>snustop.com.ua</b> не может рекомендовать данный продукт, особенно людям, которые ранее не использовали снюс и никотиновые продукты.<br>Но ввиду сильной рекламы данной продукции, мы предоставляем Вам выбор. Самый крепкий из них — это <a href="/corvus-brutal">корвус брутал</a> 68 мг никотина, остальные слабее. <i>Стоит обратить внимание не только на цифры, но и на ощущения, потому что многие отмечают что эти 68 мг, не сильно крепче сибири.</i></p>
-
 
 			<table class="table table-sm">
 				<caption>Рейтинг по крепости Corvus от более крепкого к менее</caption>
@@ -210,11 +230,15 @@
 					</tr>
 				</tbody>
 			</table>
+
+			<p>Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Некоторые из продуктов сильно разъедают губу и десну. Наш интернет-магазин <b>snustop.com.ua</b> не может рекомендовать данный продукт, особенно людям, которые ранее не использовали снюс и никотиновые продукты.<br>Но ввиду сильной рекламы данной продукции, мы предоставляем Вам выбор. Самый крепкий из них — это <a href="/corvus-brutal">корвус брутал</a> 68 мг никотина, остальные слабее. <i>Стоит обратить внимание не только на цифры, но и на ощущения, потому что многие отмечают что эти 68 мг, не сильно крепче сибири.</i></p>
+
 		</article>
 
 		<div class="read-more">
 			<span>Вас может заинтересовать:</span>
 			<ul>
+				<li><a href="/faff">Снюс Faff</a></li>
 				<li><a href="/ultra-strong">Очень крепкий снюс</a></li>
 				<li><a href="/all-white-snus">Белый снюс</a></li>
 				<li><a href="/kak-upotreblyat-snus">Как правильно употреблять снюс?</a></li>
@@ -226,7 +250,8 @@
 	</main>
 
 	<footer>
-		Мы в телеграмм: <a href="//t.me/snustopUA" target="_blank" title="Канал telegram">snustopUA</a>
+		Подпишитесь на наш телеграмм канал, чтоб быть в курсе всех новинок и акций<br>
+		<a class="head-telegram" href="//t.me/snustopUA" target="_blank" title="Канал telegram">Подписаться</a>
 	</footer>
 
 </body>

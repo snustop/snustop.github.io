@@ -1,7 +1,7 @@
 ---
 title: Shiro Strong Cool Mint All White
 date: 2020-07-11 08:44:00 Z
-position: 18
+position: 47
 title-seo: Shiro Strong Cool Mint All White — белый снюс
 descr: Снюс Shiro Cool Mint — полностью белый снюс, в банке 24 порции Slim, крепость
   20 мг. Очень похож на Lyft ice cool.
@@ -12,8 +12,8 @@ brand: Other Brands
 composition: Белый
 stock-list: Акция
 price: 220
-opt-price: 170
-new-price: 180
+opt-price: 150
+new-price: 160
 image: "/img/products/shiro/shiro-cool-mint.png"
 availability-descr: В наличии
 has_availability: true
@@ -32,6 +32,8 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   class=\"img-fluid\" src=\"/img/products/g4-cryo-slim-all-white-super-strong.jpg\"
   alt=\"Снюс крио ванильный\"></a>\n</div>"
 ---
+
+Уценка (вышли сроки), до 27 июля. Это не означает что его нельзя использовать, это не молочные продукты! Мы соблюдаем температурный режим, чтоб снюс хранился максимально долго и не терял своих свойств.
 
 Shiro Cool Mint — полностью белый снюс, крепостью 20 мг, в банке 24 порции. 
 

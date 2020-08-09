@@ -1,7 +1,7 @@
 ---
 title: corvus-logan
 date: 2019-10-31 11:35:00 Z
-position: 24
+position: 27
 title-seo: "Corvus Logan Melon\U0001F348 снюс купить в Украине"
 descr: "Corvus Logan  со вкусом дыни \U0001F348. Крепость 50 мг никотина. 25 порций.
   Порции тонкие и маленькие. "
@@ -33,8 +33,12 @@ Corvus snus Logan Melon со вкусом дыни. Заявлено 50 мг н�
 
 Заказывая данный снюс на свой страх и риск, мы его не рекомендуем из-за низкого качества и множества побочных эффектов (головная боль, ускоренное сердцебиение, тошнота, сильно разъедает десна).
 
-[Смотреть всю линейку корвус](/corvus)
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/covrus-logan-portion.jpg" title="Корвус логан желтые порции"><img class="img-fluid" src="img/products/corvus/covrus-logan-portion.jpg" alt="Корвус логан 25 порций"></a>
 	<a href="/img/products/corvus/corvus-logan-open.jpg" title="Корвус со вкусом дыни"><img class="img-fluid" src="/img/products/corvus/corvus-logan-open.jpg" alt="Корвус логан со вкусом дыни"></a>
 </div>
+
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+</div>
+[Смотреть всю линейку корвус](/corvus)

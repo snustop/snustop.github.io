@@ -64,6 +64,14 @@
 	header {
 		background: #000;
 		padding: .5rem 1rem;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		-ms-align-items: center;
+		align-items: center;
 	}
 
 	.logo {
@@ -71,7 +79,21 @@
 		text-transform: uppercase;
 		font-weight: bold;
 		letter-spacing: 2px;
-		font-size: 1.3rem;
+		font-size: 1.1rem;
+		text-decoration: none;
+	}
+
+	.head-telegram {
+		display: inline-block;
+		color: #fff;
+		font-size: .9rem;
+		padding: .375rem .75rem;
+		-webkit-border-radius: .25rem;
+		border-radius: .25rem;
+		background: #1d98dc;
+		-webkit-transition: all .3s;
+		-o-transition: all .3s;
+		transition: all .3s;
 		text-decoration: none;
 	}
 
@@ -125,6 +147,7 @@
 
 	<header>
 		<a class="logo" href="/">Snustop</a>
+		<a class="head-telegram" href="//t.me/snustop" target="_blank" title="Telegram">Написать в Telegram</a>
 	</header>
 
 	<main>
@@ -151,14 +174,16 @@
 					<li><a href="/ultra-strong">Очень крепкий снюс</a></li>
 					<li><a href="/kak-upotreblyat-snus">Как правильно употреблять снюс?</a></li>
 					<li><a href="/kak-vibrat-snus">Как выбрать снюс?</a></li>
+					<li><a href="/">Ассортимент снюса</a></li>
 				</ul>
 			</div>
 
 		</main>
 
 		<footer>
-			Мы в телеграмм: <a href="//t.me/snustopUA" target="_blank" title="Канал telegram">snustopUA</a>
-		</footer>
+		Подпишитесь на наш телеграмм канал, чтоб быть в курсе всех новинок и акций<br>
+		<a class="head-telegram" href="//t.me/snustopUA" target="_blank" title="Канал telegram">Подписаться</a>
+	</footer>
 
 	</body>
 	</html>

@@ -1,7 +1,7 @@
 ---
 title: siberia-black
 date: 2020-04-20 11:04:00 Z
-position: 42
+position: 49
 title-seo: Siberia -80°C Black Portion Snus
 descr: Siberia  Black Snus — очень крепкий снюс, крепость 43 мг никотина. В банке
   20 порций коричневого цвета. Вкус и аромат - табачные.

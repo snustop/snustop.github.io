@@ -1,7 +1,7 @@
 ---
 title: onyx
 date: 2017-11-20 12:44:00 Z
-position: 51
+position: 32
 title-seo: General ONYX Strong Portion Snus купить в Украине
 descr: Снюс general onyx - элитный табак. Черные сухие мешочки очень высокого качества
   с уникальным вкусом, очень приятный табак, в сочетании с нотками цитрусовых и легким
@@ -14,8 +14,8 @@ composition: Оригинальный
 price: 225
 opt-price: 203
 image: "/img/products/onyx.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 12
 portions: 24

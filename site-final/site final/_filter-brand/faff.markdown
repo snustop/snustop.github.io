@@ -8,6 +8,7 @@ descr: Снюс Faff. Фафф — российский бренд безтаб�
 keywords: faff, фафф
 filter-name-h2: Faff Снюс
 filter-brand-list: Faff
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/faff">
 layout: filter-brand
 ---
 
@@ -66,7 +67,50 @@ layout: filter-brand
 			<td>100</td>
 			<td>Черная смородина</td>
 		</tr>
+		<tr>
+			<td><a href="/faff-citron"><img style="width: 40px" src="/img/products/faff-citron.png" alt="FAFF Citron Sprite"></a></td>
+			<td><a href="/faff-citron">FAFF Citron Sprite</a></td>
+			<td>75</td>
+			<td>Лайм-лимон</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-isabella"><img style="width: 40px" src="/img/products/faff-isabella.png" alt="FAFF IZABELLA"></a></td>
+			<td><a href="/faff-isabella">FAFF IZABELLA</a></td>
+			<td>75</td>
+			<td>Виноград</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-strawberry"><img style="width: 40px" src="/img/products/faff-strawberry.png" alt="FAFF STRAWBERRY"></a></td>
+			<td><a href="/faff-strawberry">FAFF STRAWBERRY</a></td>
+			<td>65</td>
+			<td>Клубничная жвачка</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-pina-colada"><img style="width: 40px" src="/img/products/faff-pina-colada.png" alt="FAFF PINA COLADA"></a></td>
+			<td><a href="/faff-pina-colada">FAFF PINA COLADA</a></td>
+			<td>65</td>
+			<td>Кокос-ананас</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-raspberry"><img style="width: 40px" src="/img/products/faff-raspberry.png" alt="FAFF RASPBERRY"></a></td>
+			<td><a href="/faff-raspberry">FAFF RASPBERRY</a></td>
+			<td>65</td>
+			<td>Малина</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-double-apple"><img style="width: 40px" src="/img/products/faff-double-apple.png" alt="FAFF Double-Apple"></a></td>
+			<td><a href="/faff-double-apple">FAFF Double-Apple</a></td>
+			<td>65</td>
+			<td>яблоко</td>
+		</tr>
+		<tr>
+			<td><a href="/faff-mint"><img style="width: 40px" src="/img/products/faff-mint.jpg" alt="FAFF Spearmint"></a></td>
+			<td><a href="/faff-mint">FAFF Spearmint</a></td>
+			<td>65</td>
+			<td>Сладкая мята</td>
+		</tr>
 	</tbody>
-</table> 
+</table>
 
-Другие продукты в скором времени будут добавлены.
+Данный продукт производят в России, и мы его крайне не рекомендуем из-за множества побочных эффектов. Обратите внимание на шведские бренды, которые следят за качеством продукта и соблюдают все пищевые стандартны и нормы.<br>
+Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Некоторые из продуктов сильно разъедают губу и десну. Наш интернет-магазин snustop.com.ua крайне не рекомендует данный продукт!
