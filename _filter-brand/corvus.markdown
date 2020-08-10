@@ -19,7 +19,7 @@ layout: filter-brand
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
 </div>
-<img class="img-fluid" src="/img/products/corvus/snus-corvus-extreme-open.jpg" alt="Corvus Extreme Снюс пакеты">
+<img class="img-fluid" src="/img/products/corvus/corvus-all.jpg" alt="Corvus Extreme Снюс пакеты">
 
 Самый крепкий из них — это <a href="/corvus-brutal">корвус брутал</a> 68 мг никотина, остальные слабее. <i>Стоит обратить внимание не только на цифры, но и на ощущения, потому что многие отмечают что эти 68 мг, не сильно крепче сибири.</i>
 <table class="table table-sm">
