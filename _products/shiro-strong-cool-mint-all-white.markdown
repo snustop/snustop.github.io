@@ -10,10 +10,8 @@ product-alt: Снюс Shiro Cool Mint
 strong: Крепкий
 brand: Other Brands
 composition: Белый
-stock-list: Акция
 price: 220
 opt-price: 150
-new-price: 160
 image: "/img/products/shiro/shiro-cool-mint.png"
 availability-descr: Нет в наличии
 has_availability: false
