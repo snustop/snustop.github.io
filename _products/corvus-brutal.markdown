@@ -41,6 +41,6 @@ Corvus – популярный российский бренд бестабач
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H2ZZ5xnvDwA" allowfullscreen></iframe>
 </div>
 [Смотреть всю линейку корвус](/corvus)
