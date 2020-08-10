@@ -14,8 +14,8 @@ stock-list: Акция
 price: 850
 opt-price: 850
 image: "/img/products/siberia-slim-5cans.png"
-availability-descr: Акция до 10 августа
-has_availability: true
+availability-descr: 'Акция закончилась 10 августа '
+has_availability: false
 gramm: 13
 nicotine: 43
 portions: 21
