@@ -38,6 +38,6 @@ Corvus Flash со вкусом апельсина 🍊. Заявленная к�
 Заказывая данный снюс на свой страх и риск, мы его не рекомендуем из-за низкого качества и множества побочных эффектов (головная боль, ускоренное сердцебиение, тошнота, сильно разъедает десна).
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2ZT3_2zyrM" allowfullscreen></iframe>
 </div>
 [Смотреть всю линейку корвус](/corvus)
