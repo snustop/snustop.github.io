@@ -15,8 +15,8 @@ price: 220
 opt-price: 150
 new-price: 160
 image: "/img/products/shiro/shiro-cool-mint.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 12
 nicotine: 20
 portions: 24
@@ -32,8 +32,6 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   class=\"img-fluid\" src=\"/img/products/g4-cryo-slim-all-white-super-strong.jpg\"
   alt=\"Снюс крио ванильный\"></a>\n</div>"
 ---
-
-Уценка (вышли сроки), до 27 июля. Это не означает что его нельзя использовать, это не молочные продукты! Мы соблюдаем температурный режим, чтоб снюс хранился максимально долго и не терял своих свойств.
 
 Shiro Cool Mint — полностью белый снюс, крепостью 20 мг, в банке 24 порции. 
 
