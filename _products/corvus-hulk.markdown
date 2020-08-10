@@ -42,6 +42,6 @@ similar-product_body: "<p>Вам могут понравится и другие
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u1xu4jzd2RQ" allowfullscreen></iframe>
 </div>
 [Смотреть всю линейку корвус](/corvus)
