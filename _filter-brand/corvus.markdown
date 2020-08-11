@@ -15,7 +15,6 @@ layout: filter-brand
 
 <b>Снюс Корвус</b> (Corvus) — российский бренд жевательной бестабачной смеси. Позиционируется как <a href="/ultra-strong">очень крепкий</a> снюс. Продукция производится по инновационной технологии, без использования табака, на основе горно-алтайской мяты, пропитанной различными химическими добавками. Самый крепкий — <b><a href="/corvus-brutal">Corvus Brutal</a></b>, <b>68 мг</b> никотина, <b>20 порций</b> зеленого цвета, вкус мята. Есть и вкусовые: <b><a href="/corvus-joker">Corvus Joker</a> (лесные ягоды)</b>, <b><a href="/corvus-flash">Corvus Flash</a> (Апельси)</b>, <b><a href="/corvus-logan">Corvus Logan</a> (Дыня)</b>, <b><a href="/corvus-fenix-barberry">Corvus Fenix</a> (барбарис)</b>, <b><a href="/corvus-hulk">Corvus Hulk</a> (фейхоа)</b>.
 
-Российская марка бестабачной жевательной смеси, отличается стильной круглой упаковкой (шайбой) с изображением черного ворона. Изделие популярно в России, но мы крайне не рекомендуем данный продукт! Используйте только качественные продукты, произведенные в Швеции по жестким стандартам качества!
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
 </div>
