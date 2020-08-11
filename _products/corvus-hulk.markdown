@@ -3,7 +3,7 @@ title: corvus-hulk
 date: 2019-10-31 10:55:00 Z
 position: 45
 title-seo: "Corvus Hulk \U0001F95D снюс купить в Украине"
-descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, 25 порций, заявлено 50 мг никотина,
+descr: "Снюс Corvus Hulk со вкусом киви \U0001F95D, ±29 порций, заявлено 50 мг никотина,
   сильно разъедает губу. Не содержит табака. "
 product-name: Corvus Hulk
 product-alt: Corvus Hulk со вкусом Feijoa
@@ -16,7 +16,7 @@ availability-descr: В наличии
 has_availability: true
 gramm: 13
 nicotine: 50
-portions: "~25"
+portions: "±29"
 taste: Фейхоа
 form: Порционный, Slim
 composition-product: Неизвестно
@@ -38,7 +38,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/corvus-hulk-open-snus.jpg" title="Корвус халк зеленые порции"><img class="img-fluid" src="img/products/corvus/corvus-hulk-open-snus.jpg" alt="Корвус халк снюс"></a>
-	<a href="/img/products/corvus/corvus-hulk-portion.jpg" title="Корвус халк 25 порций slim"><img class="img-fluid" src="/img/products/corvus/corvus-hulk-portion.jpg" alt="Корвус халк 25 порций"></a>
+	<a href="/img/products/corvus/corvus-hulk-portion.jpg" title="Корвус халк ±29 порций slim"><img class="img-fluid" src="/img/products/corvus/corvus-hulk-portion.jpg" alt="Корвус халк ±29 порций"></a>
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
