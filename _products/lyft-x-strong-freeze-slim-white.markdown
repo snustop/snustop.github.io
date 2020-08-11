@@ -24,7 +24,7 @@ composition-product: Вода, соль, волокна эвкалипта и с
   поваренная сода, пищевой ароматизатор.
 similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
   картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/g4-deep-freeze-slim-all-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/deep/deep-freeze-open.jpg\"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/g4-deep-freeze.jpg\"
   alt=\"g4 deep freeze\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
   alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
