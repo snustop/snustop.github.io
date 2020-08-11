@@ -3,9 +3,9 @@ title: Corvus
 date: 2019-11-09 08:12:00 Z
 permalink: "/corvus"
 title-seo: Корвус Снюс | Снюс Corvus — очень крепкий снюс
-descr: "Снюс Корвус — очень крепкий снюс. Не содержит табака. Corvus Brutal, Corvus
-  Extreme, Corvus Joker, Corvus Flash \U0001F34A,  Corvus Hulk \U0001F95D, Corvus
-  Logan \U0001F348 и другие. Купить в Украине."
+descr: "Снюс Корвус — очень крепкий снюс. Corvus Brutal, Corvus Extreme, Corvus Joker,
+  Corvus Flash \U0001F34A,  Corvus Hulk \U0001F95D, Corvus Logan \U0001F348 и другие.
+  Купить в Украине."
 keywords: Corvus, корвус, снюс, Украина
 filter-name-h2: Снюс Корвус
 filter-brand-list: Corvus
