@@ -50,7 +50,7 @@ similar-product_body: "<p>Вам могут понравится. <small>Жми�
 			</div>
 			<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 				<div class="card-body">
-					<div class="text">
+					<div itemprop="text">
 						Крепче красная сибирь с <a href="/siberia-white">большими пакетами</a>. Хоть в них и заявлено одинаковое количество никотина, 43 мг, но обычная порция большего размера и соответственно содержимого в ней больше. Если использовать 2-а пакета сразу, то будет еще крепче. Думаю аналогия понятна )
 					</div>
 				</div>
@@ -67,7 +67,7 @@ similar-product_body: "<p>Вам могут понравится. <small>Жми�
 			</div>
 			<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 				<div class="card-body">
-					<div class="text">
+					<div itemprop="text">
 						Нет, пакеты серого цвета. Не путать <a href="/all-white-snus">All White</a>.
 					</div>
 				</div>
@@ -84,7 +84,7 @@ similar-product_body: "<p>Вам могут понравится. <small>Жми�
 			</div>
 			<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 				<div class="card-body">
-					<div class="text">
+					<div itemprop="text">
 						Берите слим версию, она удобней сидит под губой, и практически не заметна для окружающих.
 					</div>
 				</div>
