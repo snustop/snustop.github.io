@@ -10,10 +10,8 @@ product-alt: Offroad X White Dry Arctic Explorer Snus
 strong: Очень крепкий
 brand: Other Brands
 composition: Dry
-stock-list: Акция
 price: 155
 opt-price: 140
-new-price: 130
 image: "/img/products/offroad-x-white-dry-arctic-explorer.jpg"
 availability-descr: В наличии
 has_availability: true
