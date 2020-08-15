@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-hulk.png"
-availability-descr: Ожидается 16 августа
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 50
 portions: "±29"
