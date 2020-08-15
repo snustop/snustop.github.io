@@ -14,7 +14,7 @@ price: 210
 opt-price: 189
 image: "/img/products/faff-energy.png"
 availability-descr: В наличии
-has_availability: false
+has_availability: true
 gramm: "-"
 nicotine: 75
 portions: "±29"
