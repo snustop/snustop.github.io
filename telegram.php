@@ -65,6 +65,9 @@ for($i = 0; $i < count($order_list); $i++) {
 
 $txt = $order_message.$txt;
 
+// отправка заявок в гугл таблицу по инструкции от Игоря api
+file("https://script.google.com/macros/s/AKfycbzu3Y2mig08HJDZphnRwRFqzS4wplONvcSeJ-yfrF_tDa1DdJzI/exec?phone=".urlencode($phone)."&address=".urlencode($mess));
+
 $sendToTelegram = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&parse_mode=html&text={$txt}","r");
 
 $txt = str_replace("%0A","<br/>",$txt);
