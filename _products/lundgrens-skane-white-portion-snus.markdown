@@ -12,8 +12,8 @@ brand: Other Brands
 price: 185
 opt-price: 167
 image: "/img/products/lundgrens-white.jpg"
-availability-descr: Ожидается (под заказ)
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '19,2'
 nicotine: 8
 portions: 24
