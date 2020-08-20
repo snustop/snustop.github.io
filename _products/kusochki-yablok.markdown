@@ -12,8 +12,8 @@ brand: Other Brands
 price: 190
 opt-price: 171
 image: "/img/products/kusochki-yablok/blax-peach.jpeg"
-availability-descr: Будет в наличии 20 августа
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 49
 portions: 50-60
