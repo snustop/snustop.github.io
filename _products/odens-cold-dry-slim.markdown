@@ -12,8 +12,8 @@ composition: Dry
 price: 185
 opt-price: 170
 image: "/img/products/odens-cold-dry-slim.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 16
 portions: "±20"
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
