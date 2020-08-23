@@ -1,7 +1,7 @@
 ---
 title: Blax Bubble Gum
 date: 2020-07-21 06:54:00 Z
-position: 32
+position: 31
 title-seo: Снюс Blax New Year Bubble Gum купить в Украине
 descr: |-
   Снюс Blax Bubble Gum — порционный крепкий бестабачный снюс.
