@@ -38,6 +38,9 @@ similar-product_body: "<p>Вам могут понравится. <small>Жми�
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eLGv-6hzZ2o" allowfullscreen></iframe>
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
+</div>
 
 <div class="faq-details mb-2" itemscope itemtype="https://schema.org/FAQPage">
 	<h2>Частые вопросы:</h2>
