@@ -33,3 +33,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 Никотиновый удар наступает быстрее чем у [красной сибири](/siberia-white-dry-slim), но сила этого удара немного слабее.<br>
 Пакеты White (не путать с [All White](/all-white-snus)) и тонкие, очень удобно сидят под губой. В банке 22-24 порции. Крепость 24 мг никотина.
 Идеально подойдет любителям **odens cold dry**.
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
+</div>
