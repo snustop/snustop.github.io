@@ -36,3 +36,6 @@ similar-product_body: "<p>Вас могут заинтересовать. <small
 	<a class="mr-2" href="/img/products/siberia-brown/siberia-brown-slim-open.jpg" title="Коричневая сибирь слим"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-open.jpg" alt="Коричневая сибирь слим открытая"></a>
 	<a href="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" title="Коричневые сибири, слим и  <a href='/siberia-brown'>большие пакеты</a>"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" alt="Коричневая сибирь слим vs коричневая сибирь большие пакеты"></a>
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q4FSYjfKIaU" allowfullscreen></iframe>
+</div>
