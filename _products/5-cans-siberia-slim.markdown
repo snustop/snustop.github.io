@@ -43,3 +43,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь самый крепкий шведский снюс, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
 	<a href="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" title="Порции на солнце"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" alt="Красная сибирь слим открытая, порции"></a>
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
+</div>

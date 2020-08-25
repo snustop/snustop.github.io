@@ -33,3 +33,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 Идеально подойдет любителям **odens cold dry**.<br>
 В новой 20-ти граммовой версии стало больше пакетов, теперь ±20-24 порций. Обратите внимание что порции [White](/white-dry-snus), но при этом не Dry, и не путать с [полностью белыми](/all-white-snus) пакетами, как в [Lyft Freeze](/lyft-x-strong-freeze-slim-white).<br>
 Подойдет любителям средней крепости табаков. 
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
+</div>
