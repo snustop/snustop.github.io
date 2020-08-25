@@ -31,7 +31,10 @@ Siberia Extremely Strong White Dry(**красная сибирь**) считае
 Пакетики белые и сухие, имеют аромат мяты.<br>Это <i>новая версия</i> в которой добавили количество пакетов, теперь тут 20-24 порции (ранее было 15-17 порций).<br>
 В Украине довольно-таки популярен. Подойдет тем, кто уже имел дело с табаком, новичкам не рекомендуется из-за сильного никотинового удара.<br>
 Так же есть [slim версия сибири](/siberia-white-dry-slim) она более удобная, так как пакеты не такие <i>"толстые"</i> и удобно сидят под губой.
-<div class="popup-gallery d-flex mb-2">
+<div class="popup-gallery d-flex mb-3">
 	<a class="mr-2" href="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" title="Красная сибирь большие порции"><img class="img-fluid" src="/img/products/siberia-white-dry/siberia-white-dry-open-large.jpg" alt="Красная сибирь большие порции"></a>
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь слим, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yKdvP754Qdg" allowfullscreen></iframe>
 </div>
