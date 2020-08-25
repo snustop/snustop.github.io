@@ -34,3 +34,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 В названии написано black, и многие будут ожидать черных пакетов, как в [General Onyx](/onyx), но к сожалению тут обычные [коричневые пакеты](/original-snus).<br>
 Оригинальный табачный вкус и аромат. Никотиновый удар наступает очень быстро, не так как в порциях [white Dry](/white-dry-snus). Это связано с тем, что порции в **Siberia Black** влажные, и контакт табака со слизистой происходит моментально.<br>
 Подойдет любителям оригинального табачного вкуса. Новичкам не рекомендуется, так как очень крепкий.
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
+</div>
