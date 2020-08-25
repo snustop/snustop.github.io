@@ -35,6 +35,9 @@ similar-product_body: "<p>Вам могут понравится. <small>Жми�
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь самый крепкий шведский снюс, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
 	<a href="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" title="Порции на солнце"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" alt="Красная сибирь слим открытая, порции"></a>
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eLGv-6hzZ2o" allowfullscreen></iframe>
+</div>
 
 <div class="faq-details mb-2" itemscope itemtype="https://schema.org/FAQPage">
 	<h2>Частые вопросы:</h2>
