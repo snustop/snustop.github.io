@@ -49,3 +49,6 @@ P.S. Появился новый белый снюс, который немно�
 	<a class="mr-2" href="/img/products/cryo/how-open-cryo.jpg" title="Тяните ленточку"><img class="img-fluid" src="/img/products/cryo/how-open-cryo.jpg" alt="Ванильный g4 Cryo открываем"></a>
 	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-strong.jpg" title="g4 cryo крепче чем <a href='/general-g4-slim-apple-white'>g4 Apple</a>"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-strong.jpg" alt="g4 cryo крепче чем g4 apple"></a>
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cZ9qrNA3jgA" allowfullscreen></iframe>
+</div>
