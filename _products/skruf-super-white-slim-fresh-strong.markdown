@@ -1,7 +1,7 @@
 ---
 title: skruf-super-white-slim-fresh-strong
 date: 2018-07-16 10:20:00 Z
-position: 52
+position: 51
 title-seo: Skruf Super White Slim Fresh Strong No.4
 descr: Белый снюс как Lyft, не содержит табака. Вместо него используются другие растительные
   волокна. Средняя крепость 18 мг/г. 24 пакетика в банке. Приятный мятный вкус.
