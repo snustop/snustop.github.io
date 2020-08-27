@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-tropic-storm.jpg"
-availability-descr: Ожидается 28 августа
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: Заявлено 100
 portions: "±29"
