@@ -5,7 +5,7 @@ position: 20
 title-seo: Яблоки в никотине (Blax, Jam, Nesnus, Hype)
 descr: "Яблоки в никотине. Крепость 49 мг. В банке более 50-ти кусочков. Вкусы: \U0001F352\U0001F34D\U0001F353.
   Телеграмм: +380675680230 @snustop"
-product-name: "Яблоки в никотине (\U0001F352\U0001F34D\U0001F353)"
+product-name: "Яблоки в никотине Jam (\U0001F352\U0001F34D\U0001F353)"
 product-alt: Яблоки в никотине  (Blax, Jam, Nesnus, Hype)
 strong: Очень крепкий
 brand: Other Brands
@@ -20,6 +20,13 @@ portions: 50-60
 taste: "Разные: \U0001F352\U0001F34D\U0001F353"
 form: Кусочки яблок
 composition-product: Яблоки, вода, патока, никотин, ароматизатор
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/faff-apple-cola\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff-apple-cola\" alt=\"Faff яблочки со
+  вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-melon\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff-apple-melon\" alt=\"Faff яблочки со вкусом дыни\"></a>\n<a
+  href=\"/faff-apple-energy\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-apple-energy\"
+  alt=\"Faff яблочки со вкусом RedBull\"></a>"
 ---
 
 Яблоки в никотине — свежие кусочки яблока вымоченные в никотине по специальному рецепту, которые могут послужить заменой снюсу.<br>
