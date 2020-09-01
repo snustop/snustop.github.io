@@ -26,7 +26,7 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-apple-energy\" alt=\"Faff яблочки со
   вкусом RedBull\"></a>\n<a href=\"/kusochki-yablok\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/kusochki-yablok/blax-peach.jpeg\" alt=\"Яблочки jam\"></a>\n</div>"
+  src=\"/img/products/kusochki-yablok/jam-apple-snus.jpg\" alt=\"Яблочки jam\"></a>\n</div>"
 ---
 
 Faff Яблоки в никотине — свежие яблочные дольки пропитанные чистейшим никотином, которые могут послужить заменой снюсу.<br>
