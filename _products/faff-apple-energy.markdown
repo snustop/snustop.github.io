@@ -11,7 +11,7 @@ strong: Очень крепкий
 brand: Faff
 price: 190
 opt-price: 171
-image: "/img/products/faff-apple-enery.png"
+image: "/img/products/faff-apple-energy.png"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
