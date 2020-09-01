@@ -26,7 +26,7 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   со вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-melon\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-apple-melon.png\" alt=\"Faff яблочки
   со вкусом дыни\"></a>\n<a href=\"/faff-apple-energy\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/faff-apple-energy\" alt=\"Faff яблочки со вкусом RedBull\"></a>"
+  src=\"/img/products/faff-apple-energy.png\" alt=\"Faff яблочки со вкусом RedBull\"></a>"
 ---
 
 Яблоки в никотине — свежие кусочки яблока вымоченные в никотине по специальному рецепту, которые могут послужить заменой снюсу.<br>
