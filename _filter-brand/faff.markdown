@@ -116,19 +116,19 @@ layout: filter-brand
 			<td>Сладкая мята</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-enery.jpg" alt="яблоки Faff Energy"></a></td>
+			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-enery.png" alt="яблоки Faff Energy"></a></td>
 			<td><a href="/faff-apple-energy">Яблоки Faff Energy</a></td>
 			<td>60</td>
 			<td>RedBull</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-apple-cola"><img style="width: 40px" src="/img/products/faff-apple-cola.jpg" alt="яблоки Faff Cola"></a></td>
+			<td><a href="/faff-apple-cola"><img style="width: 40px" src="/img/products/faff-apple-cola.png" alt="яблоки Faff Cola"></a></td>
 			<td><a href="/faff-apple-cola">Яблоки Faff Cola</a></td>
 			<td>60</td>
 			<td>Cola</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-apple-melon"><img style="width: 40px" src="/img/products/faff-apple-melon.jpg" alt="яблоки Faff Melon"></a></td>
+			<td><a href="/faff-apple-melon"><img style="width: 40px" src="/img/products/faff-apple-melon.png" alt="яблоки Faff Melon"></a></td>
 			<td><a href="/faff-apple-melon">Яблоки Faff Melon</a></td>
 			<td>60</td>
 			<td>Дыня</td>
