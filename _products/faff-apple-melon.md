@@ -20,6 +20,13 @@ portions: 50-60
 taste: Дыня
 form: Кусочки яблока
 composition-product: Яблоко, вода, никотин, ароматизатор, соль, сода
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/faff-apple-cola\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff-apple-cola\" alt=\"Faff яблочки со
+  вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-energy\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff-apple-energy\" alt=\"Faff яблочки со
+  вкусом RedBull\"></a>\n<a href=\"/kusochki-yablok\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/kusochki-yablok/blax-peach.jpeg\" alt=\"Яблочки jam\"></a>\n</div>"
 ---
 
 Faff Яблоки в никотине — свежие яблочные дольки пропитанные чистейшим никотином, которые могут послужить заменой снюсу.<br>
