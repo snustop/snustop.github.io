@@ -2,10 +2,10 @@
 title: faff-apple-energy
 date: 2020-09-01 06:13:00 Z
 position: 10
-title-seo: Faff Яблоки  в никотине Energy
+title-seo: Faff Яблоки в никотине Energy
 descr: Faff Яблоки в никотине cо вкусом энергетического напитка RedBull. Крепость
   60 мг, 50-60 кусочков пропитанных никотином.
-product-name: Faff Яблоки  в никотине Energy
+product-name: Faff Яблоки в никотине Energy
 product-alt: Faff Яблоки  в никотине Energy
 strong: Очень крепкий
 brand: Faff
