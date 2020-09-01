@@ -11,7 +11,7 @@ strong: Очень крепкий
 brand: Other Brands
 price: 190
 opt-price: 171
-image: "/img/products/kusochki-yablok/blax-peach.jpeg"
+image: "/img/products/kusochki-yablok/jam-apple-snus.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
