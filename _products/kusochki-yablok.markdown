@@ -22,11 +22,11 @@ form: Кусочки яблок
 composition-product: Яблоки, вода, патока, никотин, ароматизатор
 similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
   описание</small></p>\n<div>\n\t\t<a href=\"/faff-apple-cola\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff-apple-cola\" alt=\"Faff яблочки со
-  вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-melon\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/faff-apple-melon\" alt=\"Faff яблочки со вкусом дыни\"></a>\n<a
-  href=\"/faff-apple-energy\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-apple-energy\"
-  alt=\"Faff яблочки со вкусом RedBull\"></a>"
+  class=\"img-fluid\" src=\"/img/products/faff-apple-cola.png\" alt=\"Faff яблочки
+  со вкусом колы\"></a>\n\t\t<a href=\"/faff-apple-melon\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff-apple-melon.png\" alt=\"Faff яблочки
+  со вкусом дыни\"></a>\n<a href=\"/faff-apple-energy\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff-apple-energy\" alt=\"Faff яблочки со вкусом RedBull\"></a>"
 ---
 
 Яблоки в никотине — свежие кусочки яблока вымоченные в никотине по специальному рецепту, которые могут послужить заменой снюсу.<br>
