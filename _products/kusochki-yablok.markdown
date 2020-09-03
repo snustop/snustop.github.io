@@ -1,7 +1,7 @@
 ---
 title: kusochki yablok
 date: 2020-05-16 23:34:00 Z
-position: 20
+position: 19
 title-seo: Яблоки в никотине (Blax, Jam, Nesnus, Hype)
 descr: "Яблоки в никотине. Крепость 49 мг. В банке более 50-ти кусочков. Вкусы: \U0001F352\U0001F34D\U0001F353.
   Телеграмм: +380675680230 @snustop"
