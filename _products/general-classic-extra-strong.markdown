@@ -26,8 +26,8 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   href=\"/xrange-gothenburgs-rape-slim-white-strong-portion-snus\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg\"
   alt=\"general XR Goteborgs Rape\"></a>\n<a href=\"/lundgrens-skane-white-portion-snus\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lundgrens-white.jpg\"
-  alt=\"Lundgrens Skane White\"></a>\n</div>"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/ettan-original-portion.png\"
+  alt=\"Ettan snus original\"></a>\n</div>"
 ---
 
 General Classic Extra Strong имеет приятный вкус, который начинается как намек на соль, смешивающийся с лимоном, примерно через 10 минут чувствуются действительно тонкие намеки на гладкий перцовый табак ползком дополняя всю симфонию вкусов. Порции  влажные и приятные.<br>
