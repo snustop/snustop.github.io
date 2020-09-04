@@ -15,7 +15,8 @@ price: 215
 opt-price: 180
 new-price: 195
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,2'
 nicotine: 12
 portions: 24
