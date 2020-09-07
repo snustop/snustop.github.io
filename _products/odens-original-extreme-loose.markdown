@@ -11,9 +11,10 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/odens-original-extreme-loose.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 40
+nicotine: 22
 portions: Рассыпной
 taste: Табак, бергамот
 form: Рассыпной
