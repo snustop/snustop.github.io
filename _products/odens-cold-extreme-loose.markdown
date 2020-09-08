@@ -20,6 +20,14 @@ portions: "-"
 taste: Мята
 form: Рассыпной, влажный
 composition-product: Табак, вода, ароматизаторы, увлажнители, регуляторы кислотности
+similar-product_body: "<p>Вам могут понравится. <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/ukrainian-premium-snus-orange-fresh-loose\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/orange-loose.jpg\" alt=\"Рассыпной
+  снюс со вкусом апельсина\"></a>\n\t\t<a href=\"/general-classic-extra-strong\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/general-classic-extra-strong-portion.png\"
+  alt=\"general classic\"></a>\n<a href=\"/siberia-brown-slim\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/siberia-brown-slim.jpg\" alt=\"Коричневая
+  сибирь слим\"></a>\n</div>"
 ---
 
 Oden’s Cold Extreme Loose — это рассыпной снюс (не в пакетиках). Прекрасный мятный аромат в сочетании с сильным и насыщенным вкусом табака. Вкус чистый и имеет охлаждающий эффект благодаря добавленным мятным маслам. 
@@ -41,8 +49,7 @@ Oden’s Cold Extreme Loose — это рассыпной снюс (не в па
 		<li>1. Неудобно использовать (руки пачкаются).</li>
 		<li>2. Влажный и выделяется много слюны.</li>
 	</ul>
-</div><br>
-
+</div>
 Крайне не рекомендуется новичкам, так как неудобно его использовать.
 <div class="popup-gallery d-flex mb-3">
 	<a href="/img/products/odens-loose/lodens-loose-open.jpg" title="Рассыпной снюс Odens"><img class="img-fluid" src="/img/products/odens-loose/lodens-loose-open.jpg" alt="Odens Cold Extreme Loose Open"></a>
