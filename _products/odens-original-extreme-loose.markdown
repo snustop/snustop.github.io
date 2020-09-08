@@ -11,8 +11,8 @@ composition: Рассыпной
 price: 230
 opt-price: 214
 image: "/img/products/odens-original-extreme-loose.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 40
 nicotine: 22
 portions: Рассыпной
