@@ -53,5 +53,5 @@ Oden’s Cold Extreme Loose — это рассыпной снюс (не в па
 </div>
 Крайне не рекомендуется новичкам, так как неудобно его использовать.
 <div class="popup-gallery d-flex mb-3">
-	<a href="/img/products/odens-loose/lodens-loose-open.jpg" title="Рассыпной снюс Odens"><img class="img-fluid" src="/img/products/odens-loose/lodens-loose-open.jpg" alt="Odens Cold Extreme Loose Open"></a>
+	<a href="/img/products/odens-loose/odens-loose-open.jpg" title="Рассыпной снюс Odens"><img class="img-fluid" src="/img/products/odens-loose/odens-loose-open.jpg" alt="Odens Cold Extreme Loose Open"></a>
 </div>
