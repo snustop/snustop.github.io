@@ -40,5 +40,5 @@ LOOP Mint Mania Extra Strong невероятно чистый и превосх
 
 Вкус: Перечная мята, если сравнивать с мятным [лифт фриз](/lyft-x-strong-freeze-slim-white), то у лифта запах и вкус приятней.
 <div class="popup-gallery d-flex mb-3">
-	<a href="/img/products/loop/loop-mint-mania-extra-strong.jpg" title="Белые порции"><img class="img-fluid" src="/img/products/loop/loop-mint-mania-extra-strong.jpg" alt="LOOP Mint Mania Extra Strong Open"></a>
+	<a href="/img/products/loop/loop-snus.jpg" title="Белые порции"><img class="img-fluid" src="/img/products/loop/loop-snus.jpg" alt="LOOP Mint Mania Extra Strong Open"></a>
 </div>
