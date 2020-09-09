@@ -44,5 +44,4 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ykyz1C7X_iI" allowfullscreen></iframe>
 </div>
-
 На банке пишут годен до: **19.08 2020** года, но на деле их продолжают делать по сегодняшний день. Это связано с запретом жевательно-никотиновых смесей в России. Видимо так обходят запрет. 

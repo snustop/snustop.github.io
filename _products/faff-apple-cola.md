@@ -37,3 +37,6 @@ Faff Яблоки в никотине — свежие яблочные доль
 Продукт не содержит табака, вместо него в состав входит очищенный на 98% никотин.
 
 Использовать как снюс, кладете 1-4 кусочка под верхнюю губу. Кусочки не жевать и не глотать!
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ykyz1C7X_iI" allowfullscreen></iframe>
+</div>
