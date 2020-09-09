@@ -41,7 +41,6 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
 </ul>
 Чтоб не создавать 3 отдельных страничек с одинаковым описанием, но разным вкусом, просто заказывайте, и в описании к заказу пишите пожелания, какой вкус Вы хотите.
 Есть более крепкие представители яблок в никотине, например [faff яблоки со вкусом RedBull](/faff-apple-energy)
-
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ykyz1C7X_iI" allowfullscreen></iframe>
 </div>
