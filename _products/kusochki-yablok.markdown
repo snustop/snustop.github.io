@@ -9,8 +9,10 @@ product-name: "Яблоки в никотине Jam (\U0001F352\U0001F34D\U0001F
 product-alt: Яблоки в никотине  (Blax, Jam, Nesnus, Hype)
 strong: Очень крепкий
 brand: Other Brands
+stock-list: Акция
 price: 190
 opt-price: 171
+new-price: 160
 image: "/img/products/kusochki-yablok/jam-apple-snus.jpg"
 availability-descr: В наличии
 has_availability: true
