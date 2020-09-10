@@ -1,7 +1,7 @@
 ---
 title: Arqa Bounty Cocktail
 date: 2020-09-10 13:27:00 Z
-position: 36
+position: 32
 title-seo: Арка Баунти | Снюс Arqa Cold Bounty Cocktail
 descr: Снюс Arqa Bounty Cocktail – это бестабачная жевательная смесь с превосходным
   вкусом баунти. Крепость 70 мг. 20 порций. Жжение умеренное.
