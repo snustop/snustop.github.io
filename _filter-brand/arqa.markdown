@@ -93,7 +93,7 @@ layout: filter-brand
 		</tr>
 		<tr>
 			<td><a href="/arqa-mango-strawberry"><img style="width: 40px" src="img/products/arqa/arqa-mango-strawberry.jpg" alt="ARQA Mango Strawberry"></a></td>
-			<td><a href="/arqa-mango-strawberry">>Mango Strawberry</a></td>
+			<td><a href="/arqa-mango-strawberry">Mango Strawberry</a></td>
 			<td>70</td>
 			<td>Манго-клубника 🍓</td>
 		</tr>
