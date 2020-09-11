@@ -32,7 +32,7 @@ layout: filter-brand
 			<td>Red Bull + Cola</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-pink-lemonade"><img style="width: 40px" src="/img/products/faff-pink-lemonade.png" alt="Faff Фруктовый Лимонад"></a></td>
+			<td><a href="/faff-pink-lemonade"><img style="width: 40px" src="/img/products/faff-pink-lemonade.jpg" alt="Faff Фруктовый Лимонад"></a></td>
 			<td><a href="/faff-pink-lemonade">Faff Фруктовый Лимонад</a></td>
 			<td>150</td>
 			<td>Red Bull + Cola</td>
