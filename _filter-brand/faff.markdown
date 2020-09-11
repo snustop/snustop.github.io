@@ -32,6 +32,12 @@ layout: filter-brand
 			<td>Red Bull + Cola</td>
 		</tr>
 		<tr>
+			<td><a href="/faff-pink-lemonade"><img style="width: 40px" src="/img/products/faff-pink-lemonade.png" alt="Faff Фруктовый Лимонад"></a></td>
+			<td><a href="/faff-pink-lemonade">Faff Фруктовый Лимонад</a></td>
+			<td>150</td>
+			<td>Red Bull + Cola</td>
+		</tr>
+		<tr>
 			<td><a href="/faff-cocos"><img style="width: 40px" src="/img/products/faff-cocos.png" alt="Faff Кокос"></a></td>
 			<td><a href="/faff-cocos">Faff Кокос 🥥</a></td>
 			<td>100</td>
@@ -116,7 +122,7 @@ layout: filter-brand
 			<td>Сладкая мята</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-enery.png" alt="яблоки Faff Energy"></a></td>
+			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-enegry.png" alt="яблоки Faff Energy"></a></td>
 			<td><a href="/faff-apple-energy">Яблоки Faff Energy</a></td>
 			<td>55</td>
 			<td>RedBull</td>
