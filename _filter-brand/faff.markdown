@@ -122,7 +122,7 @@ layout: filter-brand
 			<td>Сладкая мята</td>
 		</tr>
 		<tr>
-			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-enegry.png" alt="яблоки Faff Energy"></a></td>
+			<td><a href="/faff-apple-energy"><img style="width: 40px" src="/img/products/faff-apple-energy.png" alt="яблоки Faff Energy"></a></td>
 			<td><a href="/faff-apple-energy">Яблоки Faff Energy</a></td>
 			<td>55</td>
 			<td>RedBull</td>
