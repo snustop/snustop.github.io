@@ -13,7 +13,7 @@ composition: Белый
 stock-list: Акция
 price: 215
 opt-price: 171
-new-price: 160
+new-price: 140
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
 availability-descr: Просрочка
 has_availability: true
