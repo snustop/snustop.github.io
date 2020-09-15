@@ -1,7 +1,7 @@
 ---
 title: faff-cocos
 date: 2020-07-16 21:10:00 Z
-position: 21
+position: 57
 title-seo: "Снюс Faff Кокос 100 мг \U0001F965 купить в Украине"
 descr: "Faff кокос \U0001F965 — очень крепкий снюс, заявлено 100 мг никотина. В банке
   \ ±30 белых порций. Порции слим."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-cocos.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: "-"
 nicotine: 100
 portions: "±29"
