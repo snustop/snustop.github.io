@@ -14,8 +14,8 @@ price: 190
 opt-price: 171
 new-price: 160
 image: "/img/products/kusochki-yablok/jam-apple-snus.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: "-"
 nicotine: 49
 portions: "±60-70"
