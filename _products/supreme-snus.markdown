@@ -95,7 +95,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 </table>
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/supreme/supreme-snus-all.jpg" title="Все вкусы снюса Supreme"><img class="img-fluid" src="/img/products/supreme/supreme-all.jpg" alt="Снюс supreme"></a>
-	<a href=/img/products/supreme/supreme-all-snus.jpg" title="Цвет порций снюса Supreme"><img class="img-fluid" src="/img/products/supreme/supreme-snus-all.jpg" alt="Снюс supreme пакетики"></a>
+	<a href="/img/products/supreme/supreme-all-snus.jpg" title="Цвет порций снюса Supreme"><img class="img-fluid" src="/img/products/supreme/supreme-snus-all.jpg" alt="Снюс supreme пакетики"></a>
 </div>
 Если хотите заказать какой-то вкус, то добавляйте в корзину, и при оформлении заказа укажите какой вкус Вам нужен.
 
