@@ -15,7 +15,7 @@ opt-price: 190
 image: "/img/products/boshki/boshki-bloody-cola.jpg"
 availability-descr: В наличии
 has_availability: true
-gramm: "-"
+gramm: 16
 nicotine: 135 (на деле гораздо меньше)
 portions: "±22"
 taste: Клубничная кола
