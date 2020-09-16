@@ -1,6 +1,7 @@
 ---
 title: Boshki Bloody Cola
 date: 2020-09-16 20:03:00 Z
+position: 36
 title-seo: Снюс Boshki Bloody Cola 135 мг купить в Украине
 descr: Снюс Boshki Bloody Cola — крепость 135 мг никотина, порций 22, сильное жжение.
   Вкус клубничной колы. Порции белые и плотно набиты.
