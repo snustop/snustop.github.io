@@ -25,7 +25,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
   описание</small></p>\n<div>\n\t\t<a href=\"/boshki-circus-banana\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/boshki/boshki-circus-banana.jpg\" alt=\"Снюс
   Бошки со вкусом банана\"></a>\n\t\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff-energy.pngg\" alt=\"Faff Energy\"></a>\n<a
+  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy\"></a>\n<a
   href=\"/arqa-peach-mango\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/arqa/arqa-peach-mango.jpg\"
   alt=\"Снюс Arqa персик\"></a>\n</div>"
 ---
