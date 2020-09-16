@@ -11,7 +11,6 @@ product-alt: LYFT Strong Ice Cool Mint Slim All White снюс купить
 strong: Крепкий
 brand: Lyft
 composition: Белый
-stock-list: Лучший выбор
 price: 230
 opt-price: 207
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
