@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-cocos.png"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 100
 portions: "±29"
