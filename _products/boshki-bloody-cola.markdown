@@ -45,6 +45,18 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/boshki-circus-banana"><img style="width: 40px" src="/img/products/boshki/boshki-circus-banana.jpg" alt="Boshki Circus Banana"></a></td>
+			<td><a href="/boshki-circus-banana">Circus Banana</a></td>
+			<td>135</td>
+			<td>Банан</td>
+		</tr>
+		<tr>
+			<td><a href="/boshki-bloody-cola"><img style="width: 40px" src="/img/products/boshki/boshki-bloody-cola.jpg" alt="Boshki Bloody Cola"></a></td>
+			<td><a href="/boshki-bloody-cola">Bloody Cola</a></td>
+			<td>135</td>
+			<td>Клубничная кола</td>
+		</tr>
+		<tr>
 			<td><a href="/boshki-exotic"><img style="width: 40px" src="/img/products/boshki/boshki-snus-exotic.jpg" alt="Снюс Бошки Экзотик"></a></td>
 			<td><a href="/boshki-exotic">Exotic</a></td>
 			<td>100</td>
@@ -55,12 +67,6 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 			<td><a href="/boshki-blueberry-donut">Blueberry Donut</a></td>
 			<td>100</td>
 			<td>Черничный пончик</td>
-		</tr>
-		<tr>
-			<td><a href="/boshki-circus-banana"><img style="width: 40px" src="/img/products/boshki/boshki-circus-banana.jpg" alt="Boshki Circus Banana"></a></td>
-			<td><a href="/boshki-circus-banana">Circus Banana</a></td>
-			<td>135</td>
-			<td>Банан</td>
 		</tr>
 	</tbody>
 </table>
