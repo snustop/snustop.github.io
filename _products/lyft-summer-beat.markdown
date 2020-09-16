@@ -14,8 +14,8 @@ composition: Белый
 price: 230
 opt-price: 210
 image: "/img/products/lyft-summer-beat-limited-edition.png"
-availability-descr: Лимитированая партия
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,8'
 nicotine: 8
 portions: 24
