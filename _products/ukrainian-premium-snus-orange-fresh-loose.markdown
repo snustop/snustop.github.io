@@ -1,7 +1,7 @@
 ---
 title: ukrainian-premium-snus-orange-fresh-loose
 date: 2018-05-02 09:38:00 Z
-position: 45
+position: 43
 title-seo: "Orange \U0001F34A Fresh Loose Snus | Ukrainian snus.biz"
 descr: "Рассыпной премиум снюс высочайшего качества со вкусом апельсина \U0001F34A
   от украинского производителя snus.biz. Аромат и вкус очень приятный. Подойдет настоящим
@@ -14,8 +14,8 @@ composition: Рассыпной
 price: 220
 opt-price: 198
 image: "/img/products/orange-loose.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 50
 nicotine: 20-22
 portions: Рассыпной
