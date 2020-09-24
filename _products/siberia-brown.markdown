@@ -1,7 +1,7 @@
 ---
 title: siberia-brown
 date: 2017-11-20 11:23:00 Z
-position: 47
+position: 10
 title-seo: Siberia Brown Snus купить в Украине
 descr: Купить коричневую сибирь в Украине.
 product-name: Siberia Brown Portion Snus
@@ -12,8 +12,8 @@ composition: Оригинальный
 price: 200
 opt-price: 180
 image: "/img/products/siberia-brown.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 43
 portions: 20
