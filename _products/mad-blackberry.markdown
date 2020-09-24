@@ -1,7 +1,7 @@
 ---
 title: Mad Blackberry
 date: 2020-05-18 00:13:00 Z
-position: 38
+position: 40
 title-seo: Снюс mad Blackberry
 descr: Снюс мэд Blackberry со вкусом ежевики. В банке 20 порций крепость 56 мг никотина.
 product-name: Mad Blackberry
