@@ -1,11 +1,11 @@
 ---
 title: general-g4-slim-apple-white
 date: 2018-07-27 16:21:00 Z
-position: 48
+position: 8
 title-seo: "G4 Apple \U0001F34F Mint Slim All White Snus | Яблчный снюс"
 descr: "Белый снюс General G.4, приятный яблочный \U0001F34F вкус с нотками мяты.
   24 тонких пакетика содержащий белый табак. Крепость 19 мг никотина."
-product-name: "G4 Apple \U0001F34F Mint Slim All White"
+product-name: "G4 яблоко-мята \U0001F34F Slim All White"
 product-alt: G.4 FU:ZN Slim All White Extra Strong Portion
 strong: Крепкий
 brand: Swedish Match
@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 195
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 19.2
 nicotine: 19
 portions: 24
@@ -37,7 +37,6 @@ similar-product_body: "<p>Вам могут понравится: <small>Жми�
 Никотиновый удар довольно крепкий, сравнится с [синим lyft](/lyft-strong-ice-cool-mint-slim-all-white).
 G.4 - это означает снюс 4-го поколения.<br>
 Подойдет любителям крепких табаков, которые не любят коричневые порции. Либо тем кому приелся [snus lyft](/lyft).
-
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" title="Яблочный G4 Белые порции"><img class="img-fluid" src="/img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" alt="G4 Apple All White snus open"></a>
 	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-open.jpg" title="Как открыть банку? Потяните за open, след фото"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-open.jpg" alt="Ванильный g4 Cryo открыть"></a>
