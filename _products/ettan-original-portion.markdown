@@ -1,7 +1,7 @@
 ---
 title: ettan-original-portion
 date: 2017-11-20 14:32:00 Z
-position: 22
+position: 59
 title-seo: Ettan Original Portion Snus купить в Украине
 descr: Снюс Ettan Original Portion - Это классический снюс с чистым вкусом табака
   и нотками черного шоколада.
@@ -13,8 +13,8 @@ composition: Оригинальный
 price: 210
 opt-price: 189
 image: "/img/products/ettan-original-portion.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 24
 nicotine: 8.5
 portions: 24
