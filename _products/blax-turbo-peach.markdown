@@ -14,7 +14,7 @@ price: 210
 opt-price: 195
 image: "/img/products/blax/blax-turbo-peach.png"
 availability-descr: В наличии
-has_availability: false
+has_availability: true
 gramm: 18
 nicotine: 150
 portions: "±25"
@@ -81,7 +81,7 @@ Blax Turbo Peach — очень крепкий снюс с заявленной 
 </table>
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/blax/blax-snus-all.jpg" title="снюса Blax"><img class="img-fluid" src="/img/products/blax/blax-snus-all.jpg" alt="Снюс blax"></a>
-	<a href="/img/products/blax/blax-snus-all-back.jpg" title="Цвет порций снюса Blax (белые)"><img class="img-fluid" src="/img/products/blax/blax-snus-all-back.jpg" alt="Снюс supreme пакетики"></a>
+	<a href="/img/products/blax/blax-snus-all-back.jpg" title="Цвет порций снюса Blax (белые)"><img class="img-fluid" src="/img/products/blax/blax-snus-all-back.jpg" alt="Снюс blax пакетики"></a>
 </div>
 
 Данный бренд не очень известный, рекомендуем только проверенные шведские бренды!<br>
