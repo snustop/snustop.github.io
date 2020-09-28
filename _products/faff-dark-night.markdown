@@ -1,7 +1,7 @@
 ---
 title: FAFF Dark Night
 date: 2020-07-24 12:41:00 Z
-position: 57
+position: 56
 title-seo: Снюс FAFF Чёрная смородина Dark Night
 descr: Снюс FAFF Dark Night со вкусом черной смородины. В банке ±29 порций белого
   цвета, крепость 100 мг. Порции слим.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-dark-night.jpg"
-availability-descr: Ожидается 27 сентября
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 100
 portions: "±29"
