@@ -69,7 +69,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 			<td><a href="/dzen-pina-colada"><img style="width: 40px" src="/img/products/dzen/dzen-pina-colada.jpg" alt="Dzen Pina Colada"></a></td>
 			<td><a href="/dzen-pina-colada">Pina Colada</a></td>
 			<td>50</td>
-			<td>Ананас с кокосом</td>
+			<td>🍹 Ананас с кокосом</td>
 		</tr>
 	</tbody>
 </table>
