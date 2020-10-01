@@ -57,7 +57,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 			<td><a href="/dzen-melon"><img style="width: 40px" src="/img/products/dzen/dzen-melon.jpg" alt="Dzen Melon"></a></td>
 			<td><a href="/dzen-melon">Dzen Melon</a></td>
 			<td>50</td>
-			<td>🍈 Ледяня дыня</td>
+			<td>🍈 Спелая дыня</td>
 		</tr>
 		<tr>
 			<td><a href="/dzen-wild-berries"><img style="width: 40px" src="/img/products/dzen/dzen-wild-berries.jpg" alt="Dzen Wild Berries"></a></td>
