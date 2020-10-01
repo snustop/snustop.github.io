@@ -10,6 +10,7 @@ product-alt: Снюс Dzen Melon
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
+price: 200
 image: "/img/products/dzen/dzen-melon.jpg"
 availability-descr: В наличии
 has_availability: true
@@ -26,7 +27,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
   alt=\"g4 Deep freeze\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-x-strong-freeze-slim-white.png\"
   alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
+  class=\"img-fluid\" src=\"/img/products/g4-cryo-slim-all-white-super-strong.jpg\"
   alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
