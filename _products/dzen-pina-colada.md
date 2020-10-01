@@ -11,6 +11,7 @@ product-alt: Снюс Dzen Pina Colada
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
+price: 200
 image: "/img/products/dzen/dzen-pina-colada.jpg"
 availability-descr: В наличии
 has_availability: true
@@ -35,7 +36,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 Порции длинные и тонкие (очень удобные), немного влажные, не содержат табака, вместо него используется волокна целлюлозы. Пакетики очень плотно набиты содержимым, что обеспечивает плавный и длительный никотиновый удар. В банке **±25 порций**. Цвет порций: **Желтый**<br>
 **Крепость 50 мг**, крайне не рекомендуется новичкам.
 <div class="popup-gallery d-flex mb-3">
-	<a href="/img/products/dzen/dzen-mint-portion.jpg" title="Dzen Pina Colada — желтые порции"><img class="img-fluid" src="/img/products/dzen/dzen-mint-portion.jpg" alt="Снюс Dzen Пина Колада"></a>
+	<a href="/img/products/dzen/dzen-pina-colada-portion.jpg" title="Dzen Pina Colada — желтые порции"><img class="img-fluid" src="/img/products/dzen/dzen-pina-colada-portion.jpg" alt="Снюс Dzen Пина Колада"></a>
 </div>
 Есть и другие вкусы:
 <table class="table table-sm">
