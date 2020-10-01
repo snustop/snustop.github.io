@@ -34,7 +34,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 Порции длинные и тонкие (очень удобные), немного влажные, не содержат табака, вместо него используется волокна целлюлозы. Пакетики очень плотно набиты содержимым, что обеспечивает плавный и длительный никотиновый удар. В банке **±25 порций**. Цвет порций: **Малиновый**<br>
 **Крепость 50 мг**, крайне не рекомендуется новичкам.
 <div class="popup-gallery d-flex mb-3">
-	<a href="/img/products/dzen/dzen-mint-portion.jpg" title="Dzen Wild Berries — малинового цвета порции"><img class="img-fluid" src="/img/products/dzen/dzen-wild-berries-portion.jpg" alt="Снюс Dzen лесные ягоды"></a>
+	<a href="/img/products/dzen/dzen-wild-berries-portion.jpg" title="Dzen Wild Berries — малинового цвета порции"><img class="img-fluid" src="/img/products/dzen/dzen-wild-berries-portion.jpg" alt="Снюс Dzen лесные ягоды"></a>
 </div>
 Есть и другие вкусы:
 <table class="table table-sm">
