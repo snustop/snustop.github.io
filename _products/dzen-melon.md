@@ -5,7 +5,7 @@ position: 58
 title-seo: "Снюс Dzen Melon \U0001F348"
 descr: Снюс дзен с освежающим вкусом дыни. Крепость 50 мг никотина, 25 порций. Порции
   slim - удобно сидят под губой. Никотиновый удар очень сильный.
-product-name: Dzen прохладная дыня 50 мг
+product-name: "Dzen прохладная дыня \U0001F348"
 product-alt: Снюс Dzen Melon
 strong: Очень крепкий
 brand: Other Brands
