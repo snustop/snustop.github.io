@@ -19,6 +19,14 @@ gramm: 16.8
 nicotine: 14
 portions: 21
 taste: Табак, бергамот, цитрус
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/onyx\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/onyx/snus-onyx-open.jpg\" alt=\"Оникс открытый\"></a>\n\t\t<a
+  href=\"/xrange-gothenburgs-rape-slim-white-strong-portion-snus\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg\"
+  alt=\"general XR Goteborgs Rape\"></a>\n<a href=\"/lundgrens-skane-white-portion-snus\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/ettan-original-portion.png\"
+  alt=\"Ettan snus original\"></a>\n</div>"
 ---
 
 Благодаря новой технологии порции продолжительные с минимальным выделением слюны. Имеет мягкий табачный вкус с отчетливыми нотами цитрусовых и бергамота, с оттенками чая.Больше подойдет для любителей слабых табаков.
