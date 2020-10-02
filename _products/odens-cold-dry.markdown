@@ -36,7 +36,7 @@ basename: full
 Самый продаваемый на территории СНГ, многие именно с него и начинали )
 В скором времени оденса в банках может не быть, будет в [таких пакетах](/odens-cold-softpack), как большая упаковка жвачек orbit.
 <div class="popup-gallery d-flex mb-3">
-	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" title="Оденс колд драй в мягкой и твердой упаковках>"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" alt="odens cold dry soft and can"></a>
+	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" title="Оденс колд драй в мягкой и твердой упаковках"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" alt="odens cold dry soft and can"></a>
 	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-soft-open.jpg" title="Порции одинаковые что в твердой, что в мягкой упаковках"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-soft-open.jpg" alt="odens cold dry soft pack open"></a>
 	<a href="/img/products/odens-cold-dry/odens-cold-dry-softpillow-portion.jpg" title="Порции очень мягкие и приятные на ощупь, удобно сидят под губой"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-softpillow-portion.jpg" alt="odens portions white dry"></a>
 </div>
