@@ -1,7 +1,7 @@
 ---
 title: boshki-circus-banana
 date: 2020-09-16 20:03:00 Z
-position: 114
+position: 115
 title-seo: Снюс Boshki Circus Banana 135 мг купить в Украине
 descr: Снюс Boshki Circus Banana — крепость 135 мг никотина, порций 22, сильное жжение.
   Вкус спелого банана. Порции белые и плотно набиты.
