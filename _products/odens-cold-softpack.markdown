@@ -39,7 +39,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 Вкус и никотиновый удар очень долгий, до часу и при этом наблюдается минимальное выделение слюны.<br>
 Порции очень мягкие и удобно сидят под губой, это одни из самых приятных порций (сам материал).
 <div class="popup-gallery d-flex mb-3">
-	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" title="Оденс колд драй в мягкой и твердой упаковках>"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" alt="odens cold dry soft and can"></a>
+	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" title="Оденс колд драй в мягкой и твердой упаковках"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-cans-and-soft.jpg" alt="odens cold dry soft and can"></a>
 	<a class="mr-2" href="/img/products/odens-cold-dry/odens-cold-dry-soft-open.jpg" title="Порции одинаковые что в твердой, что в мягкой упаковках"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-soft-open.jpg" alt="odens cold dry soft pack open"></a>
 	<a href="/img/products/odens-cold-dry/odens-cold-dry-softpillow-portion.jpg" title="Порции очень мягкие и приятные на ощупь, удобно сидят под губой"><img class="img-fluid" src="/img/products/odens-cold-dry/odens-cold-dry-softpillow-portion.jpg" alt="odens portions white dry"></a>
 </div>
