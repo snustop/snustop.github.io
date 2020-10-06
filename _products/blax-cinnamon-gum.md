@@ -1,7 +1,7 @@
 ---
 title: blax-cinnamon-gum
 date: 2020-09-24 22:02:00 Z
-position: 55
+position: 56
 title-seo: Снюс Blax Cinnamon Gum
 descr: Снюс Blax Cinnamon Gum со вкусом жвачка-корица — очень крепкий снюс. Крепость
   150 мг никотина, 25 порций белого цвета.
