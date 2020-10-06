@@ -1,7 +1,7 @@
 ---
 title: boshki-blueberry-donut
 date: 2020-09-16 20:03:00 Z
-position: 63
+position: 64
 title-seo: Снюс Boshki Blueberry Donut 100 мг купить в Украине
 descr: Снюс Boshki Blueberry Donut — крепость 100 мг никотина, порций 22, сильное
   жжение. Вкус — черничный пончик. Порции белые и плотно набиты.
