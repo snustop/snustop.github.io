@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Energy
 date: 2020-09-10 13:27:00 Z
-position: 57
+position: 16
 title-seo: Арка Энергетик | Снюс Arqa Cold Energy
 descr: Снюс Arqa Cold Energy – это бестабачная жевательная смесь с превосходным вкусом
   энергетика. Крепость 70 мг. 20 порций. Жжение очень сильное.
@@ -13,7 +13,7 @@ price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-cold-energy.jpg"
 availability-descr: В наличии
-has_availability: true
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
