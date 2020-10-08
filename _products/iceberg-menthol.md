@@ -62,7 +62,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 	</tbody>
 </table>
 <div class="popup-gallery d-flex mb-3">
-	<a href="/img/products/iceberg/iceberg-cans.jpg" title="Снюс iceberg: крепость 75 мг"><img class="img-fluid" src="/img/products/boshki/boshki-snus.jpg" alt="Снюс iceberg"></a>
+	<a href="/img/products/iceberg/iceberg-cans.jpg" title="Снюс iceberg: крепость 75 мг"><img class="img-fluid" src="/img/products/iceberg/iceberg-cans.jpg" alt="Снюс iceberg"></a>
 </div>
 
 Данный бренд не очень известный, рекомендуем только проверенные шведские бренды (siberia, odens, lyft, g4 и другие)!<br>
