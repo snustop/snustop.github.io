@@ -13,7 +13,7 @@ price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-cold-energy.jpg"
 availability-descr: В наличии
-has_availability: false
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
