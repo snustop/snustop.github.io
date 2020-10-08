@@ -1,7 +1,7 @@
 ---
 title: boshki-exotic
 date: 2020-09-16 20:03:00 Z
-position: 104
+position: 105
 title-seo: Снюс Boshki Exotic 100 мг купить в Украине
 descr: Снюс Boshki Exotic — крепость 100 мг никотина, порций 22, сильное жжение. Вкус
   — Экзотические фрукты. Порции белые и плотно набиты.
