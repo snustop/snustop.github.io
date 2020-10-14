@@ -13,9 +13,9 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/boshki/boshki-blueberry-donut.jpg"
-availability-descr: В наличии
-has_availability: true
-gramm: '16'
+availability-descr: Под заказ
+has_availability: false
+gramm: 16
 nicotine: 100 (на деле гораздо меньше)
 portions: "±22"
 taste: Черничный пончик
