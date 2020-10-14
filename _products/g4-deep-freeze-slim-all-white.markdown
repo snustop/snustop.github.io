@@ -15,8 +15,8 @@ stock-list: Лучший выбор
 price: 215
 opt-price: 194
 image: "/img/products/g4-deep-freeze.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: Заканчивается
+has_availability: true
 gramm: 19.2
 nicotine: 18.5
 portions: 24
