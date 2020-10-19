@@ -14,8 +14,8 @@ composition: Dry
 price: 215
 opt-price: 200
 image: "/img/products/gothenburg-rape-strong-white-portion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 21.6
 nicotine: 12
 portions: 24
