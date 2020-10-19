@@ -13,8 +13,8 @@ brand: Other Brands
 price: 210
 opt-price: 190
 image: "/img/products/Blax-Gum.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: заявлено 150
 portions: 20
