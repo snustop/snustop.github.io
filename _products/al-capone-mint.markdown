@@ -9,12 +9,11 @@ product-name: Al Capone Mint Dry Mini
 product-alt: Al Capone Mint Dry Mini
 strong: Низкой крепости
 brand: Other Brands
-stock-list: Акция
 price: 180
 opt-price: 165
-new-price: 150
 image: "/img/products/al-capone/al-capone-mint.jpg"
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 6
 nicotine: 26
 portions: 20
