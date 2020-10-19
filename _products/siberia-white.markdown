@@ -3,7 +3,7 @@ title: siberia-white
 date: 2017-11-20 11:16:00 Z
 position: 11
 title-seo: Siberia Extremely Strong White Dry 16 g купить в Украине
-descr: 'Купить снюс красная сибирь в Украине. Siberia White Dry 16 грамм, 24 порции
+descr: 'Купить снюс красная сибирь в Украине. Siberia White Dry 16 грамм, 20 порции
   - самый крепкий снюс в мире. Содержит 43 мг никотина! '
 product-name: Siberia Extremely Strong White Dry 16 грамм
 product-alt: Siberia Extremely Strong White Dry 16 грамм
@@ -17,7 +17,7 @@ availability-descr: В наличии
 has_availability: true
 gramm: 16
 nicotine: 43
-portions: 20-24
+portions: "±20"
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
   описание</small></p>\n<div>\n\t\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open.jpg\" alt=\"Корвус
@@ -28,7 +28,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 ---
 
 Siberia Extremely Strong White Dry(**красная сибирь**) считается самым крепким **шведским снюсом** из всех существующих, содержит 43 мг никотина.
-Пакетики белые и сухие, имеют аромат мяты.<br>Это <i>новая версия</i> в которой добавили количество пакетов, теперь тут 20-24 порции (ранее было 15-17 порций).<br>
+Пакетики белые и сухие, имеют аромат мяты.<br>Это <i>новая версия</i> в которой добавили количество пакетов, теперь тут ±20 порций (ранее было 15-17 порций).<br>
 В Украине довольно-таки популярен. Подойдет тем, кто уже имел дело с табаком, новичкам не рекомендуется из-за сильного никотинового удара.<br>
 Так же есть [slim версия сибири](/siberia-white-dry-slim) она более удобная, так как пакеты не такие <i>"толстые"</i> и удобно сидят под губой.
 <div class="popup-gallery d-flex mb-3">
