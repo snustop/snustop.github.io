@@ -11,22 +11,34 @@ product-alt: WOW! Summer Honey White Dry Explosion
 strong: Очень крепкий
 brand: Other Brands
 composition: Dry
+stock-list: Акция
 price: 200
-opt-price: 186
+opt-price: 120
+new-price: 130
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: Нет в наличии
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 43
 portions: 16-17
-taste: Мед, лимон
+taste: Мед, лимон, табак
+similar-product_body: "<p>Вам могут понравиться. <small>Жмите на картинки и читайте
+  полное описание</small></p>\n<div>\n\t\t<a href=\"/g4-deep-freeze-slim-all-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/g4-deep-freeze.jpg\"
+  alt=\"g4 deep freeze\"></a>\n\t\t<a href=\"/dzen-ice-mint\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/dzen/dzen-mint.jpg\" alt=\"снюс dzen 50
+  mg\"></a>\n<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/siberia-white-dry-slim\" alt=\"Красная сибирь слим\"></a>\n</div>"
 ---
+
+Просрочен, но его можно использовать (это не молоко), за дополнительными фото обращайтесь в телеграмм: <a href="//t.me/snustop" target="_blank" title="Telegram"> <i class="icon-telegram"></i> Написать в Telegram </a>
 
 Мега-крепкий снюс (43мг/г) с приятным вкусом меда (не приторный)<br>
 В банке идет 15 грамм табака, это больше чем в [siberia white dry](/siberia-white)(13г), 16 порций по 0,94 грамма.<br>
 Этот снюс содержит акациевый мед, данный сорт считается лидером по ценности своего состава. Он имеет низкий гликемический индекс(32).<br>
 Запах приятный, не такой мерзкий как в сибири или оденсе. Порции белые и сухие, довольно мягкие и удобны под губой. По крепости сравним с siberia white dry.<br>
 Вкус и никотиновый удар длится очень долго.<br>
-Ранее [очень крепкие виды снюса](/ultra-strong) были со вкусом мяты, но данный бренд старается это изменить.<br>
+Ранее [очень крепкие виды снюса](/ultra-strong) были со вкусом мяты, но данный бренд старается это изменить.
+
 Подойдет любителям чрезвычайно крепких видов снюса, которые устали от вкуса мяты.
 Добавлю от себя: вкус так себе, на любителя, первые пакеты еще нормально, а потом быстро надоедает, большинство предпочитает мятный снюс (и мята добавляет крепости).
