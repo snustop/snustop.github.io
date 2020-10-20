@@ -11,6 +11,7 @@ product-alt: LYFT Tropic Breeze Slim All White Snus
 strong: Низкой крепости
 brand: Lyft
 composition: Белый
+stock-list: Акция
 price: 230
 opt-price: 207
 new-price: 110
