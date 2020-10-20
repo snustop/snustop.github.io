@@ -10,8 +10,10 @@ product-alt: LYFT Urban Vibe Strong All White Portion Snus
 strong: Крепкий
 brand: Lyft
 composition: Белый
+stock-list: Акция
 price: 230
 opt-price: 207
+new-price: 200
 image: "/img/products/lyft-urban-vibe.png"
 availability-descr: В наличии
 has_availability: true
