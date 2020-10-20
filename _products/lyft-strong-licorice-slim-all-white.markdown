@@ -16,7 +16,7 @@ price: 230
 opt-price: 207
 new-price: 160
 image: "/img/products/lyft-liquorice-strong-slim-all-white-portion.png"
-availability-descr: В наличии (сроки подходят)
+availability-descr: В наличии (сроки подходят 02.11.2020)
 has_availability: true
 gramm: '16,8'
 nicotine: 14
