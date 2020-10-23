@@ -1,7 +1,7 @@
 ---
 title: LYFT Tropic Breeze Slim All White
 date: 2019-06-07 12:31:00 Z
-position: 65
+position: 64
 title-seo: "LYFT Tropic \U0001F96D\U0001F334 Breeze Slim All White снюс"
 descr: "Белый снюс со вкусом тропических фруктов \U0001F96D\U0001F334. 24 порции,
   крепость 8 мг никотина. Не содержит табака, прекрасно сочетают вкусы маракуя, манго
@@ -11,13 +11,11 @@ product-alt: LYFT Tropic Breeze Slim All White Snus
 strong: Низкой крепости
 brand: Lyft
 composition: Белый
-stock-list: Акция
 price: 230
 opt-price: 207
-new-price: 110
 image: "/img/products/LYFT-Tropic-Breeze-Slim-All-White.jpg"
-availability-descr: В наличии (просрочка)
-has_availability: true
+availability-descr: Уточняйте
+has_availability: false
 gramm: '16,8'
 nicotine: 8
 portions: 24
