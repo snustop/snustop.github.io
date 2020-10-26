@@ -11,8 +11,8 @@ strong: Очень крепкий
 brand: Other Brands
 composition: Белый
 image: "/img/products/dzen/dzen-wild-berries.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Уточняйте (очень мало)
+has_availability: false
 gramm: 16
 nicotine: 50
 portions: 25
