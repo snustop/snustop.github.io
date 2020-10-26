@@ -1,7 +1,7 @@
 ---
 title: Arqa Peach Mango
 date: 2020-09-10 13:27:00 Z
-position: 33
+position: 62
 title-seo: "Арка персик-магно \U0001F96D\U0001F351 | Снюс Arqa Peach Mango"
 descr: "Снюс Arqa Peach Mango – это бестабачная жевательная смесь со вкусом яркого
   сока из персика \U0001F351 и манго \U0001F96D. Крепость 70 мг. 20 порций желто-белого
@@ -13,8 +13,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-peach-mango.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
