@@ -1,7 +1,7 @@
 ---
 title: Iceberg Menthol
 date: 2020-10-08 16:46:00 Z
-position: 54
+position: 55
 title-seo: Снюс Iceberg Menthol | Айсберг Мята
 descr: Снюс айсберг со вкусом мяты. Крепость 75 мг никотина. 20 белых порций. Порции
   slim - тонкие.
