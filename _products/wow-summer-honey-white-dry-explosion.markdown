@@ -11,13 +11,11 @@ product-alt: WOW! Summer Honey White Dry Explosion
 strong: Очень крепкий
 brand: Other Brands
 composition: Dry
-stock-list: Акция
 price: 200
-opt-price: 120
-new-price: 130
+opt-price: 185
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 15
 nicotine: 43
 portions: 16-17
@@ -30,8 +28,6 @@ similar-product_body: "<p>Вам могут понравиться. <small>Жм�
   mg\"></a>\n<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/siberia-white-dry-slim\" alt=\"Красная сибирь слим\"></a>\n</div>"
 ---
-
-Просрочен, но его можно использовать (это не молоко, + мы соблюдаем правильные условия хранения), годен был до **08.05.2020**
 
 Крепкий снюс (43мг/г) с приятным вкусом меда (не приторный)<br>
 В банке идет 15 грамм табака, это больше чем в [siberia white dry](/siberia-white)(13г), 16 порций по 0,94 грамма.<br>
