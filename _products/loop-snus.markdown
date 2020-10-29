@@ -1,7 +1,7 @@
 ---
 title: loop-snus
 date: 2020-09-08 12:48:00 Z
-position: 25
+position: 97
 title-seo: LOOP Mint Mania Extra Strong снюс в Украине
 descr: LOOP Mint Mania – крепкий снюс. 20 порций slim. Крепость 20 мг/г. Вкус мята.
   Порции полностью белые и не оставляют следов на зубах.
@@ -10,13 +10,11 @@ product-alt: LOOP Mint Mania Extra Strong
 strong: Крепкий
 brand: Other Brands
 composition: Белый
-stock-list: Акция
 price: 200
-opt-price: 150
-new-price: 160
+opt-price: 180
 image: "/img/products/loop-mint-mania-extra-strong.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: '12,5'
 nicotine: 20
 portions: 20
