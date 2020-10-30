@@ -1,5 +1,5 @@
 ---
-title: white-fox-black
+title: White Fox Black
 date: 2020-10-30 13:45:00 Z
 position: 10
 title-seo: White Fox Black — Черная лисица
