@@ -6,8 +6,8 @@ title-seo: LYFT Strong Licorice Slim All White | купить снюс Лифт
 descr: Снюс Lyft со приятным вкусом лакрицы. Ощущается немного слабее мятного лифта,
   но крепче лифта со вкусом лайма. 24 порции, крепость 14 мг. Порции белые и не красят
   зубы.
-product-name: LYFT Strong Licorice Slim All White
-product-alt: LYFT Strong Licorice Уценка
+product-name: LYFT Strong Licorice Уценка
+product-alt: LYFT Strong Licorice Slim All White Snus
 strong: Крепкий
 brand: Lyft
 composition: Белый
