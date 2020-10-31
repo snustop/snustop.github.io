@@ -13,7 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-grape.jpg"
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: 20
