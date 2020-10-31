@@ -14,7 +14,7 @@ composition: Белый
 stock-list: Акция
 price: 230
 opt-price: 207
-new-price: 150
+new-price: 120
 image: "/img/products/lyft-winter-chill-x-strong.jpg"
 availability-descr: В наличии (сроки подходят до 12.12)
 has_availability: true
