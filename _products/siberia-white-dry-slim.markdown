@@ -12,6 +12,7 @@ brand: Siberia
 composition: Dry
 price: 195
 opt-price: 176
+new-price: 172
 image: "/img/products/siberia-white-dry-slim.png"
 availability-descr: В наличии
 has_availability: true
