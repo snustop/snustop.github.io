@@ -13,6 +13,7 @@ brand: Odens
 composition: Dry
 price: 180
 opt-price: 162
+new-price: 158
 availability-descr: В наличии
 has_availability: true
 gramm: 16
