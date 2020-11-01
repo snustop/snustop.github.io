@@ -12,7 +12,7 @@ brand: Swedish Match
 composition: Белый
 price: 215
 opt-price: 195
-new-price: 
+new-price: 189
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
 availability-descr: В наличии
 has_availability: true
