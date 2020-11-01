@@ -11,6 +11,7 @@ strong: Очень крепкий
 brand: Other Brands
 composition: Белый
 price: 200
+new-price: 176
 image: "/img/products/dzen/dzen-melon.jpg"
 availability-descr: В наличии
 has_availability: true
