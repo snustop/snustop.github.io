@@ -12,7 +12,7 @@ strong: Крепкий
 brand: Lyft
 composition: Белый
 price: 230
-opt-price: 207
+opt-price: 202
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
 availability-descr: В наличии
 has_availability: true
