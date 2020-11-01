@@ -11,6 +11,7 @@ strong: Очень крепкий
 brand: Corvus
 price: 215
 opt-price: 194
+new-price: 189
 image: "/img/products/corvus/corvus-fenix.png"
 availability-descr: В наличии
 has_availability: true
