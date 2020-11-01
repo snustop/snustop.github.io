@@ -12,7 +12,6 @@ brand: Thunder
 composition: Dry
 price: 180
 opt-price: 175
-new-price: 158
 image: "/img/products/thunder-x-slim-white-dry.png"
 availability-descr: В наличии
 has_availability: true
