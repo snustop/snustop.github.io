@@ -14,6 +14,7 @@ composition: Белый
 stock-list: Лучший выбор
 price: 215
 opt-price: 194
+new-price: 189
 image: "/img/products/g4-deep-freeze.jpg"
 availability-descr: В наличии
 has_availability: true
