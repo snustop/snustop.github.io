@@ -13,7 +13,7 @@ brand: Swedish Match
 composition: Белый
 stock-list: Акция
 price: 220
-new-price: 200
+new-price: 194
 image: "/img/products/zyn-deep-freeze.jpg"
 availability-descr: В наличии
 has_availability: true
