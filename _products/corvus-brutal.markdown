@@ -11,6 +11,7 @@ strong: Очень крепкий
 brand: Corvus
 price: 200
 opt-price: 180
+new-price: 189
 image: "/img/products/corvus-brutal-snus.jpg"
 availability-descr: В наличии
 has_availability: true
