@@ -12,6 +12,7 @@ brand: Faff
 composition: Белый
 price: 210
 opt-price: 189
+new-price: 185
 image: "/img/products/faff-cola.png"
 availability-descr: В наличии
 has_availability: true
