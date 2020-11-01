@@ -12,7 +12,6 @@ brand: Other Brands
 composition: Белый
 price: 210
 opt-price: 190
-new-price: 185
 image: "/img/products/fox/white-fox-black.jpg"
 has_availability: true
 gramm: 15
