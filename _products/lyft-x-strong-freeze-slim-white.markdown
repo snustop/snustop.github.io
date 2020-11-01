@@ -12,6 +12,7 @@ brand: Lyft
 composition: Белый
 price: 230
 opt-price: 207
+new-price: 202
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
 availability-descr: В наличии
 has_availability: true
