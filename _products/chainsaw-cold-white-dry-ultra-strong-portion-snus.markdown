@@ -12,6 +12,7 @@ brand: Other Brands
 composition: Dry
 price: 145
 opt-price: 130
+new-price: 128
 image: "/img/products/chainsaw-cold-white-dry.jpg"
 availability-descr: В наличии
 has_availability: true
