@@ -10,9 +10,9 @@ product-alt: G.4 FU:ZN Slim All White Extra Strong Portion
 strong: Крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: 189
 price: 215
 opt-price: 195
+new-price: 189
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
 availability-descr: В наличии
 has_availability: true
