@@ -12,8 +12,8 @@ brand: Faff
 price: 190
 opt-price: 171
 image: "/img/products/faff-apple-melon.png"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 55
 portions: "±60-70"
