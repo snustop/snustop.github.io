@@ -1,7 +1,7 @@
 ---
 title: Lyft Summer Beat
 date: 2020-08-03 11:27:00 Z
-position: 21
+position: 22
 title-seo: "LYFT Summer Beat \U0001F34A Limited Edition купить в Украине"
 descr: "LYFT Summer Beat — имеет приятный летний запах свежего апельсина \U0001F34A.
   В банке 24 порции крепость 8 мг. Порции slim all white. Подойдет для любителей некрепких
