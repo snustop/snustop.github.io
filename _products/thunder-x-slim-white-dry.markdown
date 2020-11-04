@@ -1,7 +1,7 @@
 ---
 title: thunder-x-slim-white-dry
 date: 2017-11-20 12:50:00 Z
-position: 1
+position: 46
 title-seo: Thunder X Slim White Dry купить в Украине
 descr: Thunder X Slim White Dry - очень крепкий (45мг никотина), но слабее siberia
   snus. 22 тонких пакетика. Отправка по Украине
@@ -13,8 +13,8 @@ composition: Dry
 price: 180
 opt-price: 175
 image: "/img/products/thunder-x-slim-white-dry.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается 6 ноября
+has_availability: false
 gramm: 15.4
 nicotine: 45
 portions: 22
