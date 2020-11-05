@@ -13,8 +13,8 @@ brand: Lyft
 composition: Белый
 price: 230
 image: "/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png"
-availability-descr: Ожидается 6 ноября
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '16,8'
 nicotine: 14
 portions: 24
