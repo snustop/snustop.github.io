@@ -11,12 +11,10 @@ product-alt: ZYN Slim Deep Freeze
 strong: Очень крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: Акция
 price: 220
-new-price: 200
 image: "/img/products/zyn-deep-freeze.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 19.2
 nicotine: 16
 portions: 24
