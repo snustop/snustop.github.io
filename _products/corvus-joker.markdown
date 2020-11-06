@@ -1,7 +1,7 @@
 ---
 title: corvus-joker
 date: 2019-10-31 11:06:00 Z
-position: 17
+position: 38
 title-seo: Corvus Joker Wild Berries купить в Украине
 descr: 'Corvus Joker со вкусом лесных ягод. 50 мг никотина, примерно ±29 порций, вкус
   и запах резкий и приторный. Пакеты Slim. Не содержит табака. '
@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-joker.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "±29"
