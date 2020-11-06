@@ -41,7 +41,7 @@ G.4 - это означает снюс 4-го поколения.<br>
 	<a class="mr-2" href="/img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" title="Яблочный G4 Белые порции"><img class="img-fluid" src="/img/products/general-g4-slim-apple-white/g4-apple-snus-open.jpg" alt="G4 Apple All White snus open"></a>
 	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-open.jpg" title="Как открыть банку? Потяните за open, след фото"><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-open.jpg" alt="Ванильный g4 Cryo открыть"></a>
 	<a class="mr-2" href="/img/products/cryo/how-open-cryo.jpg" title="Тяните ленточку"><img class="img-fluid" src="/img/products/cryo/how-open-cryo.jpg" alt="Ванильный g4 Cryo открываем"></a>
-	<a class="mr-2" href="/img/products/cryo/cryo-and-apple-strong.jpg" title="<a href='/g4-cryo-slim-all-white-super-strong'>Ванильный крио</a> очень похож на яблчный g4, но крио крепче."><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-strong.jpg" alt="g4 cryo крепче чем g4 apple"></a>
+	<a href="/img/products/cryo/cryo-and-apple-strong.jpg" title="<a href='/g4-cryo-slim-all-white-super-strong'>Ванильный крио</a> очень похож на яблчный g4, но крио крепче."><img class="img-fluid" src="/img/products/cryo/cryo-and-apple-strong.jpg" alt="g4 cryo крепче чем g4 apple"></a>
 </div>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wcHFyJgfeGI" allowfullscreen></iframe>
