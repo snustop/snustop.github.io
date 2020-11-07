@@ -26,9 +26,9 @@ similar-product_body: "<p>Похожи по крепости и по цвету 
   картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/lyft-tropic-breeze-slim-all-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/LYFT-Tropic-Breeze-Slim-All-White.jpg\"
   alt=\"Лифт тропик\"></a>\n\t\t<a href=\"/lyft-ruby-berry\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=/img/products/lyft-ruby-berry-slim-all-white.jpg\" alt=\"Лифт
+  class=\"img-fluid\" src=\"/img/products/lyft-ruby-berry-slim-all-white.jpg\" alt=\"Лифт
   клубника\"></a>\n<a href=\"/lyft-strong-lime-slim-all-white\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=/img/products/lyft-lime-strong-slim-all-white-portion.png\"
+  class=\"img-fluid\" src=\"/img/products/lyft-lime-strong-slim-all-white-portion.png\"
   alt=\"Снюс Лифт со вкусом лайма\"></a>\n</div>"
 ---
 
