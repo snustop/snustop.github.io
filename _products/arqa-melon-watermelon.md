@@ -1,7 +1,7 @@
 ---
 title: ARQA Melon Watermelon
 date: 2020-09-10 13:27:00 Z
-position: 72
+position: 26
 title-seo: "Арка арбуз-дыня \U0001F349\U0001F348 | Снюс ARQA Melon Watermelon"
 descr: "Снюс ARQA Melon Watermelon – это бестабачная жевательная смесь со вкусом сладкого
   арбуза \U0001F349 и спелой дыни \U0001F348. Крепость 70 мг. 20 порций. Жжение —
@@ -13,8 +13,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-melon-watermelon.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
