@@ -1,7 +1,7 @@
 ---
 title: Arqa Italian Panettone
 date: 2020-09-10 13:27:00 Z
-position: 49
+position: 26
 title-seo: Арка итальянский пирог | Снюс Arqa Italian Panettone
 descr: Снюс Arqa Italian Panettone – это бестабачная жевательная смесь с превосходным
   вкусом бисквитного десерта. Крепость 70 мг. 20 порций. Жжение — умеренное.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-italian-panettone.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
