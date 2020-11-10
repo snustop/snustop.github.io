@@ -9,8 +9,10 @@ product-name: Corvus Brutal
 product-alt: Corvus Brutal купить в Украине
 strong: Очень крепкий
 brand: Corvus
+stock-list: Акция
 price: 200
 opt-price: 180
+new-price: 180
 image: "/img/products/corvus-brutal-snus.jpg"
 availability-descr: В наличии
 has_availability: true
