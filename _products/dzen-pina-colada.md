@@ -13,8 +13,8 @@ brand: Other Brands
 composition: Белый
 price: 200
 image: "/img/products/dzen/dzen-pina-colada.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 16
 nicotine: 50
 portions: 25
