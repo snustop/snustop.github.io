@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 195
 image: "/img/products/blax/blax-red-energy.png"
-availability-descr: Ожиадется
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 18
 nicotine: 150
 portions: "±25"
