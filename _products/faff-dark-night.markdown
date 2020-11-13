@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-dark-night.jpg"
-availability-descr: Ожидается 6 ноября
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 100
 portions: "±29"
