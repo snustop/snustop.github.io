@@ -12,8 +12,8 @@ brand: Other Brands
 composition: Белый
 price: 200
 image: "/img/products/dzen/dzen-melon.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16
 nicotine: 50
 portions: 25
