@@ -22,13 +22,12 @@ form: Белый порции slim
 composition-product: Вода, соль, целлюлоза, никотиновый экстракт, поваренная сода,
   пищевой ароматизатор.
 similar-product_body: "<p>Похожие товары: <small>Жмите на картинки и читайте полное
-  описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4 FU:ZN Slim All White
-  Extra Strong Portion\"></a>\n\t\t<a href=\"/lyft-x-strong-freeze-slim-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\"
-  alt=\"Лифт фриз\"></a>\n<a href=\"/g4-cryo-slim-all-white-super-strong\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
-  alt=\"Снюс ванильный крио\"></a>\n</div>"
+  описание</small></p>\n<div>\n\t\t<a href=\"/dzen-ice-mint\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/dzen/dzen-mint.jpg\" alt=\"Dzen Ice Mint\"></a>\n\t\t<a
+  href=\"/lyft-x-strong-freeze-slim-white\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\" alt=\"Лифт фриз\"></a>\n<a
+  href=\"/g4-deep-freeze-slim-all-white\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/g4-deep-freeze.jpg\" alt=\"Снюс Deep Freeze\"></a>\n</div>"
 ---
 
 Grant Ice Cool — это просто сумасшедший сладкой взрыв мяты, за которым следует приятное покалывание. В банке 24-27 порций, порции slim и белого цвета. Крепость 35 мг/г.
