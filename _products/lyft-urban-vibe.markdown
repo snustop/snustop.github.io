@@ -1,7 +1,7 @@
 ---
 title: LYFT-Urban-Vibe
 date: 2020-01-30 21:37:00 Z
-position: 3
+position: 2
 title-seo: LYFT Urban Vibe Strong All White Portion Snus купить в Украине
 descr: 'Белый снюс с приятным вкусом фруктов. Мягкий вкус красный ягод и клюквы. В
   банке 24 порции, крепость 14 мг, но ощущается сильнее. '
@@ -13,7 +13,7 @@ composition: Белый
 stock-list: Акция
 price: 230
 opt-price: 207
-new-price: 200
+new-price: 180
 image: "/img/products/lyft-urban-vibe.png"
 availability-descr: В наличии
 has_availability: true

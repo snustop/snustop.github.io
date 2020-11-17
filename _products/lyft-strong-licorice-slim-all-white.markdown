@@ -11,10 +11,8 @@ product-alt: LYFT Strong Licorice Slim All White Snus
 strong: Крепкий
 brand: Lyft
 composition: Белый
-stock-list: Акция
 price: 230
 opt-price: 207
-new-price: 105
 image: "/img/products/lyft-liquorice-strong-slim-all-white-portion.png"
 availability-descr: В наличии (сроки подходят 02.11.2020)
 has_availability: true
@@ -34,8 +32,6 @@ similar-product_body: "<p>Похожи по крепости и по цвету 
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
   alt=\"Снюс Лифт ice cool mint strong\"></a>\n</div>"
 ---
-
-Сроки подходят (но его можно использовать, это не молоко, + мы соблюдаем все условия хранения данного продукта). Срок до: **02.11.2020**
 
 LYFT со вкусом лакрицы - очень крепкий снюс (несмотря на то что в нем заявлено такое малое количество никотина 14мг). Имеет сбалансированный вкус между табаком и лакрицей. Подойдет любителям белых табаков, которым [мятный LYFT](/lyft-strong-ice-cool-mint-slim-all-white) очень приелся и хочется какого-то разнообразия. По вкусу и по никотиновому удару немного проигрывает мятному брату, так как мята придает жжения и из-за этого эффект лучше. Но сильнее [лаймогово Lyft](/lyft-strong-lime-slim-all-white), несмотря на то, что везде заявлено одинаковое количество никотина (14 мг/г).
 
