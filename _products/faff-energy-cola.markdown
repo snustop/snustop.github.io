@@ -14,7 +14,7 @@ price: 210
 opt-price: 189
 image: "/img/products/faff-energy-cola.png"
 availability-descr: Ожидается (уточняйте)
-has_availability: true
+has_availability: false
 gramm: "-"
 nicotine: Заявлено 150
 portions: "±29"
