@@ -5,7 +5,7 @@ position: 7
 title-seo: "Снюс Dzen Wild Berries \U0001F347"
 descr: Снюс дзен со вкусом малины и лесных ягод. Крепость 50 мг никотина, 25 порций.
   Порции slim - удобно сидят под губой. Никотиновый удар очень сильный.
-product-name: Dzen малина и лесные ягоды
+product-name: "Dzen малина и лесные ягоды \U0001F347"
 product-alt: Снюс Dzen Wild Berries
 strong: Очень крепкий
 brand: Other Brands
