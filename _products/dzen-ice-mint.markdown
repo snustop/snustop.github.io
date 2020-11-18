@@ -5,7 +5,7 @@ position: 6
 title-seo: Снюс Dzen ice Mint
 descr: Снюс дзен с освежающим вкусом мяты. Крепость 50 мг никотина, 25 белых порций.
   Порции slim - удобно сидят под губой. Никотиновый удар очень сильный.
-product-name: Dzen сладкая мята 50 мг
+product-name: "Dzen сладкая мята \U0001F343 50 мг"
 product-alt: Снюс Dzen ice Mint
 strong: Очень крепкий
 brand: Other Brands
