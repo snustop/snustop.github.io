@@ -16,7 +16,7 @@ image: "/img/products/grant/grant-melon.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: '17,5'
-nicotine: 35
+nicotine: 25
 portions: 24-27
 taste: "Спелая Дыня \U0001F348"
 form: Белый порции slim
