@@ -26,7 +26,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
   описание</small></p>\n<div>\n\t\t<a href=\"/dzen-ice-mint\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/dzen/dzen-mint.jpg\" alt=\"Dzen Ice Mint\"></a>\n\t\t<a
   href=\"/lyft-x-strong-freeze-slim-white\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/lyft-freeze/lyft-freeze-open.jpg\" alt=\"Лифт фриз\"></a>\n<a
+  src=\"/img/products/lyft-x-strong-freeze-slim-white.png\" alt=\"Лифт фриз\"></a>\n<a
   href=\"/g4-deep-freeze-slim-all-white\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/g4-deep-freeze.jpg\" alt=\"Снюс Deep Freeze\"></a>\n</div>"
 ---
