@@ -8,8 +8,8 @@ descr: 'Снюс Lyft - белый снюс, не оставляют следо�
 keywords: Lyft, snus lyft, эпок
 filter-name-h2: Lyft snus (снюс лифт / снюс люфт)
 filter-brand-list: Lyft
-layout: filter-brand
 link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/lyft">
+layout: filter-brand
 ---
 
 Lyft (выпускающийся вместо Epok на том же заводе, теми же людьми) — это инновационный продукт не содержащий табака, но по-прежнему содержит никотин. Порции белого цвета — что не оставляет следов на зубах.
@@ -34,6 +34,12 @@ Lyft (выпускающийся вместо Epok на том же заводе
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td><a href="/lyft-urban-ultra"><img style="width: 40px" src="/img/products/lyft/lyft-urban-ultra.jpg" alt="Снюс Lyft Urabn ultra"></a></td>
+			<td><a href="/lyft-urban-ultra">Urban Ultra</a></td>
+			<td>18</td>
+			<td>клюква и ягоды</td>
+		</tr>
 		<tr>
 			<td><a href="/lyft-x-strong-freeze-slim-white"><img style="width: 40px" src="/img/products/lyft-x-strong-freeze-slim-white.png" alt="Снюс Lyft Freeze самый крепкий"></a></td>
 			<td><a href="/lyft-x-strong-freeze-slim-white">Lyft Frezze</a></td>
@@ -87,6 +93,12 @@ Lyft (выпускающийся вместо Epok на том же заводе
 			<td><a href="/lyft-summer-beat">Summer Beat</a></td>
 			<td>8</td>
 			<td>апельсин🍊</td>
+		</tr>
+		<tr>
+			<td><a href="/lyft-royal-purple-mini"><img style="width: 40px" src="/img/products/lyft-purple-royal.jpg" alt="Снюс Royal Purple"></a></td>
+			<td><a href="/lyft-royal-purple-mini">Royal Purple</a></td>
+			<td>12</td>
+			<td>виноград 🍇</td>
 		</tr>
 	</tbody>
 </table>
