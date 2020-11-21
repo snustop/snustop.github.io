@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/grant-extreme.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '17,5'
 nicotine: 50
 portions: 24-27
