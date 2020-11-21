@@ -72,5 +72,11 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 			<td>50</td>
 			<td>🍹 Ананас с кокосом</td>
 		</tr>
+		<tr>
+			<td><a href="/dzen-ice-mint-20"><img style="width: 40px" src="/img/products/dzen/dzen-mint.jpg" alt="Dzen Mint"></a></td>
+			<td><a href="/dzen-ice-mint-20">Dzen mint</a></td>
+			<td>20</td>
+			<td>🍃 Освежающая мята</td>
+		</tr>
 	</tbody>
 </table>
