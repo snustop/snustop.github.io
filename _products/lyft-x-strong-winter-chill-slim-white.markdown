@@ -6,7 +6,7 @@ title-seo: Lyft Winter Chill X-strong Slim White снюс
 descr: Lyft Winter Chill - невероятно крепкий снюс со вкусом хвои и зимней ягоды.
   Не содержащий табака, но по-прежнему содержит никотин. Обладает освежающим вкусом
   мяты с приятным фруктовым характером. 24 порции.
-product-name: Lyft Winter Chill X-strong Уценка
+product-name: Lyft Winter Chill X-strong
 product-alt: Lyft Winter Chill X-strong Slim White
 strong: Крепкий
 brand: Lyft
