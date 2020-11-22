@@ -16,7 +16,7 @@ image: "/img/products/yoy-yabloki-v-nikotine.png"
 has_availability: true
 gramm: 13
 nicotine: 40-49
-portions: 70-80 кусочков
+portions: 70-80
 taste: Ананас / Энергетик
 form: Кусочки яблока
 composition-product: Яблоко, вода, никотин, ароматизатор, соль, сода
