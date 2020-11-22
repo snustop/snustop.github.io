@@ -1,24 +1,24 @@
 ---
-title: kasta-mint
+title: kasta-ehnergetik
 date: 2020-11-21 22:54:00 Z
 position: 1
-title-seo: Kasta Mint 101 мг
-descr: Снюс Kasta Мята — это очень крепкая безтабачная смесь со вкусом мяты. Крепость
-  101 мг, в банке 20 белых порций.
-product-name: Kasta Mint
-product-alt: Kasta Mint 101 mg
+title-seo: Kasta Энергетик 101 мг
+descr: Снюс Kasta Энергетик — это очень крепкая безтабачная смесь со вкусом напитка
+  redbull. Крепость 101 мг, в банке 20 белых порций.
+product-name: Kasta Энергетик
+product-alt: Kasta Энергетик 101 mg
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
 price: 210
 opt-price: 200
-image: "/img/products/kasta/kasta-mint.jpg"
+image: "/img/products/kasta/kasta-ehnergetik.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: 13
 nicotine: 101
 portions: 20
-taste: Мята
+taste: Энергетик
 form: Порционный белый
 composition-product: Неизвестно (целлюлоза, ароматизаторы, никотин, пищевые добавки)
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
@@ -30,7 +30,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   alt=\"Корвус брутал\"></a>\n</div>"
 ---
 
-Снюс Kasta Мята — это порционная супер крепкая бестабачная жевательная смесь со вкусом мяты. Крепость впечатляет в 101 мг и не оставит равнодушным не одного любителя крепких снюсов. Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.<br>
+Снюс Kasta Энергетик — это порционная супер крепкая бестабачная жевательная смесь со вкусом энергетика (похож на redbull). Крепость впечатляет в 101 мг и не оставит равнодушным не одного любителя крепких снюсов. Материал для пакетиков сделан из качественных компонентов, предотвращающих разрыв.<br>
 В банке примерно 20 порций. Порции полностью белые.
 
 Другие вкусы:
@@ -58,7 +58,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 			<td>Ежевика</td>
 		</tr>
 		<tr>
-			<td><a href="/kasta-ehnergetik"><img style="width: 40px" src="/img/products/kasta/kasta-ehnergetik.jpg" alt="kasta ehnergetik"></a></td>
+			<td><a href="/kasta-ehnergetik"><img style="width: 40px" src="/img/products/kasta/kasta-ehnergetik.jpg" alt="kasta energetik"></a></td>
 			<td><a href="/kasta-ehnergetik">Kasta Энергетик</a></td>
 			<td>101</td>
 			<td>Энергетик</td>
