@@ -1,24 +1,24 @@
 ---
-title: nictech-cola
+title: nictech-barberry
 date: 2020-11-21 23:29:00 Z
 position: 0
-title-seo: Снюс Nictech Cola 60 mg — белая бестабачная жевательная смесь в тоненьких
-  пакетиках, со вкусом колы. Крепость 60 мг, в банке 20 порций.
-descr: Снюс Nictech Cola
-product-name: Nictech Cola
-product-alt: Nictech Cola 60 mg
+title-seo: Снюс Nictech Barberry 60 mg — белая бестабачная жевательная смесь в тоненьких
+  пакетиках, со вкусом барбариса. Крепость 60 мг, в банке 20 порций.
+descr: Снюс Nictech Barberry
+product-name: Nictech Barberry
+product-alt: Nictech Barberry 60 mg
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
 price: 210
 opt-price: 200
-image: "/img/products/nictech/nictech-cola.jpg"
+image: "/img/products/nictech/nictech-barberry.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: 13
 nicotine: 60
 portions: 20
-taste: Кола
+taste: Барбарис
 form: Порционный
 composition-product: Неизвестно (целлюлоза, ароматизаторы, никотин, пищевые добавки)
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
@@ -30,7 +30,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   alt=\"Корвус брутал\"></a>\n</div>"
 ---
 
-Снюс Nictech Cola 60 mg — сухая порционная полностью белая бестабачная жевательная смесь в тоненьких пакетиках, со вкусом колы.<br>
+Снюс Nictech Barberry 60 mg — сухая порционная полностью белая бестабачная жевательная смесь в тоненьких пакетиках, со вкусом барбариса.<br>
 Крепость 60 мг, в банке примерно 20 порций.
 
 Другие вкусы:
