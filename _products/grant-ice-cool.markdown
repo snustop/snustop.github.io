@@ -1,7 +1,7 @@
 ---
 title: grant-ice-cool
 date: 2020-11-17 10:12:00 Z
-position: 33
+position: 44
 title-seo: Grant Ice Cool 35 mg
 descr: Снюс grant ice cool — качественный снюс со вкусом сладкой мяты. Крепость 35
   мг никотина. В банке 24-27 порций белого цвета.
@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/grant-ice-cool.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '17,5'
 nicotine: 35
 portions: 24-27
