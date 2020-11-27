@@ -1,7 +1,7 @@
 ---
 title: lyft-urban-ultra
 date: 2020-11-19 21:30:00 Z
-position: 19
+position: 20
 title-seo: Lyft Urban Ultra 5 точек
 descr: 'Lyft Urban Ultra 5 точек — крепость 18 мг никотина, это крепче чем лифт фриз.
   24 белые порции. Вкус: сочетание клюквы и красных ягод.'
