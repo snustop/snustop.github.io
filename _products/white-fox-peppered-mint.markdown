@@ -1,7 +1,7 @@
 ---
 title: White Fox Peppered Mint
 date: 2020-11-06 23:05:00 Z
-position: 61
+position: 36
 title-seo: White Fox Peppered Mint
 descr: Снюс White Fox (зеленая лисица) — белый снюс со вкусом мяты и черного перца.
   Крепость 16 мг. В банке 20 порций белого цвета. Никотиновый удар и аромат длится
