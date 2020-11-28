@@ -4,7 +4,7 @@ date: 2020-11-19 21:30:00 Z
 position: 47
 title-seo: Lyft Urban Ultra 5 точек
 descr: 'Lyft Urban Ultra 5 точек — крепость 18 мг никотина, это крепче чем лифт фриз.
-  24 белые порции. Вкус: сочетание клюквы и красных ягод.'
+  18 белые порции. Вкус: сочетание клюквы и красных ягод.'
 product-name: Lyft Urban Ultra 5 точек
 product-alt: Lyft Urban Ultra 5 точек
 strong: Очень крепкий
@@ -13,11 +13,11 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft/lyft-urban-ultra.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 16.8
 nicotine: 18
-portions: 24
+portions: 18
 taste: " Сочетание клюквы и красных ягод"
 form: Белые порции slim
 composition-product: Вода, соль, волокна эвкалипта и сосны, никотиновый экстракт,
@@ -31,7 +31,7 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
   alt=\"Снюс grant ice cool\"></a>\n</div>"
 ---
 
-Lyft Urban Ultra 5 точек — крепость **18 мг** никотина, это крепче чем [лифт фриз](/lyft-x-strong-freeze-slim-white). Порции белого цвета, как и во всех предствителях [Lyft](/lyft) и их 24.<br>
+Lyft Urban Ultra 5 точек — крепость **18 мг** никотина, это крепче чем [лифт фриз](/lyft-x-strong-freeze-slim-white). Порции белого цвета, как и во всех предствителях [Lyft](/lyft) и их 18.<br>
 Вкус: сочетание клюквы и красных ягод, что делает вкус немного напоминающим энергетический напиток.
 
 <table class="table table-sm">
