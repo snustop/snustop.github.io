@@ -13,8 +13,8 @@ brand: Other Brands
 composition: Белый
 price: 210
 image: "/img/products/fox/white-fox-peppered.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 16
 portions: 20
