@@ -13,8 +13,8 @@ composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/corvus-extreme-snus.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 14
 nicotine: 44
 portions: 20
