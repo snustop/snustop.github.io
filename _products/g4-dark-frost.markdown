@@ -6,7 +6,7 @@ title-seo: G.4 DARK FROST All White Slim — Super Strong
 descr: G4 Dark Frost — очень крепкий снюс в белых порциях. 24 порции слим, с крепостью
   18.5 мг никотина, но ощущается крепче, крепче даже чем лифт фриз. Вкус черники с
   нотками ментола.
-product-name: G.4 DARK FROST All White Уценка
+product-name: G.4 DARK FROST All White
 product-alt: G4 Dark Frost
 strong: Очень крепкий
 brand: Swedish Match
