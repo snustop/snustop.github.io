@@ -12,7 +12,7 @@ link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/arqa">
 layout: filter-brand
 ---
 
-<b>Снюс Arqa</b> — российский бренд безтабачной смеси. Акцент делают на очень крепкие продукты, крепость от <b>30 мг - до 70 мг</b> с различными вкусами, всего 12 вкусов. Насчет крепости, пишут 70 мг, но на деле некоторые продукты ощущаются слабее. Например: арка со вкусом энергетика очень сильно жжет губу, соответственно никотиновый удар очень быстрый и сильный, а вот арка панеттон и мармелад практически не пекут и нет такого сильного жжения, но и эффект от них слабее, хоть и заявлено 70 мг никотина, как и в Arqa Energy. В банке <b>20 порций</b>. Ниже в таблице представлены все позиции бренда Arqa.
+<b>Снюс Arqa</b> — российский бренд безтабачной смеси. Акцент делают на очень крепкие продукты, крепость от <b>30 мг - до 70 мг</b> с различными вкусами. Насчет крепости, пишут 70 мг, но на деле некоторые продукты ощущаются слабее. Например: арка со вкусом энергетика очень сильно жжет губу, соответственно никотиновый удар очень быстрый и сильный, а вот арка панеттон и мармелад практически не пекут и нет такого сильного жжения, но и эффект от них слабее, хоть и заявлено 70 мг никотина, как и в Arqa Energy. В банке <b>20 порций</b>. Ниже в таблице представлены все позиции бренда Arqa.
 
 <table class="table table-sm">
 	<caption>Таблица вкусов и крепости снюса Arqa</caption>
@@ -42,6 +42,18 @@ layout: filter-brand
 			<td><a href="/arqa-peach-mango">Peach Mango</a></td>
 			<td>70</td>
 			<td>Персик-манго</td>
+		</tr>
+		<tr>
+			<td><a href="/arqa-cola"><img style="width: 40px" src="/img/products/arqa/arqa-cola.jpg" alt="Arqa Cola"></a></td>
+			<td><a href="/arqa-cola">Extreme Cola</a></td>
+			<td>70</td>
+			<td>Кола</td>
+		</tr>
+		<tr>
+			<td><a href="/arqa-caramel-ice-cream"><img style="width: 40px" src="/img/products/arqa/arqa-caramel.jpg" alt="Arqa Caramel Ice cream"></a></td>
+			<td><a href="/arqa-caramel-ice-cream">Caramel Ice Cream</a></td>
+			<td>70</td>
+			<td>Карамельное мороженое</td>
 		</tr>
 		<tr>
 			<td><a href="/arqa-cherry-coctail"><img style="width: 40px" src="/img/products/arqa/arqa-cherry-cocktail.jpg" alt="Arqa Cherry Coctail"></a></td>
