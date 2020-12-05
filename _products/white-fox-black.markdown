@@ -18,7 +18,7 @@ has_availability: true
 gramm: 15
 nicotine: 30
 portions: 20
-taste: вкус дымка
+taste: табачный вкус с нотками бергамота
 form: Порционный, белый, Slim
 composition-product: Пищевые волокна, вода, соль, сода, ароматизатор
 similar-product_body: "<p>Похожие товары: <small>Жмите на картинки и читайте полное
