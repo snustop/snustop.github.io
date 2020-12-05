@@ -1,7 +1,7 @@
 ---
 title: blax-forest-berries
 date: 2020-09-24 22:02:00 Z
-position: 103
+position: 48
 title-seo: Снюс Blax Forest Berry
 descr: Снюс Blax Forest Berry со вкусом лесных ягод — очень крепкий снюс. Крепость
   150 мг никотина, 25 порций белого цвета.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 195
 image: "/img/products/blax/blax-forest-berries.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 18
 nicotine: 150
 portions: "±25"
