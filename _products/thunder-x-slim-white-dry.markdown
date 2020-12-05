@@ -13,7 +13,7 @@ composition: Dry
 stock-list: Акция
 price: 180
 opt-price: 175
-new-price: 155
+new-price: 160
 image: "/img/products/thunder-x-slim-white-dry.png"
 availability-descr: В наличии
 has_availability: true
