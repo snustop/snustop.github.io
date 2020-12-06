@@ -13,7 +13,8 @@ brand: Other Brands
 price: 190
 opt-price: 180
 image: "/img/products/yoy-yabloki-v-nikotine.png"
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 13
 nicotine: 40-49
 portions: 70-80
