@@ -1,7 +1,7 @@
 ---
 title: Faff-energy-cola
 date: 2020-08-13 08:05:00 Z
-position: 25
+position: 24
 title-seo: Снюс Faff Energy Cola 150 мг купить в Украине
 descr: FAFF Energy Cola  — снюс со вкусом Red Bull и Cola, крепость 150 мг,  29 порций
   белого цвета. Порции slim - удобно сидят под губой.
