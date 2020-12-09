@@ -1,7 +1,7 @@
 ---
 title: ARQA Mango Strawberry
 date: 2020-09-10 13:27:00 Z
-position: 17
+position: 16
 title-seo: "Арка манго-клубника \U0001F353 | Снюс ARQA Mango Strawberry"
 descr: "Снюс ARQA Mango Strawberry – это бестабачная жевательная смесь со вкусом манго-клубника
   \U0001F353. Крепость 70 мг. 20 порций. Жжение — очень сильное."
