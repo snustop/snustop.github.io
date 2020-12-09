@@ -1,7 +1,7 @@
 ---
 title: dzen-ice-mint
 date: 2020-10-01 20:31:00 Z
-position: 60
+position: 3
 title-seo: Снюс Dzen ice Mint
 descr: Снюс дзен с освежающим вкусом мяты. Крепость 50 мг никотина, 25 белых порций.
   Порции slim - удобно сидят под губой. Никотиновый удар очень сильный.
@@ -11,8 +11,8 @@ strong: Очень крепкий
 brand: Other Brands
 composition: Белый
 image: "/img/products/dzen/dzen-mint.jpg"
-availability-descr: Ожидается на днях
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16
 nicotine: 50
 portions: 25
