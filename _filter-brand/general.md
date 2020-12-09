@@ -12,4 +12,3 @@ layout: filter-brand
 
 Swedish Match - самый популярный производитель снюса в мире.<br>
 Genearal, Ettan, Göteborgs Rapé, G.3, XRANGE, G.4 и другие - это товары данного производителя, в первую очередь они славятся высоким качеством.
-<small>
