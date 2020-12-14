@@ -1,7 +1,7 @@
 ---
 title: kasta-mint
 date: 2020-11-21 22:54:00 Z
-position: 68
+position: 128
 title-seo: Kasta Mint 101 мг
 descr: Снюс Kasta Мята — это очень крепкая безтабачная смесь со вкусом мяты. Крепость
   101 мг, в банке 20 белых порций.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 200
 image: "/img/products/kasta/kasta-mint.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 13
 nicotine: 101
 portions: 20
