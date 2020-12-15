@@ -26,7 +26,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/corvus/corvus-logan.png\" alt=\"Corvus Logan\"></a>\n\t<a
   href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-cocos.png\"
   alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Enedry\"></a>\n</div>"
+  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy снюс\"></a>\n</div>"
 ---
 
 FAFF Energy Cola  — снюс со вкусом Red Bull и Cola, крепость **150 мг**, **±29** порций белого цвета.
