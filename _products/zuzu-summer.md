@@ -1,34 +1,34 @@
 ---
-title: zuzu-banana-bomba
+title: zuzu-summer
 date: 2020-12-15 07:23:00 Z
-title-seo: "Снюс Zuzu Banana Bomba \U0001F34C\U0001F353"
-descr: "Zuzu Banana Bomba — снюс от бренда Faff. Вкус: банан замиксованный с клубникой\U0001F34C\U0001F353.
+title-seo: "Снюс Zuzu Summer Extreme \U0001F349\U0001F348"
+descr: "Zuzu Summer Extreme — снюс от бренда Faff. Вкус: дыня-арбуз \U0001F349\U0001F348.
   Крепость 150 мг. Порций 25-27. Цветные порции, плотная набивка, насыщенные вкусы
   и аромат."
-product-name: Zuzu Banana Bomba
-product-alt: Zuzu Banana Bomba
+product-name: Zuzu Summer Extreme
+product-alt: Снюс Zuzu Summer Extreme
 strong: Очень крепкий
 brand: Faff
 price: 210
 opt-price: 190
-image: "/img/products/zuzu/zuzu-bannana.png"
+image: "/img/products/zuzu/zuzu-summer.png"
 availability-descr: В наличии
 has_availability: true
 gramm: 13
 nicotine: 150 (заявлено)
 portions: 25-27
-taste: "банан с клубникой\U0001F34C\U0001F353"
+taste: "дыня-арбуз \U0001F349\U0001F348"
 form: Цветные порции slim
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/zuzu-berry\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/zuzu/zuzu-berry.png\" alt=\"Zuzu berry\"></a>\n\t<a
-  href=\"/zuzu-summer\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/zuzu/zuzu-summer.png\"
-  alt=\"Zuzu summer\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
+  href=\"/zuzu-banana-bomba\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/zuzu/zuzu-bannana.png\"
+  alt=\"Zuzu банан клубника\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy снюс\"></a>\n</div>"
 ---
 
-Zuzu Banana Bomba — бестабачная смесь от известного бренда [Faff](/faff) со вкусом банана и с клубники🍌🍓.<br>
+Zuzu Summer Extreme — бестабачная смесь от известного бренда [Faff](/faff) со вкусом дыни и арбуза 🍉🍈.<br>
 Высокая крепость 150 мг, цветные никпаки, плотная набивка, насыщенный вкусы и аромат.
 Заявленная крепость в 150 мг не соответствует действительности, это всего маркетинговый ход.
 <div class="popup-gallery d-flex mb-3">
