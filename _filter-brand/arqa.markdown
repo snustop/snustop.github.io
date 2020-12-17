@@ -32,6 +32,30 @@ layout: filter-brand
 			<td>Энергетик</td>
 		</tr>
 		<tr>
+			<td><a href="/arqa-blueberry-muffin"><img style="width: 40px" src="/img/products/arqa/arqa-bluberry-muffin.jpg" alt="Arqa Blueberry Muffin"></a></td>
+			<td><a href="/arqa-blueberry-muffin">Blueberry Muffin</a></td>
+			<td>70</td>
+			<td>Черничный маффин</td>
+		</tr>
+		<tr>
+			<td><a href="/arqa-schweppes"><img style="width: 40px" src="/img/products/arqa/arqa-schweppes.jpg" alt="Arqa Schweppes"></a></td>
+			<td><a href="/arqa-schweppes">Arqa Schweppes</a></td>
+			<td>70</td>
+			<td>Schweppes</td>
+		</tr>
+		<tr>
+			<td><a href="/arqa-milkshake"><img style="width: 40px" src="/img/products/arqa/arqa-milksheik.jpg" alt="Arqa Milkshake"></a></td>
+			<td><a href="/arqa-milkshake">Arqa Milkshake</a></td>
+			<td>70</td>
+			<td>Молочный коктейль</td>
+		</tr>
+		<tr>
+			<td><a href="/arqa-bubble-gum"><img style="width: 40px" src="/img/products/arqa/arqa-buble-gum.jpg" alt="Arqa Bubble gum"></a></td>
+			<td><a href="/arqa-bubble-gum">Bubble gum</a></td>
+			<td>70</td>
+			<td>Сладкая жвачка</td>
+		</tr>
+		<tr>
 			<td><a href="/arqa-bounty-cocktail"><img style="width: 40px" src="img/products/arqa/arqa-bounty.jpg" alt="Arqa Bounty Cocktail"></a></td>
 			<td><a href="/arqa-bounty-cocktail">Bounty Cocktail</a></td>
 			<td>70</td>
