@@ -1,7 +1,7 @@
 ---
 title: al-capone-mint
 date: 2020-10-02 10:24:00 Z
-position: 133
+position: 134
 title-seo: Al Capone (Mint) Dry Mini
 descr: 'Снюс Al Capone mint — это максимально сухой снюс с освежающим вкусом мяты
   и табака. В банке 20 mini порций серого цвета. Крепость 26 мг/г. '
