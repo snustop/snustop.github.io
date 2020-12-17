@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 200
 image: "/img/products/kasta/kasta-ehnergetik.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 13
 nicotine: 101
 portions: 20
