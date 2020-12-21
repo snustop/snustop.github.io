@@ -1,7 +1,7 @@
 ---
 title: dzen-pina-colada
 date: 2020-10-01 20:31:00 Z
-position: 37
+position: 83
 title-seo: "Снюс Dzen Pina Colada \U0001F965\U0001F34D"
 descr: "Снюс дзен со сочного ананаса \U0001F34D с кокосом \U0001F965. Крепость 50
   мг никотина, 25 порций. Порции slim - удобно сидят под губой. Никотиновый удар очень
@@ -13,8 +13,8 @@ brand: Other Brands
 composition: Белый
 price: 200
 image: "/img/products/dzen/dzen-pina-colada.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 16
 nicotine: 50
 portions: 25
