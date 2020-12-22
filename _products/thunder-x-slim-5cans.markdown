@@ -1,5 +1,5 @@
 ---
-title: thunder-x-slim-5cans
+title: thunder-x-slim-5
 date: 2020-12-22 22:06:00 Z
 position: 2
 title-seo: 5 банок тандер х слим 45 мг
