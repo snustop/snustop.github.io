@@ -10,7 +10,7 @@ product-alt: 5 банок thunder x slim 45 mg
 strong: Очень крепкий
 brand: Thunder
 composition: Dry
-stock-list: Акция
+stock-list: Акця
 price: 775
 opt-price: 775
 image: "/img/products/thunder-5cans.png"
