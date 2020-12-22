@@ -7,15 +7,15 @@ descr: Купить 5 банок красной сибири за 850 грн п�
   крепкий шведский снюс, крепость 43 мг никотина. В банке 21 порция
 product-name: 5 банок Сибири слим
 product-alt: 5 банок красной сибири слим
-strong: Средней крепости
+strong: Очень крепкий
 brand: Siberia
 composition: Dry
 stock-list: Акция
 price: 850
 opt-price: 850
 image: "/img/products/siberia-slim-5cans.png"
-availability-descr: Акция
-has_availability: true
+availability-descr: Акция закончилась
+has_availability: false
 gramm: 13
 nicotine: 43
 portions: 21
