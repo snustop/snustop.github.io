@@ -13,7 +13,7 @@ composition: Белый
 price: 210
 opt-price: 195
 image: "/img/products/blax/blax-cinnamon-gum.png"
-availability-descr: Ожидается
+availability-descr: Ожидается (под заказ)
 has_availability: false
 gramm: 18
 nicotine: 150
