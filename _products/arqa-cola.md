@@ -1,7 +1,7 @@
 ---
 title: Arqa Cola
 date: 2020-09-10 13:27:00 Z
-position: 46
+position: 86
 title-seo: Снюс Arqa Cola
 descr: Снюс Arqa Cola – это бестабачная жевательная смесь с превосходным вкусом экстримальной
   колы. Крепость 70 мг. 20 порций. Жжение умеренное.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-cola.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается (уточняйте)
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
