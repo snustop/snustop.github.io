@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-buble-gum.jpg"
-availability-descr: Ожидается (уточняйте)
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
