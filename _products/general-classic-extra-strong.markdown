@@ -5,15 +5,17 @@ position: 35
 title-seo: General Classic Extra Strong Snus купить в Украине
 descr: Снюс General Classic Extra Strong от Swedish Match. Божественный снюс, очень
   сбалансированный вкус. Снюс средней крепости. Доставка по Украине.
-product-name: General Classic Extra Strong Portion
+product-name: General Classic Extra Strong Уценка
 product-alt: General Classic Extra Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
+stock-list: Акция
 price: 210
 opt-price: 189
+new-price: 130
 image: "/img/products/general-classic-extra-strong-portion.png"
-availability-descr: В наличии
+availability-descr: Уценка (сроки до 15 декабря)
 has_availability: true
 gramm: 22
 nicotine: 14
@@ -29,6 +31,8 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/ettan-original-portion.png\"
   alt=\"Ettan snus original\"></a>\n</div>"
 ---
+
+Уценка, срок до 15 декабря 2020. Но мы соблюдаем правильные условия хранения (темература и влажность).
 
 General Classic Extra Strong имеет приятный вкус, который начинается как намек на соль, смешивающийся с лимоном, примерно через 10 минут чувствуются действительно тонкие намеки на гладкий перцовый табак ползком дополняя всю симфонию вкусов. Порции  влажные и приятные.<br>
 Подойдет любителям снюса средней крепости.<br>
