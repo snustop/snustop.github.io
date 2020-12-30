@@ -1,7 +1,7 @@
 ---
 title: Arqa Cherry Coctail
 date: 2020-09-10 13:27:00 Z
-position: 59
+position: 87
 title-seo: "Арка Вишня \U0001F352 | Снюс Arqa Cherry Coctail"
 descr: "Снюс Arqa Cherry Coctail– это бестабачная жевательная смесь с превосходным
   вкусом черешни \U0001F352. Крепость 70 мг. 20 порций. Жжение умеренное."
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-cherry-cocktail.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ 1-2 дня
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
