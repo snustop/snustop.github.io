@@ -1,7 +1,7 @@
 ---
 title: Arqa Milkshake
 date: 2020-09-10 13:27:00 Z
-position: 50
+position: 49
 title-seo: Снюс Arqa Milkshake
 descr: Снюс Arqa Milkshake – это бестабачная жевательная смесь со вкусом напитка молочного
   коктейля. Крепость 70 мг. 20 порций бледно-оранжевого цвета.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-milksheik.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ 1-2 дня
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
