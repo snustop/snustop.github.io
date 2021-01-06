@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-strawberry-cheesecake.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Заканчивается (уточняйте)
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
