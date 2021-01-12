@@ -1,7 +1,7 @@
 ---
 title: Lyft X-Strong Freeze Slim White
 date: 2019-04-22 06:54:00 Z
-position: 8
+position: 9
 title-seo: Lyft Freeze X-Strong Slim White Snus
 descr: Lyft Freeze - очень крепкий снюс, самый крепкий представитель бренда Lyft.
   24 белые порции с приятным мятным вкусом. Купить снюс в Украине, тел. 0675680230
@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
-availability-descr: Будет завтра (13 января)
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 16.8
 nicotine: 16
 portions: 24
