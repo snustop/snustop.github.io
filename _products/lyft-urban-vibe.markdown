@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-urban-vibe.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,8'
 nicotine: 14
 portions: 24
