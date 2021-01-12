@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 207
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Будет завтра (13 января)
+has_availability: false
 gramm: 16.8
 nicotine: 16
 portions: 24
