@@ -1,7 +1,7 @@
 ---
 title: general-g4-slim-apple-white
 date: 2018-07-27 16:21:00 Z
-position: 7
+position: 6
 title-seo: "G4 Apple \U0001F34F Mint Slim All White Snus | Яблчный снюс"
 descr: "Белый снюс General G.4, приятный яблочный \U0001F34F вкус с нотками мяты.
   24 тонких пакетика содержащий белый табак. Крепость 19 мг никотина."
@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 195
 image: "/img/products/g4-fuzn-slim-all-white-extra-strong-portion.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 19.2
 nicotine: 19
 portions: 24
