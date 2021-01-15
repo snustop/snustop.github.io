@@ -9,7 +9,7 @@ product-alt: 'Siberia -80 Black White Dry '
 strong: Очень крепкий
 brand: Siberia
 composition: Dry
-price: 210
+price: 215
 image: "/img/products/siberia-black/siberia-white-dry-black.png"
 availability-descr: В наличии
 has_availability: true
