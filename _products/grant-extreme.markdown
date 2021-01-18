@@ -1,7 +1,7 @@
 ---
 title: grant-extreme
 date: 2020-11-17 10:12:00 Z
-position: 54
+position: 56
 title-seo: Grant Extreme 50 mg
 descr: Снюс grant Extreme — качественный снюс со вкусом сладкой мяты. Крепость 50
   мг никотина. В банке 24-27 порций белого цвета.
