@@ -10,15 +10,17 @@ product-alt: Offroad X White Dry Arctic Explorer Snus
 strong: Очень крепкий
 brand: Other Brands
 composition: Dry
+stock-list: Акция
 price: 155
 opt-price: 140
+new-price: 140
 image: "/img/products/offroad-x-white-dry-arctic-explorer.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 45
 portions: 20
-taste: Табачный вкус с нотами мяты
+taste: Табачный вкус с нотками мяты
 similar-product_body: "<p>Похожи по крепости. <small>Жмите на картинки и читайте полное
   описание</small></p>\n<div>\n\t\t<a href=\"/siberia-white-dry-slim\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"

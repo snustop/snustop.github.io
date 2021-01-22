@@ -1,7 +1,7 @@
 ---
 title: 5-thunder-x-slim
 date: 2020-12-22 22:06:00 Z
-position: 3
+position: 105
 title-seo: 5 банок тандер х слим 45 мг
 descr: Очень крепкий снюс Тандер х слим по акции. В банке 22 порции серого цвета.
   Качественный снюс, натуральный табачный вкус с нотками мяты.
@@ -14,8 +14,8 @@ stock-list: Акция
 price: 775
 opt-price: 775
 image: "/img/products/thunder-5cans.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Акция закончилась
+has_availability: false
 gramm: 15.4
 nicotine: 45
 portions: 22
