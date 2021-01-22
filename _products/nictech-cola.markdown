@@ -1,7 +1,7 @@
 ---
 title: nictech-cola
 date: 2020-11-21 23:29:00 Z
-position: 54
+position: 137
 title-seo: Снюс Nictech Cola 60 mg — белая бестабачная жевательная смесь в тоненьких
   пакетиках, со вкусом колы. Крепость 60 мг, в банке 20 порций.
 descr: Снюс Nictech Cola
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 200
 image: "/img/products/nictech/nictech-cola.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 13
 nicotine: 60
 portions: 20
