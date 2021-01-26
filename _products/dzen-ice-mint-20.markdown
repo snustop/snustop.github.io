@@ -13,8 +13,8 @@ composition: Белый
 price: 190
 opt-price: 175
 image: "/img/products/dzen/dzen-mint.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 16
 nicotine: 20
 portions: 25
