@@ -1,7 +1,7 @@
 ---
 title: g3-wire-super-strong
 date: 2018-10-21 07:54:00 Z
-position: 39
+position: 93
 title-seo: G.3 Wire Super Strong Snus
 descr: General G.3 Wire - очень крепкий снюс с приятным ароматом красных ягод и тропических
   фруктов. Порции белые и сухие - что обеспечивает длительный никотиновый удар и вкус.
@@ -13,8 +13,8 @@ brand: Swedish Match
 composition: Dry
 price: 215
 image: "/img/products/g3-wire-super-strong.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '16,6'
 nicotine: 26
 portions: 24
