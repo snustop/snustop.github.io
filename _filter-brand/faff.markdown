@@ -14,7 +14,7 @@ layout: filter-brand
 
 Снюс Faff. Фафф — российский бренд безтабачной смеси. Акцент делают на очень крепкие продукты, крепость от <b>65 мг - до 150 мг</b> с различными вкусами, всего 17 вкусов, честно говоря многие, из них отвратительны, но есть и неплохие, как говориться на вкус и цвет. Насчет крепости, пишут 100 мг, но на деле ощущается гораздо слабее. Порции везде белого цвета, в банке <b>±29 порций</b>, но они очень маленькие. Ниже в таблице представлены все позиции бренда Faff.
 
-<table class="table table-sm">
+<table class="table table-sm simpleCart_shelfItem">
 	<caption>Таблица вкусов и крепости снюса Faff</caption>
 	<thead>
 		<tr>
@@ -32,6 +32,12 @@ layout: filter-brand
 			<td>Red Bull + Cola</td>
 		</tr>
 		<tr>
+			<td><a href="/faff-gummy-bear"><img style="width: 40px" src="/img/products/faff-gummy-bear.jpg" alt="Faff Gummy Bear"></a></td>
+			<td><a href="/faff-gummy-bear">Faff Gummy Bear</a></td>
+			<td>150</td>
+			<td>Мармеладные мишки</td>
+		</tr>
+		<tr>
 			<td><a href="/faff-pink-lemonade"><img style="width: 40px" src="/img/products/faff-pink-lemonade.jpg" alt="Faff Фруктовый Лимонад"></a></td>
 			<td><a href="/faff-pink-lemonade">Faff Фруктовый Лимонад</a></td>
 			<td>150</td>
@@ -42,6 +48,24 @@ layout: filter-brand
 			<td><a href="/faff-peach-tea">Faff Peach tea</a></td>
 			<td>150</td>
 			<td>Персиковый чай</td>
+		</tr>
+		<tr>
+			<td><a href="/zuzu-banana-bomba"><img style="width: 40px" src="/img/products/zuzu/zuzu-bannana.png" alt="Zuzu Banana Bomba"></a></td>
+			<td><a href="/zuzu-banana-bomba">Zuzu Banana Bomba</a></td>
+			<td>150</td>
+			<td>банан с клубникой🍌🍓</td>
+		</tr>
+		<tr>
+			<td><a href="/zuzu-berry"><img style="width: 40px" src="/img/products/zuzu/zuzu-berry.png" alt="Zuzu Berry"></a></td>
+			<td><a href="/zuzu-berry">Zuzu Berry</a></td>
+			<td>150</td>
+			<td>гранат-клубника-черника</td>
+		</tr>
+		<tr>
+			<td><a href="/zuzu-summer"><img style="width: 40px" src="/img/products/zuzu/zuzu-summer.png" alt="Zuzu Summer Extreme"></a></td>
+			<td><a href="/zuzu-summer">Zuzu Summer Extreme</a></td>
+			<td>150</td>
+			<td>дыня-арбуз 🍉🍈</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-cocos"><img style="width: 40px" src="/img/products/faff-cocos.png" alt="Faff Кокос"></a></td>
