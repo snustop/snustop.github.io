@@ -50,6 +50,12 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/dzen-ice-mint-100mg"><img style="width: 40px" src="/img/products/dzen/dzen-mint-100mg.jpg" alt="Dzen Mint 100 mg"></a></td>
+			<td><a href="/dzen-ice-mint-100mg">Dzen mint</a></td>
+			<td>100</td>
+			<td>🍃 Освежающая мята</td>
+		</tr>
+		<tr>
 			<td><a href="/dzen-ice-mint"><img style="width: 40px" src="/img/products/dzen/dzen-mint.jpg" alt="Dzen Mint"></a></td>
 			<td><a href="/dzen-ice-mint">Dzen mint</a></td>
 			<td>50</td>
@@ -72,6 +78,12 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 			<td><a href="/dzen-pina-colada">Pina Colada</a></td>
 			<td>50</td>
 			<td>🍹 Ананас с кокосом</td>
+		</tr>
+		<tr>
+			<td><a href="/dzen-ice-mint-20"><img style="width: 40px" src="/img/products/dzen/dzen-mint.jpg" alt="Dzen Mint 20 mg"></a></td>
+			<td><a href="/dzen-ice-mint-20">Dzen mint</a></td>
+			<td>20</td>
+			<td>🍃 Освежающая мята</td>
 		</tr>
 	</tbody>
 </table>
