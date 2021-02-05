@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-gummy-bear.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ (1 день)
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: "±29"
