@@ -36,6 +36,5 @@ Offroad X White Dry — очень крепкий снюс, содержащий
 20 пакетов в банке, порции белые и сухие - что обеспечивает длительный аромат и никотиновый удар с минимальным потеком.<br>
 Позиционируется как альтернатива **красной сибири**, подойдет любителям крепких табаков.
 <div class="mb-3">
-<img class="img-fluid" style="width:49%" src="/img/products/offroad-x-white-dry/snus-offroad-x-white-dry.jpg" alt="Снюс Offroad X White Dry Arctic Explorer">
-<img class="img-fluid" style="width:49%" src="/img/products/offroad-x-white-dry/snus-Offroad-X-White-Dry-Arctic-Explorer.jpg" alt="Snus Offroad X White Dry Arctic Explorer">
+<img class="img-fluid" src="/img/products/offroad-x-white-dry/offroad-open.jpg" alt="Снюс Offroad X White Dry Arctic Explorer">
 </div>
