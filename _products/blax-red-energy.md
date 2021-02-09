@@ -1,7 +1,7 @@
 ---
 title: blax-red-energy
 date: 2020-09-24 22:02:00 Z
-position: 49
+position: 48
 title-seo: Снюс Blax Red Energy
 descr: Снюс Blax Red Energy со вкусом клубничного энергетика — очень крепкий снюс.
   Крепость 150 мг никотина, 25 порций белого цвета.
