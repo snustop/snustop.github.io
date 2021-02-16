@@ -10,7 +10,7 @@ strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
 price: 225
-image: "/img/products/onyx-titan.jpg"
+image: "/img/products/onyx/onyx-titan.jpg"
 has_availability: true
 gramm: 21.6
 nicotine: 12
@@ -35,3 +35,6 @@ Onyx Titan — премиальный шведский снюс для наст�
 24 порции. Крепость 12 мг, по ощущениям это снюс средней крепости.
 
 Если вы любитель [очень крепких](/ultra-strong) видов снюса, то данный продукт Вам не подойдет. Если Вам нравится: [ettan](/ettan-original-portion), [General classic](/general-classic-extra-strong), тогда onyx titan стоит попробовать.
+<div class="mb-3">
+<img class="img-fluid" src="/img/products/onyx/onyx-titan-open.jpg" alt="Снюс оникс титан">
+</div>
