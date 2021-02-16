@@ -1,6 +1,7 @@
 ---
 title: onyx-titan
 date: 2021-02-16 11:11:00 Z
+position: 41
 title-seo: General ONYX Titan Черный порции
 descr: Onyx Titan — премиальный шведский снюс в черных мешочках. Вкус табачный. Крепость
   12 мг.  В банке 24 аккуратно выложенных .

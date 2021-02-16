@@ -1,7 +1,7 @@
 ---
 title: Odens-Cold-Softpack
 date: 2020-09-30 22:25:00 Z
-position: 118
+position: 119
 title-seo: Odens Cold Dry в мягкой упаковке
 descr: Odens Cold Dry — очень крепкий снюс, крепость 22 мг, но ощущается крепче. Пакеты
   очень мягкие и приятно сидят под губой. В банке 20 порций.
