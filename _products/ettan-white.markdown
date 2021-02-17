@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 210
 opt-price: 189
 image: "/img/products/ettan-white.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 8
 portions: 24
