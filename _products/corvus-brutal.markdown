@@ -1,7 +1,7 @@
 ---
 title: corvus brutal
 date: 2019-09-18 10:15:00 Z
-position: 65
+position: 16
 title-seo: Corvus Brutal 68 мг | Корвус брутал купить в Украине
 descr: "Снюс Корвус Брутал - очень крепкий \U0001F44A продукт. Крепость 68 мг никотина,
   20 порций. Пакеты зеленого цвета."
@@ -12,8 +12,8 @@ brand: Corvus
 price: 200
 opt-price: 180
 image: "/img/products/corvus-brutal-snus.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 14
 nicotine: 68
 portions: 20
