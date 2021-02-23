@@ -12,7 +12,6 @@ strong: Очень крепкий
 brand: Swedish Match
 composition: Белый
 price: 215
-new-price: 195
 image: "/img/products/g4-deep-freeze.jpg"
 availability-descr: В наличии
 has_availability: true
