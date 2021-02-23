@@ -11,8 +11,10 @@ product-alt: White Fox Double mint snus
 strong: Средней крепости
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 200
 opt-price: 180
+new-price: 180
 image: "/img/products/fox-all-whie-dm.png"
 availability-descr: В наличии
 has_availability: true
