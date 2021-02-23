@@ -1,7 +1,7 @@
 ---
 title: blax-turbo-peach
 date: 2020-09-24 22:02:00 Z
-position: 38
+position: 73
 title-seo: Снюс Blax Turbo Peach
 descr: "Снюс Blax Turbo Peach  со вкусом персика \U0001F351 — очень крепкий снюс.
   Крепость 150 мг никотина, 25 порций белого цвета."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 195
 image: "/img/products/blax/blax-turbo-peach.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 18
 nicotine: 150
 portions: "±25"
