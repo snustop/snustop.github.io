@@ -51,7 +51,16 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 							<!-- PRODUCTS start -->
 							<!-- PRODUCT START -->
 							{% assign sorted_items = site.products | sort:"position" %}
-							{% for product in sorted_items offset:0 limit:18 %}
+							{% for product in sorted_items offset:0 limit:1 %}
+							
+							{% include item-product.html %}
+
+							{% endfor %}
+
+							<div class="col-md-4 col-6"> <article class="product text-center rounded"> <div class="product-link"> <span class="wrap-img"> <a href="#konkursModal" data-toggle="modal" data-target="#konkursModal"> <img src="/img/inst/telega-prize3.jpg" alt="Розыгрыш в телеграмме 3-х банок"> </a> </span> <a href="#konkursModal" data-toggle="modal" data-target="#konkursModal"> <h3>Розыгрыш 3-х банок</h3> </a> </div> <div class="price item_price">+18 🔞</div> <div class="product-info bg-light small"> <div class="row justify-content-between align-items-center"> <div class="col-6"> <span class="strength">Средний</span><br> </div> <div class="col-6"> <span>24</span><br>порций </div> </div> </div> <div class="product-btn"> <a class="bg-primary" href="#konkursModal" data-toggle="modal" data-target="#konkursModal">Подробнее <i class="icon-telegram"></i></a> </div> </article> </div>
+
+							{% assign sorted_items = site.products | sort:"position" %}
+							{% for product in sorted_items offset:1 limit:17 %}
 							
 							{% include item-product.html %}
 
@@ -115,16 +124,8 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 						</div>
 						<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 							<div class="card-body" itemprop="text">
-								<p>Некоторые недобросовестные производители <i>пишут</i> завышенное количество никотина, но на деле это не так. Также количество никотина не единственный критерий крепости (зависит от влажности, качества сырья, размера пакетика, вкуса, например в белом Deep Freeze всего 18,5 мг никотина, но ощущается гораздо больше.</p>
-								<h3>Рейтинг крепости по ощущениям:</h3>
-								<ul>
-									<li>1. <a href="/corvus-brutal">Corvus Brutal</a> 68 мг (не рекомендуем).</li>
-									<li>2. <a href="siberia-white-dry-slim">Красная сибирь Slim</a> 43 мг.</li>
-									<li>3. <a href="/thunder-x-slim-white-dry">Thunder x slim</a> 45 мг.</li>
-									<li>4. <a href="/g4-deep-freeze-slim-all-white">Deep Freeze</a> 18,5 мг.</li>
-									<li>5. <a href="/g4-cryo-slim-all-white-super-strong">G4 Cryo ванильный</a> 22 мг.</li>
-								</ul>
-								<div class="small">В списке представлены только самые крепкие представители брендов. <a href="/ultra-strong">Смотреть все очень крепкие продкты.</a> Если остались вопрос, напишите нам в телеграмм: <a href="//t.me/snustop" target="_blank" title="Telegram">
+								<p>Некоторые недобросовестные производители <i>пишут</i> завышенное количество никотина, но на деле это не так. Но самым крепкий считается снюс <a href="/faff">faff</a> но у него много побочек, из шведских: <a href="siberia-white-dry-slim">красная сибирь</a>, <a href="/thunder-x-slim-white-dry">thunder X</a></p>
+								<div class="small"><a href="/ultra-strong">Смотреть ВСЕ очень крепкие продкты.</a> Если остались вопрос, напишите нам в телеграмм: <a href="//t.me/snustop" target="_blank" title="Telegram">
 							@snustop <i class="icon-telegram"></i></a></div>
 							</div>
 						</div>
@@ -190,7 +191,7 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 						</div>
 						<div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
 							<div class="card-body" itemprop="text">
-								Любые никотиносодержащие продукты <b>строго c 18</b>! Читайте <a href="/snus-vred">вред снюса</a>.
+								Любые никотиносодержащие продукты <b>строго c 18-ти лет</b>! При заказе мы проверяем Ваш возраст (требуем документ) + на почте не отдадут посылку, если Вам нет 18-ти! Читайте <a href="/snus-vred">вред снюса</a>.
 							</div>
 						</div>
 					</div>
@@ -217,6 +218,31 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 	{% include modal-cart.html %}
 
 	{% include modal-contact.html %}
+
+	<!-- modal concurs info start -->
+	<div class="modal fade" id="konkursModal" tabindex="-1" role="dialog" aria-labelledby="telegramModal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<article class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="telegramModalLabel">Розыгрыш 3-х банок</h4>
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					Никаких репостов и сложных условий, перейдите в телеграмм канал и нажмите кнопку "<b>Учавствовать</b>".<br>
+					Победитель будет определен <b>8 марта</b>.<br><br>
+					<img class="img-fluid" src="https://cdn4.telesco.pe/file/dTDAcmoyVIVV-OComRYG6tIeXAE5GLgzINIssWbj6kjg35Y-_UNYWBPqKTYmMmsDthTlVjahH1VKYce8KbmYmi_SQiPI1kXbDyBumPY4Yr7uC9-ar86oOh-dewDZNOx_YWA21_lXUioDu-f2Ko523To61UboiWcofMDfO59DpHB81mbzgkzhlVZ9-jy6pq1ZyVGbGbzI-DJ7MwBu8rkGQijRZ0HJX03v3vHQW0Pblhvnbxxl-Wp3QckwjujK7WOpQBjTJy5zWmJeT9jH0TgoFj2ihJsgjs13bfMUyje97eqCxNqNkhN_FFefIcGcT_i2pobW5rH29xey2J9Q8tbozA.jpg" alt="розыгрыш 3-х банок в телеграме">
+					Подписка на канал обязательна!
+				</div>
+				<div class="modal-footer">
+					<a href="//t.me/snustopUA" target="_blank" title="Telegram" role="button" class="btn btn-primary">Перейти в канал <i class="icon-telegram"></i></a>
+				</div>
+			</article>
+		</div>
+	</div>
+	<!-- modal concurs info end -->
 
 	{% include arrow-to-top.html %}
 
