@@ -1,7 +1,7 @@
 ---
 title: G4 Deep Freeze Slim All White
 date: 2020-03-05 10:45:00 Z
-position: 39
+position: 62
 title-seo: 'G.4 Deep Freeze Slim All White Снюс '
 descr: G.4 Deep Freeze белый снюс — очень крепкий, со вкусом эвкалипта и ментола.
   24 порции Slim, крепость 18,5 мг никотина, крепче чем Lyft Freeze X-strong. С эффектом
@@ -13,8 +13,8 @@ brand: Swedish Match
 composition: Белый
 price: 215
 image: "/img/products/g4-deep-freeze.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 19.2
 nicotine: 18.5
 portions: 24
