@@ -35,8 +35,7 @@ similar-product_body: "<p>Вам могут понравится: <small>Жми�
 Крио ванильный УЦЕНКА. Срок до 17 февраля, но обратите внимание, что данный бренд дает срок годности всего пол года, а другие такие как Lyft, Siberia, Thunder, Faff дают по 12 месяцев.<br>
 Хранился в холодильнике, неплохой вариант сэкономить. Те кто ранее брал у нас уценённый снюс, знают что от свежего практически не отличается.<br>
 В наличии всего 20 банок.
-<div class="mb-3">
-<img class="img-fluid" src="https://cdn4.telesco.pe/file/O38u_7PXlbJsOOAZ2jPmwL3TCCw1VanqZmqDxMXw-QWVOSYxqguagnIKfKvMAFhWpI0EFWRsNFrSsvsVJNKymXq5Dp8pWXS7LoQSV63BjQeeD0EUaCQqlA8iLJXWaEZDePe3iD8gMTwegtUyXjgy-pQpUzgEa74kQcr3MLn5baWcBlBKx_x2dmpCaq-OExWtWFsCkOTn8s9j1w08TjwPjR7UOGqmnCaGztJYWau8EfT6nxYQ_tWB_M_3vhdSpZ7bg5VbVI1IMXoLBeDcKYxEV9ShWDr7toqcE3SB5_3u2-nmXKA__qymL6enmRo0Mn2DAUwQirAAYrAv8pfiD4BBcQ.jpg" alt="Снюс cry уценка за 130 грн">
+<div class="mb-3"><img class="img-fluid" src="https://cdn4.telesco.pe/file/O38u_7PXlbJsOOAZ2jPmwL3TCCw1VanqZmqDxMXw-QWVOSYxqguagnIKfKvMAFhWpI0EFWRsNFrSsvsVJNKymXq5Dp8pWXS7LoQSV63BjQeeD0EUaCQqlA8iLJXWaEZDePe3iD8gMTwegtUyXjgy-pQpUzgEa74kQcr3MLn5baWcBlBKx_x2dmpCaq-OExWtWFsCkOTn8s9j1w08TjwPjR7UOGqmnCaGztJYWau8EfT6nxYQ_tWB_M_3vhdSpZ7bg5VbVI1IMXoLBeDcKYxEV9ShWDr7toqcE3SB5_3u2-nmXKA__qymL6enmRo0Mn2DAUwQirAAYrAv8pfiD4BBcQ.jpg" alt="Снюс cry уценка за 130 грн">
 </div>
 
 Крепкий белый снюс, с приятным ванильным вкусом.<br>
