@@ -5,18 +5,16 @@ position: 4
 title-seo: G.4 CRYO Slim All White Super Strong — белый снюс
 descr: Белый снюс, 24 пакетика, приятный мятно-ванильный вкус. Крепость 22 мг никотина,
   по ощущениям немного крепче эпока. Не красит зубы. Высылаем новой почтой
-product-name: G.4 CRYO Мята-Ваниль УЦЕНКА
+product-name: G.4 CRYO Мята-Ваниль
 product-alt: G.4 CRYO Slim All White Super Strong
 strong: Крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: Акция
 price: 215
 opt-price: 195
-new-price: 130
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 19.2
 nicotine: 22
 portions: 24
@@ -31,12 +29,6 @@ similar-product_body: "<p>Вам могут понравится: <small>Жми�
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/snus-lyft-ice-cool-mint.jpg\"
   alt=\"Снюс Lyft ice cool\"></a>\n</div>"
 ---
-
-Крио ванильный УЦЕНКА. Срок до 17 февраля, но обратите внимание, что данный бренд дает срок годности всего пол года, а другие такие как Lyft, Siberia, Thunder, Faff дают по 12 месяцев.<br>
-Хранился в холодильнике, неплохой вариант сэкономить. Те кто ранее брал у нас уценённый снюс, знают что от свежего практически не отличается.<br>
-В наличии всего 20 банок.
-<div class="mb-3"><img class="img-fluid" src="https://cdn4.telesco.pe/file/O38u_7PXlbJsOOAZ2jPmwL3TCCw1VanqZmqDxMXw-QWVOSYxqguagnIKfKvMAFhWpI0EFWRsNFrSsvsVJNKymXq5Dp8pWXS7LoQSV63BjQeeD0EUaCQqlA8iLJXWaEZDePe3iD8gMTwegtUyXjgy-pQpUzgEa74kQcr3MLn5baWcBlBKx_x2dmpCaq-OExWtWFsCkOTn8s9j1w08TjwPjR7UOGqmnCaGztJYWau8EfT6nxYQ_tWB_M_3vhdSpZ7bg5VbVI1IMXoLBeDcKYxEV9ShWDr7toqcE3SB5_3u2-nmXKA__qymL6enmRo0Mn2DAUwQirAAYrAv8pfiD4BBcQ.jpg" alt="Снюс cry уценка за 130 грн">
-</div>
 
 Крепкий белый снюс, с приятным ванильным вкусом.<br>
 G.4 CRYO Slim White Super Strong — это еще один белый снюс, со вкусом перечной мяты и нотками ванили.
