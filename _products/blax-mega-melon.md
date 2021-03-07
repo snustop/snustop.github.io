@@ -1,7 +1,7 @@
 ---
 title: blax-mega-melon
 date: 2020-09-24 22:02:00 Z
-position: 55
+position: 54
 title-seo: Снюс Blax Mega Melon
 descr: Снюс Blax Mega Melon со вкусом медовой дыни — очень крепкий снюс. Крепость
   150 мг никотина, 25 порций белого цвета.
