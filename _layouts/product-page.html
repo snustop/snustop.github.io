@@ -179,6 +179,14 @@
 						
 						?>
 
+						<?php
+							#если комментариев больше 4-х, тогда выводим кнопку показать все комментарии
+							if ($count_str>4) {
+							echo '<div class="text-center"><a href="#" id="show-comments-all" class="link-primary">Смотреть все комментарии</a></div>';
+						}
+						?>
+						
+
 					</div>
 					
 
