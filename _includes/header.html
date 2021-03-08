@@ -1,0 +1,31 @@
+<header>
+			<nav class="main-nav navbar navbar-expand-lg navbar-dark bg-dark">
+				<div class="container">
+					<a class="navbar-brand" href="/">Snus<sup>top</sup></a>
+					<a class="text-danger" href="#ageModal" data-toggle="modal" data-target="#ageModal"><span style="text-decoration: underline">Строго с 18</span> 🔞</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					
+					<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item {% if page.url == '/' %} active {% endif %}">
+								<a class="nav-link" href="/">Каталог</a>
+							</li>
+							<li class="nav-item {% if page.url == '/delivery' or page.url == '/delivery.html' %} active {% endif %}">
+								<a class="nav-link" href="/delivery">Доставка и оплата</a>
+							</li>
+							<li class="nav-item {% if page.url == '/about' or page.url == '/about.html' %} active {% endif %}">
+								<a class="nav-link" href="/about">О нас</a>
+							</li>
+							<li class="nav-item {% if page.url == '/opt' or page.url == '/opt.html' %} active {% endif %}">
+								<a class="nav-link" href="/opt">Опт</a>
+							</li>
+							<li class="nav-item {% if page.url == '/articles' or page.url == '/articles.html' %} active {% endif %}">
+								<a class="nav-link pr-0" href="/articles">Блог</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</header>
