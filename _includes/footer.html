@@ -1,3 +1,25 @@
+<!-- modal 18+ info ссылка c header и footer +18 -->
+	<div class="modal fade" id="ageModal" tabindex="-1" role="dialog" aria-labelledby="age18Modal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<article class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="age18ModalLabel">Строго с 18-ти 🔞</h4>
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					Любые никотиносодержащие продукты <b>строго c 18-ти лет</b>!<br><br>При заказе мы проверяем Ваш возраст (требуем документы)<br><br>+ на почте не отдадут посылку, если Вам нет 18-ти! И почта <b>сообщит в соответствующие органы</b>.<br><br> Данный продукт вредит Вашему здоровью и вызывает привыкание.<br>Читайте <a href="/snus-vred">вред снюса</a>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+				</div>
+			</article>
+		</div>
+	</div>
+<!-- modal 18+ info ссылка c header и footer +18 -->
+
 <footer class="main-foot container">
 	<hr>
 	<div class="foot-wrap-info">
@@ -53,11 +75,11 @@
 							Telegram канал<i class="icon-telegram"></i>
 						</a>
 					</li>
-					<li>
+<!-- 					<li>
 						<a class="btn btn-instagram" href="//www.instagram.com/snusforyou_ua/" target="_blank" title="instagram">
 							Instagram <i class="icon-instagram"></i>
 						</a>
-					</li>
+					</li> -->
 					</ul>
 				</div>
 			</div>
@@ -67,6 +89,6 @@
 			<span>&copy; Snustop.com.ua {{ site.time | date: "%Y" }}</span>
 			<span>Made with <span class="heart">💙</span></span>
 		</div>
-		<div class="text-center small">Данный продукт вредит вашему здоровью и вызывает привыкание. <strong>18+</strong> 🔞<br><a href="/snus-vred">Вред никотина (читать)</a>
+		<div class="text-center small">Данный продукт вредит вашему здоровью и вызывает привыкание. <a class="text-danger" href="#ageModal" data-toggle="modal" data-target="#ageModal"><span style="text-decoration: underline">Строго с 18</span> 🔞</a> <br><a href="/snus-vred">Вред никотина (читать)</a>
 		</div>
 	</footer>
