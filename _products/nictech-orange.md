@@ -1,7 +1,7 @@
 ---
 title: nictech-orange
 date: 2020-11-21 23:29:00 Z
-position: 41
+position: 42
 title-seo: Снюс Nictech Orange 60 mg — белая бестабачная жевательная смесь в тоненьких
   пакетиках, со вкусом апельсина. Крепость 60 мг, в банке 20 порций.
 descr: Снюс Nictech Orange
