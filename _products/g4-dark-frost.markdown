@@ -14,8 +14,8 @@ composition: Белый
 price: 220
 opt-price: 198
 image: "/img/products/dark-frost.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 19.2
 nicotine: 18.5
 portions: 24
