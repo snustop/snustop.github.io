@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 200
 image: "/img/products/nictech/nictech-barberry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 13
 nicotine: 60
 portions: 20
