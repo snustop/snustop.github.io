@@ -38,6 +38,12 @@ layout: filter-brand
 			<td>Мармеладные мишки</td>
 		</tr>
 		<tr>
+			<td><a href="/faff-orange-soda"><img style="width: 40px" src="/img/products/faff-orange-soda.jpg" alt="Faff Orange Soda снюс"></a></td>
+			<td><a href="/faff-orange-soda">Faff Orange Soda</a></td>
+			<td>150</td>
+			<td>Фанта</td>
+		</tr>
+		<tr>
 			<td><a href="/faff-pink-lemonade"><img style="width: 40px" src="/img/products/faff-pink-lemonade.jpg" alt="Faff Фруктовый Лимонад"></a></td>
 			<td><a href="/faff-pink-lemonade">Faff Фруктовый Лимонад</a></td>
 			<td>150</td>
