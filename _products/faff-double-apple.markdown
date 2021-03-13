@@ -22,11 +22,12 @@ taste: Кисло-сладкое яблоко
 form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
-  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/corvus-joker\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/corvus-joker.png\" alt=\"Корвус джокер\"></a>\n\t<a
-  href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-cocos.png\"
-  alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Enedry\"></a>\n</div>"
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-cocos\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-cocos.jpg\" alt=\"faff cocos 100
+  mg\"></a>\n\t<a href=\"/faff-dark-night\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
 ---
 
 Снюс FAFF Double-Apple — бестабачная жевательная смесь со вкусом <b>кисло-сладкого яблока</b>. Крепость <b>65 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
