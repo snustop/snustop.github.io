@@ -22,12 +22,13 @@ taste: Клубничный чизкейк
 form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
-  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
-  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-gummy-bear\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
-  href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
-  alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-double-apple\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-apple.jpg\"
+  alt=\"faff двойное яблоко 75 mg\"></a>\n\t<a href=\"/faff-citron\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-citron.jpg\" alt=\"faff citron
+  75 mg\"></a>\n\t<a href=\"/faff-tropic-storm\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-tropic.jpg\" alt=\"Snus Faff тропические фрукты 100
+  mg\"></a>\n</div>"
 ---
 
 Снюс FAFF Strawberry Cheesecake (Клубничный пирог) — осталось только купить кофе) Что будет если взять нежнейший клубничный чизкейк, максимально сконцентрировать его вкус и пропитать им действительно качественные никпаки? Получится FAFF STRAWBERRY CHEESECAKE. В банке **25-29 порций** темно-розового цвета slim формата. Крепость **75 мг**.
