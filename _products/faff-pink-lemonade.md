@@ -23,11 +23,11 @@ form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"faff
-  energy\"></a>\n\t<a href=\"/faff-cola\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/faff-cola.png\" alt=\"Фафф кола\"></a>\n\t<a href=\"/corvus-brutal\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/corvus-brutal-snus.jpg\"
-  alt=\"Корвус брутал\"></a>\n</div>"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-orange-soda\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\" alt=\"faff orange
+  soda 150 mg\"></a>\n\t<a href=\"/faff-peach-tea\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-peacj.jpg\" alt=\"Snus Faff Peach Tea 150 mg\"></a>\n</div>"
 ---
 
 Снюс Faff Pink Lemonade — новый вкус этого лета. Заявленная **крепость 150 мг**, в банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм. Порции белые, не оставляют следов на зубах.
