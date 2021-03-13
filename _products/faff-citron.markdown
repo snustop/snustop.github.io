@@ -23,11 +23,11 @@ form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"faff
-  energy\"></a>\n\t<a href=\"/faff-cola\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/faff-cola.png\" alt=\"Фафф кола\"></a>\n\t<a href=\"/corvus-brutal\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/corvus-brutal-snus.jpg\"
-  alt=\"Корвус брутал\"></a>\n</div>"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-cocos\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-cocos.jpg\" alt=\"faff cocos 100
+  mg\"></a>\n\t<a href=\"/faff-dark-night\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
 ---
 
 Снюс FAFF Citron — бестабачная жевательная смесь со вкусом <b>лайм-лимон</b>. Крепость <b>75 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
