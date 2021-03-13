@@ -22,13 +22,12 @@ taste: Кола
 form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
-  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/siberia-white-dry-slim\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
-  alt=\"Siberia White dry slim\"></a>\n\t<a href=\"/corvus-logan\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/covrus-logan-portion.jpg\" alt=\"Корвус
-  логан со вкусом дыни\"></a>\n\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open-snus.jpg\" alt=\"Корвус
-  брутал\"></a>\n</div>"
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-cocos\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-cocos.jpg\" alt=\"faff cocos 100
+  mg\"></a>\n\t<a href=\"/faff-dark-night\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
 ---
 
 Снюс Cola - со вкусом Кока-кола, **крепостью 75 мг**. Количество порций 25-29, порции тонкие слим белого цвета.
