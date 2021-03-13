@@ -22,11 +22,12 @@ taste: Тропические фрукты
 form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
-  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/corvus-joker\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/corvus-joker.png\" alt=\"Corvus Joker\"></a>\n\t<a
-  href=\"/faff-cocos\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-cocos.png\"
-  alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Enedry\"></a>\n</div>"
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-gummy-bear\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
+  href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
+  alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
 ---
 
 Снюс FAFF Тропический микс — сухая порционная супер крепкая бестабачная смесь со вкусом апельсин-манго, крепость 100 мг. В банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм.
