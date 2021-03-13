@@ -23,11 +23,11 @@ form: Порционный, белый
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"faff
-  energy\"></a>\n\t<a href=\"/faff-cola\"><img style=\"width:32%\" class=\"img-fluid\"
-  src=\"/img/products/faff-cola.png\" alt=\"Фафф кола\"></a>\n\t<a href=\"/corvus-brutal\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/corvus-brutal-snus.jpg\"
-  alt=\"Корвус брутал\"></a>\n</div>"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-gummy-bear\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
+  href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
+  alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
 ---
 
 Снюс Faff Orange Soda — новый вкус газировки Fanta. Заявленная **крепость 150 мг**, в банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм.
