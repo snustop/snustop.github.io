@@ -22,13 +22,13 @@ taste: Red Bull
 form: Порционный, бело-розовые
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
-  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/siberia-white-dry-slim\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg\"
-  alt=\"Siberia White dry slim\"></a>\n\t<a href=\"/corvus-logan\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/covrus-logan-portion.jpg\" alt=\"Корвус
-  логан со вкусом дыни\"></a>\n\t<a href=\"/corvus-brutal\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/corvus/corvus-brutal-open-snus.jpg\" alt=\"Корвус
-  брутал\"></a>\n</div>"
+  и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-strawberry-cheesecake\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-chess.jpg\"
+  alt=\"faff клубничный чизкейк 75 mg\"></a>\n\t<a href=\"/faff-orange-soda\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\"
+  alt=\"faff orange soda 150 mg\"></a>\n\t<a href=\"/faff-pink-lemonade\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\" alt=\"Snus Faff
+  Lemonade 150 mg\"></a>\n</div>"
 ---
 
 Снюс Faff Energy - Бодрящий редбулл, **крепостью 75 мг**. Количество **порций 25-29**, порции тонкие слим бело-розового цвета.<br>
