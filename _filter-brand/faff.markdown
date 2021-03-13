@@ -12,7 +12,10 @@ link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/faff">
 layout: filter-brand
 ---
 
-Снюс Faff — очень крепкий снюс, крепость от <b>65 мг - до 150 мг</b> с различными вкусами, более 17 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата. Ниже в таблице представлены все позиции бренда Faff.
+Снюс Faff — очень крепкий снюс, крепость от <b>65 мг - до 150 мг</b> с различными вкусами, более 17 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата.
+<div class="popup-gallery">
+ <a href="/img/products/faff/open/faff-full-all.jpg" title="Faff в открытом виде, все вкусы"><img class="img-fluid" src="/img/products/faff/open/faff-full-all.jpg" alt="Снюс faff все вкусы"></a>
+</div>
 
 <table class="table table-sm simpleCart_shelfItem">
 	<caption>Таблица вкусов и крепости снюса Faff</caption>
