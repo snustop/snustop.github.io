@@ -34,6 +34,9 @@ similar-product_body: "<p>Вам могут понравится и другие
 <div class="mb-3">
 <img class="img-fluid" src="/img/products/faff/open/orange-soda.jpg" alt="Снюс FAFF Orange Soda 150 mg">
 </div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NTXkb_qVFpU" allowfullscreen></iframe>
+</div>
 Не забываем что у Faff более 17 различных вкусов: [смотреть всю линейку Faff](/faff).
 
 Данный продукт очень крепкий, многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Некоторые из продуктов сильно разъедают губу и десну.

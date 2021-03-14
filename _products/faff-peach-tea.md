@@ -1,38 +1,38 @@
 ---
-title: FAFF Melon Chill
-date: 2020-07-24 12:25:00 Z
-position: 54
-title-seo: "FAFF Melon Chill (Медовая дыня \U0001F348 ) 75 мг"
-descr: "Faff Медовая дыня \U0001F348 — очень крепкий снюс со вкусом Медовой дыни,
-  крепость 75 мг. В банке ±29 белых порций. Порции маленькие и тонкие."
-product-name: "FAFF Melon Chill \U0001F348"
-product-alt: FAFF Melon Chill
+title: Faff-peach-tea
+date: 2020-08-13 08:05:00 Z
+position: 23
+title-seo: Снюс Faff Peach tea 150 мг купить в Украине
+descr: FAFF Peach tea  — снюс со вкусом персикового чая, крепость 150 мг,  29 порций
+  белого цвета. Порции slim - удобно сидят под губой.
+product-name: FAFF Peach tea
+product-alt: FAFF Peach tea 150 mg
 strong: Очень крепкий
 brand: Faff
 composition: Белый
 price: 210
 opt-price: 189
-image: "/img/products/faff-melon-chill.png"
+image: "/img/products/faff-peach-tea.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
-nicotine: Заявлено 75
+nicotine: Заявлено 150
 portions: "±29"
-taste: Дыня
-form: Порционный, белый
+taste: Персиковый час
+form: Порционный, белый, slim
 composition-product: Неизвестно
 similar-product_body: "<p>Вам могут понравится и другие товары. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/faff-snus-energy\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-redbull.jpg\"
-  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-gummy-bear\"><img style=\"width:32%\"
-  class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
-  href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
-  alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+  alt=\"faff energy 75 mg\"></a>\n\t<a href=\"/faff-orange-soda\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\" alt=\"faff orange
+  soda 150 mg\"></a>\n\t<a href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/faff/faff-lemonade.jpg\" alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
 ---
 
-FAFF MELON CHILL 🍈 — это вкус, который будет радовать Вас своей неповторимой насыщенностью. Для тех кто хочет попробовать дыньки, но не хочет ждать августа. Медовая дыня FAFF — идеальный вариант на каждый день. В банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм. Крепость 100 мг.
+FAFF Peach Tea  — снюс со вкусом персикового чая, крепость **150 мг**, **25-29** порций белого цвета. Порции маленькие, вес каждой 0,6 грамм.
 <div class="mb-3">
-<img class="img-fluid" src="/img/products/faff/open/melon-chill.jpg" alt="Снюс faff MELON CHILL 100 mg">
+<img class="img-fluid" src="/img/products/faff/open/peach-tea.jpg" alt="Снюс FAFF Peach Tea 150 mg">
 </div>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NTXkb_qVFpU" allowfullscreen></iframe>
