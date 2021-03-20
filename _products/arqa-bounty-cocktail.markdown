@@ -1,7 +1,7 @@
 ---
 title: Arqa Bounty Cocktail
 date: 2020-09-10 13:27:00 Z
-position: 81
+position: 56
 title-seo: "Арка Баунти \U0001F965 | Снюс Arqa Cold Bounty Cocktail"
 descr: Снюс Arqa Bounty Cocktail – это бестабачная жевательная смесь с превосходным
   вкусом баунти. Крепость 70 мг. 20 порций. Жжение умеренное.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-bounty.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
