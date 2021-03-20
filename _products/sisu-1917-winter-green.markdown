@@ -11,11 +11,12 @@ product-alt: SISU 1917 Winter Green Super Strong
 strong: Крепкий
 brand: Other Brands
 composition: Dry
+stock-list: Акция
 price: 150
 opt-price: 135
 new-price: 130
 image: "/img/products/sisu-1917-fresh-wintergreen-vit-portion.png"
-availability-descr: Акция
+availability-descr: В наличии
 has_availability: true
 gramm: 14
 nicotine: 20
