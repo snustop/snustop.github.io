@@ -1,7 +1,7 @@
 ---
 title: mad fatality
 date: 2020-05-17 23:03:00 Z
-position: 65
+position: 16
 title-seo: снюс mad fatality 120mg
 descr: 'Снюс мэд фаталити 120 мг — считается самым крепкий сносом. В банке 20 порций,
   вкус: сладковатая мята с тонкими оттенками ежевики.'
@@ -13,8 +13,8 @@ stock-list: В наличии
 price: 210
 opt-price: 189
 image: "/img/products/mad-tatality.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 100
 portions: 20
