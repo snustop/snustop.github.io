@@ -1,5 +1,5 @@
 ---
-title: Электронки
+title: e-sigarety
 permalink: elektronnye-sigarety
 title-seo: Pod-система купить в Украине | Одноразовые электронные сигареты
 descr: Pod-система – мини-вейп, работающий на солевом никотине. Затяжек 300-1000.
