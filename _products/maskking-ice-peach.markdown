@@ -14,7 +14,7 @@ opt-price: 250
 image: "/img/products/pod/maskking-ice-peach.jpg"
 gramm: '3,5'
 nicotine: 20
-portions: до 1000 затяжек
+portions: до 1000 тяг
 taste: Ледяной персик
 form: Одноразовая электронная сигарета
 composition-product: Пищевой пропиленгликоль, растительный глицерин, ароматизатор,
