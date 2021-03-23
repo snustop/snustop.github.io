@@ -8,7 +8,7 @@ product-name: Corvus Pod различные вкусы
 product-alt: Corvus Pod  одноразовая электронная сигарета
 strong: Крепкий
 brand: Other Brands
-composition: Электронки
+composition: e-sigarety
 price: 200
 image: "/img/products/pod/corvus-pod.jpg"
 has_availability: true
