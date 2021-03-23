@@ -2,7 +2,8 @@
 title: maskking-ice-peach
 date: 2021-03-23 12:41:00 Z
 title-seo: "Maskking pro Pod 1000 затяжек Ледяной персик \U0001F351"
-descr: 'Pod Maskking Pro ледяной персик на 1000 затяжек. Крепость 20мг/мл. '
+descr: Pod Maskking Pro ледяной персик на 1000 затяжек. Крепость 20мг/мл. Встроенный
+  датчик затяжки.  Аккумулятор на 650мАч.
 product-name: "Pod Maskking Pro ледяной персик\U0001F351"
 product-alt: электронная сигарета Maskking High Pro ледяной персик
 strong: Крепкий
