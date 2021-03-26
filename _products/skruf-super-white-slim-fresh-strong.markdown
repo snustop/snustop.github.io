@@ -13,7 +13,7 @@ composition: Белый
 price: 215
 opt-price: 194
 image: "/img/products/skruf-super-white-fresh-no4.png"
-availability-descr: Уточняйте (есть просрочка)
+availability-descr: Под заказ
 has_availability: false
 gramm: 17.6
 nicotine: 18
