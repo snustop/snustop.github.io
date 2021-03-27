@@ -1,7 +1,7 @@
 ---
 title: ettan-white
 date: 2020-05-27 11:21:00 Z
-position: 83
+position: 32
 title-seo: Ettan White Portion Snus купить в Украине
 descr: Это классический снюс с чистым вкусом табака и нотками черного шоколада. Вкус
   имеет идеальный баланс сладости, соли, и горечи. В банке 24 порции.
@@ -12,8 +12,8 @@ brand: Swedish Match
 price: 210
 opt-price: 189
 image: "/img/products/ettan-white.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 8
 portions: 24
