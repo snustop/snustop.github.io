@@ -1,7 +1,7 @@
 ---
 title: Zyn Slim Deep Freeze
 date: 2020-09-30 23:38:00 Z
-position: 94
+position: 7
 title-seo: ZYN Slim Deep Freeze ❄️
 descr: Снюс ZYN Deep Freeze — очень крепкий белый снюс с эффектом охлаждения ❄️. В
   банке 24 порции белого цвета, крепость 16 мг никотина, но ощущается значительно
@@ -13,8 +13,8 @@ brand: Swedish Match
 composition: Белый
 price: 220
 image: "/img/products/zyn-deep-freeze.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 19.2
 nicotine: 16
 portions: 24
