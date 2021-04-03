@@ -1,7 +1,7 @@
 ---
 title: LYFT Ruby Berry
 date: 2020-06-27 12:57:00 Z
-position: 14
+position: 13
 title-seo: "LYFT Ruby Berry\U0001F353  белый снюс"
 descr: "Белый снюс Lyft c превосходным вкусом клубники \U0001F353. Средняя крепость
   8 мг, 24 порции слим. Аромат длится 40-50 минут."
