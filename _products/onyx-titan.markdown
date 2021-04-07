@@ -1,7 +1,7 @@
 ---
 title: onyx-titan
 date: 2021-02-16 11:11:00 Z
-position: 103
+position: 37
 title-seo: General ONYX Titan Черный порции
 descr: Onyx Titan — премиальный шведский снюс в черных мешочках. Вкус табачный. Крепость
   12 мг.  В банке 24 аккуратно выложенных .
@@ -12,8 +12,8 @@ brand: Swedish Match
 composition: Оригинальный
 price: 225
 image: "/img/products/onyx/onyx-titan.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 21.6
 nicotine: 12
 portions: 24
