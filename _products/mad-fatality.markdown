@@ -13,8 +13,8 @@ stock-list: В наличии
 price: 210
 opt-price: 189
 image: "/img/products/mad-tatality.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 100
 portions: 20
