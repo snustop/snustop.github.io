@@ -13,8 +13,8 @@ composition: Белый
 price: 230
 opt-price: 210
 image: "/img/products/lyft-purple-royal.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 10
 nicotine: 12
 portions: 20
