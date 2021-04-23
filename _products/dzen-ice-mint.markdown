@@ -10,6 +10,8 @@ product-alt: Снюс Dzen ice Mint
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
+new-price: 185
 image: "/img/products/dzen/dzen-mint.jpg"
 availability-descr: В наличии
 has_availability: true
