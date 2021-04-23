@@ -1,7 +1,7 @@
 ---
 title: kasta-ehnergetik
 date: 2020-11-21 22:54:00 Z
-position: 151
+position: 152
 title-seo: Kasta Энергетик 101 мг
 descr: Снюс Kasta Энергетик — это очень крепкая безтабачная смесь со вкусом напитка
   redbull. Крепость 101 мг, в банке 20 белых порций.

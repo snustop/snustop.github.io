@@ -1,7 +1,7 @@
 ---
 title: chn-menthol-strong
 date: 2020-04-20 11:26:00 Z
-position: 191
+position: 24
 title-seo: Снюс CHN Strong Mentol
 descr: Снюс CHN Strong Mentol — крепкая бестабачная жевательная смесь от Corvus. Крепость
   45 мг, ±29 порций. Порции slim all white.
@@ -14,8 +14,8 @@ stock-list: В наличии
 price: 220
 opt-price: 198
 image: "/img/products/chn-strong.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 45
 portions: "±28"
