@@ -1,7 +1,7 @@
 ---
 title: Arqa Caramel ice cream
 date: 2020-09-10 13:27:00 Z
-position: 37
+position: 78
 title-seo: Снюс Arqa Caramel Ice Cream
 descr: Снюс Arqa Caramel Ice Cream – это бестабачная жевательная смесь с вкусом карамельного
   мороженого. Крепость 70 мг. 20 порций. Жжение умеренное.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-caramel.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается (можно под заказ)
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
