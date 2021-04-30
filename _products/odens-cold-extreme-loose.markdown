@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 220
 opt-price: 200
 image: "/img/products/odens-cold-extreme-loose.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 40
 nicotine: 22
 portions: "-"
