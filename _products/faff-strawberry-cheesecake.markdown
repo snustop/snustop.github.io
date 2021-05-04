@@ -1,7 +1,7 @@
 ---
 title: FAFF Strawberry Cheesecake
 date: 2020-07-24 11:34:00 Z
-position: 54
+position: 74
 title-seo: Снюс FAFF Strawberry Cheesecake (Клубничный чизкейк)
 descr: Снюс FAFF Strawberry Cheesecake — крепость 75 мг, в банке ±29 темно-розовые
   порций, порции тоненькие и маленькие. Вкус на любителя.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-strawberry-cheesecake.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
