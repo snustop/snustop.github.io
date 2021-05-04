@@ -1,7 +1,7 @@
 ---
 title: White Fox Double Mint All White
 date: 2021-02-10 21:00:00 Z
-position: 73
+position: 72
 title-seo: White Fox Double mint
 descr: |-
   White Fox — белый снюс, крепость 17 мг никотина, вкус мята с ментолом. Аромат и никотиновый удар длится очень долго.
