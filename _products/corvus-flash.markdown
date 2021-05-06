@@ -1,7 +1,7 @@
 ---
 title: corvus-flash
 date: 2019-10-31 10:25:00 Z
-position: 24
+position: 51
 title-seo: "Corvus Flash \U0001F34A снюс купить в Украине"
 descr: "Corvus Flash со вкусом апельсина \U0001F34A. Крепость 50 мг, ±29 порций. Порции
    очень маленькие и тонкие, цвет пакетов оранжевый. "
@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-flash.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 50
 portions: "±29"
