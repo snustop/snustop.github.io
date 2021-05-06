@@ -10,6 +10,7 @@ product-alt: White Fox Slim All White Portion Snus
 strong: Крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 210
 opt-price: 189
 new-price: 160
