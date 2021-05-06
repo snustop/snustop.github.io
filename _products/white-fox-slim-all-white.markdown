@@ -12,9 +12,10 @@ brand: Other Brands
 composition: Белый
 price: 210
 opt-price: 189
+new-price: 160
 image: "/img/products/white-fox-all-white-portion-snus.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 17
 portions: 20
