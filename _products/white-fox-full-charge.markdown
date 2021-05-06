@@ -12,6 +12,7 @@ brand: Other Brands
 composition: Белый
 price: 210
 opt-price: 167
+new-price: 160
 image: "/img/products/white-fox-full-charge.png"
 availability-descr: В наличии
 has_availability: true
