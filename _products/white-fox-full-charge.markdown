@@ -10,6 +10,7 @@ product-alt: White Fox Full Charge All White Snus
 strong: Крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 210
 opt-price: 167
 new-price: 160
