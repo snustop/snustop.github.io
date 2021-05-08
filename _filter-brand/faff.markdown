@@ -3,7 +3,7 @@ title: Faff
 date: 2020-07-23 14:49:00 Z
 permalink: "/faff"
 title-seo: Снюс Faff — очень крепкий снюс
-descr: Снюс Faff. Крепость от 65 мг - до 150 мг с различными вкусами (фанта, спрайт,
+descr: Снюс Faff. Крепость от 75 мг - до 150 мг с различными вкусами (фанта, спрайт,
   черная смородина, клубничный чизкейк, малина, двойное яблоко и много других вкусов.
 keywords: faff, фафф
 filter-name-h2: Faff Снюс
@@ -12,7 +12,7 @@ link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/faff">
 layout: filter-brand
 ---
 
-Снюс Faff — очень крепкий снюс, крепость от <b>65 мг - до 150 мг</b> с различными вкусами, более 18 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата.
+Снюс Faff — очень крепкий снюс, крепость от <b>75 мг - до 150 мг</b> с различными вкусами, более 18 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата.
 <div class="popup-gallery d-flex mb-3">
  <a class="mr-2" href="/img/products/faff/open/faff-full-all.jpg" title="Faff в открытом виде, все вкусы"><img class="img-fluid" src="/img/products/faff/open/faff-full-all.jpg" alt="Снюс faff все вкусы"></a>
  <a href="/img/products/faff/open/faff-all-snus.jpg" title="Faff все вкусы"><img class="img-fluid" src="/img/products/faff/open/faff-all-snus.jpg" alt="Снюс фафф все виды"></a>
@@ -144,31 +144,31 @@ layout: filter-brand
 		<tr>
 			<td><a href="/faff-strawberry"><img style="width: 40px" src="/img/products/faff-strawberry.png" alt="FAFF STRAWBERRY"></a></td>
 			<td><a href="/faff-strawberry">FAFF STRAWBERRY</a></td>
-			<td>65</td>
+			<td>75</td>
 			<td>Клубничная жвачка</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-pina-colada"><img style="width: 40px" src="/img/products/faff-pina-colada.png" alt="FAFF PINA COLADA"></a></td>
 			<td><a href="/faff-pina-colada">FAFF PINA COLADA</a></td>
-			<td>65</td>
+			<td>75</td>
 			<td>Кокос-ананас</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-raspberry"><img style="width: 40px" src="/img/products/faff-raspberry.png" alt="FAFF RASPBERRY"></a></td>
 			<td><a href="/faff-raspberry">FAFF RASPBERRY</a></td>
-			<td>65</td>
+			<td>75</td>
 			<td>Малина</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-double-apple"><img style="width: 40px" src="/img/products/faff-double-apple.png" alt="FAFF Double-Apple"></a></td>
 			<td><a href="/faff-double-apple">FAFF Double-Apple</a></td>
-			<td>65</td>
+			<td>75</td>
 			<td>яблоко</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-mint"><img style="width: 40px" src="/img/products/faff-mint.jpg" alt="FAFF Spearmint"></a></td>
 			<td><a href="/faff-mint">FAFF Spearmint</a></td>
-			<td>65</td>
+			<td>75</td>
 			<td>Сладкая мята</td>
 		</tr>
 		<tr>
