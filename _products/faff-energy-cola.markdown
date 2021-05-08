@@ -13,7 +13,7 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-energy-cola.png"
-availability-descr: Заканчивается
+availability-descr: В наличии
 has_availability: true
 gramm: "-"
 nicotine: Заявлено 150
