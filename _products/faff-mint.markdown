@@ -4,7 +4,7 @@ date: 2020-07-24 12:41:00 Z
 position: 56
 title-seo: Снюс FAFF Spearmint (сладкая мята)
 descr: Снюс FAFF Spearmint со вкусом сладкой мяты. В банке ±29 порций белого цвета,
-  крепость 75 мг. Порции слим.
+  крепость 65 мг. Порции слим.
 product-name: FAFF Spearmint
 product-alt: FAFF Spearmint
 strong: Очень крепкий
@@ -16,7 +16,7 @@ image: "/img/products/faff-mint.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
-nicotine: 75
+nicotine: 65
 portions: "±29"
 taste: Мята
 form: Порционный, белый
@@ -30,9 +30,9 @@ similar-product_body: "<p>Вам могут понравится и другие
   src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
 ---
 
-Снюс FAFF Spearmint — бестабачная жевательная смесь со вкусом <b>сладкой мяты</b>. Крепость <b>75 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета.
+Снюс FAFF Spearmint — бестабачная жевательная смесь со вкусом <b>сладкой мяты</b>. Крепость <b>65 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета.
 <div class="mb-3">
-<img class="img-fluid" src="/img/products/faff/open/spearmint.jpg" alt="Снюс FAFF Spearmint 75 mg">
+<img class="img-fluid" src="/img/products/faff/open/spearmint.jpg" alt="Снюс FAFF Spearmint 65 mg">
 </div>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NTXkb_qVFpU" allowfullscreen></iframe>
