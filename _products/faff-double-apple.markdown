@@ -4,7 +4,7 @@ date: 2020-07-24 12:41:00 Z
 position: 54
 title-seo: Снюс FAFF Double-Apple (кисло-сладкое яблоко)
 descr: Снюс FAFF Double-Apple со вкусом кисло-сладкого яблока. В банке ±29 порций
-  белого цвета, крепость 65 мг. Порции слим.
+  белого цвета, крепость 75 мг. Порции слим.
 product-name: FAFF Double-Apple
 product-alt: FAFF Double-Apple
 strong: Очень крепкий
@@ -16,7 +16,7 @@ image: "/img/products/faff-double-apple.png"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
-nicotine: 65
+nicotine: 75
 portions: "±29"
 taste: Кисло-сладкое яблоко
 form: Порционный, белый
@@ -30,9 +30,9 @@ similar-product_body: "<p>Вам могут понравится и другие
   src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
 ---
 
-Снюс FAFF Double-Apple — бестабачная жевательная смесь со вкусом <b>кисло-сладкого яблока</b>. Крепость <b>65 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
+Снюс FAFF Double-Apple — бестабачная жевательная смесь со вкусом <b>кисло-сладкого яблока</b>. Крепость <b>75 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
 <div class="mb-3">
-<img class="img-fluid" src="/img/products/faff/open/double-apple.jpg" alt="Снюс faff двойное яблоко 65 mg">
+<img class="img-fluid" src="/img/products/faff/open/double-apple.jpg" alt="Снюс faff двойное яблоко 75 mg">
 </div>
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NTXkb_qVFpU" allowfullscreen></iframe>
