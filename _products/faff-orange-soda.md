@@ -1,7 +1,7 @@
 ---
 title: faff-orange-soda
 date: 2021-03-10 21:10:00 Z
-position: 54
+position: 27
 title-seo: Снюс Faff Orange Soda (Fanta) 150 мг купить в Украине
 descr: Faff Orange Soda (Fanta) — очень крепкий снюс, заявлено 150 мг никотина. В
   банке ±30 белых порций. Порции слим.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-orange-soda.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: "±29"
