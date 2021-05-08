@@ -12,7 +12,7 @@ link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/faff">
 layout: filter-brand
 ---
 
-Снюс Faff — очень крепкий снюс, крепость от <b>75 мг - до 150 мг</b> с различными вкусами, более 18 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата.
+Снюс Faff — очень крепкий снюс, крепость от <b>65 мг - до 150 мг</b> с различными вкусами, более 18 вкусов. Порции практически везде белого цвета, в банке <b>25-29 порций</b> slim формата.
 <div class="popup-gallery d-flex mb-3">
  <a class="mr-2" href="/img/products/faff/open/faff-full-all.jpg" title="Faff в открытом виде, все вкусы"><img class="img-fluid" src="/img/products/faff/open/faff-full-all.jpg" alt="Снюс faff все вкусы"></a>
  <a href="/img/products/faff/open/faff-all-snus.jpg" title="Faff все вкусы"><img class="img-fluid" src="/img/products/faff/open/faff-all-snus.jpg" alt="Снюс фафф все виды"></a>
@@ -38,6 +38,11 @@ layout: filter-brand
 			<td><a href="/faff-energy-cola">Faff Energy Cola</a></td>
 			<td>150</td>
 			<td>Red Bull + Cola</td>
+		</tr><tr>
+			<td><a href="/faff-waffles"><img style="width: 40px" src="/img/products/faff-waffles.jpg" alt="Faff фавли"></a></td>
+			<td><a href="/faff-waffles">Faff WAFFLES</a></td>
+			<td>150</td>
+			<td>Сливочные фавли</td>
 		</tr>
 		<tr>
 			<td><a href="/faff-top-gum"><img style="width: 40px" src="/img/products/faff-top-gum.png" alt="Faff top gum"></a></td>
@@ -168,7 +173,7 @@ layout: filter-brand
 		<tr>
 			<td><a href="/faff-mint"><img style="width: 40px" src="/img/products/faff-mint.jpg" alt="FAFF Spearmint"></a></td>
 			<td><a href="/faff-mint">FAFF Spearmint</a></td>
-			<td>75</td>
+			<td>65</td>
 			<td>Сладкая мята</td>
 		</tr>
 		<tr>
