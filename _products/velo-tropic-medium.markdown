@@ -10,7 +10,7 @@ strong: Низкой крепости
 brand: Other Brands
 composition: Белый
 stock-list: Акция
-price: 198
+price: 199
 image: "/img/products/velo-tropic-3cans.png"
 availability-descr: В наличии
 has_availability: true
