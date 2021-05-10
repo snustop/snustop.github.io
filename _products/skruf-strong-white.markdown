@@ -1,7 +1,7 @@
 ---
 title: Skruf Strong White
 date: 2019-03-29 21:39:00 Z
-position: 211
+position: 212
 title-seo: Skruf Strong White snus buy in Ukraine
 product-name: Skruf Strong White
 product-alt: Skruf Strong White snus
