@@ -1,7 +1,7 @@
 ---
 title: Faff pina colada
 date: 2020-07-24 12:41:00 Z
-position: 60
+position: 61
 title-seo: Снюс FAFF PINA COLADA
 descr: Снюс FAFF Коктейль с кокосом и ананасом. В банке ±29 порций белого цвета, крепость
   75 мг. Порции слим.
