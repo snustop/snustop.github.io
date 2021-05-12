@@ -23,7 +23,7 @@ composition-product: Вода, соль, волокна эвкалипта и с
   поваренная сода, пищевой ароматизатор.
 similar-product_body: "<p>Похожи по крепости и цвету пакетиков. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/lyft-ruby-berry\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/img/products/lyft-ruby-berry-slim-all-white.jpg\"
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ruby-berry-slim-all-white.jpg\"
   alt=\"Лифт клубника\"></a>\n\t<a href=\"/g-dot-4-fizzy-slim-all-white-portion\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"img/products/g4-fizzy-slim-all-white.png\"
   alt=\"G4 персик\"></a>\n\t<a href=\"/lyft-tropic-breeze-slim-all-white\"><img style=\"width:32%\"
