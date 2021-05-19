@@ -1,7 +1,7 @@
 ---
 title: siberia-white-dry-slim-black
 date: 2021-05-10 10:11:00 Z
-position: 68
+position: 66
 title-seo: Siberia Black White dry slim | Черная сибирь слим
 descr: "Черная сибирь слим White dry — крепость 43 мг, порции серого цвета, классический
   табачный вкус табака\U0001F1F8\U0001F1EA. Порций 19-22."
