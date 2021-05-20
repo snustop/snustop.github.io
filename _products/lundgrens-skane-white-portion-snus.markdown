@@ -9,8 +9,10 @@ product-name: Lundgrens Skane White
 product-alt: Lundgrens Skane White Portion Snus
 strong: Низкой крепости
 brand: Other Brands
+stock-list: Акция
 price: 185
 opt-price: 167
+new-price: 170
 image: "/img/products/lundgrens-white.jpg"
 availability-descr: В наличии
 has_availability: true
