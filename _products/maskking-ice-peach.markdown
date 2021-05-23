@@ -13,8 +13,8 @@ composition: e-sigarety
 price: 310
 opt-price: 250
 image: "/img/products/pod/maskking-ice-peach.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
