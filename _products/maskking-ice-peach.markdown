@@ -10,8 +10,10 @@ product-alt: электронная сигарета Maskking High Pro ледя�
 strong: Крепкий
 brand: Other Brands
 composition: e-sigarety
+stock-list: Акция
 price: 310
 opt-price: 250
+new-price: 259
 image: "/img/products/pod/maskking-ice-peach.jpg"
 availability-descr: В наличии
 has_availability: true
