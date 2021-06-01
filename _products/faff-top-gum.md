@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-top-gum.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается на днях
+has_availability: false
 gramm: "-"
 nicotine: Заявлено 150
 portions: "±29"
