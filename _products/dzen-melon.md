@@ -1,7 +1,7 @@
 ---
 title: dzen-melon
 date: 2020-10-01 20:31:00 Z
-position: 8
+position: 5
 title-seo: "Снюс Dzen Melon \U0001F348"
 descr: Снюс дзен с освежающим вкусом дыни. Крепость 50 мг никотина, 25 порций. Порции
   slim - удобно сидят под губой. Никотиновый удар очень сильный.
@@ -10,7 +10,9 @@ product-alt: Снюс Dzen Melon
 strong: Очень крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 200
+new-price: 180
 image: "/img/products/dzen/dzen-melon.jpg"
 availability-descr: В наличии
 has_availability: true
