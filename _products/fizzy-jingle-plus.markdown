@@ -1,6 +1,7 @@
 ---
 title: fizzy-jungle-plus
 date: 2021-06-05 07:12:00 Z
+position: 9
 title-seo: "Одноразки Fizzi Jungle Plus 700 тяг\U0001F525"
 descr: Одноразовые электронные сигареты Fizzy Puff Plus Jungle на 700 затяжек. Более
   30 вкусов. 5% никотина.
