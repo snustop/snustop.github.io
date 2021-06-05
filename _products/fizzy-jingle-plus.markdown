@@ -1,7 +1,7 @@
 ---
-title: fizzy-jingle-plus
+title: fizzy-jungle-plus
 date: 2021-06-05 07:12:00 Z
-title-seo: Одноразки Fizzi Jingle Plus 700 тяг
+title-seo: Одноразки Fizzi Jungle Plus 700 тяг
 descr: Одноразовые электронные сигареты Fizzy Puff Plus Jungle на 700 затяжек. Более
   30 вкусов. 5% никотина.
 product-name: Одноразки Fizzi 700 тяг 22 вкуса
@@ -10,6 +10,7 @@ strong: Крепкий
 brand: Other Brands
 composition: e-sigarety
 price: 200
+image: "/img/products/pod/fizzy/fizzy-jungle-plus.jpg"
 availability-descr: В наличии
 nicotine: 5%
 portions: 700 тяг
@@ -19,7 +20,7 @@ composition-product: Пищевой пропиленгликоль, растит
   никотин
 ---
 
-Одноразка Fizzi Jingle Plus на 700 тяг. 
+Одноразка Fizzi Jungle Plus на 700 тяг. 
 Физзи - лучшее соотношение цены и качества, очень надежные, они дольше служат, не подтекают, имеют хороший насыщенный вкус.
 Представлено более 22 вкусов:
 <ul>
