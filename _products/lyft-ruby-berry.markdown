@@ -20,7 +20,7 @@ nicotine: 8
 portions: 24
 taste: "Ягоды, Клубника \U0001F353"
 form: Порционный, белый, Slim
-composition-product: Пищевые волокна, ароматизатор, вода
+composition-product: Пищевые волокна, ароматизатор, вода, никотин
 similar-product_body: "<p>Похожи по крепости и цвету пакетиков. <small>Жмите на картинки
   и читайте полное описание</small></p>\n<div>\n\t<a href=\"/lyft-strong-lime-slim-all-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-lime-strong-slim-all-white-portion.png\"
