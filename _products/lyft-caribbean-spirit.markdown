@@ -1,7 +1,7 @@
 ---
 title: Lyft-caribbean-spirit
 date: 2021-05-12 11:36:00 Z
-position: 65
+position: 64
 title-seo: "LYFT Caribbean Spirit Slim Strong Snus \U0001F379\U0001F34D\U0001F965"
 descr: "LYFT Caribbean Spirit — белые порции с превосходным вкусом Pina colada \U0001F379\U0001F34D\U0001F965.
   В банке 24 белые порции Slim формата, крепость 14 мг. Не содержит табака."
