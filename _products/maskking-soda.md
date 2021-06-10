@@ -1,7 +1,7 @@
 ---
 title: maskking-soda
 date: 2021-03-23 12:41:00 Z
-position: 40
+position: 93
 title-seo: Maskking pro Pod 1000 затяжек сладкая лимонная содовая
 descr: Pod Maskking Pro со вкусом сладко-лимонного напитка на 1000 затяжек. Крепость
   20мг/мл. Встроенный датчик затяжки.  Аккумулятор на 650мАч.
@@ -13,6 +13,8 @@ composition: e-sigarety
 price: 310
 opt-price: 250
 image: "/img/products/pod/maskking-soda.jpg"
+availability-descr: Под заказ
+has_availability: false
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
