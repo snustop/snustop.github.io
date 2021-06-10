@@ -14,8 +14,8 @@ stock-list: Акция
 price: 775
 opt-price: 775
 image: "/img/products/thunder-5cans.png"
-availability-descr: Акция закончилась
-has_availability: false
+availability-descr: Акция
+has_availability: true
 gramm: 15.4
 nicotine: 45
 portions: 22
@@ -32,7 +32,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 ---
 
 Снюс бренда "Thunder" из серии "X" чрезвычайно крепкий.<br>
-Акция на Thunder X slim, 5 банок за 775 грн (банка выходит 155 грн + бесплатная доставка). С ней все в порядке, просто многие просили акцию именно на Thunder, акция длится до включительно 31 декабря.
+Акция на Thunder X slim, 5 банок за 775 грн (банка выходит 155 грн + бесплатная доставка). С ней все в порядке, просто многие просили акцию именно на Thunder, акция длится до включительно 31 июня.
 
 В банке 22 порции slim серого цвета. Очень качественный снюс, натуральный табачный вкус с нотками мяты. Подойдет любителям крепких табаков.
 <div class="embed-responsive embed-responsive-16by9 mb-3">
