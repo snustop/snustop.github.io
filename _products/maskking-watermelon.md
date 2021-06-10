@@ -1,7 +1,7 @@
 ---
 title: maskking-watermelon
 date: 2021-03-23 12:41:00 Z
-position: 14
+position: 81
 title-seo: "Maskking pro Pod 1000 затяжек Арбуз \U0001F349"
 descr: "Pod Maskking Pro со вкусом спелого арбуза \U0001F349 на 1000 затяжек. Крепость
   20мг/мл. Встроенный датчик затяжки.  Аккумулятор на 650мАч."
@@ -15,6 +15,8 @@ price: 310
 opt-price: 250
 new-price: 259
 image: "/img/products/pod/maskking-watermelon.jpg"
+availability-descr: Ожидается
+has_availability: false
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
