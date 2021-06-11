@@ -10,10 +10,12 @@ product-alt: Одноразки Fizzi Jingle Plus 700 тяг
 strong: Крепкий
 brand: Other Brands
 composition: e-sigarety
+stock-list: Лучший выбор
 price: 215
 image: "/img/products/pod/fizzy/fizzy-jungle-plus.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
+gramm: "-"
 nicotine: 5%
 portions: 700 тяг
 taste: Разные
