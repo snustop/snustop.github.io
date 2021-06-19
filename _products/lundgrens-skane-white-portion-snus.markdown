@@ -1,7 +1,7 @@
 ---
 title: Lundgrens Skane White Portion Snus
 date: 2020-05-03 08:43:00 Z
-position: 61
+position: 82
 title-seo: Lundgrens Skane White Portion Snus в Украине
 descr: Снюс с богатым табачным вкусом и нотками лесных ягод. Очень популярный в Швеции.
   Перфорированные порции, которые быстро выпускают аромат. 24 порции в банке.
@@ -9,12 +9,11 @@ product-name: Lundgrens Skane White
 product-alt: Lundgrens Skane White Portion Snus
 strong: Низкой крепости
 brand: Other Brands
-stock-list: Акция
 price: 185
 opt-price: 167
 image: "/img/products/lundgrens-white.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,2'
 nicotine: 8
 portions: 24
