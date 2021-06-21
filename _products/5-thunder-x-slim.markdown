@@ -8,7 +8,7 @@ descr: Очень крепкий снюс Тандер х слим по акци
 product-name: 5 банок тандер х 45 мг
 product-alt: 5 банок thunder x slim 45 mg
 strong: Очень крепкий
-brand: Thunder
+brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 775

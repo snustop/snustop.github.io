@@ -8,7 +8,7 @@ descr: Красная сибирь 5 банок по акции, цена за �
 product-name: 5 банок красной сибири 45 мг
 product-alt: Красная сибирь 5 банок
 strong: Очень крепкий
-brand: Siberia
+brand: Other Brands
 composition: Dry
 price: 750
 opt-price: "-"

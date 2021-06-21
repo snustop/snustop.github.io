@@ -8,7 +8,7 @@ descr: Купить 5 банок красной сибири за 850 грн п�
 product-name: 5 банок Сибири слим
 product-alt: 5 банок красной сибири слим
 strong: Очень крепкий
-brand: Siberia
+brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 850
