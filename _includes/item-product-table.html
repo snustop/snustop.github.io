@@ -1,0 +1,20 @@
+<tr class="simpleCart_shelfItem">
+	<td><a href="{{product.url | replace:'.php','' }}"><img class="item_thumb" style="width: 40px" src="{{ product.image }}" alt="{{ product.product-alt }}"></a></td>
+	<td><a class="item_name" href="{{product.url | replace:'.php','' }}">{{product.product-name | truncate: 75}}</a></td>
+	<td>{{product.nicotine}}</td>
+	<td class="item_price">
+		{% if product.new-price %}
+			{{product.new-price}}
+			{% else %}	
+			{{product.price}}
+		{% endif %}
+	</td>
+	<td><span class="product-btn">
+		{% if product.has_availability == false %}								
+										<a href="#" class="btn btn-secondary disabled rounded-0" role="button" aria-disabled="true">Нет</a>
+										{% else %}
+											<a class="btn-cart item_add text-center" href="javascript:;"><i class="icon-basket"></i></a>
+										{% endif %}
+	</span></td>
+	<td class="item_link d-none">{{product.url | replace:'.php','' }}</td>
+</tr>
