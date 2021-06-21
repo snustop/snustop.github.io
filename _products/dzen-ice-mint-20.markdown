@@ -8,7 +8,7 @@ descr: Снюс дзен с освежающим вкусом мяты. Креп
 product-name: "Dzen сладкая мята \U0001F343 20 мг"
 product-alt: Снюс Dzen ice Mint 20 mg
 strong: Крепкий
-brand: Other Brands
+brand: Dzen
 composition: Белый
 price: 190
 opt-price: 175
@@ -38,47 +38,33 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 
 Есть и другие представители:
 <table class="table table-sm">
-	<caption>Таблица вкусов и крепости снюса Dzen</caption>
+	<caption>Таблица вкусов и крепости {{page.filter-brand-list}}</caption>
 	<thead>
 		<tr>
 			<th scope="col">img</th>
 			<th scope="col">Название</th>
-			<th scope="col">мг</th>
-			<th scope="col">Вкус</th>
+			<th scope="col">mg</th>
+			<th scope="col">грн</th>
+			<th scope="col"></th>
 		</tr>
 	</thead>
 	<tbody>
-		<tr>
-			<td><a href="/dzen-ice-mint"><img style="width: 40px" src="/img/products/dzen/dzen-mint.jpg" alt="Dzen Mint"></a></td>
-			<td><a href="/dzen-ice-mint">Dzen mint</a></td>
-			<td>50</td>
-			<td>🍃 Освежающая мята</td>
-		</tr>
-		<tr>
-			<td><a href="/dzen-melon"><img style="width: 40px" src="/img/products/dzen/dzen-melon.jpg" alt="Dzen Melon"></a></td>
-			<td><a href="/dzen-melon">Dzen Melon</a></td>
-			<td>50</td>
-			<td>🍈 Спелая дыня</td>
-		</tr>
-		<tr>
-			<td><a href="/dzen-wild-berries"><img style="width: 40px" src="/img/products/dzen/dzen-wild-berries.jpg" alt="Dzen Wild Berries"></a></td>
-			<td><a href="/dzen-wild-berries">Wild Berries</a></td>
-			<td>50</td>
-			<td>🍇 Сочные ягоды</td>
-		</tr>
-		<tr>
-			<td><a href="/dzen-pina-colada"><img style="width: 40px" src="/img/products/dzen/dzen-pina-colada.jpg" alt="Dzen Pina Colada"></a></td>
-			<td><a href="/dzen-pina-colada">Pina Colada</a></td>
-			<td>50</td>
-			<td>🍹 Ананас с кокосом</td>
-		</tr>
-		<tr>
-			<td><a href="/dzen-ice-mint-20"><img style="width: 40px" src="/img/products/dzen/dzen-mint.jpg" alt="Dzen Mint"></a></td>
-			<td><a href="/dzen-ice-mint-20">Dzen mint</a></td>
-			<td>20</td>
-			<td>🍃 Освежающая мята</td>
-		</tr>
+		<!-- сразу вывводим то что в наличии product.has_availability == true START-->
+		{% assign sorted_items = site.products | sort: "position-brand" | where: "brand", "Dzen" %}
+		{% for product in sorted_items %}
+
+		{% if product.has_availability == true %}
+		{% include item-product-table.html %}
+		{% endif %}
+
+		{% endfor %}
+		<!-- сразу вывводим то что в наличии product.has_availability == true END-->
+
+		<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
+
+		<!--  вывводим то чего нет в наличии product.has_availability == false END-->
 	</tbody>
+
 </table>
 
 Похож на синий лифт, но больше сладости и меньше соли.<br>
