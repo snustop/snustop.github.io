@@ -1,8 +1,9 @@
 ---
 title: Odens
 permalink: odens
-title-seo: Odens Snus | Купить в Украине
-descr: Оденс снюс купить в Украине
+title-seo: Odens Snus | Снюс Оденс Купить в Украине
+descr: "Снюс Оденс - шведский снюс\U0001F1F8\U0001F1EA. Odens Col dry - самый яркий
+  представитель данного бренда. Крепкий снюс Odens купить в Украине"
 keywords: снюс, odens, оденс
 filter-name-h2: Odens Snus
 filter-brand-list: Odens
