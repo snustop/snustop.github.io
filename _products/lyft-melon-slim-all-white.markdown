@@ -5,7 +5,7 @@ position: 209
 title-seo: LYFT Melon Slim All White | купить снюс Лифт со вкусом Дыни
 descr: Снюс Лифт с приятным вкусом Дыни. Не содержит табак, но содержит никотин. 24
   белых порций. Крепость 8 мг, это слабее чем мятный Лифт.
-product-name: LYFT Melon Slim All White
+product-name: LYFT Melon
 product-alt: LYFT Melon Slim All White Snus
 strong: Низкой крепости
 brand: Lyft
