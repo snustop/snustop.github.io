@@ -36,36 +36,5 @@ similar-product_body: "<p>Похожие товары: <small>Жмите на к
 Порции длинные и тонкие (очень удобные), белые и немного влажные, не содержат табака, вместо него используется волокна целлюлозы. Пакетики очень плотно набиты содержимым, что обеспечивает плавный и длительный никотиновый удар. В банке **±25 порций**.<br>
 **Крепость 20 мг**
 
-Есть и другие представители:
-<table class="table table-sm">
-	<caption>Таблица вкусов и крепости {{page.filter-brand-list}}</caption>
-	<thead>
-		<tr>
-			<th scope="col">img</th>
-			<th scope="col">Название</th>
-			<th scope="col">mg</th>
-			<th scope="col">грн</th>
-			<th scope="col"></th>
-		</tr>
-	</thead>
-	<tbody>
-		<!-- сразу вывводим то что в наличии product.has_availability == true START-->
-		{% assign sorted_items = site.products | sort: "position-brand" | where: "brand", "Dzen" %}
-		{% for product in sorted_items %}
-
-		{% if product.has_availability == true %}
-		{% include item-product-table.html %}
-		{% endif %}
-
-		{% endfor %}
-		<!-- сразу вывводим то что в наличии product.has_availability == true END-->
-
-		<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
-
-		<!--  вывводим то чего нет в наличии product.has_availability == false END-->
-	</tbody>
-
-</table>
-
 Похож на синий лифт, но больше сладости и меньше соли.<br>
 Весь никотин равномерно распределён по пакету и работает плавно.
