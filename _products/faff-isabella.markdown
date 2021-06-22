@@ -4,7 +4,8 @@ date: 2020-07-24 12:41:00 Z
 position: 57
 position-brand: 20
 title-seo: Снюс FAFF IZABELLA (виноград)
-descr: Снюс FAFF IZABELLA со вкусом винограда. В банке ±29 порций белого цвета, крепость 75 мг. Порции слим.
+descr: Снюс FAFF IZABELLA со вкусом винограда. В банке ±29 порций белого цвета, крепость
+  75 мг. Порции слим.
 product-name: FAFF IZABELLA
 product-alt: FAFF IZABELLA
 strong: Очень крепкий

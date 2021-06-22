@@ -4,7 +4,9 @@ date: 2020-12-15 07:23:00 Z
 position: 47
 position-brand: 10
 title-seo: "Снюс Zuzu Summer Extreme \U0001F349\U0001F348"
-descr: "Zuzu Summer Extreme — снюс от бренда Faff. Вкус: дыня-арбуз \U0001F349\U0001F348. Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные вкусы и аромат."
+descr: "Zuzu Summer Extreme — снюс от бренда Faff. Вкус: дыня-арбуз \U0001F349\U0001F348.
+  Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные вкусы
+  и аромат."
 product-name: Zuzu Summer Extreme
 product-alt: Снюс Zuzu Summer Extreme
 strong: Очень крепкий

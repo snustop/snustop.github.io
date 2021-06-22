@@ -4,7 +4,8 @@ date: 2020-07-24 12:41:00 Z
 position: 69
 position-brand: 21
 title-seo: Снюс FAFF Клубничная жвачка STRAWBERRY GUM
-descr: Снюс FAFF STRAWBERRY GUM со вкусом клубничной жвачки. В банке ±29 порций белого цвета, крепость 75 мг. Порции слим.
+descr: Снюс FAFF STRAWBERRY GUM со вкусом клубничной жвачки. В банке ±29 порций белого
+  цвета, крепость 75 мг. Порции слим.
 product-name: FAFF STRAWBERRY GUM
 product-alt: FAFF Клубничная жвачка STRAWBERRY
 strong: Очень крепкий
