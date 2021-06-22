@@ -1,7 +1,7 @@
 ---
 title: onyx
 date: 2017-11-20 12:44:00 Z
-position: 32
+position: 40
 title-seo: General ONYX Strong Portion Snus купить в Украине
 descr: Снюс general onyx - элитный табак. Черные сухие мешочки очень высокого качества
   с уникальным вкусом, очень приятный табак, в сочетании с нотками цитрусовых и легким
@@ -11,8 +11,10 @@ product-alt: General ONYX Strong Portion Snus
 strong: Средней крепости
 brand: Swedish Match
 composition: Оригинальный
+stock-list: Акция
 price: 225
 opt-price: 203
+new-price: 200
 image: "/img/products/onyx.png"
 availability-descr: В наличии
 has_availability: true
@@ -21,6 +23,14 @@ nicotine: 12
 portions: 24
 taste: Цитрусовые, лакрица, табак, перец
 form: Порционный, черный
+similar-product_body: "<p>Похожие товары. <small>Жмите на картинки и читайте полное
+  описание</small></p>\n<div>\n\t\t<a href=\"/onyx\"><img style=\"width:32%\" class=\"img-fluid\"
+  src=\"/img/products/onyx/snus-onyx-open.jpg\" alt=\"Оникс открытый\"></a>\n\t\t<a
+  href=\"/xrange-gothenburgs-rape-slim-white-strong-portion-snus\"><img style=\"width:32%\"
+  class=\"img-fluid\" src=\"/img/products/xrange-gothenburgs-rape-slim-white-strong-snus.jpg\"
+  alt=\"general XR Goteborgs Rape\"></a>\n<a href=\"/lundgrens-skane-white-portion-snus\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/ettan-original-portion.png\"
+  alt=\"Ettan snus original\"></a>\n</div>"
 ---
 
 Снюс general onyx - элитный табак. Король среди всех general.

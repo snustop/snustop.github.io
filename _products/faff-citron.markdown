@@ -2,9 +2,9 @@
 title: FAFF citron
 date: 2020-07-24 12:41:00 Z
 position: 13
+position-brand: 16
 title-seo: Снюс FAFF Citron (спрайт)
-descr: Снюс FAFF Citron (спрайт) со вкусом лайм-лимон. В банке 25-29 порций белого
-  цвета, крепость 75 мг. Порции слим.
+descr: Снюс FAFF Citron (спрайт) со вкусом лайм-лимон. В банке 25-29 порций белого цвета, крепость 75 мг. Порции слим.
 product-name: FAFF Citron Sprite
 product-alt: FAFF Citron Sprite
 strong: Очень крепкий

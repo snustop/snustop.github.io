@@ -1,10 +1,10 @@
 ---
 title: siberia-brown
 date: 2017-11-20 11:23:00 Z
-position: 48
-title-seo: Siberia Brown Snus купить в Украине
-descr: Купить коричневую сибирь в Украине.
-product-name: Siberia Brown Portion Snus
+position: 134
+title-seo: Снюс коричневая сибирь купить в Украине
+descr: Пакеты коричневого цвета и довольно влажные. В банке 20 порций. Крепость 43 мг никотина. Вкус натуральный.
+product-name: Коричневая сибирь
 product-alt: Siberia Brown Portion Snus
 strong: Очень крепкий
 brand: Siberia
@@ -34,4 +34,7 @@ Siberia Brown(**коричневая сибирь**) по содержанию �
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/siberia-brown/siberia-brown-open-2.jpg" title="Коричневая сибирь большие пакеты"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-open-2.jpg" alt="Коричневая сибирь большие пакеты открытая"></a>
 	<a href="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" title="Коричневые сибири, большие и  <a href='/siberia-brown-slim'>тонкие пакеты</a>"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" alt="Коричневая сибирь слим vs коричневая сибирь большие пакеты"></a>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
 </div>

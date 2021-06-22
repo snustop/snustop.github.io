@@ -16,7 +16,7 @@ image: "/img/products/snusbiz-loose-snus-divine-cold.jpg"
 availability-descr: Под заказ
 has_availability: false
 gramm: 50
-nicotine: 20-22
+nicotine: 20
 portions: рассыпной
 taste: Мята
 form: Рассыпной

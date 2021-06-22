@@ -1,21 +1,21 @@
 ---
 title: 5-cans-siberia-slim
 date: 2020-07-28 08:07:00 Z
-position: 1
+position: 131
 title-seo: 5 банок красной сибири слим
 descr: Купить 5 банок красной сибири за 850 грн плюс бесплатная доставка. Сибирь очень
   крепкий шведский снюс, крепость 43 мг никотина. В банке 21 порция
 product-name: 5 банок Сибири слим
 product-alt: 5 банок красной сибири слим
-strong: Средней крепости
-brand: Siberia
+strong: Очень крепкий
+brand: Other Brands
 composition: Dry
 stock-list: Акция
 price: 850
 opt-price: 850
 image: "/img/products/siberia-slim-5cans.png"
-availability-descr: Акция до 10 августа
-has_availability: true
+availability-descr: Акция закончилась
+has_availability: false
 gramm: 13
 nicotine: 43
 portions: 21
@@ -29,7 +29,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
   src=\"/img/products/thunder-x-slim-white-dry.png\" alt=\"Снюс тандер х слим\"></a>\n</div>"
 ---
 
-Акция на красную сибирь слим, **5 банок за 850 грн**. С ней все в порядке, просто многие просили акцию именно на красную сибирь слим, **акция длится до включительно 2 августа**, продлили до 10 августа.
+Акция на красную сибирь слим, **5 банок за 850 грн**. С ней все в порядке, просто многие просили акцию именно на красную сибирь слим, **акция длится до включительно 21 декабря**.
 
 Красная сибирь слим самый популярный продукт в СНГ, ее любят за крепость и сильного никотинового удара.
 
@@ -42,4 +42,7 @@ similar-product_body: "<p>Похожи по крепости. <small>Жмите 
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg" title="Красная сибирь слим порции, а сзади <a href='/siberia-brown-slim'>коричневая слим</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-slim-open-and-brown.jpg" alt="Красная сибирь слим"></a>
 	<a class="mr-2" href="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" title="Красная сибирь самый крепкий шведский снюс, на заднем фоне <a href='/g4-cryo-slim-all-white-super-strong'>белый ванильный крио</a>"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-open-and-cryo.jpg" alt="Красная сибирь слим white dry"></a>
 	<a href="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" title="Порции на солнце"><img class="img-fluid" src="/img/products/siberia-white-dry-slim/siberia-white-dry-slim-open-portion.jpg" alt="Красная сибирь слим открытая, порции"></a>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
 </div>

@@ -132,7 +132,7 @@ article-schema-org: '<script type="application/ld+json">
 	<b>Slim portion</b> - порции более удобные и пакетик менее заметен за губой. Slim пакетик немного меньше классического, но их чаще всего больше, например: <a href="/odens-cold-dry">odens cold dry(14пакетиков)</a>, а такой же оденс только в <a href="/odens-cold-dry-slim">slim версии(16)</a>, самая крепкая в мире <a href="/siberia-white">siberia white dry(17)</a>, а <a href="/siberia-white-dry-slim"> siberia white dry slim(21)</a>.</p>
 </article>
 
-<article class="faq-details" itemscope itemtype="https://schema.org/FAQPage">
+<article class="faq-details mb-4" itemscope itemtype="https://schema.org/FAQPage">
 			<h2>Частые вопросы:</h2>
 			<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 				<summary itemprop="name">🤷‍♀️Что такое снюс?</summary>
@@ -168,21 +168,4 @@ article-schema-org: '<script type="application/ld+json">
 		</article>
 
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-	</div>
-	<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-	</div>
-</section>
+{% include catalog-article-products.html %}

@@ -1,11 +1,10 @@
 ---
 title: siberia-brown-slim
 date: 2017-11-20 16:27:00 Z
-position: 24
-title-seo: Siberia -80°C Slim Brown Portion Snus в Украине
-descr: Коричневая сибирь слим - очень крепкая. 24 тонких пакетика. Немного слабее
-  siberia white dry, но никотиновый удар более плавный и длится гораздо дольше.
-product-name: Siberia -80°C Slim Brown
+position: 31
+title-seo: Снюс коричневая🟤 сибирь слим | Siberia Brown Slim
+descr: Коричневая сибирь слим - 24 тонких пакетика, пакеты коричневого цвета. Крепость 43 мг. Купить в Украине.
+product-name: Коричневая🟤 сибирь слим
 product-alt: Siberia -80°C Slim Brown Portion Snus
 strong: Очень крепкий
 brand: Siberia
@@ -35,4 +34,10 @@ similar-product_body: "<p>Вас могут заинтересовать. <small
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/siberia-brown/siberia-brown-slim-open.jpg" title="Коричневая сибирь слим"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-open.jpg" alt="Коричневая сибирь слим открытая"></a>
 	<a href="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" title="Коричневые сибири, слим и  <a href='/siberia-brown'>большие пакеты</a>"><img class="img-fluid" src="/img/products/siberia-brown/siberia-brown-slim-and-brown-large.jpg" alt="Коричневая сибирь слим vs коричневая сибирь большие пакеты"></a>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q4FSYjfKIaU" allowfullscreen></iframe>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
 </div>

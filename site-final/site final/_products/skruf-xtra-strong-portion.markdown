@@ -1,7 +1,7 @@
 ---
 title: skruf-xtra-strong-portion
 date: 2017-11-20 13:04:00 Z
-position: 67
+position: 216
 title-seo: Skruf Portion Xtra Strong Snus купить в Украине
 descr: Купить снюс Skruf Portion Xtra Strong в Украине. Доставка новой почтой в любую
   точку Украины
@@ -15,7 +15,7 @@ image: "/img/products/skruf-xtra-strong-portion.png"
 availability-descr: Нет в наличии
 has_availability: false
 gramm: 22
-nicotine: Extra Strong
+nicotine: 17
 portions: 24
 taste: Табак, бергамот
 form: Порционный, влажный

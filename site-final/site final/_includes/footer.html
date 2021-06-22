@@ -1,42 +1,85 @@
+<!-- modal 18+ info ссылка c header и footer +18 -->
+	<div class="modal fade" id="ageModal" tabindex="-1" role="dialog" aria-labelledby="age18Modal" aria-hidden="true">
+		<div class="modal-dialog" role="document">
+			<article class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="age18ModalLabel">Строго с 18-ти 🔞</h4>
+
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					Любые никотиносодержащие продукты <b>строго c 18-ти лет</b>!<br><br>При заказе мы проверяем Ваш возраст (требуем документы)<br><br>+ на почте не отдадут посылку, если Вам нет 18-ти! И почта <b>сообщит в соответствующие органы</b>.<br><br> Данный продукт вредит Вашему здоровью и вызывает привыкание.<br>Читайте <a href="/snus-vred">вред снюса</a>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-secondary" data-dismiss="modal">Закрыть</button>
+				</div>
+			</article>
+		</div>
+	</div>
+<!-- modal 18+ info ссылка c header и footer +18 -->
+
 <footer class="main-foot container">
 	<hr>
 	<div class="foot-wrap-info">
-		<div class="d-flex justify-content-between">
+		<div class="d-block justify-content-between d-md-flex">
 			<div class="foot-item">
 				<h3>Информация:</h3>
 				<ul>
 					<li><a href="/about-snus">Снюс это</a></li>
 					<li><a href="/kak-upotreblyat-snus">Как употреблять снюс?</a></li>
 					<li><a href="/kak-vibrat-snus">Как выбрать снюс?</a></li>
+					<li><a target="_blank" title="Telegram Bot" href="//t.me/snus_track_bot">Отследить посылку</a></li>
 				</ul>
 			</div>
 			<div class="foot-item">
-				<h3>Последние записи:</h3>
+				<h3>Контакты</h3>
 				<ul>
-					{% assign sorted_articles_foot = site.articles | sort:"position" %}
-					{% for article in sorted_articles_foot limit: 3 %}
-					<li><a href="{{ article.url }}">{{ article.title-seo | truncate: 25 }}</a></li>
-					{% endfor %}
+					<li>
+						<a href="tel:+380675680230" title="Позвонить">
+							<i class="icon-mobile"></i>
+							+38 067 568 02 30
+						</a>
+					</li>
+					<li>
+						<a href="//t.me/snustop" target="_blank" title="Telegram">
+							<i class="icon-telegram"></i>
+							Написать в Telegram
+						</a>
+					</li>
+					<li>
+						<a href="//api.whatsapp.com/send?phone=380675680230" target="_blank" title="Написать в WhatsApp">
+							<i class="icon-whatsapp"></i>
+							WhatsApp
+						</a>
+					</li>
+					<li>
+						<a href="viber://chat?number=%2B380675680230" target="_blank" title="Написать в viber">
+							<i class="icon-viber"></i>
+							Viber
+						</a>
+					</li>
+					<li>
+						<a href="mailto:snustop.com.ua@gmail.com" target="_blank" title="Написать на почту">
+							snustop.com.ua@gmail.com
+						</a>
+					</li>
 				</ul>
 			</div>
 			<div class="foot-item">
 				<h3>Мы в соц сетях:</h3>
-				<ul class="text-right">
+				<ul class="d-flex">
 					<li>
-						<a class="btn btn-telegram mb-2" href="//t.me/snustopUA" target="_blank" rel="nofollow" title="Канал telegram">
-							Канал telegram<i class="icon-telegram"></i>
+						<a class="btn btn-telegram mr-2" href="//t.me/snustopUA" target="_blank" rel="nofollow" title="Канал telegram">
+							Telegram канал<i class="icon-telegram"></i>
 						</a>
 					</li>
-<!-- 						<li>
-							<a href="//vk.com/snus_ukraine_kiev" target="_blank" title="вконтакте">
-								Вконтакте
-							</a>
-						</li> -->
-<!-- 						<li>
-							<a class="btn btn-instagram" href="//www.instagram.com/snus_manager/" target="_blank" title="instagram">
-								Instagram <i class="icon-instagram"></i>
-							</a>
-						</li> -->
+<!-- 					<li>
+						<a class="btn btn-instagram" href="//www.instagram.com/snusforyou_ua/" target="_blank" title="instagram">
+							Instagram <i class="icon-instagram"></i>
+						</a>
+					</li> -->
 					</ul>
 				</div>
 			</div>
@@ -46,6 +89,6 @@
 			<span>&copy; Snustop.com.ua {{ site.time | date: "%Y" }}</span>
 			<span>Made with <span class="heart">💙</span></span>
 		</div>
-		<div class="text-center small">Данный продукт вредит вашему здоровью и вызывает привыкание. <strong>18+</strong> 🔞<br><a href="/snus-vred">Вред никотина (читать)</a>
+		<div class="text-center small">Данный продукт вредит вашему здоровью и вызывает привыкание. <a class="text-danger" href="#ageModal" data-toggle="modal" data-target="#ageModal"><span style="text-decoration: underline">Строго с 18</span> 🔞</a> <br><a href="/snus-vred">Вред никотина (читать)</a>
 		</div>
 	</footer>

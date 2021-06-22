@@ -1,7 +1,7 @@
 ---
 title: White Fox Slim All White
 date: 2019-03-14 11:49:00 Z
-position: 8
+position: 26
 title-seo: White Fox Slim All White Portion Snus | Снюс Украина
 descr: White Fox — белый снюс с приятным вкусом мяты не содержащий табака. 20 порций,
   крепостью 17 мг. Порции slim. По ощущениям немного слабее LYFT (epok).
@@ -10,8 +10,10 @@ product-alt: White Fox Slim All White Portion Snus
 strong: Крепкий
 brand: Other Brands
 composition: Белый
+stock-list: Акция
 price: 210
 opt-price: 189
+new-price: 160
 image: "/img/products/white-fox-all-white-portion-snus.jpg"
 availability-descr: В наличии
 has_availability: true

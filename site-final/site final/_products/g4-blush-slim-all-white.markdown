@@ -1,7 +1,7 @@
 ---
 title: G4 Blush Slim All White
 date: 2019-03-29 11:57:00 Z
-position: 26
+position: 129
 title-seo: G.4 Blush Slim All White Portion Snus
 descr: Снюс со вкусом грейпфрута и имбиря. Пакеты белые, оставляет следов на зубах.
   24 порции в банке. Крепость 12 мг, не очень крепкий снюс.
@@ -15,7 +15,8 @@ price: 215
 opt-price: 180
 new-price: 195
 image: "/img/products/g4-blush-slim-all-white-portion-snus.jpg"
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '19,2'
 nicotine: 12
 portions: 24

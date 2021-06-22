@@ -16,7 +16,7 @@ image: "/img/products/Blax-Gum.jpg"
 availability-descr: Нет в наличии
 has_availability: false
 gramm: 15
-nicotine: заявлено 150
+nicotine: 150
 portions: 20
 taste: Жвачка
 form: Порционный

@@ -1,10 +1,10 @@
 ---
 title: siberia-13-gramm
 date: 2020-04-09 12:28:00 Z
-position: 60
-title-seo: Красная Сибирь 13 грамм | крепкий снюс
+position: 179
+title-seo: Красная Сибирь 13 грамм | Siberia Snus
 descr: Красная сибирь 13 грамм, в банке 15-17 банок, крепость 45 мг. Пакеты очень приятные
-product-name: Красная сибирь 13 грамм 45 мг
+product-name: Красная сибирь 13 g
 product-alt: Красная сибирь 13 грамм
 strong: Очень крепкий
 brand: Siberia

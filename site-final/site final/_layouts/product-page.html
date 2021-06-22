@@ -179,6 +179,14 @@
 						
 						?>
 
+						<?php
+							#если комментариев больше 4-х, тогда выводим кнопку показать все комментарии
+							if ($count_str>4) {
+							echo '<div class="text-center"><a href="#" id="show-comments-all" class="link-primary">Смотреть все комментарии</a></div>';
+						}
+						?>
+						
+
 					</div>
 					
 
@@ -211,6 +219,37 @@
 		</div>
 	</section>
 	<!-- section product item end -->
+
+	<!-- выводим товары для Dzen или Faff START -->
+	{% if page.brand == "Dzen" or page.brand == "Faff" %}
+	<article>
+		<h3>Есть и другие вкусы:</h3>
+		<table class="table table-sm">
+			<caption>Таблица вкусов и крепости Snus {{page.brand}}</caption>
+			<thead>
+				{% include table-products-thead.html %}
+			</thead>
+			<tbody>
+				<!-- сразу вывводим то что в наличии product.has_availability == true START-->
+				{% assign sorted_items = site.products | sort: "position-brand" | where: "brand", page.brand %}
+				{% for product in sorted_items %}
+
+				{% if product.has_availability == true %}
+				{% include item-product-table.html %}
+				{% endif %}
+
+				{% endfor %}
+				<!-- сразу вывводим то что в наличии product.has_availability == true END-->
+
+				<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
+
+				<!--  вывводим то чего нет в наличии product.has_availability == false END-->
+			</tbody>
+
+		</table>
+	</article>
+	{% endif %}
+	<!-- выводим товары для Dzen или Faff END -->
 
 </main>
 </div>

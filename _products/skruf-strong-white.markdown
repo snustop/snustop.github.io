@@ -14,7 +14,7 @@ image: "/img/products/skruf-strong-white.jpg"
 availability-descr: Под заказ
 has_availability: false
 gramm: '21,6'
-nicotine: normal
+nicotine: 12
 portions: 24
 taste: Табак, бергамот
 form: Порционный, белый

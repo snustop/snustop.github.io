@@ -1,9 +1,9 @@
 ---
 title: corvus-joker
 date: 2019-10-31 11:06:00 Z
-position: 19
+position: 104
 title-seo: Corvus Joker Wild Berries купить в Украине
-descr: 'Corvus Joker со вкусом лесных ягод. 50 мг никотина, примерно 25 порций, вкус
+descr: 'Corvus Joker со вкусом лесных ягод. 50 мг никотина, примерно ±29 порций, вкус
   и запах резкий и приторный. Пакеты Slim. Не содержит табака. '
 product-name: Corvus Joker (лесная ягода)
 product-alt: Corvus Joker Wild Berries
@@ -12,11 +12,11 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-joker.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 50
-portions: " ~25"
+portions: "±29"
 taste: Лесная ягода
 form: Порционный, Slim
 composition-product: Неизвестно
@@ -30,13 +30,11 @@ similar-product_body: "<p>Вам могут понравится и другие
   брутал\"></a>\n</div>"
 ---
 
-Corvus Joker Wild Berries со вкусом лесной ягоды. Заявлено 50 мг никотина на грамм. Порции тонкие и маленькие, 13 грамм смеси разбито примерно на 25 порций. 
+Corvus Joker Wild Berries со вкусом лесной ягоды. Заявлено 50 мг никотина на грамм. Порции тонкие и маленькие, 13 грамм смеси разбито примерно на ±29 порций. 
 Пакеты текут, вкус довольно приятный, но слюну не стоит глотать от российских производителей, несмотря на ее приятный вкус!
 Очень сильно прожигает губу. Резкий приторный запах. Эффект короткий, но крепость чувствуется, после держать невозможно плюешься постоянно, жжение слабое, но губу разъедает. Сладость довольно химозная. 
 
-Заказывая данный снюс на свой страх и риск, мы его не рекомендуем из-за низкого качества и множества побочных эффектов (головная боль, ускоренное сердцебиение, тошнота, сильно разъедает десна).
-
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oFNbERqpRO0" allowfullscreen></iframe>
 </div>
 [Смотреть всю линейку корвус](/corvus)

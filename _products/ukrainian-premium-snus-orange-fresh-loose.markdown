@@ -17,7 +17,7 @@ image: "/img/products/orange-loose.jpg"
 availability-descr: Под заказ
 has_availability: false
 gramm: 50
-nicotine: 20-22
+nicotine: 20
 portions: Рассыпной
 taste: Апельсин
 form: Рассыпной

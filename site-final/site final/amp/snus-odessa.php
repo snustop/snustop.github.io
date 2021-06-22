@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Снюс Одесса | Купить снюс в Одессе</title>
-	<meta name="description" content="Купить снюс в Одессе. Звоните 0995532140 Доставка по городу, самовывоз на пер. Топольского, 4. Lyft, Siberia, Corvus, Thunder, Odens и другие.">
+	<meta name="description" content="Купить снюс в Одессе. Звоните 0995532140 Доставка по городу, самовывоз Старопортофранковская 61, 4. Lyft, Siberia, Corvus, Thunder, Odens и другие.">
 	<meta name="keywords" content="Снюс, Одесса, Снюс купить">
 
 	<link rel="canonical" href="https://snustop.com.ua/snus-odessa">
@@ -168,7 +168,7 @@
 			<div>
 				<strong>Купить снюс в Одессе</strong>, есть 4-ри варианта доставки:
 				<ul>
-					<li><b>Самовывоз</b> на <a target="_blank" href="https://goo.gl/maps/B3FY3PN6PiMeQDuq5">пер. Топольского, 4</a> (прежде чем туда ехать, свяжитесь с нами <a href="tel:+380995532140" title="Позвонить">0995532140</a> уточните наличие) <a href="//t.me/snusOdessa" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snusOdessa</a></li>
+					<li><b>Самовывоз</b> на <a target="_blank" href="https://goo.gl/maps/ENbua4RthrPcuA2u9">Старопортофранковская 61</a> (прежде чем туда ехать, свяжитесь с нами <a href="tel:+380995532140" title="Позвонить">0995532140</a> уточните наличие) <a href="//t.me/snusOdessa" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snusOdessa</a></li>
 					<li><b>Доставка по городу</b> 50-100 грн (центр: 50 грн), (Таирово: 90 грн) другие районы уточняйте по телефону. Для заказа доставки звоните: <a href="tel:+380995532140" title="Позвонить">0995532140</a> или пишите в <a href="//t.me/snusOdessa" target="_blank" title="Telegram"><i class="icon-telegram"></i>Telegram @snusOdessa</a>. Работаем до 20:00, после - дополнительная плата.</li>
 					<li><b>Отправка на TAXI</b> (если нужно максимально срочно).</li>
 					<li><b>Новой Почтой</b> (самый оптимальный способ, экономится время, цена доставки по городу 30 грн. Если до 12 часов отправить, то в тот же день будет у Вас на отделении.</li>

@@ -1,16 +1,15 @@
 ---
 title: Lyft X-Strong Freeze Slim White
 date: 2019-04-22 06:54:00 Z
-position: 3
+position: 5
 title-seo: Lyft Freeze X-Strong Slim White Snus
 descr: Lyft Freeze - очень крепкий снюс, самый крепкий представитель бренда Lyft.
   24 белые порции с приятным мятным вкусом. Купить снюс в Украине, тел. 0675680230
-product-name: Lyft Freeze Super Strong
+product-name: Lyft Freeze X-Strong
 product-alt: Lyft Freeze X-Strong Slim White Snus
 strong: Очень крепкий
 brand: Lyft
 composition: Белый
-stock-list: Лучший выбор
 price: 230
 opt-price: 207
 image: "/img/products/lyft-x-strong-freeze-slim-white.png"
@@ -23,9 +22,9 @@ form: Порционный, all white, slim
 composition-product: Вода, соль, волокна эвкалипта и сосны, никотиновый экстракт,
   поваренная сода, пищевой ароматизатор.
 similar-product_body: "<p>Похожи по крепости и по цвету пакетиков. <small>Жмите на
-  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/general-g4-slim-apple-white\"><img
-  style=\"width:32%\" class=\"img-fluid\" src=\"/img/inst/snustop-1.jpg\" alt=\"G.4
-  FU:ZN Slim All White Extra Strong Portion\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
+  картинки и читайте полное описание</small></p>\n<div>\n\t\t<a href=\"/g4-deep-freeze-slim-all-white\"><img
+  style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/g4-deep-freeze.jpg\"
+  alt=\"g4 deep freeze\"></a>\n\t\t<a href=\"/g4-cryo-slim-all-white-super-strong\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/cryo/g4-cryo-all-white-open-portion.jpg\"
   alt=\"G.4 CRYO Slim All White Super Strong\"></a>\n<a href=\"/lyft-strong-ice-cool-mint-slim-all-white\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/lyft-ice-cool-mint/lyft-ice-cool-mint.JPG\"
@@ -42,7 +41,7 @@ similar-product_body: "<p>Похожи по крепости и по цвету 
 
 Lyft — инновационный продукт не содержащий табака, но по-прежнему содержит никотин. Обладает освежающим вкусом мяты с приятным фруктовым характером. Пакетики длинные и тонкие (очень удобные), белые и сухие, не содержат табака, вместо него используется волокна эвкалипта и сосны и добавляют никотиновый экстракт, который был извлечен из табачного растения.
 
-P.S. Не знаю как эти ребята делают такой крепкий снюс с 16 мг никотина, как по мне, он сравним с [siberia white dry slim](/siberia-white-dry-slim) 43 мг по никотиновому удару.
+P.S. Появился новый белый снюс, который немного крепче чем лифт фриз: [G4 deep freeze](/g4-deep-freeze-slim-all-white).
 
 Если Вы любитель белых и крепких табаков, тогда lyft Freeze Вам понравится.
 <div class="mb-2">

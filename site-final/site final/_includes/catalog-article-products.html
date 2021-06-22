@@ -1,0 +1,42 @@
+<article class="mb-4">
+	<h2>Каталог снюса</h2>
+	<div class="row">
+		<div class="col-lg-3">
+			{% include filter.html %}
+		</div>
+		<div class="col-lg-9">
+			<div class="catalog">
+
+				<table class="table table-sm">
+					<caption>Таблица наличия {{page.filter-composition-list }}</caption>
+					<thead>
+						{% include table-products-thead.html %}
+					</thead>
+					<tbody>
+						<!-- сразу вывводим то что в наличии product.has_availability == true START-->
+						{% assign sorted_items = site.products | sort: "position" | where: "has_availability", true %}
+						{% for product in sorted_items offset:0 limit:20 %}
+
+						{% if product.has_availability == true %}
+						{% include item-product-table.html %}
+
+						{% endif %}
+
+						{% endfor %}
+						<!-- сразу вывводим то что в наличии product.has_availability == true END-->
+
+						<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
+
+						<!--  вывводим то чего нет в наличии product.has_availability == false END-->
+					</tbody>
+
+				</table>
+
+				<div class="text-right">
+					<a class="btn btn-primary" href="/" role="button">Смотреть все товары</a>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</article>

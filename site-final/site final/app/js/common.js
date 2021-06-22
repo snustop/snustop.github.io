@@ -17,9 +17,17 @@
 
 	// Filter раздаем класс active START
 	// из-за PJAX потому что страница не перезагружается
+	// для больших экранов
 	var slideItemLi = $('#filters-wrap li');
 	$(slideItemLi).on('click', function(){
 		$(slideItemLi).removeClass('active');
+		$(this).addClass('active');
+	});
+
+	// для мобилок
+	var slideMobileItemLi = $('#filter-mobile .dropdown-item');
+	$(slideMobileItemLi).on('click', function(){
+		$(slideMobileItemLi).removeClass('active');
 		$(this).addClass('active');
 	});
 	// Filter раздаем класс active END
@@ -73,7 +81,7 @@
 				cartRate.text('Скидка 5%: ' + totalDiscount + ' грн');
 
 			}	else if (totalItem >= 10) { /* если в корзине 10 или больше товаров и промокод то ... */
-				cartDiscount.text(Math.ceil(totalPrice * .9) + " грн"); /* скидка 7% */
+				cartDiscount.text(Math.ceil(totalPrice * .9) + " грн"); /* скидка 10% */
 				var totalDiscount = totalPrice - Math.ceil(totalPrice * .9);
 				cartRate.text('Скидка 10%: ' + totalDiscount + ' грн');
 
@@ -84,9 +92,21 @@
 			}
 
 			if (promCode == "burda" || promCode == "zak" || promCode == "koval" || promCode == "kolosov" || promCode=="kochergin" || promCode=="nechaev" || promCode=="past" || promCode=="dvorak" || promCode=="black" || promCode=="ira" || promCode=="днепр" || promCode=="заря" || promCode=="шахта" || promCode=="динамо" || promCode=="zah") {
-				cartDiscount.text(Math.ceil(totalPrice * .88) + " грн"); /* скидка 10% */
+				cartDiscount.text(Math.ceil(totalPrice * .88) + " грн"); /* скидка 12% */
 				var totalDiscount = totalPrice - Math.ceil(totalPrice * .88);
 				cartRate.text('Скидка 12%: ' + totalDiscount + ' грн');
+			} 
+
+			if (promCode == "hello") {
+					// cartDiscount.text(Math.ceil(totalPrice * .88) + " грн");
+					// var totalDiscount = totalPrice - Math.ceil(totalPrice * .88);
+					cartRate.text('купон не действителен');
+			}
+
+			if (promCode == "inst") {
+					// cartDiscount.text(Math.ceil(totalPrice * .9) + " грн");  скидка 12% 
+					// var totalDiscount = totalPrice - Math.ceil(totalPrice * .9);
+					cartRate.text('купон не действителен');
 			}
 
 		};
@@ -122,6 +142,19 @@
 			return false;
 		});
 		// плавный скролл к комментариям END
+
+		// PRODUCTS PAGE комментарии скрывать и показывать START
+
+		$('#show-comments-all').on('click', function(){
+			event.preventDefault();
+			$('.item-review').toggleClass('d-block');
+			if($(this).text() == 'Смотреть все комментарии') {
+           $(this).text('Cпрятать комментарии');
+       } else {
+           $(this).text('Смотреть все комментарии');
+       }
+		});
+		// PRODUCTS PAGE комментарии скрывать и показывать END
 
 
 		// Форма заказа, приходит на почту START
@@ -194,14 +227,14 @@
 
 				$("#checkout").html('<div class="text-center">\
 					<h1>Спасибо за заказ</h1>\
-					<p><b>Отправка в 17:30</b><br>\
+					<p><b>Отправка в 18:00</b><br>\
 					Ожидайте, мы с Вами свяжемся (через смс или в месседжерах).<br>\
-					<span class="text-muted">Если в течение 2-х часов не пришла смс (в рабочее время), то <a href="#contactModal" data-toggle="modal" data-target="#contactModal">свяжитесь с нами сами</a>. <br>Удобней всего писать в телеграмм.<br>Подпишитесь на наш канал в телеграмме, чтоб не пропустить акции и новинки, обещаем не спамить.<br><a style="color: #fff;" class="btn btn-telegram mt-2" href="//t.me/snustopUA" target="_blank" rel="nofollow" title="Канал telegram">Подписаться<i class="icon-telegram"></i></a></p>\
+					<span class="text-muted">Если в течение 2-х часов мы не связались (в рабочее время), то <a href="#contactModal" data-toggle="modal" data-target="#contactModal">свяжитесь с нами сами</a>. <br>Удобней всего писать в телеграмм.<br>Подпишитесь на наш канал в телеграмме, чтоб не пропустить акции и новинки, обещаем не спамить.<br><a style="color: #fff;" class="btn btn-telegram mt-2" href="//t.me/snustopUA" target="_blank" rel="nofollow" title="Канал telegram">Подписаться<i class="icon-telegram"></i></a></p>\
 					<hr />\
 					<div class="text-left mb-4">\
 					<h2>Частые вопросы</h2>\
-					<div class="accordion" id="accordionExample"><div class="card"><div class="card-header" id="headingOne"><h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Когда будет отправлен мой заказ?</button></h3></div><div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample"><div class="card-body">Отправка каждый день в 17:30. (в выходные раньше: суббота в 16:00, воскресенье 15:00), если Вы заказали позже этого времени, то заказ будет отправлен завтра.</div></div></div><div class="card"><div class="card-header" id="headingTwo"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Сколько стоит доставка? </button></h3></div><div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample"><div class="card-body">40 грн если без наложенного платежа, дополнительно +25 (если есть наложка).</div></div></div><div class="card"><div class="card-header" id="headingThree"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> Когда придет мой заказ?</button></h3></div><div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample"><div class="card-body">Завтра (если это: Киев, Одесса, Львов, Днепр, Харьков и другие города), (иногда послезавтра, зависит от города). Вам придет смс-уведомление от Новой Почты.<br>Для более подробной информации <a href="#contactModal" data-toggle="modal" data-target="#contactModal">свяжитесь с нами</a>.</div></div></div><div class="card"><div class="card-header" id="headingFourth"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth"> Остались вопросы?</button></h3></div><div id="collapseFourth" class="collapse" aria-labelledby="headingFourth" data-parent="#accordionExample"><div class="card-body"><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> удобнее всего писать в телеграмме.</div></div></div></div>\
-					</div>\
+					<p>Узнать номер накладной можно в нашем телеграмм боте: <a target="_blank" title="Telegram Bot" href="//t.me/snus_track_bot">@snus_track_bot</a></p>\
+					<div class="accordion" id="accordionExample"><div class="card"><div class="card-header" id="headingOne"><h3 class="mb-0"><button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Когда будет отправлен заказ?</button></h3></div><div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample"><div class="card-body">Отправка каждый день в 18:00, если Вы заказали позже этого времени, то заказ будет отправлен завтра.<br><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Связаться с нами</a></div></div></div><div class="card"><div class="card-header" id="headingTwo"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Сколько стоит доставка? </button></h3></div><div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample"><div class="card-body">40 грн если без наложенного платежа, дополнительно +-25 (если есть наложка).<br><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Связаться с нами</a></div></div></div><div class="card"><div class="card-header" id="headingThree"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Когда придет мой заказ?</button></h3></div><div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample"><div class="card-body">Завтра (если это: Киев, Одесса, Львов, Днепр, Харьков и другие города), (иногда послезавтра, зависит от города). Вам придет смс-уведомление от Новой Почты. Узнать номер накладной можно в нашем телеграмм боте: <a target="_blank" title="Telegram Bot" href="//t.me/snus_track_bot">@snus_track_bot</a></div></div></div><div class="card"><div class="card-header" id="headingFourth"><h3 class="mb-0"><button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourth" aria-expanded="false" aria-controls="collapseFourth"> Остались вопросы?</button></h3></div><div id="collapseFourth" class="collapse" aria-labelledby="headingFourth" data-parent="#accordionExample"><div class="card-body"><a href="#contactModal" data-toggle="modal" data-target="#contactModal">Свяжитесь с нами</a> удобнее всего писать в телеграмме.</div></div></div></div></div>\
 					<p><a class="btn btn-primary" href="/">Перейти на главную</a></span></p></div>');
 			}).fail(function(){
 				alert("Ошибка, свяжитесь с нами: +380675680230 (удобнее всего в телеграмме). \nЛибо напишите нам смс с заказом и куда отправить");

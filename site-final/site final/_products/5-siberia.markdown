@@ -1,14 +1,14 @@
 ---
 title: 5-siberia
 date: 2020-04-10 08:48:00 Z
-position: 57
+position: 167
 title-seo: 5 банок красной сибири | Акция
 descr: Красная сибирь 5 банок по акции, цена за банку 150 грн. Siberia самый крепкий
   снюс, в банке 15-17 порций, крепость 45 мг.
 product-name: 5 банок красной сибири 45 мг
 product-alt: Красная сибирь 5 банок
 strong: Очень крепкий
-brand: Siberia
+brand: Other Brands
 composition: Dry
 price: 750
 opt-price: "-"

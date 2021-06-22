@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Снюс Львів | Снюс Львов | Купити снюс у Львові</title>
-	<meta name="description" content="Купити снюс у Львові, кур'єрська доставка, самовивіз вулиця стрийська 79. В наявності siberia, lyft, thunder, corvus, general та інші. Зв'язок +380675680230">
+	<meta name="description" content="Купити снюс у Львові, кур'єрська доставка, самовивіз. В наявності siberia, lyft, thunder, corvus, general та інші. Зв'язок +380675680230">
 	<meta name="keywords" content="Снюс, Львов, Снюс у Львові">
 
 	<link rel="canonical" href="https://snustop.com.ua/snus-lviv">
@@ -176,15 +176,15 @@
 			<div>
 				<strong>Купити снюс у Львові</strong>, є три варіанти:
 				<ul>
-					<li><b>Самовивіз</b> вулиця стрийська 79 (попередньо потрібно зв'язатися з нами)</li>
-					<li><b>Кур'єром по місту</b> (швидка доставка, ціна 50-100 грн, залежить від відстані).</li>
-					<li><b>Новою Поштою</b> Якщо не терміново, то можемо відправити новою поштою, на наступний день заберете в зручний для Вас час, вартість доставка у межах міста 30 грн, в межах області 35 грн,<br>якщо замовити <b>до 12 годин</b>, то в цей же день посилка прийде Вам на відділення <b>в межах міста</b>.</li>
+					<li><b>Самовивіз</b> (попередньо потрібно зв'язатися з нами)</li>
+					<li><b>TAXI по місту</b> (швидка доставка, ціна 50-100 грн, залежить від відстані).</li>
+					<li><b>Новою Поштою</b> Якщо не терміново, то можемо відправити новою поштою, на наступний день заберете в зручний для Вас час.</li>
 				</ul>
 			</div>
 			<br>
 
 			<table class="table table-sm">
-				<caption>Наявність снюса у Львові</caption>
+				<caption>Наявність снюса у Львові (потрібно уточнити)</caption>
 				<thead>
 					<tr>
 						<th scope="col">img</th>
@@ -256,54 +256,7 @@
 
 			<a href="/" class="product-more">Дивитися повний асортимент</a>
 
-			<h2>Ми на мапі</h2>
-			<amp-img alt="Купити снюс у Львові Вулиця стрийська 79" src="https://snustop.com.ua/img/blog/cities/lviv-address.jpg" width="800" height="472" layout="responsive"></amp-img>
-			<p><i><a href="//goo.gl/maps/8AbFz6nWuBTvwuzP8" target="_blank" title="Вулиця стрийська 79 на google maps">Вулиця стрийська 79</a></i> - самовивіз, заздалегідь зв'яжіться з нами, це не магазин і людини може не бути на місці, можлива доставка по місту (50-100 грн). З усіх питань телефонуйте або пишіть (найзручніше в телеграм)</p>
 		</article>
-
-	<!-- 	<section itemscope itemtype="https://schema.org/FAQPage">
-			<h2>Часті питання:</h2>
-			<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-				<summary itemprop="name">Скільки коштує доставка?</summary>
-				<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-					<ul itemprop="text">
-						<li>Новою поштою 30 грн по місту, якщо без "наложки" (передоплата на картку).</li>
-						<li>Самовивіз - Безкоштовно (заздалегідь зв'язавшись з нами: <a href="//t.me/snustop" target="_blank" title="Telegram">Написати в Telegram</a> або зателефонуйте <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a>)</li>
-						<li>Доставка по місту, залежить від відстані (40-100 грн) (уточніть зв'язавшись з нами: <a href="//t.me/snustop" target="_blank" title="Telegram">Написати в Telegram</a> або зателефонуйте <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a>)</li>
-					</ul>
-				</div>
-			</details>
-			<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-				<summary itemprop="name">Який снюс в наявності?</summary>
-				<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-					<p itemprop="text"><a href="/siberia-white-dry-slim">Червона сибір slim</a>, <a href="/lyft-x-strong-freeze-slim-white">Lyft Freeze</a>, <a href="/lyft-strong-ice-cool-mint-slim-all-white">Lyft Ice Cool</a>, <a href="/siberia-white">Звичайна сибір</a> (великі пакети), <a href="/thunder-x-slim-white-dry">Thunder X slim</a>, <a href="/corvus-brutal">Corvus Brutal 68 мг</a>, <a href="/g4-cryo-slim-all-white-super-strong">Ванільний g4 Cryo</a>, <a href="/general-g4-slim-apple-white">G4 Apple</a>, та інші. Уточніть зв'язавшись з нами: <a href="//t.me/snustop" target="_blank" title="Telegram">Написати в Telegram</a> або зателефонуйте <a href="tel:+380675680230" title="Позвонить">+38 067 568 02 30</a></p>
-				</div>
-			</details>
-			<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-				<summary itemprop="name">Який найміцніший снюс?</summary>
-				<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-					<div itemprop="text">
-						<p>Деякі недобросовісні виробники пишуть завищену кількість нікотину, але на ділі це не так. Також кількість нікотину це не єдиний критерій міцності (залежить від вологості, якості сировини, розміру пакетика, смаку, наприклад в білому Lyft Freeze всього 16 мг нікотину, але відчувається набагато більше.</p>
-						<h3>Рейтинг міцності:</h3>
-						<ul>
-							<li>1. <a href="/corvus-brutal">Corvus Brutal</a> 68 мг (не рекомендуємо).</li>
-							<li>2. <a href="siberia-white-dry-slim">Червона сибір slim</a> 43 мг.</li>
-							<li>3. <a href="/thunder-x-slim-white-dry">Thunder x slim</a> 45 мг.</li>
-							<li>4. <a href="/lyft-x-strong-freeze-slim-white">Lyft Freeze</a> 16 мг.</li>
-							<li>5. <a href="/g4-cryo-slim-all-white-super-strong">G4 Cryo</a> 22 мг.</li>
-						</ul>
-						<p class="small">У списку представлені тільки найміцніші представники брендів. <a href="/ultra-strong">Всі дуже міцні продукти.</a></p>
-					</div>
-				</div>
-			</details>
-			<details itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-				<summary itemprop="name">Якщо мені немає 18 років, я можу купити снюс?</summary>
-				<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-					<p itemprop="text">Ні. Будь-які никотинові продукти <b>строго з 18 років</b>!</p>
-				</div>
-			</details>
-		</section> -->
-
 
 		<div class="contacts">
 			<h3>Контакти</h3>

@@ -16,3 +16,6 @@ White Dry snus (яркие представители: <a href="/odens-cold-dry"
 ✅ меньшее слюновыделение.<br>
 ✅ длительный никотиновый удар и аромат.<br>
 ✅ немного крепче по сравнению с коричневой порцией
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/trfs6lEguaA" allowfullscreen></iframe>
+</div>

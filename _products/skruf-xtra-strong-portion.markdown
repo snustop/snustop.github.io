@@ -15,7 +15,7 @@ image: "/img/products/skruf-xtra-strong-portion.png"
 availability-descr: Нет в наличии
 has_availability: false
 gramm: 22
-nicotine: Extra Strong
+nicotine: 17
 portions: 24
 taste: Табак, бергамот
 form: Порционный, влажный

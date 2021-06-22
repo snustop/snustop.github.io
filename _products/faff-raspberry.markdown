@@ -2,9 +2,9 @@
 title: FAFF Raspberry
 date: 2020-07-24 12:41:00 Z
 position: 53
+position-brand: 19
 title-seo: Снюс FAFF Ароматная малина RASPBERRY JINGLE
-descr: Снюс FFAFF RASPBERRY со вкусом ароматной малины. В банке ±29 порций белого
-  цвета, крепость 75 мг. Порции слим.
+descr: Снюс FFAFF RASPBERRY со вкусом ароматной малины. В банке ±29 порций белого цвета, крепость 75 мг. Порции слим.
 product-name: FAFF RASPBERRY
 product-alt: FAFF RASPBERRY JINGLE
 strong: Очень крепкий

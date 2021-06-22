@@ -2,9 +2,9 @@
 title: FAFF Melon Chill
 date: 2020-07-24 12:25:00 Z
 position: 36
+position-brand: 17
 title-seo: "FAFF Melon Chill (Медовая дыня \U0001F348 ) 75 мг"
-descr: "Faff Медовая дыня \U0001F348 — очень крепкий снюс со вкусом Медовой дыни,
-  крепость 75 мг. В банке ±29 белых порций. Порции маленькие и тонкие."
+descr: "Faff Медовая дыня \U0001F348 — очень крепкий снюс со вкусом Медовой дыни, крепость 75 мг. В банке ±29 белых порций. Порции маленькие и тонкие."
 product-name: "FAFF Melon Chill \U0001F348"
 product-alt: FAFF Melon Chill
 strong: Очень крепкий
@@ -16,7 +16,7 @@ image: "/img/products/faff-melon-chill.png"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
-nicotine: Заявлено 75
+nicotine: 75
 portions: "±29"
 taste: Дыня
 form: Порционный, белый

@@ -1,25 +1,24 @@
 ---
 title: G4 Deep Freeze Slim All White
 date: 2020-03-05 10:45:00 Z
-position: 5
-title-seo: G.4 Deep Freeze Slim All White Снюс
+position: 3
+title-seo: 'G.4 Deep Freeze Slim All White Снюс '
 descr: G.4 Deep Freeze белый снюс — очень крепкий, со вкусом эвкалипта и ментола.
-  24 порции Slim, крепость 18,5 мг никотина, крепче чем Lyft Freeze X-strong.
-product-name: G.4 Deep Freeze Slim All White
+  24 порции Slim, крепость 18,5 мг никотина, крепче чем Lyft Freeze X-strong. С эффектом
+  заморозки ❄️
+product-name: G.4 Deep Freeze Slim ❄️
 product-alt: 'G.4 Deep Freeze Slim All White '
 strong: Очень крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: Лучший выбор
 price: 215
-opt-price: 194
 image: "/img/products/g4-deep-freeze.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: 19.2
 nicotine: 18.5
 portions: 24
-taste: Эвкалипт
+taste: Мята-Эвкалипт
 form: Порционный, белый, Slim
 composition-product: Целлюлоза, табак, вода, соль, пищевые ароматизаторы
 similar-product_body: "<p>Вам могут понравится: <small>Жмите на картинки и читайте
@@ -32,9 +31,12 @@ similar-product_body: "<p>Вам могут понравится: <small>Жми�
   alt=\"Снюс ванильный крио\"></a>\n</div>"
 ---
 
-G.4 Deep Freeze — очень крепкий белый снюс, со вкусом эвкалипта и ментола. Он не слишком сладкий, и в нем есть приятная свежесть.<br>
+G.4 Deep Freeze — очень крепкий белый снюс, со вкусом эвкалипта и ментола. Он не слишком сладкий, и в нем есть приятная свежесть с эффектом заморозки ❄️.<br>
 В банке 24 порции, пакеты белые, имеют форму Slim — удобно сидят под губой.<br>
 Как только кладете под губу, сразу чувствуется сильное жжение, а затем сразу приятное охлаждение. Заявлено 18.5 мг никотина, но ощущается больше, я б поставил его наравне с [красной Сибирью](/siberia-white-dry-slim). Если сравнивать с [белым лифт фриз](/lyft-x-strong-freeze-slim-white), то g4 deep ощущается немного крепче, на 10%-15% процентов.
-<div class="popup-gallery d-flex mb-2">
+<div class="popup-gallery d-flex mb-3">
 	<a href="/img/products/deep/deep-freeze-open.jpg" title="Deep freeze очень похож на фриз, но ощущается еще крепче"><img class="img-fluid" src="/img/products/deep/deep-freeze-open.jpg" alt="g4 Deep freeze"></a>
+</div>
+<div class="embed-responsive embed-responsive-16by9 mb-3">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/LqKBitEt9BA" allowfullscreen></iframe>
 </div>

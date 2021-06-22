@@ -1,10 +1,10 @@
 ---
 title: corvus brutal
 date: 2019-09-18 10:15:00 Z
-position: 14
-title-seo: Corvus Brutal | Корвус брутал купить в Украине
-descr: "Корвус Брутал - очень крепкий \U0001F44A продукт от которого аж становится
-  плохо. Крепость 66 мг никотина, 20 порций. Пакеты зеленого цвета."
+position: 25
+title-seo: Corvus Brutal 68 мг | Корвус брутал купить в Украине
+descr: "Снюс Корвус Брутал - очень крепкий \U0001F44A продукт. Крепость 68 мг никотина,
+  20 порций. Пакеты зеленого цвета."
 product-name: Corvus Brutal
 product-alt: Corvus Brutal купить в Украине
 strong: Очень крепкий
@@ -32,8 +32,6 @@ similar-product_body: "<p>Вам могут понравится и другие
 Корвус Брутал, усиленная крепость (68 мг) с сильным жжением, что аж десну разъедает. Мятный вкус, но далеко не самый приятный. Не содержит табака и не является снюсом. 20 больших порций.  Что в составе мы не знаем. Есть еще [corvus extreme](/snus-corvus-extreme)
 Corvus – популярный российский бренд бестабачных жевательных смесей. 
 
-Наш интернет-магазин [snustop.com.ua](https://snustop.com.ua) не рекомендует данный продукт, особенно людям, которые ранее не использовали снюс и никотиновые продукты.
-Многие жалуются, что после использования появляется одышка, повышенное сердцебиение, тошнота (рвота), головокружение (конечно это все защитная реакция организма). Сильно разъедают губу и десну.
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-snus.jpg" title="Корвус брутал 66 мг никотина"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-snus.jpg" alt="Корвус брутал 66 мг никотина"></a>
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-2.jpg" title="Корвус брутал ±20 порций"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-2.jpg" alt="Corvus Brutal Snus открытый"></a>
@@ -41,6 +39,6 @@ Corvus – популярный российский бренд бестабач
 </div>
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zTAAx16JajU" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/H2ZZ5xnvDwA" allowfullscreen></iframe>
 </div>
 [Смотреть всю линейку корвус](/corvus)

@@ -2,8 +2,8 @@
 <html amp lang="ru">
 <head>
 	<meta charset="utf-8">
-	<title>Корвус Снюс | Снюс Corvus — очень крепкий снюс</title>
-	<meta name="description" content="Снюс Корвус — очень крепкий снюс. Не содержит табака. Corvus Brutal, Corvus Extreme, Corvus Joker, Corvus Flash \U0001F34A,  Corvus Hulk \U0001F95D, Corvus Logan \U0001F348 и другие. Купить в Украине.">
+	<title>Corvus снюс | Купит Снюс корвус в Украине</title>
+	<meta name="description" content="Снюс Корвус — очень крепкий снюс. Corvus Brutal, Corvus Extreme, Corvus Joker, Corvus Flash \U0001F34A,  Corvus Hulk \U0001F95D, Corvus Logan \U0001F348 и другие. Купить в Украине.">
 	<meta name="keywords" content="Corvus, корвус, снюс, Украина">
 
 	<link rel="canonical" href="https://snustop.com.ua/corvus">
@@ -167,13 +167,11 @@
 
 		<article>
 			<h1>Снюс Корвус</h1>
-			<p><b>Снюс Корвус</b> (Corvus) — первый российский бренд жевательной бестабачной смеси. Позиционируется как <a href="/ultra-strong">очень крепкий</a> снюс. Продукция производится по инновационной технологии, без использования табака, на основе горно-алтайской мяты, пропитанной различными химическими добавками.</p>
-
-			<p>Российская марка бестабачной жевательной смеси, отличается стильной круглой упаковкой (шайбой) с изображением черного ворона. Изделие популярно в России, но мы крайне не рекомендуем данный продукт! Используйте только качественные продукты, произведенные в Швеции по жестким стандартам качества!<br>Создатели Корвуса позиционируют свой продукт как <i>хайповый</i>, возможно, именно поэтому он стал таким популярным среди молодежи. Бренд <b>Корвус</b> очень активно рекламируются, много приплаченной рекламы. Вот мотивационный ролик от Александра Тихомирова.</p>
+			<p><b>Снюс Корвус</b> (Corvus) — российский бренд жевательной бестабачной смеси. Позиционируется как <a href="/ultra-strong">очень крепкий</a> снюс. Продукция производится по инновационной технологии, без использования табака, на основе горно-алтайской мяты, пропитанной различными химическими добавками. Самый крепкий — <b><a href="/corvus-brutal">Corvus Brutal</a></b>, <b>68 мг</b> никотина, <b>20 порций</b> зеленого цвета, вкус мята. Есть и вкусовые: <b><a href="/corvus-joker">Corvus Joker</a> (лесные ягоды)</b>, <b><a href="/corvus-flash">Corvus Flash</a> (Апельси)</b>, <b><a href="/corvus-logan">Corvus Logan</a> (Дыня)</b>, <b><a href="/corvus-fenix-barberry">Corvus Fenix</a> (барбарис)</b>, <b><a href="/corvus-hulk">Corvus Hulk</a> (фейхоа)</b>.</p>
 
 			<amp-youtube data-videoid="zTAAx16JajU" layout="responsive" width="480" height="270"></amp-youtube>
 
-			<amp-img alt="Снюс Корвус" src="/img/products/corvus/snus-corvus-extreme-open.jpg" width="1078" height="810" layout="responsive"></amp-img>
+			<amp-img alt="Снюс корвус все вкусы" src="/img/products/corvus/covrus-all.jpg" width="1200" height="900" layout="responsive"></amp-img>
 
 			<table class="table table-sm">
 				<caption>Рейтинг по крепости Corvus от более крепкого к менее</caption>

@@ -1,7 +1,7 @@
 ---
 title: Blax Bubble Gum
 date: 2020-07-21 06:54:00 Z
-position: 34
+position: 132
 title-seo: Снюс Blax New Year Bubble Gum купить в Украине
 descr: |-
   Снюс Blax Bubble Gum — порционный крепкий бестабачный снюс.
@@ -13,10 +13,10 @@ brand: Other Brands
 price: 210
 opt-price: 190
 image: "/img/products/Blax-Gum.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: 15
-nicotine: заявлено 150
+nicotine: 150
 portions: 20
 taste: Жвачка
 form: Порционный

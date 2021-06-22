@@ -8,7 +8,7 @@ descr: G4 Dark Frost — очень крепкий снюс в белых пор
   нотками ментола.
 product-name: G.4 DARK FROST All White
 product-alt: G4 Dark Frost
-strong: Очень крепкий
+strong: Крепкий
 brand: Swedish Match
 composition: Белый
 price: 220

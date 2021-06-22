@@ -1,7 +1,7 @@
 ---
 title: Skruf Strong White
 date: 2019-03-29 21:39:00 Z
-position: 68
+position: 219
 title-seo: Skruf Strong White snus buy in Ukraine
 product-name: Skruf Strong White
 product-alt: Skruf Strong White snus
@@ -14,7 +14,7 @@ image: "/img/products/skruf-strong-white.jpg"
 availability-descr: Под заказ
 has_availability: false
 gramm: '21,6'
-nicotine: normal
+nicotine: 12
 portions: 24
 taste: Табак, бергамот
 form: Порционный, белый
