@@ -1,7 +1,7 @@
 ---
 title: faff-apple-cola
 date: 2020-09-01 06:13:00 Z
-position: 62
+position: 61
 position-brand: 27
 title-seo: Faff Яблоки в никотине Cola
 descr: Faff Яблоки в никотине cо вкусом колы. Крепость 55 мг, ±60-70 кусочков пропитанных
