@@ -4,7 +4,8 @@ date: 2020-07-24 12:41:00 Z
 position: 49
 position-brand: 23
 title-seo: Снюс FAFF Double-Apple (кисло-сладкое яблоко)
-descr: Снюс FAFF Double-Apple со вкусом кисло-сладкого яблока. В банке ±29 порций белого цвета, крепость 75 мг. Порции слим.
+descr: Снюс FAFF Double-Apple со вкусом кисло-сладкого яблока. В банке ±29 порций
+  белого цвета, крепость 75 мг. Порции слим.
 product-name: FAFF Double-Apple
 product-alt: FAFF Double-Apple
 strong: Очень крепкий

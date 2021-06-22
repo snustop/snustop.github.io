@@ -4,7 +4,8 @@ date: 2020-08-13 08:05:00 Z
 position: 81
 position-brand: 3
 title-seo: Снюс Faff Top Gum 150 мг | Фафф жвачка
-descr: "FAFF TOP GUM - очень крепкий снюс 150 мг. \U0001F95DКислый киви и \U0001F353сладкая клубника замиксованы в яркой жвачке."
+descr: "FAFF TOP GUM - очень крепкий снюс 150 мг. \U0001F95DКислый киви и \U0001F353сладкая
+  клубника замиксованы в яркой жвачке."
 product-name: "Faff Top Gum \U0001F95D\U0001F353"
 product-alt: Faff Top Gum 150 mg
 strong: Очень крепкий

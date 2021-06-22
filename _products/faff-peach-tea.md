@@ -4,7 +4,8 @@ date: 2020-08-13 08:05:00 Z
 position: 22
 position-brand: 7
 title-seo: Снюс Faff Peach tea 150 мг купить в Украине
-descr: FAFF Peach tea  — снюс со вкусом персикового чая, крепость 150 мг,  29 порций белого цвета. Порции slim - удобно сидят под губой.
+descr: FAFF Peach tea  — снюс со вкусом персикового чая, крепость 150 мг,  29 порций
+  белого цвета. Порции slim - удобно сидят под губой.
 product-name: FAFF Peach tea
 product-alt: FAFF Peach tea 150 mg
 strong: Очень крепкий

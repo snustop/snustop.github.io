@@ -4,7 +4,9 @@ date: 2020-12-15 07:23:00 Z
 position: 48
 position-brand: 8
 title-seo: "Снюс Zuzu Banana Bomba \U0001F34C\U0001F353"
-descr: "Zuzu Banana Bomba — снюс от бренда Faff. Вкус: банан замиксованный с клубникой\U0001F34C\U0001F353. Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные вкусы и аромат."
+descr: "Zuzu Banana Bomba — снюс от бренда Faff. Вкус: банан замиксованный с клубникой\U0001F34C\U0001F353.
+  Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные вкусы
+  и аромат."
 product-name: Zuzu Banana Bomba
 product-alt: Zuzu Banana Bomba
 strong: Очень крепкий
