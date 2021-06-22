@@ -2,8 +2,8 @@
 title: snus belay cerkov
 position: 34
 title-seo: Снюс Белая Церковь | Купить снюс в Белой Церкви
-descr: Купить снюс в Белой Церкви. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Белой Церкви. В наличии siberia, odens, lyft, thunder, general
+  и другие. Звоните +380675680230
 img: "/img/blog/cities/belaya-cerkov.jpg"
 ---
 

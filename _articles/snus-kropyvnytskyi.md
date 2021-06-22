@@ -2,8 +2,8 @@
 title: snus kropyvnytskyi
 position: 16
 title-seo: Снюс Кропивницкий | Купить снюс в Кировограде
-descr: Купить снюс в Кропивницком (Кировограде). В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Кропивницком (Кировограде). В наличии siberia, odens, lyft, thunder,
+  general и другие. Звоните +380675680230
 img: "/img/blog/cities/kirovograd.jpg"
 ---
 

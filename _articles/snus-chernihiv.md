@@ -2,8 +2,8 @@
 title: snus chernihiv
 position: 32
 title-seo: Снюс Чернигов | Купить снюс в Чернигове
-descr: Купить снюс у Чернигове. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс у Чернигове. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/chernigov.jpg"
 ---
 

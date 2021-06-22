@@ -2,7 +2,8 @@
 title: snus poltava
 position: 24
 title-seo: Снюс Полтава | Купить снюс в Полтаве
-descr: Купить снюс в Полтаве. В наличии siberia, odens, lyft, thunder, general и другие. Звоните +380675680230
+descr: Купить снюс в Полтаве. В наличии siberia, odens, lyft, thunder, general и другие.
+  Звоните +380675680230
 img: "/img/blog/cities/poltava.jpg"
 ---
 

@@ -2,19 +2,13 @@
 title: снюс в самолете
 date: 2019-01-24 20:13:00 Z
 title-seo: Снюс в самолете | Снюс в аэропорту
-descr: "Можно ли провозить снюс в самолете? Снюс в аэропорту? Снюс через границу? Да,
-можно, не более 200 грамм табак, это примерно 10-15 банок."
+descr: Можно ли провозить снюс в самолете? Снюс в аэропорту? Снюс через границу? Да,
+  можно, не более 200 грамм табак, это примерно 10-15 банок.
 img: "/img/blog/snus-airport/snus-airport.jpg"
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-v-samolete">'
-article-schema-org: '<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@type": "Article",
-		"author": "Snustop",
-		"image": "https://snustop.com.ua/img/blog/snus-airport/snus-airport.jpg",
-		"headline": "Можно ли перевозить снюс в самолете?"
-}
-</script>'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-v-samolete">
+article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
+  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/blog/snus-airport/snus-airport.jpg",
+  "headline": "Можно ли перевозить снюс в самолете?" } </script>'
 ---
 
 <h1>Можно ли перевозить снюс в самолете?</h1>

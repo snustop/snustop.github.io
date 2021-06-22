@@ -1,8 +1,9 @@
 ---
 title: snus wholesale eu
 position: 34
-title-seo: Buy Snus wholesale in Europe | Снюс оптом в Европе🇪🇺
-descr: Купить снюс в Европе🇪🇺 оптом. Склад в Польше🇵🇱, город Гданьск Gdańsk. Buy Snus wholesale in Poland🇵🇱.
+title-seo: "Buy Snus wholesale in Europe | Снюс оптом в Европе\U0001F1EA\U0001F1FA"
+descr: "Купить снюс в Европе\U0001F1EA\U0001F1FA оптом. Склад в Польше\U0001F1F5\U0001F1F1,
+  город Гданьск Gdańsk. Buy Snus wholesale in Poland\U0001F1F5\U0001F1F1."
 img: "/img/blog/eu/snus-opt.jpg"
 ---
 

@@ -2,7 +2,8 @@
 title: snus kharkov
 position: 28
 title-seo: Снюс Харьков | Купить снюс в Харькове
-descr: Снюс в Харькове. Самовывоз ХАТОБ, доставка по городу. В наличии siberia, odens, lyft, thunder, general и другие. Звоните +380675680230
+descr: Снюс в Харькове. Самовывоз ХАТОБ, доставка по городу. В наличии siberia, odens,
+  lyft, thunder, general и другие. Звоните +380675680230
 img: "/img/blog/cities/kharkiv.jpg"
 ---
 

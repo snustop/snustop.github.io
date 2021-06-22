@@ -2,7 +2,8 @@
 title: snus kamenec-podolskij
 position: 35
 title-seo: Снюс Кам'янець-Подільський | Купить снюс в Каменец-Подольский
-descr: Купити снюс в Кам'янець-Подільському. В наявності siberia, odens, lyft, thunder, general, faff, corvus та інші. Самовивіз, доставка по місту.
+descr: Купити снюс в Кам'янець-Подільському. В наявності siberia, odens, lyft, thunder,
+  general, faff, corvus та інші. Самовивіз, доставка по місту.
 img: "/img/blog/cities/kam-podol-city.jpg"
 ---
 

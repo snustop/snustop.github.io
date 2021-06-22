@@ -2,8 +2,8 @@
 title: snus mykolaiv
 position: 23
 title-seo: Снюс Николаев | Купить снюс в Николаеве
-descr: Купить снюс в Николаеве. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Николаеве. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/nikolaev.jpg"
 ---
 

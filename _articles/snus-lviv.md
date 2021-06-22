@@ -2,9 +2,10 @@
 title: snus lviv
 position: 20
 title-seo: Снюс Львів | Снюс Львов | Купити снюс у Львові
-descr: Купити снюс у Львові, кур'єрська доставка, самовивіз. В наявності siberia, lyft, thunder, corvus, general та інші. Зв'язок +380675680230
+descr: Купити снюс у Львові, кур'єрська доставка, самовивіз. В наявності siberia,
+  lyft, thunder, corvus, general та інші. Зв'язок +380675680230
 img: "/img/blog/cities/lviv.jpg"
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-lviv">'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-lviv">
 ---
 
 <section class="mb-4">

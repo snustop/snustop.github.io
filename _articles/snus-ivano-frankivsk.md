@@ -2,8 +2,8 @@
 title: snus Ivano-Frankivsk
 position: 14
 title-seo: Снюс Івано-Франківськ | Купити снюс в Івано-Франківську
-descr: Купить снюс в Ивано-Франковске. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Ивано-Франковске. В наличии siberia, odens, lyft, thunder, general
+  и другие. Звоните +380675680230
 img: "/img/blog/cities/ivano-frankovsk.jpg"
 ---
 

@@ -2,8 +2,8 @@
 title: snus zhytomyr
 position: 12
 title-seo: Снюс Житомир | Купить снюс в Житомире
-descr: Купить снюс в Житомире. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Житомире. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/zhitomir.jpg"
 ---
 

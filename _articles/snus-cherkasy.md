@@ -2,8 +2,8 @@
 title: snus cherkasy
 position: 31
 title-seo: Снюс Черкассы | Купить снюс в Черкассах
-descr: Купити снюс у Черкасах. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купити снюс у Черкасах. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/cherkassi.jpg"
 ---
 

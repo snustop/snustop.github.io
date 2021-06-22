@@ -3,9 +3,10 @@ title: snus odessa
 date: 2018-12-24 22:05:00 Z
 position: 6
 title-seo: Снюс Одесса | Купить снюс в Одессе
-descr: Купить снюс в Одессе. Звоните 0995532140 Доставка по городу, самовывоз Старопортофранковская 61. Lyft, Siberia, Corvus, Thunder, Odens и другие.
+descr: Купить снюс в Одессе. Звоните 0995532140 Доставка по городу, самовывоз Старопортофранковская
+  61. Lyft, Siberia, Corvus, Thunder, Odens и другие.
 img: "/img/blog/odessa/snus-odessa.jpg"
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-odessa">'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-odessa">
 ---
 
 <section class="mb-4">

@@ -2,8 +2,8 @@
 title: snus kryvyi rih
 position: 18
 title-seo: Снюс Кривой Рог | Купить снюс в Кривом Роге
-descr: Купить снюс в Кривом Рогу. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Кривом Рогу. В наличии siberia, odens, lyft, thunder, general
+  и другие. Звоните +380675680230
 img: "/img/blog/cities/krivoi-rog.jpg"
 ---
 

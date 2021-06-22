@@ -2,8 +2,8 @@
 title: snus kremenchuk
 position: 17
 title-seo: Снюс Кременчуг | Купить снюс в Кременчуге
-descr: Купить снюс в Кременчуге. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Кременчуге. В наличии siberia, odens, lyft, thunder, general
+  и другие. Звоните +380675680230
 img: "/img/blog/cities/kremenchug.jpg"
 ---
 

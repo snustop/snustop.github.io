@@ -2,8 +2,8 @@
 title: snus ternopil
 position: 27
 title-seo: Снюс Тернопіль | Купити снюс у Тернополі
-descr: Купить снюс в Тернополе. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Тернополе. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/ternopol.jpg"
 ---
 

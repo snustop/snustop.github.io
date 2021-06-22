@@ -2,8 +2,8 @@
 title: snus khmelnytskyi
 position: 30
 title-seo: Снюс Хмельницкий | Купить снюс в Хмельницком
-descr: Купити снюс у Хмельницькому. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купити снюс у Хмельницькому. В наличии siberia, odens, lyft, thunder, general
+  и другие. Звоните +380675680230
 img: "/img/blog/cities/khmelnitskiy.jpg"
 ---
 

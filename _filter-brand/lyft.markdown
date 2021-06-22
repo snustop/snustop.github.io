@@ -3,7 +3,8 @@ title: Lyft
 date: 2019-03-01 09:03:00 Z
 permalink: "/lyft"
 title-seo: Lyft Снюс | Снюс Лифт - Белый Снюс⚪
-descr: 'Снюс Lyft - белый снюс, в наличии: ice cool🔵, freeze🔴, tropic🟡, Strawberry🍓. Купить в Украине с доставкой.'
+descr: "Снюс Lyft - белый снюс, в наличии: ice cool\U0001F535, freeze\U0001F534, tropic\U0001F7E1,
+  Strawberry\U0001F353. Купить в Украине с доставкой."
 keywords: Lyft, snus lyft, эпок
 filter-name-h2: Lyft snus (снюс лифт / снюс люфт)
 filter-brand-list: Lyft

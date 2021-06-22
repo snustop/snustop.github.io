@@ -2,8 +2,8 @@
 title: snus berdyansk
 position: 8
 title-seo: Снюс Бердянск | Купить снюс в Бердянске
-descr: Купить снюс в Бердянске. В наличии siberia, odens, lyft, thunder, general и другие.
-  Звоните +380675680230
+descr: Купить снюс в Бердянске. В наличии siberia, odens, lyft, thunder, general и
+  другие. Звоните +380675680230
 img: "/img/blog/cities/berdyansk.jpg"
 ---
 

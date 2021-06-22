@@ -2,29 +2,17 @@
 title: Kak Upotreblyat Snus
 position: 1
 title-seo: Как употреблять снюс?
-descr: Достаньте пакетик снюса, поместите под верхнюю губу. Держите пока не наступит легкое расслабление. Слюну можно глотать, если она не горчит. Снюс желательно хранить в холодильнике.
+descr: Достаньте пакетик снюса, поместите под верхнюю губу. Держите пока не наступит
+  легкое расслабление. Слюну можно глотать, если она не горчит. Снюс желательно хранить
+  в холодильнике.
 img: "/img/blog/how-use/use-snus.jpg"
 layout: page-article
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/kak-upotreblyat-snus">'
-article-schema-org: '<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@type": "Article",
-		"author": "Snustop",
-		"publisher": {
-			"@type": "Organization",
-			"name": "Snustop",
-			"logo": {
-			"@type": "ImageObject",
-			"url": "https://snustop.com.ua/img/favicon/apple-touch-icon.png",
-			"height": "180",
-			"width": "180"
-			}
-		},
-		"image": "https://snustop.com.ua/img/blog/how-use/use-snus.jpg",
-		"headline": "Как употреблять снюс?"
-}
-</script>'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/kak-upotreblyat-snus">
+article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
+  "@type": "Article", "author": "Snustop", "publisher": { "@type": "Organization",
+  "name": "Snustop", "logo": { "@type": "ImageObject", "url": "https://snustop.com.ua/img/favicon/apple-touch-icon.png",
+  "height": "180", "width": "180" } }, "image": "https://snustop.com.ua/img/blog/how-use/use-snus.jpg",
+  "headline": "Как употреблять снюс?" } </script>'
 ---
 
 <section class="text-center mb-4" itemscope itemtype="http://schema.org/HowTo">

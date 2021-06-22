@@ -3,7 +3,8 @@ title: snus kiev
 date: 2018-12-24 22:20:00 Z
 position: 5
 title-seo: Снюс Киев | Купить снюс в Киеве
-descr: Доставка по городу, самовывоз метро нивки. В наличии siberia, odens, lyft, thunder, general и другие. Звоните +380675680230
+descr: Доставка по городу, самовывоз метро нивки. В наличии siberia, odens, lyft,
+  thunder, general и другие. Звоните +380675680230
 img: "/img/blog/kiev/snus-kiev.jpg"
 ---
 

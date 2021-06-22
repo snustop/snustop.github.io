@@ -2,11 +2,12 @@
 title: Snus Dnepr
 position: 4
 title-seo: Снюс Днепр | Купить снюс в Днепре
-descr: Снюс в Днепре, самовывоз Вячеслава Липинского 1 возле Пассажа, доставка, такси. Siberia, lyft, faff, thunder, и другие. Работаем с 10 до 22.
+descr: Снюс в Днепре, самовывоз Вячеслава Липинского 1 возле Пассажа, доставка, такси.
+  Siberia, lyft, faff, thunder, и другие. Работаем с 10 до 22.
 keywords: Снюс Днепр, снюс купить, снюс, Днепр, снюс Украина
 img: "/img/blog/dnepr/passage-dnepr.jpg"
 layout: page-article
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-dnepr">'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-dnepr">
 ---
 
 <section class="mb-4">

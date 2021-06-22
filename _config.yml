@@ -23,11 +23,11 @@ collections:
   filter-strong:
     title: Strong
     output: true
-  amp:
-    title: amp
-    output: true
   uploads:
     title: Uploads
+    output: true
+  amp:
+    title: amp
     output: true
 defaults:
 - scope:

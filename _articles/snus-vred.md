@@ -2,19 +2,14 @@
 title: snus vred
 position: 5
 title-seo: Вред снюса для здоровья
-descr: Снюс содержит табак и никотин. Никотин - вызывает зависимость. В составе присутствует соль и сода, они в свою очередь сильно разъедают губу.
+descr: Снюс содержит табак и никотин. Никотин - вызывает зависимость. В составе присутствует
+  соль и сода, они в свою очередь сильно разъедают губу.
 img: "/img/blog/snus-vred/snus-vred.jpg"
 layout: page-article
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-vred">'
-article-schema-org: '<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@type": "Article",
-		"author": "Snustop",
-		"image": "https://snustop.com.ua/img/blog/snus-vred/snus-vred.jpg",
-		"headline": "Вред снюса для здоровья"
-	}
-</script>'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-vred">
+article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
+  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/blog/snus-vred/snus-vred.jpg",
+  "headline": "Вред снюса для здоровья" } </script>'
 ---
 
 <article class="mb-5">

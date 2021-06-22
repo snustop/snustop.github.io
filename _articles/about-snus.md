@@ -2,19 +2,14 @@
 title: About Snus
 position: 2
 title-seo: Снюс это
-descr: Снюс — табачное изделие. Представляет собой табак, запакованный в пакетик, который помещают под верхнюю губу. Неплохая альтернатива сигаретам и насваю.
+descr: Снюс — табачное изделие. Представляет собой табак, запакованный в пакетик,
+  который помещают под верхнюю губу. Неплохая альтернатива сигаретам и насваю.
 img: "/img/blog/about-snus/about-snus.jpg"
 layout: page-article
-link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/about-snus">'
-article-schema-org: '<script type="application/ld+json">
-	{
-		"@context": "http://schema.org",
-		"@type": "Article",
-		"author": "Snustop",
-		"image": "https://snustop.com.ua/img/blog/about-snus/about-snus.jpg",
-		"headline": "Что такое снюс?"
-}
-</script>'
+link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/about-snus">
+article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
+  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/blog/about-snus/about-snus.jpg",
+  "headline": "Что такое снюс?" } </script>'
 ---
 
 <article class="mb-5">
