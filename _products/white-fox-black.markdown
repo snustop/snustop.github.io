@@ -1,7 +1,7 @@
 ---
 title: White Fox Black
 date: 2020-10-30 13:45:00 Z
-position: 77
+position: 143
 title-seo: White Fox Black — Черная лисица
 descr: White Fox Black —  белый снюс средней крепости, с приятным ароматом дымка.
   Крепость 30 мг никотина. 20 белых порций слим.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/fox/white-fox-black.jpg"
-availability-descr: Заканчивается
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 15
 nicotine: 30
 portions: 20
