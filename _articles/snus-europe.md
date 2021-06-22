@@ -2,10 +2,7 @@
 title: snus europe
 position: 3
 title-seo: Снюс Европа | Купить снюс в Польше, Чехии, Германии и другие
-descr: "Купить снюс в Европе\U0001F1EA\U0001F1FA (Польша\U0001F1F5\U0001F1F1, Чехия\U0001F1E8\U0001F1FF,
-  Германия\U0001F1E9\U0001F1EA, Словакия\U0001F1F8\U0001F1F0, Италия\U0001F1EE\U0001F1F9,
-  Испания\U0001F1EA\U0001F1F8, Литва\U0001F1F1\U0001F1F9, Венгрия\U0001F1ED\U0001F1FA,
-  Эстония\U0001F1EA\U0001F1EA, Болгария\U0001F1E7\U0001F1EC, Голландия и другие)."
+descr: Купить снюс в Европе🇪🇺 (Польша🇵🇱, Чехия🇨🇿, Германия🇩🇪, Словакия🇸🇰, Италия🇮🇹, Испания🇪🇸, Литва🇱🇹, Венгрия🇭🇺, Эстония🇪🇪, Болгария🇧🇬, Голландия и другие).
 img: "/img/blog/eu/snus-poland.jpg"
 ---
 
@@ -24,22 +21,5 @@ img: "/img/blog/eu/snus-poland.jpg"
 	</div>
 </section>
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-	</div>
-	<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-	</div>
-</section>
+{% include catalog-article-products.html %}
 

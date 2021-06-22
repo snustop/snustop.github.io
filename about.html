@@ -1,11 +1,8 @@
 ---
 permalink: about
-title-seo: Снюстоп - купить снюс Украина | Snustop
-descr: SnusTop - интернет-магазин по продаже снюса в городах Киев, Харьков, Одесса,
-  Днепр, Львов, и др. Siberi, Lyft, Thunder, Corvus, и другие. Звоните 0675680230.
-  Высылаем новой почтой.
-keywords: snustop, снюс, snus, снюс Украина, снюс Киев, снюс Харьков, снюс Одесса,
-  снюс Днепр, снюс Львов
+title-seo: Снюс Топ 🇸🇪 - купить снюс Украина🇺🇦 | SnusTop.com.ua
+descr: СнюсТоп - интернет-магазин по продаже снюса в городах в Украине🇺🇦 snustop.com.ua. Siberi, Lyft, Thunder, Corvus, и другие. Звоните 0675680230. Высылаем новой почтой.
+keywords: snustop, снюс топ, snus top, снюстоп, snus, снюс Украина, снюс Киев
 layout: compress
 ---
 
@@ -21,7 +18,7 @@ layout: compress
 		<main> 
 			<section class="jumbotron text-center main-banner" role="banner"> 
 				<h1 class="h2">Снюс Украина</h1> 
-				<p class="lead">Snustop — интернет-магазин специализирующийся на продаже<br> <strong>шведского снюса</strong> в Украине. </p>
+				<p class="lead">Snustop — интернет-магазин специализирующийся на продаже<br> <strong>шведского снюса</strong> в Украине🇺🇦. </p>
 			</section> 
 			<div class="container">
 				<section class="about-us mb-4"> 
@@ -61,24 +58,7 @@ layout: compress
 						</div> 
 					</section> 
 
-					<section class="mb-4">
-						<h2>Каталог снюса</h2>
-						<div class="row catalog">
-							<!-- PRODUCTS start -->
-							<!-- PRODUCT START -->
-							{% assign sorted_items = site.products | sort:"position" %}
-							{% for product in sorted_items offset:0 limit:6 %}
-
-							{% include item-product.html %}
-
-							{% endfor %}
-							<!-- PRODUCT END -->
-							<!-- PRODUCTS end -->
-						</div>
-						<div>
-							<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-						</div>
-					</section>
+					{% include catalog-article-products.html %}
 				</div> 
 			</main> 
 		</div> 

@@ -2,8 +2,7 @@
 title: popular snus
 position: 7
 title-seo: Какой снюс лучше?
-descr: Какой самый популярный снюс и почему?  1-ое место красная сибирь слим, потому
-  что очень крепкая (наши ребята любят покрепче) и при этом 21 порция.
+descr: Какой самый популярный снюс и почему?  1-ое место красная сибирь слим, потому что очень крепкая (наши ребята любят покрепче) и при этом 21 порция.
 img: "/img/blog/popular-snus.jpg"
 ---
 
@@ -30,21 +29,4 @@ img: "/img/blog/popular-snus.jpg"
 	</div>
 </section>
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-		</div>
-		<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-		</div>
-		</section>
+{% include catalog-article-products.html %}

@@ -2,8 +2,8 @@
 title: snus brovary
 position: 10
 title-seo: Снюс Бровары | Купить снюс в Броварах
-descr: Купить снюс в Броварах. В наличии siberia, odens, lyft, thunder, general и
-  другие. Звоните +380675680230
+descr: Купить снюс в Броварах. В наличии siberia, odens, lyft, thunder, general и другие.
+  Звоните +380675680230
 img: "/img/blog/cities/brovari.jpg"
 ---
 

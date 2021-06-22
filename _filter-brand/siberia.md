@@ -1,9 +1,8 @@
 ---
 title: Siberia
 permalink: siberia
-title-seo: "Снюс Сибирь\U0001F1F8\U0001F1EA Купить в Украине | Siberia Снюс"
-descr: "Снюс Cибирь. Красная\U0001F534 сибирь слим, Черная Сибирь⚫, Коричневая\U0001F7E4
-  и синяя\U0001F535. Очень крепкий снюс. Шведское качество\U0001F1F8\U0001F1EA"
+title-seo: Снюс Сибирь🇸🇪 Купить в Украине | Siberia Снюс
+descr: Снюс Cибирь. Красная🔴 сибирь слим, Черная Сибирь⚫, Коричневая🟤 и синяя🔵. Очень крепкий снюс. Шведское качество🇸🇪
 keywords: снюс, siberia
 filter-name-h2: Siberia Снюс
 filter-brand-list: Siberia
@@ -15,33 +14,3 @@ layout: filter-brand
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/OYQ3cSQTXl8" allowfullscreen></iframe>
 </div>
-
-<table class="table table-sm">
-	<caption>Таблица вкусов и крепости {{page.filter-brand-list}}</caption>
-	<thead>
-		<tr>
-			<th scope="col">img</th>
-			<th scope="col">Название</th>
-			<th scope="col">mg</th>
-			<th scope="col">грн</th>
-			<th scope="col"></th>
-		</tr>
-	</thead>
-	<tbody>
-		<!-- сразу вывводим то что в наличии product.has_availability == true START-->
-		{% assign sorted_items = site.products | sort: "position-brand" | where: "brand", page.filter-brand-list %}
-		{% for product in sorted_items %}
-
-		{% if product.has_availability == true %}
-		{% include item-product-table.html %}
-		{% endif %}
-
-		{% endfor %}
-		<!-- сразу вывводим то что в наличии product.has_availability == true END-->
-
-		<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
-
-		<!--  вывводим то чего нет в наличии product.has_availability == false END-->
-	</tbody>
-
-</table>

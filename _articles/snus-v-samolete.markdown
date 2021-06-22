@@ -2,13 +2,19 @@
 title: снюс в самолете
 date: 2019-01-24 20:13:00 Z
 title-seo: Снюс в самолете | Снюс в аэропорту
-descr: Можно ли провозить снюс в самолете? Снюс в аэропорту? Снюс через границу? Да,
-  можно, не более 200 грамм табак, это примерно 10-15 банок.
+descr: "Можно ли провозить снюс в самолете? Снюс в аэропорту? Снюс через границу? Да,
+можно, не более 200 грамм табак, это примерно 10-15 банок."
 img: "/img/blog/snus-airport/snus-airport.jpg"
-link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-v-samolete">
-article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
-  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/blog/snus-airport/snus-airport.jpg",
-  "headline": "Можно ли перевозить снюс в самолете?" } </script>'
+link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-v-samolete">'
+article-schema-org: '<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Article",
+		"author": "Snustop",
+		"image": "https://snustop.com.ua/img/blog/snus-airport/snus-airport.jpg",
+		"headline": "Можно ли перевозить снюс в самолете?"
+}
+</script>'
 ---
 
 <h1>Можно ли перевозить снюс в самолете?</h1>
@@ -23,21 +29,4 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "http://s
 	<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Npxn4tCekPw" allowfullscreen></iframe>
 </div>
 <hr>
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-		</div>
-		<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-		</div>
-	</section>
+{% include catalog-article-products.html %}

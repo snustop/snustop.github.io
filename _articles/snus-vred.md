@@ -2,14 +2,19 @@
 title: snus vred
 position: 5
 title-seo: Вред снюса для здоровья
-descr: Снюс содержит табак и никотин. Никотин - вызывает зависимость. В составе присутствует
-  соль и сода, они в свою очередь сильно разъедают губу.
+descr: Снюс содержит табак и никотин. Никотин - вызывает зависимость. В составе присутствует соль и сода, они в свою очередь сильно разъедают губу.
 img: "/img/blog/snus-vred/snus-vred.jpg"
 layout: page-article
-link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/snus-vred">
-article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
-  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/blog/snus-vred/snus-vred.jpg",
-  "headline": "Вред снюса для здоровья" } </script>'
+link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/snus-vred">'
+article-schema-org: '<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Article",
+		"author": "Snustop",
+		"image": "https://snustop.com.ua/img/blog/snus-vred/snus-vred.jpg",
+		"headline": "Вред снюса для здоровья"
+	}
+</script>'
 ---
 
 <article class="mb-5">
@@ -45,7 +50,7 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "http://s
 		<div class="col-lg-6">	
 			<article>
 				<h2>Рак полости рта</h2>
-				<p>В последнее время появилось очень много различных продуктов с очень высокими дозами никотина и непонятным составом, чаще всего такие продукты делают в России (их не стоит сравнивать со <i>шведским снюсом</i>) вот некоторые из очень сильно разъедают губу. Но насчет рака нет убедительных доказательств связи между употреблением снюса и развитием опухолей ротовой полости, лёгких, желудочно-кишечного тракта, почек, предстательной железы и лёгких. В отдельных исследованиях прослеживается повышение риска рака поджелудочной железы. Старайтесь использовать только качественный снюс известных брендов.</p>
+				<p>В последнее время появилось очень много различных продуктов с очень высокими дозами никотина и непонятным составом, чаще всего такие продукты делают в России (их не стоит сравнивать со <i>шведским снюсом</i>) вот некоторые из очень сильно разъедают губу. Но насчет рака нет убедительных доказательств связи между употреблением снюса и развитием опухолей ротовой полости, желудочно-кишечного тракта, почек, предстательной железы и лёгких. В отдельных исследованиях прослеживается повышение риска рака поджелудочной железы. Старайтесь использовать только качественный снюс известных брендов.</p>
 			</article>
 		</div>
 	</div>
@@ -69,21 +74,4 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "http://s
 </div>
 
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-		</div>
-		<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-		</div>
-		</section>
+{% include catalog-article-products.html %}

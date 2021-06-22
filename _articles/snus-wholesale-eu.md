@@ -1,9 +1,8 @@
 ---
 title: snus wholesale eu
 position: 34
-title-seo: "Buy Snus wholesale in Europe | Снюс оптом в Европе\U0001F1EA\U0001F1FA"
-descr: "Купить снюс в Европе\U0001F1EA\U0001F1FA оптом. Склад в Польше\U0001F1F5\U0001F1F1,
-  город Гданьск Gdańsk. Buy Snus wholesale in Poland\U0001F1F5\U0001F1F1."
+title-seo: Buy Snus wholesale in Europe | Снюс оптом в Европе🇪🇺
+descr: Купить снюс в Европе🇪🇺 оптом. Склад в Польше🇵🇱, город Гданьск Gdańsk. Buy Snus wholesale in Poland🇵🇱.
 img: "/img/blog/eu/snus-opt.jpg"
 ---
 
@@ -44,22 +43,5 @@ img: "/img/blog/eu/snus-opt.jpg"
 	</div>
 </section>
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-	</div>
-	<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-	</div>
-</section>
+{% include catalog-article-products.html %}
 

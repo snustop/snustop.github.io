@@ -2,14 +2,20 @@
 title: kak vibrat snus
 date: 2018-08-30 19:10:00 Z
 position: 0
-title-seo: Как выбрать снюс? Какой снюс лучше?
+title-seo: 'Как выбрать снюс? Какой снюс лучше?'
 descr: 'Как выбрать снюс новичку? Какой снюс лучше? Если ранее кидали насвай, то однозначно
   берите очень крепкий снюс, например: красная сибирь'
 img: "/img/blog/kak-vibrat-snus/snus-choose.jpg"
-link-amp-page: <link rel="amphtml" href="https://snustop.com.ua/amp/kak-vibrat-snus">
-article-schema-org: '<script type="application/ld+json"> { "@context": "http://schema.org",
-  "@type": "Article", "author": "Snustop", "image": "https://snustop.com.ua/img/products/more/gothenburg-snus.jpg",
-  "headline": "Как выбрать снюс? Какой снюс лучше?" } </script>'
+link-amp-page: '<link rel="amphtml" href="https://snustop.com.ua/amp/kak-vibrat-snus">'
+article-schema-org: '<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "Article",
+		"author": "Snustop",
+		"image": "https://snustop.com.ua/img/products/more/gothenburg-snus.jpg",
+		"headline": "Как выбрать снюс? Какой снюс лучше?"
+}
+</script>'
 ---
 
 <section class="mb-4">
@@ -45,21 +51,4 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "http://s
 	</div>
 </section>
 
-<section class="mb-4">
-	<h2>Каталог снюса</h2>
-	<div class="row catalog">
-		<!-- PRODUCTS start -->
-		<!-- PRODUCT START -->
-		{% assign sorted_items = site.products | sort:"position" %}
-		{% for product in sorted_items offset:0 limit:6 %}
-		
-		{% include item-product.html %}
-
-		{% endfor %}
-		<!-- PRODUCT END -->
-		<!-- PRODUCTS end -->
-	</div>
-	<div>
-		<a class="btn btn-primary" href="/" role="button">Больше товаров</a>
-	</div>
-</section>
+{% include catalog-article-products.html %}

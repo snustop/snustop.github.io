@@ -2,11 +2,12 @@
 	<td><a href="{{product.url | replace:'.php','' }}"><img class="item_thumb" style="width: 40px" src="{{ product.image }}" alt="{{ product.product-alt }}"></a></td>
 	<td><a class="item_name" href="{{product.url | replace:'.php','' }}">{{product.product-name | truncate: 75}}</a></td>
 	<td>{{product.nicotine}}</td>
-	<td class="item_price">
+	<td>
 		{% if product.new-price %}
-			{{product.new-price}}
+			<span class="small font-weight-light" style="text-decoration: line-through;">{{product.price}}</span><br>
+			<span class="text-success item_price">{{product.new-price}}</span>
 			{% else %}	
-			{{product.price}}
+			<span class="item_price">{{product.price}}</span>
 		{% endif %}
 	</td>
 	<td><span class="product-btn">

@@ -2,8 +2,8 @@
 title: snus boryspil
 position: 9
 title-seo: Снюс Борисполь | Купить снюс в Борисполе
-descr: Купить снюс в Борисполе. В наличии siberia, odens, lyft, thunder, general и
-  другие. Звоните +380675680230
+descr: Купить снюс в Борисполе. В наличии siberia, odens, lyft, thunder, general и другие.
+  Звоните +380675680230
 img: "/img/blog/cities/borispol.jpg"
 ---
 

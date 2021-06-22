@@ -27,10 +27,11 @@ gulp.task('common-js', function() {
 
 gulp.task('js', ['common-js'], function() {
 	return gulp.src([
-		'app/libs/jquery/jquery-3.2.1.min.js',
+		'app/libs/jquery/jquery.min.js',
 		'app/libs/bootstrap/bootstrap.bundle.js',
 		'app/libs/simpleCartJs/simpleCart.js',
 		'app/libs/magnific/jquery.magnific-popup.min.js',
+		'app/libs/pjax/jquery.pjax.js',
 		'app/js/common.min.js', // Всегда в конце
 		])
 	.pipe(concat('scripts.min.js'))
