@@ -18,7 +18,7 @@ image: "/img/products/pod/maskking-pro-mixed-berries.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: '3,5'
-nicotine: 20
+nicotine: 2
 portions: до 1000 тяг
 taste: "Ягодный рай \U0001F347"
 form: Одноразовая электронная сигарета
