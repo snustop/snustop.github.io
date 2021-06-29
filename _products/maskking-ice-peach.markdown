@@ -1,7 +1,7 @@
 ---
 title: maskking-ice-peach
 date: 2021-03-23 12:41:00 Z
-position: 136
+position: 20
 title-seo: "Maskking pro Pod 1000 затяжек Ледяной персик \U0001F351"
 descr: Pod Maskking Pro ледяной персик на 1000 затяжек. Крепость 20мг/мл. Встроенный
   датчик затяжки.  Аккумулятор на 650мАч.
@@ -15,8 +15,8 @@ price: 310
 opt-price: 250
 new-price: 220
 image: "/img/products/pod/maskking-ice-peach.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
