@@ -18,7 +18,7 @@ image: "/img/products/pod/maskking-watermelon.jpg"
 availability-descr: Ожидается
 has_availability: false
 gramm: '3,5'
-nicotine: 20
+nicotine: 2
 portions: до 1000 тяг
 taste: "Спелый арбуз \U0001F349"
 form: Одноразовая электронная сигарета
