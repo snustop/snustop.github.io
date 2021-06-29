@@ -18,7 +18,7 @@ image: "/img/products/pod/maskking-pro-strawberry-lychee.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: '3,5'
-nicotine: 20
+nicotine: 2
 portions: до 1000 тяг
 taste: "Клубника-личи \U0001F353"
 form: Одноразовая электронная сигарета
