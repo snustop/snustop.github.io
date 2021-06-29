@@ -13,10 +13,10 @@ composition: e-sigarety
 stock-list: Акция
 price: 310
 opt-price: 250
-new-price: 220
+new-price: 230
 image: "/img/products/pod/maskking-pro-mixed-berries.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
