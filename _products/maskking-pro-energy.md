@@ -16,7 +16,7 @@ image: "/img/products/pod/maskking-pro-energy.jpg"
 availability-descr: Под заказ
 has_availability: false
 gramm: '3,5'
-nicotine: 20
+nicotine: 2
 portions: до 1000 тяг
 taste: Энергетический напиток
 form: Одноразовая электронная сигарета
