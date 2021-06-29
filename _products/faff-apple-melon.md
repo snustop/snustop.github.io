@@ -1,7 +1,7 @@
 ---
 title: faff-apple-melon
 date: 2020-09-01 06:13:00 Z
-position: 59
+position: 58
 position-brand: 26
 title-seo: Faff Яблоки в никотине Melon
 descr: Faff Яблоки в никотине cо вкусом дыни. Крепость 55 мг, ±60-70 кусочков пропитанных
