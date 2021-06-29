@@ -1,7 +1,7 @@
 ---
 title: maskking-pro-strawberry-lychee
 date: 2021-03-23 12:41:00 Z
-position: 103
+position: 59
 title-seo: "Maskking pro Pod 1000 затяжек Клубника-личи \U0001F353"
 descr: "Pod Maskking Pro strawberry lychee \U0001F353 на 1000 затяжек. Крепость 20мг/мл.
   Встроенный датчик затяжки.  Аккумулятор на 650мАч."
@@ -13,10 +13,10 @@ composition: e-sigarety
 stock-list: Акция
 price: 310
 opt-price: 250
-new-price: 220
+new-price: 230
 image: "/img/products/pod/maskking-pro-strawberry-lychee.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '3,5'
 nicotine: 20
 portions: до 1000 тяг
