@@ -1,8 +1,7 @@
 ---
 title: faff-apple-cola
 date: 2020-09-01 06:13:00 Z
-position: 59
-position-brand: 27
+position: 118
 title-seo: Faff Яблоки в никотине Cola
 descr: Faff Яблоки в никотине cо вкусом колы. Крепость 55 мг, ±60-70 кусочков пропитанных
   никотином. Использовать как снюс, не глотать и не жевать!
@@ -13,8 +12,8 @@ brand: Faff
 price: 190
 opt-price: 171
 image: "/img/products/faff-apple-cola.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 55
 portions: "±60-70"
@@ -28,6 +27,7 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   class=\"img-fluid\" src=\"/img/products/faff-apple-melon.png\" alt=\"Faff яблочки
   со вкусом дыни\"></a>\n<a href=\"/kusochki-yablok\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/kusochki-yablok/jam-apple-snus.jpg\" alt=\"Яблочки jam\"></a>\n</div>"
+position-brand: 27
 ---
 
 Faff Яблоки в никотине — свежие яблочные дольки пропитанные чистейшим никотином, которые могут послужить заменой снюсу.<br>
