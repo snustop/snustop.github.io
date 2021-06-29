@@ -1,7 +1,7 @@
 ---
 title: Snus Corvus Extreme
 date: 2019-04-22 08:48:00 Z
-position: 59
+position: 122
 title-seo: Corvus Extreme снюс купить в Украине
 descr: "Корвус снюс купить в Украине. Супер-мега крепкий \U0001F44A снюс от Российского
   бренда Корвус. Крепость 44 мг, 20 порций. Порции зеленого цвета. "
@@ -13,8 +13,8 @@ composition: Dry
 price: 200
 opt-price: 186
 image: "/img/products/corvus-extreme-snus.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 14
 nicotine: 44
 portions: 20
