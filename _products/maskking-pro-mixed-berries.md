@@ -1,7 +1,7 @@
 ---
 title: maskking-pro-mixed-berries
 date: 2021-03-23 12:41:00 Z
-position: 59
+position: 58
 title-seo: "Maskking pro Pod 1000 затяжек Ягодный рай \U0001F347"
 descr: Pod Maskking Pro mixed berries на 1000 затяжек. Крепость 20мг/мл. Встроенный
   датчик затяжки.  Аккумулятор на 650мАч.
