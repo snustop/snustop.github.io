@@ -1,8 +1,7 @@
 ---
 title: faff-gummy-bear
 date: 2021-01-28 21:10:00 Z
-position: 101
-position-brand: 4
+position: 20
 title-seo: Снюс FAFF GUMMY BEAR 150mg купить в Украине
 descr: Faff GUMMY BEAR — со вкусом ароматных мармеладных мишек!, 150 мг никотина.
   В банке ±29 бело-розовых порций. Порции слим.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-gummy-bear.jpg"
-availability-descr: Ожидается на дня (уточняйте)
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\" alt=\"faff orange
   soda 150 mg\"></a>\n\t<a href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-lemonade.jpg\" alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+position-brand: 4
 ---
 
 СнюсFaff Gummy Bear — со вкусом ароматных мармеладных мишек. **Крепость 150 мг**, в банке **±29 порций**, но порции маленькие, вес каждой 0,6 грамм. Порции бело-розового, не оставляют следов на зубах.
