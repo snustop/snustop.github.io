@@ -1,8 +1,7 @@
 ---
 title: faff-top-gum
 date: 2020-08-13 08:05:00 Z
-position: 81
-position-brand: 3
+position: 35
 title-seo: Снюс Faff Top Gum 150 мг | Фафф жвачка
 descr: "FAFF TOP GUM - очень крепкий снюс 150 мг. \U0001F95DКислый киви и \U0001F353сладкая
   клубника замиксованы в яркой жвачке."
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-top-gum.png"
-availability-descr: Ожидается на днях
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\" alt=\"faff orange
   soda 150 mg\"></a>\n\t<a href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-lemonade.jpg\" alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+position-brand: 3
 ---
 
 FAFF Top Gum — снюс со вкусом 🥝Кислого киви и 🍓сладкай клубники замиксованы в яркой жвачке, крепость **150 мг**, **25-29** порций бело-розового цвета. Порции маленькие, вес каждой 0,6 грамм. Не содержит табака и не является снюсом.<br>
