@@ -1,7 +1,7 @@
 ---
 title: odens-double-mint
 date: 2017-11-20 12:34:00 Z
-position: 204
+position: 34
 title-seo: Odens Double Mint Extreme White Dry купить в Украине
 descr: Снюс оденс двойная мята купить в Украине.
 product-name: Odens Double Mint Extreme White Dry
@@ -12,8 +12,8 @@ composition: Dry
 price: 160
 opt-price: 149
 image: "/img/products/odens-double-mint.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 ---
 
 Имеет явный мятный вкус. Очень хороший снюс. Очень похож на [odens cold dry](/odens-cold-dry), немного отличается вкусом.
