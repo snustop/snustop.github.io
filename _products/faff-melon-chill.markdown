@@ -1,7 +1,7 @@
 ---
 title: FAFF Melon Chill
 date: 2020-07-24 12:25:00 Z
-position: 39
+position: 38
 position-brand: 17
 title-seo: "FAFF Melon Chill (Медовая дыня \U0001F348 ) 75 мг"
 descr: "Faff Медовая дыня \U0001F348 — очень крепкий снюс со вкусом Медовой дыни,

@@ -1,8 +1,7 @@
 ---
 title: faff-cocos
 date: 2020-07-16 21:10:00 Z
-position: 48
-position-brand: 13
+position: 47
 title-seo: "Снюс Faff Кокос 100 мг \U0001F965 купить в Украине"
 descr: "Faff кокос \U0001F965 — очень крепкий снюс, заявлено 100 мг никотина. В банке
   25-29 белых порций. Порции слим."
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-cocos.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 100
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
   href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
   alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+position-brand: 13
 ---
 
 Снюс Faff кокос 🥥 — самый трендовый вкус этого лета. Заявленная **крепость 100 мг**. В банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм. Порции белые, не оставляют следов на зубах. Не содержит табак.
