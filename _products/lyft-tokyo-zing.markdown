@@ -1,7 +1,7 @@
 ---
 title: lyft tokyo zing
 date: 2021-06-07 11:45:00 Z
-position: 13
+position: 17
 title-seo: "Lyft Tokyo Zing Snus со вкусом имбиря и лимона\U0001F34B"
 descr: "Лифт Токио — белый снюс со вкусом имбиря и нотками лимона \U0001F34B. В банке
   24 белые порции Slim формата. Крепость 14 мг/г 3-точки."
