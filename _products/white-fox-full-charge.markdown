@@ -1,7 +1,7 @@
 ---
 title: white-fox-full-charge
 date: 2020-03-23 11:58:00 Z
-position: 42
+position: 60
 title-seo: White Fox Full Charge All White снюс
 descr: Белый снюс с приятным вкусом сладкой мяты. Крепость 16.5 мг никотина, но ощущается
   немного слабее Lyft ice cool. В банке 20 порций и они не slim (большие порции).
@@ -15,8 +15,8 @@ price: 210
 opt-price: 167
 new-price: 160
 image: "/img/products/white-fox-full-charge.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: '16,5'
 portions: 20
