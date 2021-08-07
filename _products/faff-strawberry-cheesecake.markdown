@@ -1,8 +1,7 @@
 ---
 title: FAFF Strawberry Cheesecake
 date: 2020-07-24 11:34:00 Z
-position: 47
-position-brand: 18
+position: 96
 title-seo: Снюс FAFF Strawberry Cheesecake (Клубничный чизкейк)
 descr: Снюс FAFF Strawberry Cheesecake — крепость 75 мг, в банке ±29 темно-розовые
   порций, порции тоненькие и маленькие. Вкус на любителя.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-strawberry-cheesecake.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
@@ -30,6 +29,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   75 mg\"></a>\n\t<a href=\"/faff-tropic-storm\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-tropic.jpg\" alt=\"Snus Faff тропические фрукты 100
   mg\"></a>\n</div>"
+position-brand: 18
 ---
 
 Снюс FAFF Strawberry Cheesecake (Клубничный пирог) — осталось только купить кофе) Что будет если взять нежнейший клубничный чизкейк, максимально сконцентрировать его вкус и пропитать им действительно качественные никпаки? Получится FAFF STRAWBERRY CHEESECAKE. В банке **25-29 порций** темно-розового цвета slim формата. Крепость **75 мг**.
