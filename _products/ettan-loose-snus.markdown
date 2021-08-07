@@ -1,7 +1,7 @@
 ---
 title: Ettan Loose Snus
 date: 2019-03-29 20:01:00 Z
-position: 158
+position: 66
 title-seo: Ettan Loose Snus купить в Киеве Снюс
 descr: Рассыпной снюс Ettan.   42 грамма в банке, крепость 7.5 мг. Никотиновый удар
   плавный и долгий. Вкус идеально сбалансирован с мягким табаком, солью и оттенком
@@ -14,8 +14,8 @@ composition: Рассыпной
 price: 215
 opt-price: 200
 image: "/img/products/loose-ettan-snus.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 42
 nicotine: 7.5
 portions: loose
