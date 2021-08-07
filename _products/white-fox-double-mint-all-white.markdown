@@ -16,8 +16,8 @@ price: 200
 opt-price: 180
 new-price: 160
 image: "/img/products/fox-all-whie-dm.png"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 15
 nicotine: 17
 portions: 20
