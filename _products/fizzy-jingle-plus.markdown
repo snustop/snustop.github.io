@@ -13,8 +13,8 @@ composition: e-sigarety
 stock-list: Лучший выбор
 price: 215
 image: "/img/products/pod/fizzy/fizzy-jungle-plus.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 5%
 portions: 700 тяг
