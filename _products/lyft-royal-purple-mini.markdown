@@ -1,7 +1,7 @@
 ---
 title: Lyft Royal Purple Mini
 date: 2020-11-06 23:34:00 Z
-position: 146
+position: 147
 title-seo: "Lyft Royal Purple \U0001F347 Mini "
 descr: "Снюс лифт со вкусом красного винограда\U0001F347. В банке 20 порций белого
   цвета мини формата. Крепость 12 мг/г. Аромат длится около 45 минут."
