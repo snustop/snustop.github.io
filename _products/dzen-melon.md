@@ -10,9 +10,7 @@ product-alt: Снюс Dzen Melon
 strong: Очень крепкий
 brand: Dzen
 composition: Белый
-stock-list: Акция
 price: 200
-new-price: 180
 image: "/img/products/dzen/dzen-melon.jpg"
 availability-descr: В наличии
 has_availability: true
