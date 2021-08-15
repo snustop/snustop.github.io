@@ -1,8 +1,7 @@
 ---
 title: FAFF isabella
 date: 2020-07-24 12:41:00 Z
-position: 54
-position-brand: 20
+position: 76
 title-seo: Снюс FAFF IZABELLA (виноград)
 descr: Снюс FAFF IZABELLA со вкусом винограда. В банке ±29 порций белого цвета, крепость
   75 мг. Порции слим.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-isabella.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
   href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
   alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+position-brand: 20
 ---
 
 Снюс FAFF IZABELLA — бестабачная жевательная смесь со вкусом <b>винограда</b>. Крепость <b>75 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета.
