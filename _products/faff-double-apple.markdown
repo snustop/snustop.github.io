@@ -1,7 +1,7 @@
 ---
 title: FAFF double apple
 date: 2020-07-24 12:41:00 Z
-position: 71
+position: 72
 title-seo: Снюс FAFF Double-Apple (кисло-сладкое яблоко)
 descr: Снюс FAFF Double-Apple со вкусом кисло-сладкого яблока. В банке ±29 порций
   белого цвета, крепость 75 мг. Порции слим.
