@@ -1,7 +1,7 @@
 ---
 title: snus-candy-shop-iced-coffee
 date: 2020-10-01 20:31:00 Z
-position: 29
+position: 28
 title-seo: "Снюс Candy shop \U0001F368☕️ Iced coffee (Глясе)"
 descr: Снюс кенди Iced coffee (Глясе) с крепость 120 мг никотина. 20 порций бледно-коричневого
   цвета.
