@@ -1,7 +1,7 @@
 ---
 title: FAFF isabella
 date: 2020-07-24 12:41:00 Z
-position: 79
+position: 63
 title-seo: Снюс FAFF IZABELLA (виноград)
 descr: Снюс FAFF IZABELLA со вкусом винограда. В банке ±29 порций белого цвета, крепость
   75 мг. Порции слим.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-isabella.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 75
 portions: "±29"
