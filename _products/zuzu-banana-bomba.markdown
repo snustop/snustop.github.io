@@ -2,7 +2,6 @@
 title: zuzu-banana-bomba
 date: 2020-12-15 07:23:00 Z
 position: 49
-position-brand: 8
 title-seo: "Снюс Zuzu Banana Bomba \U0001F34C\U0001F353"
 descr: "Zuzu Banana Bomba — снюс от бренда Faff. Вкус: банан замиксованный с клубникой\U0001F34C\U0001F353.
   Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные вкусы
@@ -28,6 +27,8 @@ similar-product_body: "<p>Вам могут понравится и другие
   href=\"/zuzu-summer\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/zuzu/zuzu-summer.png\"
   alt=\"Zuzu summer\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy снюс\"></a>\n</div>"
+position-brand: 8
+brand-add: Zuzu
 ---
 
 Zuzu Banana Bomba — бестабачная смесь от известного бренда [Faff](/faff) со вкусом банана и с клубники🍌🍓.<br>
