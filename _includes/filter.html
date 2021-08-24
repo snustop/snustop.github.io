@@ -17,13 +17,15 @@
 				<li {% if page.url == '/siberia' %} class="active" {% endif %}><a href="/siberia">Siberia</a></li>
 				<li {% if page.url == '/lyft' %} class="active" {% endif %}><a href="/lyft">Lyft (new Epok)</a></li>
 				<li {% if page.url == '/odens' %} class="active" {% endif %}><a href="/odens">Odens</a></li>
-				<li {% if page.url == '/epok' %} class="active" {% endif %}><a href="/epok">Epok</a></li>
 				<li {% if page.url == '/swedish-match' %} class="active" {% endif %}><a href="/swedish-match">Swedish Match</a></li>
 				<li {% if page.url == '/thunder' %} class="active" {% endif %}><a href="/thunder">Thunder</a></li>
 				<li {% if page.url == '/coruvs' %} class="active" {% endif %}><a href="/corvus">Corvus</a></li>
 				<li {% if page.url == '/faff' %} class="active" {% endif %}><a href="/faff">Faff</a></li>
+				<li {% if page.url == '/faff-randm' %} class="active" {% endif %}><a href="/faff-randm">Randm by Faff</a></li>
 				<li {% if page.url == '/arqa' %} class="active" {% endif %}><a href="/arqa">Arqa</a></li>
 				<li {% if page.url == '/snus-dzen' %} class="active" {% endif %}><a href="/snus-dzen">Dzen</a></li>
+				<li {% if page.url == '/zuzu' %} class="active" {% endif %}><a href="/zuzu">Zuzu</a></li>
+				<li {% if page.url == '/epok' %} class="active" {% endif %}><a href="/epok">Epok</a></li>
 				<li {% if page.url == '/other-brands' %} class="active" {% endif %}><a href="/other-brands">Другие бренды</a></li>
 			</ul>
 		</div>
@@ -72,20 +74,27 @@
 		<button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 			Бренд
 		</button>
-		<ul class="dropdown-menu">
-			<li><a class="dropdown-item {% if page.url == '/siberia' %}active{% endif %}" href="/siberia"><img src="/img/products/siberia-white-dry.png" alt="siberia snus"> Siberia</a></li>
-			<li><a class="dropdown-item {% if page.url == '/lyft' %}active{% endif %}" href="/lyft"><img src="/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png" alt="Snus Lyft">Lyft</a></li>
-			<li><a class="dropdown-item {% if page.url == '/odens' %}active{% endif %}" href="/odens"><img src="/img/products/odens-cold-dry.png" alt="Snus Odens">Odens</a></li>
-			<li><a class="dropdown-item {% if page.url == '/thunder' %}active{% endif %}" href="/thunder"><img src="/img/products/thunder-x-slim-white-dry.png" alt="Snus Thunder">Thunder</a></li>
-			<li><a class="dropdown-item {% if page.url == '/swedish-match' %}active{% endif %}" href="/swedish-match"><img src="/img/products/general-classic-extra-strong-portion.png" alt="Snus General">Swedish Match</a></li>
-			<li class="dropdown-divider"></li>
-			<li><a class="dropdown-item {% if page.url == '/corvus' %}active{% endif %}" href="/corvus"><img src="/img/products/corvus-brutal-snus.jpg" alt="Snus Corvus">Corvus</a></li>
-			<li><a class="dropdown-item {% if page.url == '/faff' %}active{% endif %}" href="/faff"><img src="/img/products/faff-energy-cola.png" alt="Snus Faff">Faff</a></li>
-			<li><a class="dropdown-item {% if page.url == '/arqa' %}active{% endif %}" href="/arqa"><img src="/img/products/arqa/arqa-cola.jpg" alt="Snus Arqa">Arqa</a></li>
-			<li><a class="dropdown-item {% if page.url == '/snus-dzen' %}active{% endif %}" href="/snus-dzen"><img src="/img/products/dzen/dzen-mint.jpg" alt="Snus Dzen">Dzen</a></li>
-			<li class="dropdown-divider"></li>
-			<li><a class="dropdown-item {% if page.url == '/other-brands' %}active{% endif %}" href="/other-brands">Другие бренды</a></li>
-		</ul>
+		<div class="dropdown-menu dropdown-menu-right">
+			<div class="d-flex">
+				<ul>
+					<li><a class="dropdown-item {% if page.url == '/siberia' %}active{% endif %}" href="/siberia"><img src="/img/products/siberia-white-dry.png" alt="siberia snus"> Siberia</a></li>
+					<li><a class="dropdown-item {% if page.url == '/lyft' %}active{% endif %}" href="/lyft"><img src="/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png" alt="Snus Lyft">Lyft</a></li>
+					<li><a class="dropdown-item {% if page.url == '/odens' %}active{% endif %}" href="/odens"><img src="/img/products/odens-cold-dry.png" alt="Snus Odens">Odens</a></li>
+					<li><a class="dropdown-item {% if page.url == '/thunder' %}active{% endif %}" href="/thunder"><img src="/img/products/thunder-x-slim-white-dry.png" alt="Snus Thunder">Thunder</a></li>
+					<li><a class="dropdown-item {% if page.url == '/swedish-match' %}active{% endif %}" href="/swedish-match"><img src="/img/products/general-classic-extra-strong-portion.png" alt="Snus General">Swedish Match</a></li>
+					<li><a class="dropdown-item {% if page.url == '/other-brands' %}active{% endif %}" href="/other-brands">Другие бренды</a></li>
+				</ul>
+				<ul>
+					<li><a class="dropdown-item {% if page.url == '/faff' %}active{% endif %}" href="/faff"><img src="/img/products/faff-energy-cola.png" alt="Snus Faff">Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/faff-randm' %}active{% endif %}" href="/faff-randm"><img src="/img/products/rm/RM_Gums-Watermelon.png" alt="Snus Randm by Faff">Randm by Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/zuzu' %}active{% endif %}" href="/zuzu"><img src="/img/products/zuzu/zuzu-berry.png" alt="Snus Zuzu by Faff">Zuzu by Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/arqa' %}active{% endif %}" href="/arqa"><img src="/img/products/arqa/arqa-cola.jpg" alt="Snus Arqa">Arqa</a></li>
+					<li><a class="dropdown-item {% if page.url == '/snus-dzen' %}active{% endif %}" href="/snus-dzen"><img src="/img/products/dzen/dzen-mint.jpg" alt="Snus Dzen">Dzen</a></li>
+					<li><a class="dropdown-item {% if page.url == '/corvus' %}active{% endif %}" href="/corvus"><img src="/img/products/corvus-brutal-snus.jpg" alt="Snus Corvus">Corvus</a></li>
+					<li><a class="dropdown-item {% if page.url == '/candy-shop-snus' %}active{% endif %}" href="/candy-shop-snus"><img src="/img/products/candy/candy-mango-peach.jpg" alt="Snus Candy Shop">Candy Shop</a></li>
+				</ul>
+			</div>
+		</div>
 	</div>
 
 	<div class="btn-group mr-1">
