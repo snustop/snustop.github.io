@@ -12,3 +12,6 @@ layout: filter-brand
 ---
 
 Снюс ZUZU by FAFF линейка очень крепких никпаков. Крепость 150 мг. По ощущениям крепче чем faff 150 mg, из-за того что в одном пакете больше содержимого. Но пакетов в банке меньше. Порции slim формата разных цветов.
+<div class="mb-3">
+	<img class="img-fluid" src="/img/products/zuzu/zuzu-open.jpg" alt="Снюс zuzu">
+</div>
