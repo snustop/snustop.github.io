@@ -1,6 +1,7 @@
 ---
 title: faff-randm
 date: 2021-08-24 17:55:00 Z
+permalink: "/faff-randm"
 title-seo: 'RANDM by FAFF снюс 150 мг купить в Украине '
 descr: Снюс RANDM от Faff - линейка очень крепких никпаков. Крепость 150 мг. Цветные
   порции слим формата. Очень крепкий снюс.
