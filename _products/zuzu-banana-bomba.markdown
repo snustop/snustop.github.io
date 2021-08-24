@@ -10,6 +10,7 @@ product-name: Zuzu Banana Bomba
 product-alt: Zuzu Banana Bomba
 strong: Очень крепкий
 brand: Faff
+brand-add: Zuzu
 price: 210
 opt-price: 190
 image: "/img/products/zuzu/zuzu-bannana.png"
@@ -28,7 +29,6 @@ similar-product_body: "<p>Вам могут понравится и другие
   alt=\"Zuzu summer\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy снюс\"></a>\n</div>"
 position-brand: 8
-brand-add: Zuzu
 ---
 
 Zuzu Banana Bomba — бестабачная смесь от известного бренда [Faff](/faff) со вкусом банана и с клубники🍌🍓.<br>
