@@ -1,7 +1,7 @@
 ---
 title: Iceberg Cherry
 date: 2020-10-08 16:46:00 Z
-position: 85
+position: 116
 title-seo: "Снюс Iceberg Cherry \U0001F352"
 descr: "Снюс айсберг со вкусом вишни \U0001F352. Крепость 75 мг никотина. 20 белых
   порций. Порции slim - тонкие."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-cherry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: 20
