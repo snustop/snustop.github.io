@@ -1,0 +1,76 @@
+---
+permalink: instock-snus
+title-seo: Снюс в наличии | Купить снюс в Украине
+descr: Снюс в наличии! Широкий ассортимент Odens, Epok, Siberia, Thunder, General,  Skruf
+  и другие. Доставка в любую точку Украины. Звоните 0675680230
+keywords: снюс, шведский снюс
+filter-name-h2: Снюс в наличии
+layout: compress
+---
+
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+
+
+		<div class="container">
+			<main class="margin-top-2rem">
+
+				<div class="row">
+					<div class="col-lg-3">
+						{% include filter.html %}
+					</div>
+					<div class="col-lg-9">
+						<main class="catalog" id="pjax-container">
+
+							<section>
+								<h2>{{ page.filter-name-h2 }}</h2>
+							</section>
+
+							<table class="table table-sm">
+								<caption>Таблица наличия {{page.filter-composition-list }}</caption>
+								<thead>
+									{% include table-products-thead.html %}
+								</thead>
+								<tbody>
+									<!-- сразу вывводим то что в наличии product.has_availability == true START-->
+									{% assign sorted_items = site.products | sort: "position" | where: "has_availability", true %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == true %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!-- сразу вывводим то что в наличии product.has_availability == true END-->
+
+									<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
+
+									<!--  вывводим то чего нет в наличии product.has_availability == false END-->
+								</tbody>
+
+							</table>
+
+						</main>
+						
+					</div>
+				</div>
+
+			</main>
+		</div>
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+
+	{% include foot-scripts.html %}
