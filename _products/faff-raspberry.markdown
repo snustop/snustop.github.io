@@ -1,8 +1,7 @@
 ---
 title: FAFF Raspberry
 date: 2020-07-24 12:41:00 Z
-position: 61
-position-brand: 19
+position: 98
 title-seo: Снюс FAFF Ароматная малина RASPBERRY JINGLE
 descr: Снюс FFAFF RASPBERRY со вкусом ароматной малины. В банке ±29 порций белого
   цвета, крепость 75 мг. Порции слим.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-raspberry.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/faff-cocos.jpg\" alt=\"faff cocos 100
   mg\"></a>\n\t<a href=\"/faff-dark-night\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
+position-brand: 19
 ---
 
 Снюс FAFF Ароматная малина — бестабачная жевательная смесь со вкусом <b>малины</b>. Крепость <b>75 мг</b>. В банке <b>±29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
