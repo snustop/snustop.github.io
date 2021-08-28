@@ -1,0 +1,116 @@
+<article class="filter d-none d-lg-block">
+	<h2 id="filter-btn-slide">Фильтр товаров <i class="icon-down-open"></i></h2>
+	<div id="filters-wrap">
+		<div class="item-filter">
+			<h3>Крепость</h3>
+			<ul>
+				<li {% if page.url == '/ultra-strong' %} class="active" {% endif %} ><a href="/ultra-strong">Очень крепкий</a></li>
+				<li {% if page.url == '/strong' %} class="active" {% endif %}><a href="/strong">Крепкий</a></li>
+				<li {% if page.url == '/normal-strong' %} class="active" {% endif %}><a href="/normal-strong">Средний</a></li>
+				<li {% if page.url == '/low-strong' %} class="active" {% endif %}><a href="/low-strong">Легкий</a></li>
+				<li {% if page.url == '/free-strong' %} class="active" {% endif %}><a href="/free-strong">Безникотиновый</a></li>
+			</ul>
+		</div>
+		<div class="item-filter">
+			<h3>Бренд</h3>
+			<ul>
+				<li {% if page.url == '/siberia' %} class="active" {% endif %}><a href="/siberia">Siberia</a></li>
+				<li {% if page.url == '/lyft' %} class="active" {% endif %}><a href="/lyft">Lyft (new Epok)</a></li>
+				<li {% if page.url == '/odens' %} class="active" {% endif %}><a href="/odens">Odens</a></li>
+				<li {% if page.url == '/swedish-match' %} class="active" {% endif %}><a href="/swedish-match">Swedish Match</a></li>
+				<li {% if page.url == '/thunder' %} class="active" {% endif %}><a href="/thunder">Thunder</a></li>
+				<li {% if page.url == '/coruvs' %} class="active" {% endif %}><a href="/corvus">Corvus</a></li>
+				<li {% if page.url == '/faff' %} class="active" {% endif %}><a href="/faff">Faff</a></li>
+				<li {% if page.url == '/faff-randm' %} class="active" {% endif %}><a href="/faff-randm">Randm by Faff</a></li>
+				<li {% if page.url == '/arqa' %} class="active" {% endif %}><a href="/arqa">Arqa</a></li>
+				<li {% if page.url == '/snus-dzen' %} class="active" {% endif %}><a href="/snus-dzen">Dzen</a></li>
+				<li {% if page.url == '/zuzu' %} class="active" {% endif %}><a href="/zuzu">Zuzu</a></li>
+				<li {% if page.url == '/epok' %} class="active" {% endif %}><a href="/epok">Epok</a></li>
+				<li {% if page.url == '/other-brands' %} class="active" {% endif %}><a href="/other-brands">Другие бренды</a></li>
+			</ul>
+		</div>
+
+		<div class="item-filter">
+			<h3>Вид снюса</h3>
+			<ul>
+				<li {% if page.url == '/all-white-snus' %} class="active" {% endif %}><a href="/all-white-snus">Белый снюс</a></li>
+				<li {% if page.url == '/white-dry-snus' %} class="active" {% endif %}><a href="/white-dry-snus">White Dry</a></li>
+				<li {% if page.url == '/original-snus' %} class="active" {% endif %}><a href="/original-snus">Коричневые порции</a></li>
+				<li {% if page.url == '/loose-snus' %} class="active" {% endif %}><a href="/loose-snus">Рассыпной</a></li>
+				<li {% if page.url == '/elektronnye-sigarety' %} class="active" {% endif %}><a href="/elektronnye-sigarety">Pod-системы</a></li>
+			</ul>
+		</div>
+		<div class="item-filter">
+			<h3>Ассортимент</h3>
+			<ul>
+				<li {% if page.url == '/best-snus' %} class="active" {% endif %}><a href="/best-snus">Лучший выбор</a></li>
+				<li {% if page.url == '/sale-snus' %} class="active" {% endif %}><a href="/sale-snus">Акция</a></li>
+				<li {% if page.url == '/instock-snus' %} class="active" {% endif %}><a href="/instock-snus">Снюс в наличии</a></li>
+				<li><a href="/snus-all">Все товары</a></li>
+			</ul>
+		</div>
+
+	</div>
+</article>
+
+
+<article id="filter-mobile" class="d-lg-none">
+
+	<div class="btn-group mr-1">
+		<button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Крепость
+		</button>
+		<ul class="dropdown-menu">
+			<li><a class="dropdown-item {% if page.url == '/ultra-strong' %}active{% endif %}" href="/ultra-strong">Очень крепкий 🔴</a></li>
+			<li><a class="dropdown-item {% if page.url == '/strong' %}active{% endif %}" href="/strong">Крепкий 🔵</a></li>
+			<li><a class="dropdown-item {% if page.url == '/normal-strong' %}active{% endif %}" href="/normal-strong">Средний 🟡</a></li>
+			<li><a class="dropdown-item {% if page.url == '/low-strong' %}active{% endif %}" href="/low-strong">Низкой крепости ⚪</a></li>
+			<li class="dropdown-divider"></li>
+			<li><a class="dropdown-item" href="/snus-all">Все товары</a></li>
+		</ul>
+	</div>
+
+	<div class="btn-group mr-1">
+		<button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Бренд
+		</button>
+		<div class="dropdown-menu dropdown-menu-right">
+			<div class="d-flex">
+				<ul>
+					<li><a class="dropdown-item {% if page.url == '/siberia' %}active{% endif %}" href="/siberia"><img src="/img/products/siberia-white-dry.png" alt="siberia snus"> Siberia</a></li>
+					<li><a class="dropdown-item {% if page.url == '/lyft' %}active{% endif %}" href="/lyft"><img src="/img/products/lyft-ice-cool-strong-mint-slim-all-white-portion.png" alt="Snus Lyft">Lyft</a></li>
+					<li><a class="dropdown-item {% if page.url == '/odens' %}active{% endif %}" href="/odens"><img src="/img/products/odens-cold-dry.png" alt="Snus Odens">Odens</a></li>
+					<li><a class="dropdown-item {% if page.url == '/thunder' %}active{% endif %}" href="/thunder"><img src="/img/products/thunder-x-slim-white-dry.png" alt="Snus Thunder">Thunder</a></li>
+					<li><a class="dropdown-item {% if page.url == '/swedish-match' %}active{% endif %}" href="/swedish-match"><img src="/img/products/general-classic-extra-strong-portion.png" alt="Snus General">Swedish Match</a></li>
+					<li><a class="dropdown-item {% if page.url == '/other-brands' %}active{% endif %}" href="/other-brands">Другие бренды</a></li>
+				</ul>
+				<ul>
+					<li><a class="dropdown-item {% if page.url == '/faff' %}active{% endif %}" href="/faff"><img src="/img/products/faff-energy-cola.png" alt="Snus Faff">Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/faff-randm' %}active{% endif %}" href="/faff-randm"><img src="/img/products/rm/RM_Gums-Watermelon.png" alt="Snus Randm by Faff">Randm by Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/zuzu' %}active{% endif %}" href="/zuzu"><img src="/img/products/zuzu/zuzu-berry.png" alt="Snus Zuzu by Faff">Zuzu by Faff</a></li>
+					<li><a class="dropdown-item {% if page.url == '/arqa' %}active{% endif %}" href="/arqa"><img src="/img/products/arqa/arqa-cola.jpg" alt="Snus Arqa">Arqa</a></li>
+					<li><a class="dropdown-item {% if page.url == '/snus-dzen' %}active{% endif %}" href="/snus-dzen"><img src="/img/products/dzen/dzen-mint.jpg" alt="Snus Dzen">Dzen</a></li>
+					<li><a class="dropdown-item {% if page.url == '/corvus' %}active{% endif %}" href="/corvus"><img src="/img/products/corvus-brutal-snus.jpg" alt="Snus Corvus">Corvus</a></li>
+					<li><a class="dropdown-item {% if page.url == '/candy-shop-snus' %}active{% endif %}" href="/candy-shop-snus"><img src="/img/products/candy/candy-mango-peach.jpg" alt="Snus Candy Shop">Candy Shop</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="btn-group mr-1">
+		<button type="button" class="btn btn-sm btn-light dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+			Вид
+		</button>
+		<ul class="dropdown-menu dropdown-menu-right">
+			<li><a class="dropdown-item {% if page.url == '/all-white-snus' %}active{% endif %}" href="/all-white-snus"><img src="/img/composition/mini/all-white-portion.jpg" alt="All white snus"> Белый снюс</a></li>
+			<li><a class="dropdown-item {% if page.url == '/white-dry-snus' %}active{% endif %}" href="/white-dry-snus"><img src="/img/composition/mini/wite-dry-large.jpg" alt="White Dry portion"> White Dry</a></li>
+			<li><a class="dropdown-item {% if page.url == '/original-snus' %}active{% endif %}" href="/original-snus"><img src="/img/composition/mini/original.jpg" alt="origianl portion"> Brown portion</a></li>
+			<li><a class="dropdown-item {% if page.url == '/loose-snus' %}active{% endif %}" href="/loose-snus"><img src="/img/composition/mini/prilla_los.jpg" alt="Loose snus"> Loose (рассыпной)</a></li>
+			<li><a class="dropdown-item {% if page.url == '/faff-apple-energy' %}active{% endif %}" href="/faff-apple-energy">🍏 Яблоки в никотине</a></li>
+			<li><a class="dropdown-item {% if page.url == '/elektronnye-sigarety' %}active{% endif %}" href="/elektronnye-sigarety">💨 Pod-системы</a></li>
+		</ul>
+	</div>
+
+	<a class="btn btn-link btn-sm" href="/sale-snus" role="button">Скидки</a>
+
+</article>
