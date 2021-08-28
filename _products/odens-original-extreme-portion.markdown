@@ -13,8 +13,8 @@ composition: Оригинальный
 price: 180
 opt-price: 167
 image: "/img/products/odens-original-extreme-portion-snus.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 18
 nicotine: 22
 portions: 18-20
