@@ -1,7 +1,7 @@
 ---
 title: Odens Cold Extreme Loose
 date: 2020-09-08 13:23:00 Z
-position: 116
+position: 77
 title-seo: Odens Cold Extreme Loose | Рассыпной снюс
 descr: Odens Cold Extreme Loose — это рассыпной снюс высокой крепости с охлаждающим
   ароматом настоящих мятных масел. Крепость 22 мг/г.  В банке 40 грамм.
@@ -13,8 +13,8 @@ composition: Рассыпной
 price: 220
 opt-price: 200
 image: "/img/products/odens-cold-extreme-loose.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 40
 nicotine: 22
 portions: "-"
