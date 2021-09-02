@@ -1,0 +1,107 @@
+{% include head.html %}
+<body>
+
+	<div class="content">
+
+		{% include header.html %}
+
+		{% include top-line.html %}
+
+
+		<div class="container">
+			<main class="margin-top-2rem">
+
+				<div class="row">
+					<div class="col-lg-3">
+						{% include filter.html %}
+					</div>
+					<div class="col-lg-9">
+						<main class="catalog" id="pjax-container">
+
+							<section>
+								<h2>{{ page.filter-name-h2 }}</h2>
+								{{ content }}
+							</section>
+
+							<table class="table table-sm">
+								<caption>Таблица наличия {{page.filter-name-h2}}</caption>
+								<thead>
+									{% include table-products-thead.html %}
+								</thead>
+								<tbody>
+									<!-- сразу вывводим то что в наличии product.has_availability == true START-->
+									{% assign sorted_items = site.products | sort: "position" | where: "nicotine", page.filter-nicotine %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == true %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!-- сразу вывводим то что в наличии product.has_availability == true END-->
+
+									<!-- сразу вывводим то что в наличии EXTRA никотин product.has_availability == true START-->
+									{% assign sorted_items = site.products | sort: "position" | where: "nicotine", page.filter-nicotine-extra %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == true %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!-- сразу вывводим то что в наличии EXTRA никотин product.has_availability == true END-->
+
+									<!-- сразу вывводим то что в наличии EXTRA-2 никотин product.has_availability == true START-->
+									{% assign sorted_items = site.products | sort: "position" | where: "nicotine", page.filter-nicotine-extra-2 %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == true %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!-- сразу вывводим то что в наличии EXTRA-2 никотин product.has_availability == true END-->
+
+									<!-- сразу вывводим то что в наличии EXTRA-3 никотин product.has_availability == true START-->
+									{% assign sorted_items = site.products | sort: "position" | where: "nicotine", page.filter-nicotine-extra-3 %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == true %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!-- сразу вывводим то что в наличии EXTRA-3 никотин product.has_availability == true END-->
+
+									<!--  вывводим то чего нет в наличии product.has_availability == false Start-->
+									{% assign sorted_items = site.products | sort: "position" | where: "nicotine", page.filter-nicotine %}
+									{% for product in sorted_items %}
+
+									{% if product.has_availability == false %}
+									{% include item-product-table.html %}
+									{% endif %}
+
+									{% endfor %}
+									<!--  вывводим то чего нет в наличии product.has_availability == false END-->
+								</tbody>
+
+							</table>
+
+						</main>
+						
+					</div>
+				</div>
+
+			</main>
+		</div>
+	</div>
+
+	{% include modal-cart.html %}
+
+	{% include modal-contact.html %}
+
+	{% include arrow-to-top.html %}
+
+	{% include footer.html %}
+
+	{% include foot-scripts.html %}
