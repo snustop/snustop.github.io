@@ -1,7 +1,7 @@
 ---
 title: randm-lemon-ginger
 date: 2020-12-15 07:23:00 Z
-position: 54
+position: 88
 title-seo: "Снюс RANDM by Faff \U0001F34BLEMON GINGER"
 descr: Снюс RANDM со вкусом лимона и имбиря. Крепость 150 мг. Порции слим. От бренда
   Faff.
@@ -9,12 +9,11 @@ product-name: "RANDM \U0001F34BLEMON GINGER"
 product-alt: Снюс RANDM LEMON GINGER
 strong: Очень крепкий
 brand: Faff
-brand-add: Randm
 price: 210
 opt-price: 190
 image: "/img/products/rm/RM_Lemon-Ginger.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 150
 portions: 20-25
@@ -27,6 +26,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   href=\"/zuzu-banana-bomba\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/zuzu/zuzu-bannana.png\"
   alt=\"Zuzu банан клубника\"></a>\n\t<a href=\"/faff-snus-energy\"><img style=\"width:32%\"
   class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff Energy снюс\"></a>\n</div>"
+brand-add: Randm
 position-brand: 10
 ---
 
