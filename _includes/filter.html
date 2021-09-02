@@ -9,6 +9,11 @@
 				<li {% if page.url == '/normal-strong' %} class="active" {% endif %}><a href="/normal-strong">Средний</a></li>
 				<li {% if page.url == '/low-strong' %} class="active" {% endif %}><a href="/low-strong">Легкий</a></li>
 				<li {% if page.url == '/free-strong' %} class="active" {% endif %}><a href="/free-strong">Безникотиновый</a></li>
+				<li class="dropdown-divider"></li>
+				<li {% if page.url == '/snus-150mg' %} class="active" {% endif %}><a href="/snus-150mg">150 mg</a></li>
+				<li {% if page.url == '/snus-100mg' %} class="active" {% endif %}><a href="/snus-100mg">120-100 mg</a></li>
+				<li {% if page.url == '/snus-75mg' %} class="active" {% endif %}><a href="/snus-75mg">±75 mg</a></li>
+				<li {% if page.url == '/snus-50mg' %} class="active" {% endif %}><a href="/snus-50mg">±50 mg</a></li>
 			</ul>
 		</div>
 		<div class="item-filter">
@@ -25,6 +30,7 @@
 				<li {% if page.url == '/arqa' %} class="active" {% endif %}><a href="/arqa">Arqa</a></li>
 				<li {% if page.url == '/snus-dzen' %} class="active" {% endif %}><a href="/snus-dzen">Dzen</a></li>
 				<li {% if page.url == '/zuzu' %} class="active" {% endif %}><a href="/zuzu">Zuzu</a></li>
+				<li {% if page.url == '/snus-monarch' %} class="active" {% endif %}><a href="/snus-monarch">Monarch</a></li>
 				<li {% if page.url == '/epok' %} class="active" {% endif %}><a href="/epok">Epok</a></li>
 				<li {% if page.url == '/other-brands' %} class="active" {% endif %}><a href="/other-brands">Другие бренды</a></li>
 			</ul>
@@ -66,6 +72,11 @@
 			<li><a class="dropdown-item {% if page.url == '/normal-strong' %}active{% endif %}" href="/normal-strong">Средний 🟡</a></li>
 			<li><a class="dropdown-item {% if page.url == '/low-strong' %}active{% endif %}" href="/low-strong">Низкой крепости ⚪</a></li>
 			<li class="dropdown-divider"></li>
+			<li><a class="dropdown-item {% if page.url == '/snus-150mg' %}active{% endif %}" href="/snus-150mg">150 mg</a></li>
+			<li><a class="dropdown-item {% if page.url == '/snus-100mg' %}active{% endif %}" href="/snus-100mg">120-100 mg</a></li>
+			<li><a class="dropdown-item {% if page.url == '/snus-75mg' %}active{% endif %}" href="/snus-75mg">±75 mg</a></li>
+			<li><a class="dropdown-item {% if page.url == '/snus-50mg' %}active{% endif %}" href="/snus-50mg">±50 mg</a></li>
+			<li class="dropdown-divider"></li>
 			<li><a class="dropdown-item" href="/snus-all">Все товары</a></li>
 		</ul>
 	</div>
@@ -92,6 +103,7 @@
 					<li><a class="dropdown-item {% if page.url == '/snus-dzen' %}active{% endif %}" href="/snus-dzen"><img src="/img/products/dzen/dzen-mint.jpg" alt="Snus Dzen">Dzen</a></li>
 					<li><a class="dropdown-item {% if page.url == '/corvus' %}active{% endif %}" href="/corvus"><img src="/img/products/corvus-brutal-snus.jpg" alt="Snus Corvus">Corvus</a></li>
 					<li><a class="dropdown-item {% if page.url == '/candy-shop-snus' %}active{% endif %}" href="/candy-shop-snus"><img src="/img/products/candy/candy-mango-peach.jpg" alt="Snus Candy Shop">Candy Shop</a></li>
+					<li><a class="dropdown-item {% if page.url == '/snus-monarch' %}active{% endif %}" href="/snus-monarch"><img src="/img/products/monarch/monarch-rasb.png" alt="Snus Монарх">Monarch</a></li>
 				</ul>
 			</div>
 		</div>
