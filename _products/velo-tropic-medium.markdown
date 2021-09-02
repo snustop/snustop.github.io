@@ -1,7 +1,7 @@
 ---
 title: velo-tropic-medium
 date: 2021-05-10 11:31:00 Z
-position: 16
+position: 14
 title-seo: "Velo tropic medium \U0001F96D\U0001F334"
 descr: Velo Tropic Breeze — белые никотиновые подушечки крепостью 8 мг со вкусом тропических
   фруктов (маракуя, манго и мандаринов). В банке 20 порций.
