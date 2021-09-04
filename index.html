@@ -51,16 +51,18 @@ article-schema-org: '<script type="application/ld+json"> { "@context": "https://
 							<!-- PRODUCTS start -->
 							<!-- PRODUCT START -->
 							{% assign sorted_items = site.products | sort:"position" %}
-							{% for product in sorted_items offset:0 limit:1 %}
+							{% for product in sorted_items offset:0 limit:4 %}
 							
 							{% include item-product.html %}
 
 							{% endfor %}
 
+							<div class=" col-md-4 col-6 "> <article class="product text-center rounded"> <div class="product-link"> <span class="wrap-img"> <a href="/faff"> <img src="/img/products/faff/faff-all.png" alt="FAFF 65-150 mg никотина все вкусы"> </a> </span> <a href="/faff"> <h3 class="item_name">FAFF 65-150 мг все вкусы</h3> </a> </div> <div class="price">210 грн</div> <div class="product-info bg-light small"> <div class="row justify-content-between align-items-center"> <div class="col-6"> <span class="strength">Очень крепкий</span><br> </div> <div class="col-6"> <span>±29</span><br>порций</div> </div> </div> <div class="product-btn"> <a class="bg-primary" href="/faff">Смотреть вкусы</a> </div> </article> </div>
+
 <!-- 							<div class="col-md-4 col-6"> <article class="product text-center rounded"> <div class="product-link"> <span class="wrap-img"> <a href="#konkursModal" data-toggle="modal" data-target="#konkursModal"> <img src="/img/other-photo/konkurs-tg-5cans.jpg" alt="Розыгрыш в телеграмме 5-ти банок"> </a> </span> <a href="#konkursModal" data-toggle="modal" data-target="#konkursModal"> <h3>Розыгрыш 5-ти банок</h3> </a> </div> <div class="price item_price">+18 🔞</div> <div class="product-info bg-light small"> <div class="row justify-content-between align-items-center"> <div class="col-6"> <span class="strength">Крепкий</span><br> </div> <div class="col-6"> <span>24</span><br>порций </div> </div> </div> <div class="product-btn"> <a class="bg-primary" href="#konkursModal" data-toggle="modal" data-target="#konkursModal">Подробнее <i class="icon-telegram"></i></a> </div> </article> </div> -->
 
 							{% assign sorted_items = site.products | sort:"position" %}
-							{% for product in sorted_items offset:1 limit:17 %}
+							{% for product in sorted_items offset:4 limit:17 %}
 							
 							{% include item-product.html %}
 
