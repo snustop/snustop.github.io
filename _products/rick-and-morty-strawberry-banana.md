@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-strawberry-banana
-position: 80
+position: 79
 title-seo: "Rick and morty 1700 Банан и Клубника\U0001F353\U0001F34C"
 descr: "Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Банан
   и Клубника\U0001F353\U0001F34C"

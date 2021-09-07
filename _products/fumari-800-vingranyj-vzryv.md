@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-vingranyj-vzryv
-position: 51
+position: 50
 title-seo: "Fumari pods 800 Виноградный взрыв\U0001F347\U0001F4A5"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Виноградный взрыв\U0001F347\U0001F4A5"
 product-name: "Fumari 800\U0001F4A8 Виноградный взрыв\U0001F347\U0001F4A5"
