@@ -1,7 +1,7 @@
 ---
 title: nictech-tropic-mix
 date: 2020-11-21 23:29:00 Z
-position: 158
+position: 194
 title-seo: Снюс Nictech Tropic Mix 60 mg — белая бестабачная жевательная смесь в тоненьких
   пакетиках, со вкусом тропических фруктов. Крепость 60 мг, в банке 20 порций.
 descr: Снюс Nictech Tropic Mix
