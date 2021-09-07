@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-peach-ice
-position: 89
+position: 83
 title-seo: Rick and morty 1700 персиковый лед
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом персиковый
   лед
@@ -8,11 +8,11 @@ product-name: Randm персиковый лед
 product-alt: Rick and morty Randm персиковый лед
 strong: Крепкий
 brand: RandM
-price: 240
 composition: e-sigarety
+price: 240
 image: "/img/products/odnorazki/rick/rick-and-morty-peach-ice.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 2%
 portions: 1700 тяг

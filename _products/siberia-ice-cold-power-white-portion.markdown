@@ -1,7 +1,7 @@
 ---
 title: siberia-ice-cold-power-white-portion
 date: 2018-03-05 11:05:00 Z
-position: 205
+position: 241
 title-seo: Siberia -80°C  ICE COLD POWER White Snus
 descr: Синяя сибирь по крепости между odens cold dry и siberia white dry, пакетики
   очень приятные и немного увлажненные. Отправка по Украине и в Киев.

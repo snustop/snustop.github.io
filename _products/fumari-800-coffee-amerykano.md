@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-coffee-amerykano
-position: 45
+position: 64
 title-seo: Fumari pods 800 Кофе американо ☕
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Кофе американо ☕
 product-name: "Fumari 800\U0001F4A8 Кофе американо ☕"

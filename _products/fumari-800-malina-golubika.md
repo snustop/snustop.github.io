@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-malina-golubika
-position: 45
+position: 58
 title-seo: Fumari pods 800 Малина голубика
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Малина голубика
 product-name: "Fumari 800\U0001F4A8 Малина голубика"
