@@ -1,7 +1,7 @@
 ---
 title: Faff tropic storm
 date: 2020-07-24 09:05:00 Z
-position: 102
+position: 101
 position-brand: 12
 title-seo: Снюс FAFF Тропический микс Tropic Storm
 descr: FAFF Tropic Storm — очень крепкий снюс, 100 мг никотина.  В банке ±29 порций
