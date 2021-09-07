@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-pink-lemonade
-position: 78
+position: 77
 title-seo: Rick and morty 1700 Пинк Лимонад
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Пинк Лимонад
 product-name: Randm Пинк Лимонад
