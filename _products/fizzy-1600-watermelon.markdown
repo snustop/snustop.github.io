@@ -1,7 +1,7 @@
 ---
 title: fizzy-1600-watermelon
 date: 2021-06-20 08:47:00 Z
-position: 142
+position: 141
 title-seo: "Одноразки Fizzi 1600 тяг\U0001F525"
 descr: Одноразовые электронные сигареты Fizzy Puff Plus Jungle на 700 затяжек. Более
   30 вкусов. 5% никотина.

@@ -1,17 +1,17 @@
 ---
 title: fumari-pod-800-dynya-ice
-position: 61
+position: 144
 title-seo: "Fumari pods 800 Дыня айс\U0001F348\U0001F9CA"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Дыня айс\U0001F348\U0001F9CA"
 product-name: "Fumari 800\U0001F4A8 Дыня айс\U0001F348\U0001F9CA"
 product-alt: "Fumari pods 800 Дыня айс\U0001F348\U0001F9CA"
 strong: Крепкий
 brand: Fumari
-price: 240
 composition: e-sigarety
+price: 240
 image: "/img/products/odnorazki/fumari/800/fumari-800-dynya-ice.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг
