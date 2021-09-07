@@ -1,7 +1,7 @@
 ---
 title: wow-summer-honey-white-dry-explosion
 date: 2018-04-20 20:02:00 Z
-position: 98
+position: 129
 title-seo: WOW! Summer Honey White Dry Explosion в Украине
 descr: Мега-крепкий снюс WOW! Summer Honey White Dry Explosion с приятным вкусом меда
   - в Украине. Крепость 43 мг никотина, 15 грамм табака в банке, 16 порций.  Вкус
@@ -14,8 +14,8 @@ composition: Dry
 price: 200
 opt-price: 185
 image: "/img/products/wow-summer-honey-white-dry-explosion.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 15
 nicotine: 43
 portions: 16-17
