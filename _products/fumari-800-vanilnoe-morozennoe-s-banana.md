@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-vanilnoe-morozennoe-s-banana
-position: 51
+position: 50
 title-seo: "Fumari pods 800 Ванильное мороженое с бананом\U0001F366\U0001F34C"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Ванильное мороженое
   с бананом\U0001F366\U0001F34C"
