@@ -7,7 +7,7 @@ descr: ️RandM Rick and morty электронная сигарета на 1700
 keywords: Rick and morty pods
 filter-name-h2: Rick and morty ️RandM pods
 filter-brand-list: RandM
-layout: filter-brand
+layout: filter-brand-cell
 ---
 
 Электронка Rick and morty RandM max 1700 - компактный и удобный одноразовый POD с регулятором воздушного потока и подсветкой. Просто покрути кончик дудки и отрегулируй тягу так, как тебе нравится. Уникальный дизайн с Риком и Морти.
