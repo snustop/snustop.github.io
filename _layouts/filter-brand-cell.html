@@ -24,12 +24,29 @@
 							</section>
 
 							<div class="row">
+								<!-- сразу выводим в наличии -->
 								{% assign sorted_items = site.products | sort:"position" | where: "brand", page.filter-brand-list%}
 							{% for product in sorted_items %}
 							
-							{% include item-product.html %}
+							{% if product.has_availability == true %}
+									{% include item-product.html %}
+							{% endif %}
+							
 
 							{% endfor %}
+							<!-- сразу выводим в наличии -->
+
+								<!--  выводим чего нет в наличии -->
+								{% assign sorted_items = site.products | sort:"position" | where: "brand", page.filter-brand-list%}
+							{% for product in sorted_items %}
+							
+							{% if product.has_availability == false %}
+									{% include item-product.html %}
+							{% endif %}
+							
+
+							{% endfor %}
+							<!-- выводим чего нет в наличии -->
 							</div>
 
 						</main>
