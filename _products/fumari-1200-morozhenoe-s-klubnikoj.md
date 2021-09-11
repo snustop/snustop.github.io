@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-morozhenoe-s-klubnikoj
-position: 144
+position: 175
 title-seo: "Fumari pods 1200 Мороженое с клубникой\U0001F367"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом клубничного мороженого\U0001F367"
 product-name: "Fumari 1200 Мороженое с клубникой\U0001F367"
