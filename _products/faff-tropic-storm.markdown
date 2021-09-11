@@ -1,8 +1,7 @@
 ---
 title: Faff tropic storm
 date: 2020-07-24 09:05:00 Z
-position: 136
-position-brand: 12
+position: 134
 title-seo: Снюс FAFF Тропический микс Tropic Storm
 descr: FAFF Tropic Storm — очень крепкий снюс, 100 мг никотина.  В банке ±29 порций
   белого цвета. Вкус тропических фруктов.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-tropic-storm.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается на днях
+has_availability: false
 gramm: "-"
 nicotine: 100
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/gummy.jpg\" alt=\"faff gummy 150 mg\"></a>\n\t<a
   href=\"/faff-pink-lemonade\"><img style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff/faff-lemonade.jpg\"
   alt=\"Snus Faff Lemonade 150 mg\"></a>\n</div>"
+position-brand: 12
 ---
 
 Снюс FAFF Тропический микс — сухая порционная супер крепкая бестабачная смесь со вкусом апельсин-манго, крепость 100 мг. В банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм.

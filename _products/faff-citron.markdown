@@ -1,8 +1,7 @@
 ---
 title: FAFF citron
 date: 2020-07-24 12:41:00 Z
-position: 8
-position-brand: 16
+position: 116
 title-seo: Снюс FAFF Citron (спрайт)
 descr: Снюс FAFF Citron (спрайт) со вкусом лайм-лимон. В банке 25-29 порций белого
   цвета, крепость 75 мг. Порции слим.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-citron.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается на днях
+has_availability: false
 gramm: "-"
 nicotine: 75
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/faff-cocos.jpg\" alt=\"faff cocos 100
   mg\"></a>\n\t<a href=\"/faff-dark-night\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-dark.jpg\" alt=\"Snus FAFF Dark Night 100 mg\"></a>\n</div>"
+position-brand: 16
 ---
 
 Снюс FAFF Citron — бестабачная жевательная смесь со вкусом <b>лайм-лимон</b>. Крепость <b>75 мг</b>. В банке <b>25-29 порций</b>, но порции маленькие, вес каждой 0,6 грамм. Пакеты белого цвета. Не содержит табака и не является снюсом.
