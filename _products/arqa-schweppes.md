@@ -1,7 +1,7 @@
 ---
 title: Arqa Schweppes
 date: 2020-09-10 13:27:00 Z
-position: 130
+position: 14
 title-seo: Arqa Schweppes | Снюс Арка Швепс
 descr: Снюс Arqa Schweppes – это бестабачная жевательная смесь со вкусом напитка Schweppes.
   Крепость 70 мг. 20 порций бледно-оранжевого цвета.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-schweppes.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
