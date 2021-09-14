@@ -9,7 +9,7 @@ strong: Крепкий
 brand: Fumari
 composition: e-sigarety
 price: 290
-image: "/img/products/odnorazki/fumari/1200/fumari-1200-sladkij-arbuz.png"
+image: "/img/products/odnorazki/fumari/1200/fumari-1200-tiramisu.png"
 availability-descr: В наличии
 has_availability: true
 gramm: "-"
