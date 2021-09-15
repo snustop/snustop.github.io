@@ -5,7 +5,7 @@ position: 14
 title-seo: Offroad X White Dry Arctic Explorer Снюс
 descr: Offroad X White Dry — очень крепкий снюс, содержащий 45 мг никотина. 20 порций.
   Порции white dry - что обеспечивает длительный аромат и минимальный потек слюны.
-product-name: Offroad X White Dry Arctic Explorer
+product-name: Offroad X White Dry 45 мг
 product-alt: Offroad X White Dry Arctic Explorer Snus
 strong: Очень крепкий
 brand: Other Brands
