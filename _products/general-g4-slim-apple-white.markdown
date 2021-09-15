@@ -1,11 +1,11 @@
 ---
 title: general-g4-slim-apple-white
 date: 2018-07-27 16:21:00 Z
-position: 21
+position: 17
 title-seo: "G4 Apple \U0001F34F Mint Slim All White Snus | Яблчный снюс"
 descr: "Белый снюс General G.4, приятный яблочный \U0001F34F вкус с нотками мяты.
   24 тонких пакетика содержащий белый табак. Крепость 19 мг никотина."
-product-name: "G4 яблоко-мята \U0001F34F Slim All White"
+product-name: "G4 яблоко-мята \U0001F34F УЦЕНКА"
 product-alt: G.4 FU:ZN Slim All White Extra Strong Portion
 strong: Крепкий
 brand: Swedish Match
