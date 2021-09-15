@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-ananas-limonad
-position: 164
+position: 250
 title-seo: "Fumari pods 1200 ананасовый лимонад\U0001F34D\U0001F34B"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом ананасового лимонада\U0001F34D\U0001F34B"
 product-name: "Fumari 1200 ананасового лимонада\U0001F34D\U0001F34B"
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-ananas-limonad.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
