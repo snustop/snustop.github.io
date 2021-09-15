@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-lesnoj-oreh
-position: 174
+position: 173
 title-seo: "Fumari pods 1200 Лесной орех\U0001F330"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Лесного ореха\U0001F330"
 product-name: "Fumari 1200 Лесной орех\U0001F330"
