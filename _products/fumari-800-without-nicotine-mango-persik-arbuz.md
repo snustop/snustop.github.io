@@ -4,7 +4,7 @@ position: 154
 title-seo: "Fumari pods 800 0% никотина Манго персик арбуз\U0001F351\U0001F349\U0001F96D"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Манго персик арбуз\U0001F351\U0001F349\U0001F96D.
   Без никотина."
-product-name: "Fumari 800 Манго персик арбуз\U0001F351\U0001F349\U0001F96D"
+product-name: "Fumari 800 Манго персик арбуз\U0001F351\U0001F349\U0001F96D 0%"
 product-alt: "Fumari pods 800 Манго персик арбуз\U0001F351\U0001F349\U0001F96D"
 strong: Без никотина
 brand: Fumari

@@ -1,18 +1,18 @@
 ---
 title: fumari-800-without-nicotine-morozhenoe-s-klubnikoj
-position: 155
+position: 250
 title-seo: "Fumari pods 800 0% никотина мороженое с клубникой\U0001F367"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом мороженое с клубникой\U0001F367.
   Без никотина."
-product-name: "Fumari 800 мороженое с клубникой\U0001F367"
+product-name: "Fumari 800 мороженое с клубникой\U0001F367 0%"
 product-alt: "Fumari pods 800 мороженое с клубникой\U0001F367"
 strong: Без никотина
 brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-morozhenoe-s-klubnikoj.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 0%
 portions: 800 тяг
