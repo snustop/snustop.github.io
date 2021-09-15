@@ -3,7 +3,7 @@ title: fumari-800-without-nicotine-tabak
 position: 161
 title-seo: Fumari pods 800 0% никотина табак
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом табака. Без никотина.
-product-name: Fumari 800 табак
+product-name: Fumari 800 табак 0%
 product-alt: Fumari pods 800 табак
 strong: Без никотина
 brand: Fumari

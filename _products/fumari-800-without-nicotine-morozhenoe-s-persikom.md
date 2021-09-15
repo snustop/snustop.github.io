@@ -1,18 +1,18 @@
 ---
 title: fumari-800-without-nicotine-morozhenoe-s-persikom
-position: 156
+position: 250
 title-seo: "Fumari pods 800 0% никотина Мороженое с персиком\U0001F366"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Мороженое с персиком\U0001F366\U0001F351.
   Без никотина."
-product-name: "Fumari 800 Мороженое с персиком\U0001F366\U0001F351"
+product-name: "Fumari 800 Мороженое с персиком\U0001F366\U0001F351 0%"
 product-alt: "Fumari pods 800 Мороженое с персиком\U0001F366\U0001F351"
 strong: Без никотина
 brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-morozhenoe-s-persikom.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 0%
 portions: 800 тяг
