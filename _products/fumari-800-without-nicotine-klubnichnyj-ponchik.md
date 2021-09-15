@@ -4,7 +4,7 @@ position: 151
 title-seo: "Fumari pods 800 0% никотина клубничный пончик\U0001F353\U0001F369"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом клубничный пончик\U0001F353\U0001F369.
   Без никотина."
-product-name: "Fumari 800 клубничный пончик\U0001F353\U0001F369"
+product-name: "Fumari 800 клубничный пончик\U0001F353\U0001F369 0%"
 product-alt: "Fumari pods 800 клубничный пончик\U0001F353\U0001F369"
 strong: Без никотина
 brand: Fumari

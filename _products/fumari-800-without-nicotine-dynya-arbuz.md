@@ -1,18 +1,18 @@
 ---
 title: fumari-800-without-nicotine-dynya-arbuz
-position: 147
+position: 250
 title-seo: "Fumari pods 800 0% никотина дыня арбуз\U0001F348\U0001F349"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом дыня арбуз\U0001F348\U0001F349.
   Без никотина."
-product-name: "Fumari 800 дыня арбуз\U0001F348\U0001F349"
+product-name: "Fumari 800 дыня арбуз\U0001F348\U0001F349 0%"
 product-alt: "Fumari pods 800 дыня арбуз\U0001F348\U0001F349"
 strong: Без никотина
 brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-dynya-arbuz.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 0%
 portions: 800 тяг
