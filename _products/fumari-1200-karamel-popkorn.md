@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-karamel-popkorn
-position: 174
+position: 173
 title-seo: "Fumari pods 1200 карамельный попкорн\U0001F37F"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом карамельного попкорна\U0001F37F"
 product-name: "Fumari 1200 карамельный попкорн\U0001F37F"
