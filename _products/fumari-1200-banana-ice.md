@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-banana-ice
-position: 165
+position: 250
 title-seo: "Fumari pods 1200 банан айс\U0001F9CA\U0001F34C"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом банан айс\U0001F9CA\U0001F34C"
 product-name: "Fumari 1200 банан айс\U0001F9CA\U0001F34C"
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-banana-ice.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
