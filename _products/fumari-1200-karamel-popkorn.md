@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-karamel-popkorn
-position: 167
+position: 250
 title-seo: "Fumari pods 1200 карамельный попкорн\U0001F37F"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом карамельного попкорна\U0001F37F"
 product-name: "Fumari 1200 карамельный попкорн\U0001F37F"
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-karamel-popkorn.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
