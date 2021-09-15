@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-tiramisu
-position: 179
+position: 191
 title-seo: Fumari pods 1200 Тирамису
 descr: Fumari pods электронная сигарета на 1200 затяжек со вкусом Тирамису
 product-name: Fumari 1200 Тирамису

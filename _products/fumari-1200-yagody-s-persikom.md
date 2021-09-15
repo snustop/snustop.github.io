@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-yagody-s-persikom
-position: 182
+position: 194
 title-seo: "Fumari pods 1200 Ягоды с персиком\U0001F351"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Ягод с персиком\U0001F351"
 product-name: "Fumari 1200 Ягоды с персиком\U0001F351"

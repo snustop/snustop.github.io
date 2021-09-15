@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-pitaja-s-klubnikoj
-position: 157
+position: 169
 title-seo: Fumari pods 800 0% никотина питайа с клубникой
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом питайа с клубникой.
   Без никотина.
