@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-ogurec-ice
-position: 178
+position: 250
 title-seo: "Fumari pods 1200 Огурец айс\U0001F9CA\U0001F952"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Огурец айс\U0001F9CA\U0001F952"
 product-name: "Fumari 1200 Огурец айс\U0001F9CA\U0001F952"
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-ogurec-ice.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг

@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-sladkij-arbuz
-position: 181
+position: 250
 title-seo: "Fumari pods 1200 Сладкий арбуз \U0001F349"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Сладкого арбуза
   \U0001F349"
@@ -11,8 +11,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-sladkij-arbuz.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
