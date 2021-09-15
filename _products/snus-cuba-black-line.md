@@ -1,6 +1,6 @@
 ---
 title: snus cuba black line
-position: 5
+position: 6
 title-seo: Снюс Cuba black line 43 mg
 descr: Снюс Cuba black line – очень крепкие никотиновые подушечки черного цвета со
   вкусом ментола. 43мг.
