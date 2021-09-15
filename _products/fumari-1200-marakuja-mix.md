@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-marakuja-mix
-position: 176
+position: 250
 title-seo: Fumari pods 1200 Маракуйя микс
 descr: Fumari pods электронная сигарета на 1200 затяжек со вкусом Маракуйя микс
 product-name: Fumari 1200 Маракуйя микс
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-marakuja-mix.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
