@@ -1,6 +1,6 @@
 ---
 title: snus cuba white line
-position: 9
+position: 8
 title-seo: Снюс Cuba while line 20 mg nicotine pouches
 descr: Снюс Cuba white line – крепкие никотиновые подушечки белого цвета со вкусом
   ментола. 20мг.
