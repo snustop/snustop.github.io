@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-kiwi-klubnika-granat
-position: 179
+position: 177
 title-seo: "Fumari pods 1200 Киви клубника гранат\U0001F353\U0001F95D"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Киви клубника гранат\U0001F353\U0001F95D"
 product-name: "Fumari 1200 Киви клубника гранат\U0001F353\U0001F95D"

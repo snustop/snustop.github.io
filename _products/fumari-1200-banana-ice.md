@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-banana-ice
-position: 174
+position: 172
 title-seo: "Fumari pods 1200 банан айс\U0001F9CA\U0001F34C"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом банан айс\U0001F9CA\U0001F34C"
 product-name: "Fumari 1200 банан айс\U0001F9CA\U0001F34C"
