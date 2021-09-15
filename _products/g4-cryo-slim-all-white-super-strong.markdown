@@ -10,7 +10,6 @@ product-alt: G.4 CRYO Slim All White Super Strong
 strong: Крепкий
 brand: Swedish Match
 composition: Белый
-stock-list: Акция
 price: 215
 opt-price: 215
 image: "/img/products/g4-cryo-slim-all-white-super-strong.jpg"
