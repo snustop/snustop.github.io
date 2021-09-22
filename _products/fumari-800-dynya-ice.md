@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-dynya-ice
-position: 154
+position: 156
 title-seo: "Fumari pods 800 Дыня айс\U0001F348\U0001F9CA"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Дыня айс\U0001F348\U0001F9CA"
 product-name: "Fumari 800\U0001F4A8 Дыня айс\U0001F348\U0001F9CA"

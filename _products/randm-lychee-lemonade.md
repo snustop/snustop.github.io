@@ -1,7 +1,7 @@
 ---
 title: randm-lychee-lemonade
 date: 2020-12-15 07:23:00 Z
-position: 121
+position: 122
 title-seo: "Снюс RANDM by Faff \U0001F379LYCHEE LEMONADE"
 descr: Снюс RANDM со вкусом лимонада из личи. Крепость 150 мг. Порции слим. От бренда
   Faff.

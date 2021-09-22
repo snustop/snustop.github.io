@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/grant-ice-cool.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: '17,5'
 nicotine: 35
 portions: 24-27
