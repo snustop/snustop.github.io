@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-bubble-gum
-position: 162
+position: 209
 title-seo: Fumari pods 1200 бабл гам
 descr: Fumari pods электронная сигарета на 1200 затяжек со вкусом бабл гам
 product-name: Fumari 1200 бабл гам
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-bubble-gum.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается в пятницу
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
