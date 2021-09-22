@@ -1,7 +1,7 @@
 ---
 title: nictech-barberry
 date: 2020-11-21 23:29:00 Z
-position: 207
+position: 206
 title-seo: Снюс Nictech Barberry 60 mg — белая бестабачная жевательная смесь в тоненьких
   пакетиках, со вкусом барбариса. Крепость 60 мг, в банке 20 порций.
 descr: Снюс Nictech Barberry
