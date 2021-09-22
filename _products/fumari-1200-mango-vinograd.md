@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-mango-vinograd
-position: 164
+position: 165
 title-seo: "Fumari pods 1200 Манго виноград\U0001F96D\U0001F347"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Манго виноград\U0001F96D\U0001F347"
 product-name: "Fumari 1200 Манго виноград\U0001F96D\U0001F347"
