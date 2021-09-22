@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-morozhenoe-s-klubnikoj.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается в пятницу
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
