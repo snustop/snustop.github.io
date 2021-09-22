@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-banana-papaya
-position: 56
+position: 57
 title-seo: Fumari pods 800 Банан-Папайя
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Банан-Папайя\U0001F34C"
 product-name: "Fumari 800\U0001F4A8 Банан-Папайя\U0001F34C"
