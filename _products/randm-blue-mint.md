@@ -1,7 +1,7 @@
 ---
 title: randm-blue-mint
 date: 2020-12-15 07:23:00 Z
-position: 119
+position: 120
 title-seo: "Снюс RANDM by Faff \U0001F331BLUE MINT"
 descr: Снюс RANDM со вкусом черники и мяты. Крепость 150 мг. Порции слим. От бренда
   Faff.
