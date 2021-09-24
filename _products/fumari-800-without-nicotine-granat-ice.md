@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-granat-ice.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 0%
 portions: 800 тяг
