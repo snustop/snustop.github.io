@@ -1,7 +1,7 @@
 ---
 title: maskking-pro-strawberry-lychee
 date: 2021-03-23 12:41:00 Z
-position: 209
+position: 211
 title-seo: "Maskking pro Pod 1000 затяжек Клубника-личи \U0001F353"
 descr: "Pod Maskking Pro strawberry lychee \U0001F353 на 1000 затяжек. Крепость 20мг/мл.
   Встроенный датчик затяжки.  Аккумулятор на 650мАч."
