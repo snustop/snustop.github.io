@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-vinogradnyj-vzryv
-position: 241
+position: 119
 title-seo: "250 pods 800 0% никотина виноградный взрыв\U0001F347\U0001F4A5"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом виноградный взрыв\U0001F347\U0001F4A5.
   Без никотина."
@@ -11,7 +11,7 @@ brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-vinogradnyj-vzryv.png"
-availability-descr: Ожидается в пятницу
+availability-descr: В наличии
 has_availability: true
 gramm: "-"
 nicotine: 0%

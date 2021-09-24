@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-mango
-position: 240
+position: 241
 title-seo: "Fumari pods 800 0% никотина Манго \U0001F96D"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Манго \U0001F96D.
   Без никотина."
