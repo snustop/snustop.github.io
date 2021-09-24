@@ -1,7 +1,7 @@
 ---
 title: Arqa Mix Sweet Strawberry
 date: 2020-09-10 13:27:00 Z
-position: 83
+position: 147
 title-seo: "Арка клубника \U0001F353 | Снюс Arqa Mix Sweet Strawberry"
 descr: "Снюс Arqa Mix Sweet Strawberry – это бестабачная жевательная смесь со вкусом
   спелой клубники \U0001F353. Крепость 70 мг. 20 порций желто-белого цвета."
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-strawberry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
