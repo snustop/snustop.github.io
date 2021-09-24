@@ -14,7 +14,7 @@ image: "/img/products/cuba/cuba-white.jpg"
 availability-descr: В наличии
 has_availability: true
 gramm: 13
-nicotine: 43
+nicotine: 20
 portions: 18-20
 taste: двойная свежая мята
 form: Порционный, пакеты белого цвета
