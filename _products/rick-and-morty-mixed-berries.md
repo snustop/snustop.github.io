@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-mixed-berries
-position: 71
+position: 72
 title-seo: Rick and morty 1700 Ягодный микс
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Ягодный
   микс
