@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-bubble-gum
-position: 217
+position: 216
 title-seo: Fumari pods 1200 бабл гам
 descr: Fumari pods электронная сигарета на 1200 затяжек со вкусом бабл гам
 product-name: Fumari 1200 бабл гам

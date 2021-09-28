@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-mango-lichi
-position: 176
+position: 175
 title-seo: "Fumari pods 1200 Манго личи\U0001F96D"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Манго личи\U0001F96D"
 product-name: "Fumari 1200 Манго личи\U0001F96D"
