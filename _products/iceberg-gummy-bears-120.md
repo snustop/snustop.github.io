@@ -1,7 +1,7 @@
 ---
 title: Iceberg Gummy bears
 date: 2020-10-08 16:46:00 Z
-position: 174
+position: 185
 title-seo: Снюс Iceberg Gummy bears 120 мг
 descr: "Снюс айсберг со вкусом \U0001F9F8мармеладных мишек\U0001F9F8. Крепость 120
   мг никотина. В банке 20-25 порций."

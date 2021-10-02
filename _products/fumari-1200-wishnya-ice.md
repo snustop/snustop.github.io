@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-wishnya-ice
-position: 266
+position: 288
 title-seo: "Fumari pods 1200 Вишня айс\U0001F9CA\U0001F352"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Вишня айс\U0001F9CA\U0001F352"
 product-name: "Fumari 1200 Вишня айс\U0001F9CA\U0001F352"
