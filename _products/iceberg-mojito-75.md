@@ -28,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   src=\"/img/products/faff-cocos.png\" alt=\"Faff кокос\"></a>\n\t<a href=\"/faff-snus-energy\"><img
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/faff-energy.png\" alt=\"Faff
   Enedry\"></a>\n</div>"
+position-brand: 13
 ---
 
 Снюс iceberg со вкусом 🍋🌿мохито🍋🌿. Заявленная крепость 75 мг никотина. В банке 20 порций.<br> 
