@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-mango-vinograd
-position: 177
+position: 204
 title-seo: "Fumari pods 1200 Манго виноград\U0001F96D\U0001F347"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Манго виноград\U0001F96D\U0001F347"
 product-name: "Fumari 1200 Манго виноград\U0001F96D\U0001F347"
@@ -10,8 +10,8 @@ brand: Fumari
 composition: e-sigarety
 price: 290
 image: "/img/products/odnorazki/fumari/1200/fumari-1200-mango-vinograd.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 1200 тяг
