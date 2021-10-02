@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-granat-ice
-position: 51
+position: 54
 title-seo: Fumari pods 800 Гранат айс
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Гранат айс
 product-name: "Fumari 800\U0001F4A8 Гранат айс"
