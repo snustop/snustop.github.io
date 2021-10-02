@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-raspberry
-position: 139
+position: 138
 title-seo: Снюс Monarch strong Raspberry
 descr: Снюс Монарх со вкусом малины. Крепость 50 мг, 20 белых порций слим формата.
   Крепкий снюс.
@@ -10,8 +10,8 @@ strong: Очень крепкий
 brand: Monarch
 composition: Белый
 image: "/img/products/monarch/monarch-rasb.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 14
 nicotine: 50
 portions: "±20"

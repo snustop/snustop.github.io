@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-banana
-position: 38
+position: 204
 title-seo: "Снюс Monarch strong banana\U0001F34C"
 descr: "Снюс Монарх со вкусом банана\U0001F34C. Крепость 50 мг, 20 белых порций слим
   формата. Крепкий снюс."
@@ -10,8 +10,8 @@ strong: Очень крепкий
 brand: Monarch
 composition: Белый
 image: "/img/products/monarch/monarch-banana.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 14
 nicotine: 50
 portions: "±20"
