@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-sladkij-arbuz
-position: 253
+position: 264
 title-seo: "Fumari pods 1200 Сладкий арбуз \U0001F349"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Сладкого арбуза
   \U0001F349"

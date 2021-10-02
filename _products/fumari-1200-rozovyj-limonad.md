@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-rozovyj-limonad
-position: 252
+position: 263
 title-seo: "Fumari pods 1200 Розовый лимонад\U0001F964"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Розового лимонада\U0001F964"
 product-name: "Fumari 1200 Розовый лимонад\U0001F964"
