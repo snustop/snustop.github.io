@@ -1,6 +1,6 @@
 ---
 title: iceberg-snus
-permalink: iceberg-snus
+permalink: iceberg
 title-seo: Снюс Iceberg - Очень крепкий снюс
 descr: Снюс Iceberg — чрезвычайно крепкий снюс от 20 до 150 мг. Вкус энергетика, колы,
   попкорн, мармеладные мишки и много других.
