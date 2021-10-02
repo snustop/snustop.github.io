@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-karamelnyj-popkorn
-position: 69
+position: 68
 title-seo: "Fumari pods 800 0% никотина карамельный попкорн \U0001F37F"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом карамельный попкорн
   \U0001F37F. Без никотина."

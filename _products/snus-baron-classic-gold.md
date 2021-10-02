@@ -1,6 +1,6 @@
 ---
 title: snus baron classic gold
-position: 50
+position: 49
 title-seo: Снюс Baron Classic Gold 40 mg nicotine pouches
 descr: Снюс Baron Classic Gold – крепкие никотиновые подушечки белого цвета со вкусом
   свежей мяты. 22мг.

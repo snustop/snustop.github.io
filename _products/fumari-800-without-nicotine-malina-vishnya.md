@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-malina-vishnya
-position: 84
+position: 83
 title-seo: "Fumari pods 800 0% никотина малина вишня\U0001F352"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом малина вишня\U0001F352.
   Без никотина."
