@@ -1,7 +1,7 @@
 ---
 title: randm-gums-watermelon
 date: 2020-12-15 07:23:00 Z
-position: 132
+position: 131
 title-seo: "Снюс RANDM by Faff \U0001F349GUMS WATERMELON"
 descr: Снюс RANDM со вкусом арбузной жвачки. Крепость 150 мг. Порции слим. От бренда
   Faff.
