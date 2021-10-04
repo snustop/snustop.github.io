@@ -12,8 +12,8 @@ brand: Faff
 price: 210
 opt-price: 190
 image: "/img/products/rm/RM_Gums-Watermelon.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 150
 portions: 20-25
