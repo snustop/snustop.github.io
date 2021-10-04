@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-malina-vishnya
-position: 82
+position: 157
 title-seo: "Fumari pods 800 0% никотина малина вишня\U0001F352"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом малина вишня\U0001F352.
   Без никотина."
@@ -11,8 +11,8 @@ brand: Fumari
 composition: e-sigarety
 price: 240
 image: "/img/products/odnorazki/fumari/without-nicotine/fumari-800-without-nicotine-malina-vishnya.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 0%
 portions: 800 тяг
