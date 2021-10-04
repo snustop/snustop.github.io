@@ -1,8 +1,7 @@
 ---
 title: faff-pink-lemonade
 date: 2020-07-16 21:10:00 Z
-position: 32
-position-brand: 6
+position: 149
 title-seo: Снюс Faff Фруктовый Лимонад 150 мг купить в Украине
 descr: Faff Фруктовый Лимонад — очень крепкий снюс, заявлено 150 мг никотина. В банке
   ±30 белых порций. Порции слим.
@@ -14,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-pink-lemonade.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается в субботу
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: "±29"
@@ -29,6 +28,7 @@ similar-product_body: "<p>Вам могут понравится и другие
   class=\"img-fluid\" src=\"/img/products/faff/faff-orange.jpg\" alt=\"faff orange
   soda 150 mg\"></a>\n\t<a href=\"/faff-peach-tea\"><img style=\"width:32%\" class=\"img-fluid\"
   src=\"/img/products/faff/faff-peacj.jpg\" alt=\"Snus Faff Peach Tea 150 mg\"></a>\n</div>"
+position-brand: 6
 ---
 
 Снюс Faff Pink Lemonade — новый вкус этого лета. Заявленная **крепость 150 мг**, в банке **25-29 порций**, но порции маленькие, вес каждой 0,6 грамм. Порции белые, не оставляют следов на зубах.
