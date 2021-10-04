@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-raspberry
-position: 144
+position: 142
 title-seo: Снюс Monarch strong Raspberry
 descr: Снюс Монарх со вкусом малины. Крепость 50 мг, 20 белых порций слим формата.
   Крепкий снюс.
