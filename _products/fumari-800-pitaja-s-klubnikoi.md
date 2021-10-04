@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-pitaja-s-klubnikoi
-position: 156
+position: 157
 title-seo: Fumari pods 800 Питайа с клубникой
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Питайа с клубникой
 product-name: "Fumari 800\U0001F4A8 Питайа с клубникой"
