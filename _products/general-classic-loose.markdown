@@ -1,7 +1,7 @@
 ---
 title: general-classic-loose
 date: 2017-11-20 14:10:00 Z
-position: 199
+position: 125
 title-seo: General Classic Loose Extra Strong - Рассыпной снюс | Купить в Украине
 descr: Рассыпной снюс General Classic Loose купить в Украине. Отправка Новой Почтой.
   Звоните 0675680230
@@ -15,8 +15,8 @@ price: 220
 opt-price: 167
 new-price: 180
 image: "/img/products/general-classic-loose.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 48
 nicotine: 12
 portions: рассыпной
