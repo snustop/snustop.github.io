@@ -1,7 +1,7 @@
 ---
 title: Iceberg Cherry
 date: 2020-10-08 16:46:00 Z
-position: 222
+position: 245
 title-seo: "Снюс Iceberg Cherry \U0001F352 75 мг"
 descr: "Снюс айсберг со вкусом вишни \U0001F352. Крепость 75 мг никотина. 20 белых
   порций. Порции slim - тонкие."

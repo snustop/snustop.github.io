@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-chernaja-smorodina-s-vinogradom
-position: 277
+position: 300
 title-seo: Fumari pods 1200 черная смородина с виноградом
 descr: Fumari pods электронная сигарета на 1200 затяжек со вкусом черной смородины
   с виноградом
