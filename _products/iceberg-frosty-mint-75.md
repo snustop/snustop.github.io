@@ -1,7 +1,7 @@
 ---
 title: Iceberg Frosty mint
 date: 2020-10-08 16:46:00 Z
-position: 110
+position: 109
 title-seo: Снюс Iceberg Frosty mint 75 мг
 descr: "Снюс айсберг со вкусом \U0001F33Fледяной мяты\U0001F33F. Крепость 75 мг никотина.
   В банке 20 порций."
