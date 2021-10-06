@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-lichi-ice
-position: 50
+position: 49
 title-seo: Fumari pods 800 Личи айс
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Личи айс
 product-name: "Fumari 800\U0001F4A8 Личи айс"
