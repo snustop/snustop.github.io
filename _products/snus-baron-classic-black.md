@@ -6,7 +6,7 @@ descr: Снюс Baron Classic Black – крепкие никотиновые п
   мяты. 40мг.
 product-name: Baron Black 40 мг
 product-alt: Baron Classic Black 40 мг
-strong: Крепкий
+strong: Очень крепкий
 brand: Baron
 price: 175
 opt-price: 165
