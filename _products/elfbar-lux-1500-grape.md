@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-grape-1500
-position: 222
+position: 100
 title-seo: "Elf Bar Lux 1500 со вкусом винограда\U0001F347"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус виноград\U0001F347. 5% Английская
   версия."
@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-lux-1500-grape.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
