@@ -1,6 +1,6 @@
 ---
 title: elf-bar-cola-1500
-position: 231
+position: 6
 title-seo: "Elf Bar 1500 со вкусом колы\U0001F943"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус кола\U0001F943. 5% Английская версия."
 product-name: "Elf Bar 1500 кола\U0001F943"
@@ -10,8 +10,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-1500-cola.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг

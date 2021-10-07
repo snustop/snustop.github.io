@@ -1,6 +1,6 @@
 ---
 title: elf-bar-neon-rain-1500
-position: 230
+position: 7
 title-seo: "Elf Bar 1500 со вкусом тропические фрукты\U0001F308\U0001F334"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус тропические фрукты\U0001F308\U0001F334.
   5% Английская версия."
@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-1500-neon-rain.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
