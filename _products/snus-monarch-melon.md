@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-melon
-position: 33
+position: 34
 title-seo: "Снюс Monarch strong melon\U0001F348"
 descr: "Снюс Монарх со вкусом спелой дыни\U0001F348. Крепость 50 мг, 20 белых порций
   слим формата. Крепкий снюс."

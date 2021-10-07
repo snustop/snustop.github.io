@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-mishka-marmelad
-position: 42
+position: 43
 title-seo: Fumari pods 800 Мишка мармелад
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Мишка мармелад
 product-name: "Fumari 800\U0001F4A8 Мишка мармелад"
