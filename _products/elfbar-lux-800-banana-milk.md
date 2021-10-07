@@ -9,7 +9,7 @@ product-alt: "Elf Bar 800 со вкусом банан с молоком\U0001F3
 strong: Крепкий
 brand: Elfbar
 composition: e-sigarety
-price: 250
+price: 190
 image: "/img/products/odnorazki/elf/800/elfbar-lux-800-banana-milk.jpg"
 availability-descr: Ожидается
 has_availability: false

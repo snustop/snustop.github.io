@@ -1,6 +1,6 @@
 ---
 title: elf-bar-coffee-tobacco-800
-position: 209
+position: 100
 title-seo: "Elf Bar 800 со вкусом кофе с табаком☕️\U0001F331"
 descr: "Elf Bar на 800тяг, батарея 550mAh. Вкус кофе с табаком☕️\U0001F331. 5% Английская
   версия."
@@ -9,10 +9,10 @@ product-alt: "Elf Bar 800 со вкусом кофе с табаком☕️\U00
 strong: Крепкий
 brand: Elfbar
 composition: e-sigarety
-price: 250
+price: 190
 image: "/img/products/odnorazki/elf/800/elfbar-lux-800-coffee-tobacco.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 800 тяг

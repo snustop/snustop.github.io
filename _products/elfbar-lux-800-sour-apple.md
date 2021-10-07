@@ -9,7 +9,7 @@ product-alt: "Elf Bar 800 со вкусом Банановый лед\U0001F34F"
 strong: Крепкий
 brand: Elfbar
 composition: e-sigarety
-price: 250
+price: 190
 image: "/img/products/odnorazki/elf/800/elfbar-lux-800-sour-apple.jpg"
 availability-descr: Ожидается
 has_availability: false
