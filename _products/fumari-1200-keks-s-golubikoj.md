@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-keks-s-golubikoj
-position: 302
+position: 311
 title-seo: "Fumari pods 1200 кекс с голубикой\U0001F9C1"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом кекса с голубикой\U0001F9C1"
 product-name: "Fumari 1200 кекс с голубикой\U0001F9C1"

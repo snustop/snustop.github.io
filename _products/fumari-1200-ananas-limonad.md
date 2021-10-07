@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-ananas-limonad
-position: 299
+position: 308
 title-seo: "Fumari pods 1200 ананасовый лимонад\U0001F34D\U0001F34B"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом ананасового лимонада\U0001F34D\U0001F34B"
 product-name: "Fumari 1200 ананасового лимонада\U0001F34D\U0001F34B"

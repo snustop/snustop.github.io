@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-grape-1500
-position: 212
+position: 221
 title-seo: "Elf Bar Lux 1500 со вкусом винограда\U0001F347"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус виноград\U0001F347. 5% Английская
   версия."
