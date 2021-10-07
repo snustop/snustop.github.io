@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-kiwi-guava-passion-fruit-1500
-position: 219
+position: 220
 title-seo: "Elf Bar Lux 1500 со вкусом экзотические фрукты\U0001F334"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус экзотические фрукты\U0001F334. 5%
   Английская версия."

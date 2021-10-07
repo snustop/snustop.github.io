@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-mango-peach-watermelon-1500
-position: 218
+position: 219
 title-seo: Elf Bar Lux 1500 со вкусом манго, персика и арбуза
 descr: Elf Bar на 1500тяг, батарея 850mAh. Вкус манго, персик и арбуз. 5% Английская
   версия.

@@ -1,6 +1,6 @@
 ---
 title: elf-bar-coffee-tobacco-800
-position: 208
+position: 209
 title-seo: "Elf Bar 800 со вкусом кофе с табаком☕️\U0001F331"
 descr: "Elf Bar на 800тяг, батарея 550mAh. Вкус кофе с табаком☕️\U0001F331. 5% Английская
   версия."
