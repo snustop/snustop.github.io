@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-cola-ice
-position: 27
+position: 28
 title-seo: Rick and morty 1700 ледяная кола
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом ледяной
   колы
