@@ -1,7 +1,7 @@
 ---
 title: snus-candy-shop-cherry-brownie
 date: 2020-10-01 20:31:00 Z
-position: 55
+position: 54
 title-seo: "Снюс Candy shop \U0001F352 Cherry Brownie"
 descr: Снюс кенди Cherry Brownie (Вишнёвый Брауни) с крепость 120 мг никотина. 20
   порций бледно-коричневого цвета.

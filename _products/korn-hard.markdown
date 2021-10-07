@@ -1,7 +1,7 @@
 ---
 title: grant-korn-hard
 date: 2020-11-17 10:12:00 Z
-position: 99
+position: 101
 title-seo: "Grant Korn Hard \U0001F34A 50 mg"
 descr: "Снюс Korn Hard — качественный снюс со вкусом мяты \U0001F34A. Крепость 50
   мг никотина. В банке 24-27 порций белого цвета."

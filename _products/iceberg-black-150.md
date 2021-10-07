@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black
 date: 2020-10-08 16:46:00 Z
-position: 182
+position: 187
 title-seo: Снюс Iceberg Black 150 мг
 descr: "Снюс айсберг со вкусом \U0001F353ягодной жвачки\U0001F353. Крепость 150 мг
   никотина. В банке 20 порций."

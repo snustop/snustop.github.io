@@ -1,7 +1,7 @@
 ---
 title: grant-mint
 date: 2020-11-17 10:12:00 Z
-position: 99
+position: 98
 title-seo: "Grant Mint \U0001F34A 25 mg"
 descr: "Снюс Mint — качественный снюс со вкусом мяты \U0001F34A. Крепость 25 мг никотина.
   В банке 24-27 порций белого цвета."
