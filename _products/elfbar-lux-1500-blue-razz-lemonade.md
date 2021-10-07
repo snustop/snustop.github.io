@@ -1,6 +1,6 @@
 ---
 title: elf-bar-blue-razz-lemonade-1500
-position: 224
+position: 100
 title-seo: "Elf Bar Lux 1500 со вкусом лимонад из голубой малины\U0001F379"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус лимонад из голубой малины\U0001F379.
   5% Английская версия."
@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-lux-1500-blue-razz-lemonade.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
