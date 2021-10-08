@@ -18,7 +18,7 @@ has_availability: false
 gramm: '17,5'
 nicotine: 25
 portions: 24-27
-taste: "Мята \U0001F34A"
+taste: Мята
 form: Белый порции slim
 composition-product: Вода, соль, целлюлоза, никотиновый экстракт, поваренная сода,
   пищевой ароматизатор.
