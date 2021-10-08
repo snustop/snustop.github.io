@@ -1,7 +1,7 @@
 ---
 title: siberia-mini-white-dry
 date: 2021-08-28 00:20:00 Z
-position: 34
+position: 35
 title-seo: Красная Siberia mini
 descr: 'Снюс красная сибирь mini — очень крепкий шведски снюс,крепость 43 мг никотина,
   20 порций mini формата, пакеты серого цвета. Вкус: табачно-мятный.'

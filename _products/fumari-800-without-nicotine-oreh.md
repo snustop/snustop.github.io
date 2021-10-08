@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-oreh
-position: 76
+position: 77
 title-seo: "Fumari pods 800 0% никотина Орех\U0001F330"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Орех\U0001F330.
   Без никотина."
