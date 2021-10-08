@@ -1,11 +1,11 @@
 ---
 title: grant-wild-berry
 date: 2020-11-17 10:12:00 Z
-position: 117
-title-seo: "Grant Wild berry \U0001F34A 25 mg"
-descr: "Снюс Wild berry — качественный снюс со вкусом лесных ягод \U0001F34A. Крепость
-  25 мг никотина. В банке 24-27 порций белого цвета."
-product-name: "Grant Wild berry \U0001F34A 25 mg"
+position: 222
+title-seo: Snus Grant Wild berry 25 mg
+descr: Снюс Wild berry — качественный снюс со вкусом лесных ягод. Крепость 25 мг никотина.
+  В банке 24-27 порций белого цвета.
+product-name: Grant Wild berry 25 mg
 product-alt: Снюс Grant Wild berry
 strong: Крепкий
 brand: Grant
@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/grant-wild-berry.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '17,5'
 nicotine: 25
 portions: 24-27

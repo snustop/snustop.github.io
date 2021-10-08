@@ -1,7 +1,7 @@
 ---
 title: grant-Korn
 date: 2020-11-17 10:12:00 Z
-position: 119
+position: 118
 title-seo: "Grant Korn \U0001F34A 35 mg"
 descr: "Снюс Korn — качественный снюс со вкусом мяты \U0001F34A. Крепость 35 мг никотина.
   В банке 24-27 порций белого цвета."

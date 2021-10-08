@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-kokteil-pinacolada
-position: 135
+position: 134
 title-seo: "Fumari pods 800 0% никотина коктейль пина колада\U0001F379"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом коктейль пина колада\U0001F379.
   Без никотина."
