@@ -1,7 +1,7 @@
 ---
 title: Iceberg Ice cream
 date: 2020-10-08 16:46:00 Z
-position: 122
+position: 121
 title-seo: Снюс Iceberg Ice cream 120 мг
 descr: "Снюс айсберг со вкусом \U0001F366мороженого\U0001F366. Крепость 120 мг никотина.
   В банке 20-25 порций."
