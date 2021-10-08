@@ -1,7 +1,7 @@
 ---
 title: Arqa Banana Gum
 date: 2020-09-10 13:27:00 Z
-position: 180
+position: 181
 title-seo: Снюс Arqa Banana Gum 70 mg
 descr: "Снюс Arqa Banana Gum – снюс со вкусом \U0001F34Cбанановой жвачки. Крепость
   70 мг. В банке 20 порций."

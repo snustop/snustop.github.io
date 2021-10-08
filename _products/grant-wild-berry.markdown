@@ -1,7 +1,7 @@
 ---
 title: grant-wild-berry
 date: 2020-11-17 10:12:00 Z
-position: 114
+position: 115
 title-seo: "Grant Wild berry \U0001F34A 25 mg"
 descr: "Снюс Wild berry — качественный снюс со вкусом лесных ягод \U0001F34A. Крепость
   25 мг никотина. В банке 24-27 порций белого цвета."
