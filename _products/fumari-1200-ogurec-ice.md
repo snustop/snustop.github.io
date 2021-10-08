@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-ogurec-ice
-position: 315
+position: 335
 title-seo: "Fumari pods 1200 Огурец айс\U0001F9CA\U0001F952"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Огурец айс\U0001F9CA\U0001F952"
 product-name: "Fumari 1200 Огурец айс\U0001F9CA\U0001F952"

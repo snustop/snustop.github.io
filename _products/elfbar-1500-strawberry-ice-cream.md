@@ -1,6 +1,6 @@
 ---
 title: elf-bar-strawberry-ice-cream-1500
-position: 228
+position: 251
 title-seo: "Elf Bar 1500 со вкусом клубничное мороженое\U0001F368\U0001F353"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус клубничное мороженое\U0001F368\U0001F353.
   5% Английская версия."

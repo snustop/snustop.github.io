@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-koktel-pinakolada
-position: 49
+position: 51
 title-seo: "Fumari pods 800 Коктейль пина колада\U0001F379"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Коктейль пина колада\U0001F379"
 product-name: "Fumari 800\U0001F4A8 Коктейль пина колада\U0001F379"

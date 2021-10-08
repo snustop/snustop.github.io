@@ -1,7 +1,7 @@
 ---
 title: grant-hemp
 date: 2020-11-17 10:12:00 Z
-position: 97
+position: 100
 title-seo: "Grant Hemp \U0001F34A 25 mg"
 descr: "Снюс Hemp — качественный снюс со вкусом каннабиса \U0001F34A. Крепость 25
   мг никотина. В банке 24-27 порций белого цвета."

@@ -1,7 +1,7 @@
 ---
 title: Arqa Blueberry Muffin
 date: 2020-09-10 13:27:00 Z
-position: 169
+position: 178
 title-seo: Снюс Arqa Blueberry Muffin 70 mg
 descr: Снюс Arqa Blueberry Muffin – снюс со вкусом черничного маффина. Крепость 70
   мг. В банке 20 порций.
