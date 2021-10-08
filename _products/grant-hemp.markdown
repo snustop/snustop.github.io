@@ -2,10 +2,10 @@
 title: grant-hemp
 date: 2020-11-17 10:12:00 Z
 position: 11
-title-seo: "Grant Hemp \U0001F34A 25 mg"
-descr: "Снюс Hemp — качественный снюс со вкусом каннабиса \U0001F34A. Крепость 25
-  мг никотина. В банке 24-27 порций белого цвета."
-product-name: "Grant Hemp \U0001F34A 25 mg"
+title-seo: Grant Hemp 25 mg
+descr: Снюс Hemp — качественный снюс со вкусом каннабиса. Крепость 25 мг никотина.
+  В банке 24-27 порций белого цвета.
+product-name: Grant Hemp 25 mg
 product-alt: Снюс Grant Hemp
 strong: Крепкий
 brand: Grant
@@ -18,7 +18,7 @@ has_availability: true
 gramm: '17,5'
 nicotine: 25
 portions: 24-27
-taste: "Каннабис \U0001F34A"
+taste: Каннабис
 form: Белый порции slim
 composition-product: Вода, соль, целлюлоза, никотиновый экстракт, поваренная сода,
   пищевой ароматизатор.
