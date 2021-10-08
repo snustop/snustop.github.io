@@ -1,7 +1,7 @@
 ---
 title: lundgrens-cloudberries-10
 date: 2020-11-17 10:12:00 Z
-position: 229
+position: 230
 title-seo: Lundgrens fjallen swedish snus 10 mg
 descr: "Снюс Lundgrens cloudberries — качественный шведский снюс со вкусом морошки\U0001F352
   - это дикая малина. Крепость 10 мг никотина. 24 порции."
