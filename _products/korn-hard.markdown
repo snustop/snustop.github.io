@@ -2,10 +2,10 @@
 title: grant-korn-hard
 date: 2020-11-17 10:12:00 Z
 position: 221
-title-seo: "Grant Korn Hard \U0001F34A 50 mg"
-descr: "Снюс Korn Hard — качественный снюс со вкусом мяты \U0001F34A. Крепость 50
-  мг никотина. В банке 24-27 порций белого цвета."
-product-name: "Grant Korn Hard \U0001F34A 50 mg"
+title-seo: Grant Korn Hard 50 mg
+descr: Снюс Korn Hard — качественный снюс со вкусом мяты. Крепость 50 мг никотина.
+  В банке 24-27 порций белого цвета.
+product-name: Grant Korn Hard 50 mg
 product-alt: Снюс Grant Korn Hard
 strong: Очень крепкий
 brand: Grant
@@ -13,12 +13,12 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/korn-hard.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Нет в наличии
+has_availability: false
 gramm: '17,5'
 nicotine: 50
 portions: 24-27
-taste: "Мята \U0001F34A"
+taste: Мята
 form: Белый порции slim
 composition-product: Вода, соль, целлюлоза, никотиновый экстракт, поваренная сода,
   пищевой ароматизатор.
