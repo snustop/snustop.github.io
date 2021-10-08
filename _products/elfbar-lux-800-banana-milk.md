@@ -1,6 +1,6 @@
 ---
 title: elf-bar-banana-milk-800
-position: 241
+position: 240
 title-seo: "Elf Bar 800 со вкусом банан с молоком\U0001F34C\U0001F95B"
 descr: "Elf Bar на 800тяг, батарея 550mAh. Вкус банан с молоком\U0001F34C\U0001F95B.
   5% Английская версия."
