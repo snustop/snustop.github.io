@@ -1,7 +1,7 @@
 ---
 title: lundgrens-tobacco-and-mountain-flowers-17
 date: 2020-11-17 10:12:00 Z
-position: 231
+position: 232
 title-seo: Lundgrens norrland stark swedish snus 17 mg
 descr: "Снюс Lundgrens Tobacco and mountain flowers — качественный шведский снюс со
   вкусом табака и горных цветов\U0001F331\U0001F338. Крепость 17 мг никотина. В банке

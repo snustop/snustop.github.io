@@ -1,6 +1,6 @@
 ---
 title: elf-sour-apple-800
-position: 241
+position: 242
 title-seo: "Elf Bar 800 со вкусом зелёное яблоко\U0001F34F"
 descr: "Elf Bar на 800тяг, батарея 550mAh. Вкус зелёное яблоко\U0001F34F. 5% Английская
   версия."
