@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-dynya-arbuz
-position: 131
+position: 132
 title-seo: "Fumari pods 800 0% никотина дыня арбуз\U0001F348\U0001F349"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом дыня арбуз\U0001F348\U0001F349.
   Без никотина."

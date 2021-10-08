@@ -12,8 +12,8 @@ brand: Corvus
 price: 215
 opt-price: 194
 image: "/img/products/corvus/corvus-joker.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 50
 portions: "±29"
@@ -32,7 +32,7 @@ similar-product_body: "<p>Вам могут понравится и другие
 
 Corvus Joker Wild Berries со вкусом лесной ягоды. Заявлено 50 мг никотина на грамм. Порции тонкие и маленькие, 13 грамм смеси разбито примерно на ±29 порций. 
 Пакеты текут, вкус довольно приятный, но слюну не стоит глотать от российских производителей, несмотря на ее приятный вкус!
-Очень сильно прожигает губу. Резкий приторный запах. Эффект короткий, но крепость чувствуется, после держать невозможно плюешься постоянно, жжение слабое, но губу разъедает. Сладость довольно химозная. 
+Сильно прожигает губу. Резкий приторный запах. Эффект короткий, но крепость чувствуется, после держать невозможно плюешься постоянно, жжение сильное. Сладость довольно химозная. Крайне не рекомендуется новичкам.
 
 <div class="embed-responsive embed-responsive-16by9 mb-3">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/oFNbERqpRO0" allowfullscreen></iframe>

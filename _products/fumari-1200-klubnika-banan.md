@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-klubnika-banan
-position: 260
+position: 261
 title-seo: "Fumari pods 1200 Клубника банан \U0001F34C\U0001F353"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Клубники с бананом
   \U0001F34C\U0001F353"
