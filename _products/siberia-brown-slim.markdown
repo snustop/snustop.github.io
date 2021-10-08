@@ -1,7 +1,7 @@
 ---
 title: siberia-brown-slim
 date: 2017-11-20 16:27:00 Z
-position: 22
+position: 28
 title-seo: "Снюс коричневая\U0001F7E4 сибирь слим | Siberia Brown Slim"
 descr: Коричневая сибирь слим - 24 тонких пакетика, пакеты коричневого цвета. Крепость
   43 мг. Купить в Украине.
