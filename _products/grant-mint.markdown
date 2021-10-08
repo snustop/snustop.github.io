@@ -1,11 +1,11 @@
 ---
 title: grant-mint
 date: 2020-11-17 10:12:00 Z
-position: 112
-title-seo: "Grant Mint \U0001F34A 25 mg"
-descr: "Снюс Mint — качественный снюс со вкусом мяты \U0001F34A. Крепость 25 мг никотина.
-  В банке 24-27 порций белого цвета."
-product-name: "Grant Mint \U0001F34A 25 mg"
+position: 222
+title-seo: Grant Mint 25 mg
+descr: Снюс Mint — качественный снюс со вкусом мяты. Крепость 25 мг никотина. В банке
+  24-27 порций белого цвета.
+product-name: Grant Mint 25 mg
 product-alt: Снюс Grant Mint
 strong: Крепкий
 brand: Grant
@@ -13,8 +13,8 @@ composition: Белый
 price: 215
 opt-price: 200
 image: "/img/products/grant/grant-mint.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: '17,5'
 nicotine: 25
 portions: 24-27
