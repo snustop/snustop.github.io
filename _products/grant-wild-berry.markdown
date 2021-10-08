@@ -18,7 +18,7 @@ has_availability: false
 gramm: '17,5'
 nicotine: 25
 portions: 24-27
-taste: "Лесные ягоды \U0001F34A"
+taste: Лесные ягоды
 form: Белый порции slim
 composition-product: Вода, соль, целлюлоза, никотиновый экстракт, поваренная сода,
   пищевой ароматизатор.
