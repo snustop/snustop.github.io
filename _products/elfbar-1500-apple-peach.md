@@ -1,6 +1,6 @@
 ---
 title: elf-bar-apple-peach-1500
-position: 257
+position: 147
 title-seo: "Elf Bar 1500 со вкусом персик с яблоком\U0001F351\U0001F34F"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус персик с яблоком\U0001F351\U0001F34F.
   5% Английская версия."
@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-1500-apple-peach.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
