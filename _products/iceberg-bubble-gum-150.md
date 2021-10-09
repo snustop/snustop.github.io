@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-bubble-gum-150.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: 20-25
