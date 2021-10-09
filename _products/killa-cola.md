@@ -1,6 +1,6 @@
 ---
 title: killa-cola
-position: 221
+position: 219
 title-seo: Снюс Killa Cola
 descr: "Снюс Killa Cola \U0001F943. Крепость 16 мг никотина. В банке 20 порций белого
   цвета. Не содержит табак."

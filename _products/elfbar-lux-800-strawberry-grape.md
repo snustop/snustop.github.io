@@ -1,6 +1,6 @@
 ---
 title: elf-bar-strawberry-grape-800
-position: 246
+position: 243
 title-seo: "Elf Bar 800 со вкусом клубника с виноградом\U0001F353\U0001F347"
 descr: "Elf Bar на 800тяг, батарея 550mAh. Вкус клубника с виноградом\U0001F353\U0001F347.
   5% Английская версия."

@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Barberry
 date: 2020-09-10 13:27:00 Z
-position: 187
+position: 186
 title-seo: Снюс Arqa Cold Barberry 70 mg
 descr: Снюс Arqa Cold Barberry – снюс со вкусом холодного барбариса. Крепость 70 мг.
   В банке 20 порций.

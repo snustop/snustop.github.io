@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Dry
 date: 2020-09-10 13:27:00 Z
-position: 40
+position: 38
 title-seo: Снюс Arqa Cold Dry 70 mg
 descr: "Снюс Arqa Cold Dry – снюс с \U0001F33Fтабачно-мятным вкусом\U0001F33F. Крепость
   70 мг. В банке 20 порций."

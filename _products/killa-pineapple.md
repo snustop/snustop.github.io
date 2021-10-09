@@ -1,6 +1,6 @@
 ---
 title: killa-pineapple
-position: 224
+position: 222
 title-seo: Снюс Killa Pineapple
 descr: "Снюс Killa Pineapple \U0001F34D со вкусом ананаса. Крепость 16 мг никотина.
   В банке 20 порций белого цвета. Не содержит табак."

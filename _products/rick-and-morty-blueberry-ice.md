@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-blueberry-ice
-position: 82
+position: 81
 title-seo: Rick and morty 1700 Ледяная черника
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Ледяная
   черника

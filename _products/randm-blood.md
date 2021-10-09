@@ -1,7 +1,7 @@
 ---
 title: randm-blood
 date: 2020-12-15 07:23:00 Z
-position: 152
+position: 150
 title-seo: "Снюс RANDM by Faff \U0001F534BLOOD Гранат"
 descr: Снюс RANDM со вкусом граната. Крепость 150 мг. Порции слим. От бренда Faff.
 product-name: "RANDM \U0001F534 Гранат"
