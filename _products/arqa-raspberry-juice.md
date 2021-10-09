@@ -1,7 +1,7 @@
 ---
 title: Arqa Raspberry Juice
 date: 2020-09-10 13:27:00 Z
-position: 190
+position: 147
 title-seo: Снюс Arqa Raspberry Juice 70 mg
 descr: "Снюс Arqa Raspberry Juice – снюс со вкусом \U0001F964малинового сока\U0001F964.
   Крепость 70 мг. В банке 20 порций."
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-raspberry-juice.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20

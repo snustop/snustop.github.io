@@ -1,7 +1,7 @@
 ---
 title: Arqa Mix Sour Pineapple
 date: 2020-09-10 13:27:00 Z
-position: 283
+position: 147
 title-seo: "Арка ананас \U0001F34D | Снюс Arqa Mix Sour Pineapple"
 descr: "Снюс Arqa Mix Sour Pineapple – это бестабачная жевательная смесь со вкусом
   кислого ананаса \U0001F34D. Крепость 70 мг. 20 порций желто-белого цвета."
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-pineapple.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
