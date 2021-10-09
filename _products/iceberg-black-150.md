@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black
 date: 2020-10-08 16:46:00 Z
-position: 205
+position: 152
 title-seo: Снюс Iceberg Black 150 мг
 descr: "Снюс айсберг со вкусом \U0001F353ягодной жвачки\U0001F353. Крепость 150 мг
   никотина. В банке 20 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-black-150.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: 20
