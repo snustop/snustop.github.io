@@ -1,7 +1,7 @@
 ---
 title: Iceberg Arasaka
 date: 2020-10-08 16:46:00 Z
-position: 203
+position: 147
 title-seo: Снюс Iceberg Arasaka 120 мг
 descr: "Снюс айсберг со вкусом \U0001F351персика\U0001F351. Крепость 120 мг никотина.
   В банке 20-25 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-arasaka-120.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 120
 portions: 20-25

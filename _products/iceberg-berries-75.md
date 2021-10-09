@@ -1,7 +1,7 @@
 ---
 title: Iceberg Berries
 date: 2020-10-08 16:46:00 Z
-position: 207
+position: 147
 title-seo: Снюс Iceberg Berries 75 мг
 descr: "Снюс айсберг со вкусом \U0001FAD0лесных ягод\U0001FAD0. Крепость 75 мг никотина.
   В банке 20 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-berries-75.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 75
 portions: 20
