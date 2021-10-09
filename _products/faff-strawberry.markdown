@@ -1,7 +1,7 @@
 ---
 title: FAFF Strawberry
 date: 2020-07-24 12:41:00 Z
-position: 175
+position: 176
 title-seo: "Снюс FAFF Клубничная жвачка\U0001F353 STRAWBERRY GUM"
 descr: "Снюс FAFF STRAWBERRY GUM со вкусом клубничной\U0001F353 жвачки. В банке ±29
   порций белого цвета, крепость 75 мг. Порции слим."

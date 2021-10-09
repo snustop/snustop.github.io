@@ -1,7 +1,7 @@
 ---
 title: grant-wild-berry
 date: 2020-11-17 10:12:00 Z
-position: 227
+position: 228
 title-seo: Snus Grant Wild berry 25 mg
 descr: Снюс Wild berry — качественный снюс со вкусом лесных ягод. Крепость 25 мг никотина.
   В банке 24-27 порций белого цвета.

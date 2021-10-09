@@ -1,7 +1,7 @@
 ---
 title: Iceberg Arasaka
 date: 2020-10-08 16:46:00 Z
-position: 207
+position: 208
 title-seo: Снюс Iceberg Arasaka 120 мг
 descr: "Снюс айсберг со вкусом \U0001F351персика\U0001F351. Крепость 120 мг никотина.
   В банке 20-25 порций."
