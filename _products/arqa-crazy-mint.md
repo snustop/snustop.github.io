@@ -1,7 +1,7 @@
 ---
 title: Arqa Crazy Mint
 date: 2020-09-10 13:27:00 Z
-position: 41
+position: 40
 title-seo: Снюс Arqa Crazy Mint 70 mg
 descr: "Снюс Arqa Crazy Mint – снюс со вкусом \U0001F33Fмяты\U0001F33F. Крепость 70
   мг. В банке 20 порций."

@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-mamba
-position: 86
+position: 85
 title-seo: Rick and morty 1700 Mamba
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Mamba
 product-name: Randm Mamba

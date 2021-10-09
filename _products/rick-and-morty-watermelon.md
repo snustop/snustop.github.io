@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-watermelon
-position: 92
+position: 91
 title-seo: "Rick and morty 1700 Арбуз\U0001F349"
 descr: "Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Арбуза\U0001F349"
 product-name: "Randm Арбуз\U0001F349"
