@@ -1,7 +1,7 @@
 ---
 title: Arqa Cold Berries
 date: 2020-09-10 13:27:00 Z
-position: 187
+position: 186
 title-seo: Снюс Arqa Cold Berries 70 mg
 descr: "Снюс Arqa Cold Berries – снюс со вкусом \U0001F353холодных ягод\U0001F353.
   Крепость 70 мг. В банке 20 порций."

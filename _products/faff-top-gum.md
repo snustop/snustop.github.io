@@ -1,7 +1,7 @@
 ---
 title: faff-top-gum
 date: 2020-08-13 08:05:00 Z
-position: 97
+position: 201
 title-seo: Снюс Faff Top Gum 150 мг | Фафф жвачка
 descr: "FAFF TOP GUM - очень крепкий снюс 150 мг. \U0001F95DКислый киви и \U0001F353сладкая
   клубника замиксованы в яркой жвачке."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-top-gum.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: "±29"

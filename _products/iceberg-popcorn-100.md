@@ -1,7 +1,7 @@
 ---
 title: Iceberg Popcorn
 date: 2020-10-08 16:46:00 Z
-position: 148
+position: 146
 title-seo: Снюс Iceberg Popcorn 100 мг
 descr: "Снюс айсберг со вкусом \U0001F37Fпопкорна\U0001F37F. Крепость 100 мг никотина.
   В банке 20-25 порций."
