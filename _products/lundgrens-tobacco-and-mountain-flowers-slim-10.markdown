@@ -1,7 +1,7 @@
 ---
 title: lundgrens-tobacco-and-mountain-flowers-slim-10
 date: 2020-11-17 10:12:00 Z
-position: 235
+position: 236
 title-seo: Lundgrens norrland slim swedish snus 10 mg
 descr: "Снюс Lundgrens Tobacco and mountain flowers slim — качественный шведский снюс
   со вкусом табака и горных цветов\U0001F331\U0001F338. Крепость 10 мг никотина. 24
