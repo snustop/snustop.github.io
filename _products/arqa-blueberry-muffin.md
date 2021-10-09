@@ -1,7 +1,7 @@
 ---
 title: Arqa Blueberry Muffin
 date: 2020-09-10 13:27:00 Z
-position: 183
+position: 147
 title-seo: Снюс Arqa Blueberry Muffin 70 mg
 descr: Снюс Arqa Blueberry Muffin – снюс со вкусом черничного маффина. Крепость 70
   мг. В банке 20 порций.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-bluberry-muffin.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
