@@ -1,7 +1,7 @@
 ---
 title: Arqa Chewing Marmalade
 date: 2020-09-10 13:27:00 Z
-position: 293
+position: 147
 title-seo: Арка Мармелад | Снюс Arqa Chewing Marmalade
 descr: Снюс Arqa Chewing Marmalade – снюс с превосходным вкусом фруктового мармелада.
   Крепость 70 мг. 20 порций. Жжение — умеренное.
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-chewing-marmalade.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 20
 nicotine: 70
 portions: 20
