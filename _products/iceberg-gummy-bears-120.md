@@ -1,7 +1,7 @@
 ---
 title: Iceberg Gummy bears
 date: 2020-10-08 16:46:00 Z
-position: 211
+position: 147
 title-seo: Снюс Iceberg Gummy bears 120 мг
 descr: "Снюс айсберг со вкусом \U0001F9F8мармеладных мишек\U0001F9F8. Крепость 120
   мг никотина. В банке 20-25 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-gummy-bears-120.jpg"
-availability-descr: Под заказ
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 120
 portions: 20-25
