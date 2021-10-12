@@ -1,7 +1,7 @@
 ---
 title: siberia-ice-cold-power-white-portion-slim
 date: 2019-03-29 09:15:00 Z
-position: 26
+position: 189
 title-seo: "Снюс Синяя\U0001F535 сибирь слим \U0001F1F8\U0001F1EA"
 descr: Снюс синяя сибирь слим - содержит 24 мг никотина. В банке 24 порции. Порции
   white slim. Купить в Украине с доставкой.
@@ -12,8 +12,8 @@ brand: Siberia
 price: 210
 opt-price: 189
 image: "/img/products/siberia-blue-slim-white.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 24
 portions: 22-24

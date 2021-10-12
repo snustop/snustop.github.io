@@ -32,6 +32,8 @@ similar-product_body: "<p>Вам могут понравится и другие
 Корвус Брутал, усиленная крепость (68 мг) с сильным жжением, что аж десну разъедает. Мятный вкус, но далеко не самый приятный. Не содержит табака и не является снюсом. 20 больших порций.<br>
 Corvus – популярный российский бренд бестабачных жевательных смесей. Крайне не рекомендуется новичкам.
 
+Даты на банке пишут старые, но по сей день его продолжают делать. По качеству он стал значительно хуже чем был ранее.
+
 <div class="popup-gallery d-flex mb-2">
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-snus.jpg" title="Корвус брутал 66 мг никотина"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-snus.jpg" alt="Корвус брутал 66 мг никотина"></a>
 	<a class="mr-2" href="/img/products/corvus/corvus-brutal-open-2.jpg" title="Корвус брутал ±20 порций"><img class="img-fluid" src="img/products/corvus/corvus-brutal-open-2.jpg" alt="Corvus Brutal Snus открытый"></a>

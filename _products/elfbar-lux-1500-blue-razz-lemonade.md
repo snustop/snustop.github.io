@@ -1,6 +1,6 @@
 ---
 title: elf-bar-blue-razz-lemonade-1500
-position: 105
+position: 104
 title-seo: "Elf Bar Lux 1500 со вкусом лимонад из голубой малины\U0001F379"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус лимонад из голубой малины\U0001F379.
   5% Английская версия."
