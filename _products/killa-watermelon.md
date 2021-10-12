@@ -1,6 +1,6 @@
 ---
 title: killa-watermelon
-position: 237
+position: 238
 title-seo: Снюс Killa Watermelon
 descr: "Снюс Killa Watermelon \U0001F349 со вкусом арбуза. Крепость 16 мг никотина.
   В банке 20 порций белого цвета. Не содержит табак."

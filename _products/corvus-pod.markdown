@@ -1,7 +1,7 @@
 ---
 title: corvus-pod
 date: 2021-03-23 10:08:00 Z
-position: 324
+position: 325
 title-seo: Corvus Pod — одноразовая электронная сигарета
 descr: Corvus Pod крепость 5.0%. До 300 затяжек. Яркие вкусы (Ананас, Fanta, Табачный,
   Тыква, Blueberry, Mango). Отправка по Украине.
