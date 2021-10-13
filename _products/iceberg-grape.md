@@ -8,7 +8,7 @@ descr: "Снюс айсберг со вкусом винограда \U0001F347.
 product-name: Iceberg Grape
 product-alt: Снюс Iceberg Grape
 strong: Очень крепкий
-brand: iceberg-snus
+brand: Iceberg
 composition: Белый
 price: 210
 opt-price: 190
