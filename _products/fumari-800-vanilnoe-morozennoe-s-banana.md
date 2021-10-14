@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-vanilnoe-morozennoe-s-banana
-position: 45
+position: 267
 title-seo: "Fumari pods 800 Ванильное мороженое с бананом\U0001F366\U0001F34C"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Ванильное мороженое
   с бананом\U0001F366\U0001F34C"
@@ -11,8 +11,8 @@ brand: Fumari
 price: 240
 composition: e-sigarety
 image: "/img/products/odnorazki/fumari/800/fumari-800-vanilnoe-morozennoe-s-banana.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг
