@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-amerikano
-position: 109
+position: 108
 title-seo: Fumari pods 800 0% никотина кофе американо☕
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом кофе американо☕.
   Без никотина.
