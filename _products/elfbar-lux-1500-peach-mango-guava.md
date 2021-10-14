@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-peach-mango-guava-1500
-position: 259
+position: 250
 title-seo: Elf Bar Lux 1500 со вкусом микс персика, манго и гуавы
 descr: Elf Bar на 1500тяг, батарея 850mAh. Вкус микс персика, манго и гуавы. 5% Английская
   версия.

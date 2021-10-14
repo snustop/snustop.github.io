@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-myata
-position: 116
+position: 106
 title-seo: Fumari pods 800 0% никотина Мята
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Мята. Без никотина.
 product-name: Fumari 800 Мята 0%
