@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-banana
-position: 293
+position: 292
 title-seo: "Снюс Monarch strong banana\U0001F34C"
 descr: "Снюс Монарх со вкусом банана\U0001F34C. Крепость 50 мг, 20 белых порций слим
   формата. Крепкий снюс."

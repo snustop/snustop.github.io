@@ -1,7 +1,7 @@
 ---
 title: Iceberg Menthol
 date: 2020-10-08 16:46:00 Z
-position: 214
+position: 213
 title-seo: Снюс Iceberg Menthol 100 мг
 descr: "Снюс айсберг со вкусом \U0001F331ментола\U0001F331. Крепость 100 мг никотина.
   В банке 20 порций."

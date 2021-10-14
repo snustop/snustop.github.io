@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-klubnichnyj-chizkejk
-position: 333
+position: 332
 title-seo: "Fumari pods 1200 Клубничный чизкейк\U0001F370\U0001F353"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Клубничного чизкейка\U0001F370\U0001F353"
 product-name: "Fumari 1200 Клубничный чизкейк\U0001F370\U0001F353"
