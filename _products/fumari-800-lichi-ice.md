@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-lichi-ice
-position: 53
+position: 267
 title-seo: Fumari pods 800 Личи айс
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Личи айс
 product-name: "Fumari 800\U0001F4A8 Личи айс"
@@ -10,8 +10,8 @@ brand: Fumari
 price: 240
 composition: e-sigarety
 image: "/img/products/odnorazki/fumari/800/fumari-800-lichi-ice.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг

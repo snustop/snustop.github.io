@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-koktel-pinakolada
-position: 54
+position: 267
 title-seo: "Fumari pods 800 Коктейль пина колада\U0001F379"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Коктейль пина колада\U0001F379"
 product-name: "Fumari 800\U0001F4A8 Коктейль пина колада\U0001F379"
@@ -10,8 +10,8 @@ brand: Fumari
 price: 240
 composition: e-sigarety
 image: "/img/products/odnorazki/fumari/800/fumari-800-koktel-pinakolada.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг
