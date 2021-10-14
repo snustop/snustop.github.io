@@ -1,7 +1,7 @@
 ---
 title: Iceberg Arctic freeze
 date: 2020-10-08 16:46:00 Z
-position: 208
+position: 209
 title-seo: Снюс Iceberg Arctic freeze 20 мг
 descr: "Снюс айсберг со вкусом \U0001F9CAарктического холода\U0001F9CA. Крепость 20
   мг никотина. В банке 20 порций."
