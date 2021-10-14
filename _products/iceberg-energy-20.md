@@ -1,7 +1,7 @@
 ---
 title: Iceberg Energy 20
 date: 2020-10-08 16:46:00 Z
-position: 222
+position: 221
 title-seo: Снюс Iceberg Energy 20 мг
 descr: Снюс айсберг со вкусом ⚡️энергетика Red Bull⚡️. Крепость 20 мг никотина. В
   банке 20 порций.

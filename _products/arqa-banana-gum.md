@@ -1,7 +1,7 @@
 ---
 title: Arqa Banana Gum
 date: 2020-09-10 13:27:00 Z
-position: 147
+position: 227
 title-seo: Снюс Arqa Banana Gum 70 mg
 descr: "Снюс Arqa Banana Gum – снюс со вкусом \U0001F34Cбанановой жвачки. Крепость
   70 мг. В банке 20 порций."
@@ -12,8 +12,8 @@ brand: Arqa
 price: 210
 opt-price: 189
 image: "/img/products/arqa/arqa-banana-gum.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 20
 nicotine: 70
 portions: 20
