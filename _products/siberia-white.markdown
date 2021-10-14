@@ -1,7 +1,7 @@
 ---
 title: siberia-white
 date: 2017-11-20 11:16:00 Z
-position: 56
+position: 9
 title-seo: "Снюс красная\U0001F534 сибирь купить в Украине | Siberia снюс"
 descr: "Снюс красная\U0001F534 сибирь — очень крепкий снюс. Швеция\U0001F1F8\U0001F1EA.
   43 мг никотина! Банка 16 грамм, 20 больших порций."
@@ -10,7 +10,7 @@ product-alt: Siberia Extremely Strong White Dry 16 грамм
 strong: Очень крепкий
 brand: Siberia
 composition: Dry
-price: 200
+price: 210
 opt-price: 180
 image: "/img/products/siberia-white-dry.png"
 availability-descr: В наличии

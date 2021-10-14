@@ -1,7 +1,7 @@
 ---
 title: siberia-white-dry-slim
 date: 2017-11-20 16:20:00 Z
-position: 0
+position: 41
 title-seo: "Красная Siberia Slim\U0001F534 White Dry\U0001F1F8\U0001F1EA"
 descr: "Снюс красная\U0001F534 сибирь слим — очень крепкий шведский\U0001F1F8\U0001F1EA
   снюс,крепость 43 мг никотина, 21 порция slim, пакеты серого цвета. Вкус: табачно-мятный."
