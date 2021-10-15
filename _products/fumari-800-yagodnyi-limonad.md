@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-yagodnyi-limonad
-position: 174
+position: 173
 title-seo: "Fumari pods 800 Ягодный лимонад\U0001F34B\U0001F353"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Ягодный лимонад\U0001F34B\U0001F353"
 product-name: "Fumari 800\U0001F4A8 Ягодный лимонад\U0001F34B\U0001F353"
