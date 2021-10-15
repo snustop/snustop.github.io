@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-fruit-punch
-position: 250
+position: 259
 title-seo: "Снюс Candy shop \U0001F379Fruit Punch 80 mg"
 descr: Снюс кенди Фруктовый пунш с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Fruit Punch 80 mg

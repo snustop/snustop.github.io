@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-mango-1500
-position: 250
+position: 265
 title-seo: "Elf Bar Lux 1500 со вкусом манго\U0001F96D"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус манго\U0001F96D. 5% Английская версия."
 product-name: "Elf Bar Lux 1500 манго\U0001F96D"
