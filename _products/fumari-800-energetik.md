@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-energetik
-position: 45
+position: 46
 product-name: "Fumari 800\U0001F4A8 Энергетик ⚡"
 title-seo: Fumari pods 800 Энергетик⚡
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом Энергетик ⚡

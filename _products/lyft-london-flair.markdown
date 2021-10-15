@@ -1,7 +1,7 @@
 ---
 title: Lyft London Flair
 date: 2021-06-07 12:23:00 Z
-position: 35
+position: 36
 title-seo: "Lyft London Flair со вкусом огурца\U0001F952"
 descr: "Лифт London Flair — белый снюс со вкусом огурца\U0001F952 и черного перца.
   В банке 24 белые порции Slim формата. Крепость 14 мг/г 3-точки."

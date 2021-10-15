@@ -1,6 +1,6 @@
 ---
 title: snus-monarch-mint
-position: 40
+position: 41
 title-seo: "Снюс Monarch strong mint\U0001F343"
 descr: "Снюс Монарх со вкусом мяты\U0001F343. Крепость 50 мг, 20 белых порций слим
   формата. Крепкий снюс."
