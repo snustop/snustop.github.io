@@ -12,8 +12,8 @@ composition: Белый
 price: 215
 opt-price: 215
 image: "/img/products/volt/volt-frosted-apple.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 19.2
 nicotine: 11
 portions: 24
