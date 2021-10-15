@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-ananas-grusha
-position: 46
+position: 47
 title-seo: "Fumari pods 800 Ананас груша\U0001F34D\U0001F350"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Ананас груша\U0001F34D\U0001F350"
 product-name: "Fumari 800\U0001F4A8 Ананас груша\U0001F34D\U0001F350"

@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-morozhenoe-s-persikom
-position: 109
+position: 110
 title-seo: "Fumari pods 800 0% никотина Мороженое с персиком\U0001F366"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Мороженое с персиком\U0001F366\U0001F351.
   Без никотина."

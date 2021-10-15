@@ -1,6 +1,6 @@
 ---
 title: volt-cool-crisp
-position: 204
+position: 100
 title-seo: VOLT Cool Crisp Strong Slim All White
 descr: Белый снюс, 24 пакетика, с приятным вкусом охлаждающей мяты. Крепость 14 мг
   никотина. Не красит зубы.
