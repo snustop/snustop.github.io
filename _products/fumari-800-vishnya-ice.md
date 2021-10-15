@@ -1,17 +1,17 @@
 ---
 title: fumari-pod-800-vishnya-ice
-position: 42
+position: 40
 title-seo: "Fumari pods 800 Вишня айс\U0001F352\U0001F9CA"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Вишня айс\U0001F352\U0001F9CA"
 product-name: "Fumari 800\U0001F4A8 Вишня айс\U0001F352\U0001F9CA"
 product-alt: "Fumari pods 800 Вишня айс\U0001F352\U0001F9CA"
 strong: Крепкий
 brand: Fumari
-price: 240
 composition: e-sigarety
+price: 240
 image: "/img/products/odnorazki/fumari/800/fumari-800-vishnya-ice.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг
