@@ -1,6 +1,6 @@
 ---
 title: volt-frosted-apple
-position: 204
+position: 203
 title-seo: VOLT Frosted Apple Strong Slim All White
 descr: "Белый снюс, 24 пакетика, с приятным вкусом \U0001F34Fзелёного яблока. Крепость
   11 мг никотина. Не красит зубы."

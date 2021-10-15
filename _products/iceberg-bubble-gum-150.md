@@ -1,7 +1,7 @@
 ---
 title: Iceberg Bubble Gum
 date: 2020-10-08 16:46:00 Z
-position: 159
+position: 231
 title-seo: Снюс Iceberg Bubble Gum 150 мг
 descr: "Снюс айсберг со вкусом \U0001F36Cсладкой жвачки\U0001F36C. Крепость 150 мг
   никотина. В банке 20-25 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-bubble-gum-150.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: 20-25

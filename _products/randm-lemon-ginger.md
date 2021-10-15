@@ -1,7 +1,7 @@
 ---
 title: randm-lemon-ginger
 date: 2020-12-15 07:23:00 Z
-position: 165
+position: 164
 title-seo: "Снюс RANDM by Faff \U0001F34BLEMON GINGER"
 descr: Снюс RANDM со вкусом лимона и имбиря. Крепость 150 мг. Порции слим. От бренда
   Faff.
