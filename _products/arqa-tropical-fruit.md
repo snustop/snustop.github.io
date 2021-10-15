@@ -1,7 +1,7 @@
 ---
 title: Arqa Tropical Fruit
 date: 2020-09-10 13:27:00 Z
-position: 151
+position: 150
 title-seo: Снюс Arqa Tropical Fruit 70 mg
 descr: "Снюс Arqa Tropical Fruit – снюс со вкусом \U0001F3DDтропических фруктов\U0001F3DD.
   Крепость 70 мг. В банке 20 порций."

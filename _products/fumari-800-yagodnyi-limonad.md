@@ -1,17 +1,17 @@
 ---
 title: fumari-pod-800-yagodnyi-limonad
-position: 41
+position: 171
 title-seo: "Fumari pods 800 Ягодный лимонад\U0001F34B\U0001F353"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Ягодный лимонад\U0001F34B\U0001F353"
 product-name: "Fumari 800\U0001F4A8 Ягодный лимонад\U0001F34B\U0001F353"
 product-alt: "Fumari pods 800 Ягодный лимонад\U0001F34B\U0001F353"
 strong: Крепкий
 brand: Fumari
-price: 240
 composition: e-sigarety
+price: 240
 image: "/img/products/odnorazki/fumari/800/fumari-800-yagodnyi-limonad.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг

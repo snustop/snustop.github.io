@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-cool-mint
-position: 168
+position: 166
 title-seo: Rick and morty 1700 Ледяная мята
 descr: Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом Ледяная
   мята

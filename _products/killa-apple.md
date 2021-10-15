@@ -1,6 +1,6 @@
 ---
 title: killa-apple
-position: 218
+position: 217
 title-seo: Снюс Killa Apple
 descr: "Снюс Killa Apple \U0001F34F. Крепость 16 мг никотина. В банке 20 порций белого
   цвета. Не содержит табак."
