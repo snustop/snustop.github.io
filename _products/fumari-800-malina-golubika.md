@@ -7,11 +7,11 @@ product-name: "Fumari 800\U0001F4A8 Малина голубика"
 product-alt: Fumari pods 800 Малина голубика
 strong: Крепкий
 brand: Fumari
-price: 240
 composition: e-sigarety
+price: 240
 image: "/img/products/odnorazki/fumari/800/fumari-800-malina-golubika.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 2%
 portions: 800 тяг
