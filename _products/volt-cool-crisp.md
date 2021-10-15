@@ -4,8 +4,8 @@ position: 100
 title-seo: VOLT Cool Crisp Strong Slim All White
 descr: Белый снюс, 24 пакетика, с приятным вкусом охлаждающей мяты. Крепость 14 мг
   никотина. Не красит зубы.
-product-name: VOLT Deep Freeze
-product-alt: VOLT Deep Freeze Strong Slim All White
+product-name: VOLT Cool Crisp
+product-alt: VOLT Cool Crisp Strong Slim All White
 strong: Средней крепости
 brand: Swedish Match
 composition: Белый
