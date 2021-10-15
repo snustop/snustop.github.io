@@ -12,8 +12,8 @@ composition: Белый
 price: 215
 opt-price: 215
 image: "/img/products/volt/volt-java-shake-2.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 19.2
 nicotine: 8
 portions: 24
