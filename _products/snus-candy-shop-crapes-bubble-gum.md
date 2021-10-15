@@ -1,7 +1,7 @@
 ---
 title: snus-candy-shop-crapes-bubble-gum
 date: 2020-10-01 20:31:00 Z
-position: 18
+position: 19
 title-seo: "Снюс Candy shop \U0001F347\U0001F7E3 Grapes bubble gum"
 descr: Снюс кенди Grapes bubble gum (вкус спелого винограда , обладающий ярко выраженной
   кислинкой идеально сошёлся со сладкой жвачкой).
