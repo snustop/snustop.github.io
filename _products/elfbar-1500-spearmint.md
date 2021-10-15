@@ -1,6 +1,6 @@
 ---
 title: elf-bar-spearmint-1500
-position: 94
+position: 95
 title-seo: "Elf Bar 1500 со вкусом мяты\U0001F33F"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус мята\U0001F33F. 5% Английская версия."
 product-name: "Elf Bar 1500 мята\U0001F33F"
