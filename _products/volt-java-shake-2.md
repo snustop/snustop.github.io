@@ -1,6 +1,6 @@
 ---
 title: volt-java-shake-2
-position: 208
+position: 209
 title-seo: VOLT Java Shake Slim All White
 descr: "Белый снюс, 24 пакетика, с приятным вкусом ☕️\U0001F36Bмикс кофе с какао.
   Крепость 8 мг никотина. Не красит зубы."

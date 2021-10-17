@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-watermelon-1500
-position: 119
+position: 120
 title-seo: "Elf Bar Lux 1500 со вкусом арбуза\U0001F349"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус арбуз\U0001F349. 5% Английская версия."
 product-name: "Elf Bar Lux 1500 арбуз\U0001F349"
@@ -10,8 +10,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-lux-1500-watermelon.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг

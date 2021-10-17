@@ -1,6 +1,6 @@
 ---
 title: elf-bar-apple-peach-1500
-position: 121
+position: 122
 title-seo: "Elf Bar 1500 со вкусом персик с яблоком\U0001F351\U0001F34F"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус персик с яблоком\U0001F351\U0001F34F.
   5% Английская версия."

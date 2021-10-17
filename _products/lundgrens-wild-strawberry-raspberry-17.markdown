@@ -1,7 +1,7 @@
 ---
 title: lundgrens-wild-strawberry-raspberry-17
 date: 2020-11-17 10:12:00 Z
-position: 252
+position: 253
 title-seo: Lundgrens skargarden swedish snus 17 mg
 descr: "Снюс Lundgrens Wild strawberry and raspberry — качественный шведский снюс
   со вкусом дикой клубники и малины\U0001F353\U0001F353. Крепость 17 мг никотина."

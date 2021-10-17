@@ -1,6 +1,6 @@
 ---
 title: killa-melon
-position: 236
+position: 237
 title-seo: Снюс Killa Melon
 descr: "Снюс Killa Melon \U0001F348 со вкусом дыни. Крепость 16 мг никотина. В банке
   20 порций белого цвета. Не содержит табак."
