@@ -1,7 +1,7 @@
 ---
 title: lundgrens-flowers-and-rose-hip-10
 date: 2020-11-17 10:12:00 Z
-position: 241
+position: 242
 title-seo: Lundgrens vastkusten swedish snus 10 mg
 descr: "Снюс Lundgrens flowers and rose hip — качественный шведский снюс со вкусом
   цветов и шиповника\U0001F338\U0001F33F. Крепость 10 мг никотина. 24 пориции."
