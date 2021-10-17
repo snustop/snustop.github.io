@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-lux-1500-mango-peach-watermelon.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
