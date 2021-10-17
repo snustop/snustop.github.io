@@ -1,7 +1,7 @@
 ---
 title: Iceberg Red wolf
 date: 2020-10-08 16:46:00 Z
-position: 133
+position: 135
 title-seo: Снюс Iceberg Red wolf 150 мг
 descr: "Снюс айсберг со вкусом \U0001F347барбариса\U0001F347. Крепость 150 мг никотина.
   В банке 20-25 порций."

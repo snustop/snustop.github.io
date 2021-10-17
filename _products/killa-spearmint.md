@@ -1,6 +1,6 @@
 ---
 title: killa-spearmint
-position: 229
+position: 230
 title-seo: Снюс Killa Spearmint
 descr: "Снюс Killa Spearmint \U0001F33F со вкусом мяты. Крепость 16 мг никотина. В
   банке 20 порций белого цвета. Не содержит табак."

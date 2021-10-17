@@ -1,6 +1,6 @@
 ---
 title: pablo-x-ice-cold
-position: 237
+position: 238
 title-seo: Снюс Pablo X Ice cold
 descr: "Снюс Pablo X Ice cold\U0001F9CA. Крепость 30 мг никотина. В банке 20 порций
   белого цвета. Не содержит табак."
