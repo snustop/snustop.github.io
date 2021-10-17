@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-energy-drink
-position: 261
+position: 264
 title-seo: Снюс Candy shop ⚡️Energy Drink 80 mg
 descr: Снюс кенди Энергетик с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Energy Drink 80 mg

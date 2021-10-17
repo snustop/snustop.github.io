@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-blueberry-1500
-position: 268
+position: 269
 title-seo: "Elf Bar Lux 1500 со вкусом черники\U0001FAD0"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус черника\U0001FAD0. 5% Английская
   версия."

@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-cherry-cola
-position: 265
+position: 268
 title-seo: "Снюс Candy shop \U0001F352\U0001F943Cherry Cola 80 mg"
 descr: Снюс кенди Вишня с Колой с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Cherry Cola 80 mg
