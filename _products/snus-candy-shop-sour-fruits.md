@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-sour-fruits
-position: 258
+position: 259
 title-seo: "Снюс Candy shop \U0001F36CSour Fruits 80 mg"
 descr: Снюс кенди Скитлс с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Sour Fruits 80 mg

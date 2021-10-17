@@ -1,7 +1,7 @@
 ---
 title: Iceberg Lemonade
 date: 2020-10-08 16:46:00 Z
-position: 219
+position: 221
 title-seo: Снюс Iceberg Lemonade 75 мг
 descr: "Снюс айсберг со вкусом \U0001F379лимонада\U0001F379. Крепость 75 мг никотина.
   В банке 20 порций."
