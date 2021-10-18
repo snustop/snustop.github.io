@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-watermelon-1500
-position: 117
+position: 116
 title-seo: "Elf Bar Lux 1500 со вкусом арбуза\U0001F349"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус арбуз\U0001F349. 5% Английская версия."
 product-name: "Elf Bar Lux 1500 арбуз\U0001F349"
