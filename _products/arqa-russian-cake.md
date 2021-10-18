@@ -1,7 +1,7 @@
 ---
 title: Arqa Russian Cake
 date: 2020-09-10 13:27:00 Z
-position: 39
+position: 38
 title-seo: Снюс Arqa Russian Cake 70 mg
 descr: "Снюс Arqa Russian Cake – снюс со вкусом \U0001F967русского пирога\U0001F967.
   Крепость 70 мг. В банке 20 порций."
