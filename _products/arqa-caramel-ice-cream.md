@@ -1,7 +1,7 @@
 ---
 title: Arqa Caramel ice cream
 date: 2020-09-10 13:27:00 Z
-position: 142
+position: 141
 title-seo: Снюс Arqa Caramel Ice Cream
 descr: Снюс Arqa Caramel Ice Cream – снюс со вкусом карамельного мороженого. Крепость
   70 мг. 20 порций. Жжение умеренное.
