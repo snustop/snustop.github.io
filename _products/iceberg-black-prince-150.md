@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black Prince
 date: 2020-10-08 16:46:00 Z
-position: 129
+position: 191
 title-seo: Снюс Iceberg Black Prince 150 мг
 descr: "Снюс айсберг со вкусом \U0001FAD0чёрной смородины\U0001FAD0. Крепость 150
   мг никотина. В банке 20-25 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-black-prince-150.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: 20-25
