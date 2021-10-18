@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-sour-apple-1500
-position: 108
+position: 107
 title-seo: "Elf Bar Lux 1500 со вкусом зелёного яблока\U0001F34F"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус зелёное яблока\U0001F34F. 5% Английская
   версия."
