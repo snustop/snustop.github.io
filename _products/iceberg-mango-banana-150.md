@@ -1,7 +1,7 @@
 ---
 title: Iceberg Mango banana
 date: 2020-10-08 16:46:00 Z
-position: 159
+position: 225
 title-seo: Снюс Iceberg Mango banana 150 мг
 descr: "Снюс айсберг со вкусом \U0001F96D\U0001F34Cманго и банана\U0001F34C\U0001F96D.
   Крепость 150 мг никотина. В банке 20 порций."
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/iceberg/iceberg-mango-banana-150.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: 20
