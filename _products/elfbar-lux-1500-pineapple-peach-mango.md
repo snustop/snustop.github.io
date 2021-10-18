@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-pineapple-peach-mango-1500
-position: 112
+position: 111
 title-seo: Elf Bar Lux 1500 со вкусом микс ананаса, персика и манго
 descr: Elf Bar на 1500тяг, батарея 850mAh. Вкус микс ананаса, персика и манго. 5%
   Английская версия.

@@ -1,7 +1,7 @@
 ---
 title: faff-mulberry
 date: 2021-07-26 08:05:00 Z
-position: 95
+position: 94
 title-seo: Снюс Faff Mulberry (шелковица) 150 мг купить в Украине
 descr: FAFF Mulberry 150 mg  — снюс со вкусом шелковицы, крепость 150 мг,  29 порций.
   Порции slim - удобно сидят под губой.
