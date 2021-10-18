@@ -11,8 +11,8 @@ brand: Baron
 price: 175
 opt-price: 165
 image: "/img/products/baron/baron-cherry-cola.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: 13
 nicotine: 15
 portions: 20

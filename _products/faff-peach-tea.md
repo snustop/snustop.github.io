@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 189
 image: "/img/products/faff-peach-tea.jpg"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Ожидается
+has_availability: false
 gramm: "-"
 nicotine: 150
 portions: "±29"
