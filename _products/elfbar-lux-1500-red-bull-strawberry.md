@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-red-bull-strawberry-1500
-position: 119
+position: 118
 title-seo: "Elf Bar Lux 1500 со вкусом ред булл с клубникой⚡️\U0001F353"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус ред булл с клубникой⚡️\U0001F353.
   5% Английская версия."
