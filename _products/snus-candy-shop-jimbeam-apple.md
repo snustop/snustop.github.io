@@ -1,11 +1,12 @@
 ---
 title: snus-candy-shop-jimbeam-apple
 date: 2020-10-01 20:31:00 Z
-position: 28
-title-seo: "Снюс Candy shop \U0001F943\U0001F34F Jim beam apple (Яблочный виски)"
+position: 8
+title-seo: "Снюс Candy shop \U0001F943\U0001F34F Jim beam apple (Яблочный виски) 120
+  mg"
 descr: Снюс кенди Jim beam apple (Яблочный виски) с крепость 120 мг никотина. 20 порций
   бледно-коричневого цвета.
-product-name: "Candy Shop Яблочный виски\U0001F943\U0001F34F"
+product-name: "Candy Яблочный виски\U0001F943\U0001F34F 120 mg"
 product-alt: Снюс Candy Shop Jim beam apple
 strong: Очень крепкий
 brand: Candy Shop
