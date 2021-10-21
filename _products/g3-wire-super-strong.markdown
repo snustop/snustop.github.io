@@ -11,7 +11,9 @@ product-alt: G.3 Wire Super Strong Snus
 strong: Крепкий
 brand: Swedish Match
 composition: Dry
+stock-list: Акция
 price: 215
+new-price: 180
 image: "/img/products/g3-wire-super-strong.jpg"
 availability-descr: В наличии
 has_availability: true
