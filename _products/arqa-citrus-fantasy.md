@@ -1,11 +1,11 @@
 ---
 title: Arqa Citrus Fantasy
 date: 2020-09-10 13:27:00 Z
-position: 128
-title-seo: Арка Цитрус | Снюс Arqa Citrus Fantasy
+position: 10
+title-seo: Арка Цитрус | Снюс Arqa Citrus Fantasy 70 mg
 descr: Снюс Arqa Citrus Fantasy – снюс с превосходным вкусом цитруса. Крепость 70
   мг. 20 порций.
-product-name: Arqa Citrus Fantasy
+product-name: Arqa Citrus Fantasy 70 mg
 product-alt: Снюс Arqa Citrus Fantasy
 strong: Очень крепкий
 brand: Arqa

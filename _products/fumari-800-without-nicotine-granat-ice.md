@@ -1,6 +1,6 @@
 ---
 title: fumari-800-without-nicotine-granat-ice
-position: 89
+position: 90
 title-seo: Fumari pods 800 0% никотина гранат айс
 descr: Fumari pods электронная сигарета на 800 затяжек со вкусом гранат айс. Без никотина.
 product-name: Fumari 800 гранат айс 0%

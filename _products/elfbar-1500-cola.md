@@ -1,6 +1,6 @@
 ---
 title: elf-bar-cola-1500
-position: 13
+position: 15
 title-seo: "Elf Bar 1500 со вкусом колы\U0001F943"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус кола\U0001F943. 5% Английская версия."
 product-name: "Elf Bar 1500 кола\U0001F943"
