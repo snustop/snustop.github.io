@@ -2,10 +2,10 @@
 title: snus-candy-shop-mango-peach
 date: 2020-10-01 20:31:00 Z
 position: 46
-title-seo: "Снюс Candy shop Mango and peach \U0001F96D\U0001F351"
+title-seo: "Снюс Candy shop Mango and peach \U0001F96D\U0001F351 120 mg"
 descr: Снюс кенди Mango and peach (Манго - персик) с крепость 120 мг никотина. 20
   порций.
-product-name: "Candy Shop манго-персик\U0001F96D\U0001F351"
+product-name: "Candy манго-персик\U0001F96D\U0001F351 120 mg"
 product-alt: Candy Shop манго-персик
 strong: Очень крепкий
 brand: Candy Shop
