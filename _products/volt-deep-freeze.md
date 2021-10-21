@@ -1,6 +1,6 @@
 ---
 title: volt-deep-freeze
-position: 17
+position: 18
 title-seo: VOLT Deep Freeze Super Strong Slim All White
 descr: "Белый снюс, 24 пакетика, с приятным вкусом \U0001F331\U0001F33Fэвкалипта с
   охлаждающим ментолом. Крепость 16 мг никотина. Не красит зубы."
