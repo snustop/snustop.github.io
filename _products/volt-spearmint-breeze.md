@@ -1,6 +1,6 @@
 ---
 title: volt-spearmint-breeze
-position: 206
+position: 205
 title-seo: VOLT Spearmint Breeze Strong Slim All White
 descr: "Белый снюс, 24 пакетика, с приятным вкусом \U0001F331\U0001F33Fмяты с ментолом.
   Крепость 11 мг никотина. Не красит зубы."

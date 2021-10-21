@@ -1,6 +1,6 @@
 ---
 title: elf-bar-coconut-melon-1500
-position: 112
+position: 109
 title-seo: "Elf Bar 1500 со вкусом кокос с дыней\U0001F965\U0001F348"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус кокос с дыней\U0001F965\U0001F348.
   5% Английская версия."

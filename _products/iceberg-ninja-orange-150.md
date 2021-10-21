@@ -1,7 +1,7 @@
 ---
 title: Iceberg Ninja orange
 date: 2020-10-08 16:46:00 Z
-position: 123
+position: 120
 title-seo: Снюс Iceberg Ninja orange 150 мг
 descr: "Снюс айсберг со вкусом \U0001F34Aапельсина\U0001F34A. Крепость 150 мг никотина.
   В банке 20 порций."
