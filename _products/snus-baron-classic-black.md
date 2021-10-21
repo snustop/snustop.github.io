@@ -1,6 +1,6 @@
 ---
 title: snus baron classic black
-position: 18
+position: 17
 title-seo: Снюс Baron Classic Black 40 mg nicotine pouches
 descr: Снюс Baron Classic Black – крепкие никотиновые подушечки белого цвета со свежей
   мяты. 40мг.
