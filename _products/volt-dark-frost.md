@@ -1,6 +1,6 @@
 ---
 title: volt-dark-frost
-position: 151
+position: 150
 title-seo: VOLT Dark Frost Super Strong Slim All White
 descr: Белый снюс, 24 пакетика, с приятным вкусом лесных ягод с ментолом. Крепость
   16 мг никотина. Не красит зубы.
