@@ -1,7 +1,7 @@
 ---
 title: g3-wire-super-strong
 date: 2018-10-21 07:54:00 Z
-position: 17
+position: 18
 title-seo: G.3 Wire Super Strong Snus
 descr: General G.3 Wire - очень крепкий снюс с приятным ароматом красных ягод и тропических
   фруктов. Порции белые и сухие - что обеспечивает длительный никотиновый удар и вкус.
