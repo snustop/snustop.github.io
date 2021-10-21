@@ -14,7 +14,7 @@ composition: Оригинальный
 stock-list: Акция
 price: 225
 opt-price: 203
-new-price: 200
+new-price: 150
 image: "/img/products/onyx.png"
 availability-descr: В наличии
 has_availability: true
@@ -32,6 +32,8 @@ similar-product_body: "<p>Похожие товары. <small>Жмите на к
   style=\"width:32%\" class=\"img-fluid\" src=\"/img/products/ettan-original-portion.png\"
   alt=\"Ettan snus original\"></a>\n</div>"
 ---
+
+Уценка, сроки до 23 сентября, но его можно использовать (так как это не молоко), вы даже не отличите уценку от обычного. Мы храним весь снюс в холодильнике и соблюдаем температурный режим. 
 
 Снюс general onyx - элитный табак. Король среди всех general.
 Черные сухие мешочки очень высокого качества с уникальным вкусом, очень приятный табак, в сочетании с нотками цитрусовых и легким намеком на лакрицу, аромат длится очень-очень долго, приятное послевкусие.
