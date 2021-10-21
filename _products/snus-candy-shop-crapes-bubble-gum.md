@@ -2,10 +2,10 @@
 title: snus-candy-shop-crapes-bubble-gum
 date: 2020-10-01 20:31:00 Z
 position: 7
-title-seo: "Снюс Candy shop \U0001F347\U0001F7E3 Grapes bubble gum"
+title-seo: "Снюс Candy shop \U0001F347\U0001F7E3 Grapes bubble gum 120 mg"
 descr: Снюс кенди Grapes bubble gum (вкус спелого винограда , обладающий ярко выраженной
   кислинкой идеально сошёлся со сладкой жвачкой).
-product-name: Candy Shop Grapes bubble gum
+product-name: Candy Grapes bubble gum 120 mg
 product-alt: Снюс Candy Shop Grapes bubble gum
 strong: Очень крепкий
 brand: Candy Shop
