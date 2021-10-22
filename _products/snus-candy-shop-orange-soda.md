@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-orange-soda
-position: 267
+position: 268
 title-seo: "Снюс Candy shop \U0001F34AOrange Soda 80 mg"
 descr: Снюс кенди Fanta с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Orange Soda 80 mg

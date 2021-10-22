@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-pineapple
-position: 268
+position: 269
 title-seo: "Снюс Candy shop \U0001F34DPineapple 80 mg"
 descr: Снюс кенди Ананас с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Pineapple 80 mg

@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-vishnya-ice
-position: 242
+position: 243
 title-seo: "Fumari pods 800 Вишня айс\U0001F352\U0001F9CA"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Вишня айс\U0001F352\U0001F9CA"
 product-name: "Fumari 800\U0001F4A8 Вишня айс\U0001F352\U0001F9CA"

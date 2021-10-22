@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-watermelon
-position: 276
+position: 277
 title-seo: "Fumari pods 800 ледяной арбуз\U0001F9CA\U0001F349"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом ледяного арбуза\U0001F349"
 product-name: "Fumari 800\U0001F4A8 ледяной арбуз\U0001F9CA\U0001F349"
