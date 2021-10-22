@@ -1,6 +1,6 @@
 ---
 title: snus baron kiwi
-position: 41
+position: 40
 title-seo: "Снюс Baron Kiwi\U0001F95D 15 mg nicotine pouches"
 descr: "Снюс Baron Kiwi\U0001F95D –  никотиновые подушечки белого цвета со вкусом
   киви\U0001F95D. 15мг."
