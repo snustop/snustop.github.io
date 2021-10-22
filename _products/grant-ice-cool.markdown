@@ -8,7 +8,7 @@ descr: Снюс grant ice cool — качественный снюс со вку
 product-name: Grant Ice Cool 35 mg
 product-alt: Снюс Grant Ice Cool
 strong: Очень крепкий
-brand: grant-snus
+brand: Grant
 composition: Белый
 price: 215
 opt-price: 200
