@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-strawberry-grape-1500
-position: 108
+position: 109
 title-seo: "Elf Bar Lux 1500 со вкусом клубники и винограда\U0001F353\U0001F347"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус клубника и виноград\U0001F353\U0001F347.
   5% Английская версия."
