@@ -1,7 +1,7 @@
 ---
 title: White Fox Double Mint All White
 date: 2021-02-10 21:00:00 Z
-position: 26
+position: 162
 title-seo: White Fox Double mint
 descr: |-
   White Fox — белый снюс, крепость 17 мг никотина, вкус мята с ментолом. Аромат и никотиновый удар длится очень долго.
@@ -16,8 +16,8 @@ price: 200
 opt-price: 180
 new-price: 160
 image: "/img/products/fox-all-whie-dm.png"
-availability-descr: В наличии
-has_availability: true
+availability-descr: Под заказ
+has_availability: false
 gramm: 15
 nicotine: 17
 portions: 20

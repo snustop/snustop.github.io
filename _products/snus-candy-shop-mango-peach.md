@@ -1,7 +1,7 @@
 ---
 title: snus-candy-shop-mango-peach
 date: 2020-10-01 20:31:00 Z
-position: 46
+position: 45
 title-seo: "Снюс Candy shop Mango and peach \U0001F96D\U0001F351 120 mg"
 descr: Снюс кенди Mango and peach (Манго - персик) с крепость 120 мг никотина. 20
   порций.
