@@ -1,6 +1,6 @@
 ---
 title: killa-cold-mint
-position: 235
+position: 236
 title-seo: Снюс Killa Cold mint
 descr: "Снюс Killa Cold mint \U0001F33F. Крепость 16 мг никотина. В банке 20 порций
   белого цвета. Не содержит табак."

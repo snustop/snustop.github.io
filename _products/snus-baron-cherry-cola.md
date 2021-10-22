@@ -1,6 +1,6 @@
 ---
 title: snus baron cherry cola
-position: 166
+position: 167
 title-seo: "Снюс cherry\U0001F352 cola\U0001F964 15 mg nicotine pouches"
 descr: "Снюс Baron cherry\U0001F352 cola\U0001F964 –  никотиновые подушечки белого
   цвета со вкусом вишневой колы. 15мг."

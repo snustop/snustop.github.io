@@ -1,6 +1,6 @@
 ---
 title: fumari-1200-yabloko-guava
-position: 287
+position: 288
 title-seo: "Fumari pods 1200 Яблоко Гуава\U0001F34E"
 descr: "Fumari pods электронная сигарета на 1200 затяжек со вкусом Яблока и Гуавы\U0001F34E"
 product-name: "Fumari 1200 Яблоко Гуава\U0001F34E"
