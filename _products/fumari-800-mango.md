@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-mango
-position: 280
+position: 281
 title-seo: "Fumari pods 800 Манго \U0001F96D"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Манго \U0001F96D"
 product-name: "Fumari 800\U0001F4A8 Манго \U0001F96D"
