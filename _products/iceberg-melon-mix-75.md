@@ -1,7 +1,7 @@
 ---
 title: Iceberg Melon mix
 date: 2020-10-08 16:46:00 Z
-position: 229
+position: 230
 title-seo: Снюс Iceberg Melon mix 75 мг
 descr: "Снюс айсберг со вкусом \U0001F349\U0001F348микс дыни и арбуза\U0001F349\U0001F348.
   Крепость 75 мг никотина. В банке 20 порций."

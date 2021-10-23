@@ -1,7 +1,7 @@
 ---
 title: Iceberg Passion fruit
 date: 2020-10-08 16:46:00 Z
-position: 225
+position: 226
 title-seo: Снюс Iceberg Passion fruit 75 мг
 descr: "Снюс айсберг со вкусом \U0001F96Dмаракуйи\U0001F96D. Крепость 75 мг никотина.
   В банке 20 порций."

@@ -1,7 +1,7 @@
 ---
 title: Iceberg Pineapple
 date: 2020-10-08 16:46:00 Z
-position: 245
+position: 246
 title-seo: Снюс Iceberg Pineapple 100 мг
 descr: "Снюс айсберг со вкусом \U0001F34Dананаса\U0001F34D. Крепость 100 мг никотина.
   В банке 20 порций."

@@ -1,6 +1,6 @@
 ---
 title: elf-bar-lux-blueberry-1500
-position: 272
+position: 142
 title-seo: "Elf Bar Lux 1500 со вкусом черники\U0001FAD0"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус черника\U0001FAD0. 5% Английская
   версия."
@@ -11,8 +11,8 @@ brand: Elfbar
 composition: e-sigarety
 price: 250
 image: "/img/products/odnorazki/elf/1500/elfbar-lux-1500-blueberry.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 5%
 portions: 1500 тяг
