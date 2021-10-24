@@ -1,7 +1,7 @@
 ---
 title: Iceberg Coca-cola
 date: 2020-10-08 16:46:00 Z
-position: 231
+position: 232
 title-seo: Снюс Iceberg Coca-cola 75 мг
 descr: "Снюс айсберг со вкусом \U0001F943кока-колы\U0001F943. Крепость 75 мг никотина.
   В банке 20 порций."
