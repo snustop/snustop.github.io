@@ -1,7 +1,7 @@
 ---
 title: grant-melon
 date: 2020-11-17 10:12:00 Z
-position: 58
+position: 59
 title-seo: "Snus Grant Melon \U0001F348 25 mg"
 descr: "Снюс grant Melon \U0001F348 — качественный снюс со вкусом сладкой мяты. Крепость
   25 мг никотина. В банке 24-27 порций белого цвета."
