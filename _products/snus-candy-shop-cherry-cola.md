@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-cherry-cola
-position: 272
+position: 8
 title-seo: "Снюс Candy shop \U0001F352\U0001F943Cherry Cola 80 mg"
 descr: Снюс кенди Вишня с Колой с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Cherry Cola 80 mg
@@ -10,8 +10,8 @@ brand: Candy Shop
 composition: Белый
 price: 200
 image: "/img/products/candy/snus-candy-shop-cherry-cola.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 80
 portions: 20
@@ -19,6 +19,7 @@ taste: "\U0001F352\U0001F943 Вишня с Колой"
 form: Порционный, slim
 composition-product: Целлюлоза, вода, пищевой глицерин, никотин, сода, карбонат натрия,
   пищевой ароматизатор
+position-brand: 8
 ---
 
 Снюс Candy shop 🍒🥃Cherry Cola — бестабачная жевательная смесь, со вкусом колы с вишней🍒🥃.<br>

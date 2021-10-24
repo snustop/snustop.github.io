@@ -1,6 +1,6 @@
 ---
 title: snus baron kiwi
-position: 176
+position: 60
 title-seo: "Снюс Baron Kiwi\U0001F95D 15 mg nicotine pouches"
 descr: "Снюс Baron Kiwi\U0001F95D –  никотиновые подушечки белого цвета со вкусом
   киви\U0001F95D. 15мг."
@@ -11,8 +11,8 @@ brand: Baron
 price: 175
 opt-price: 165
 image: "/img/products/baron/baron-kiwi.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 15
 portions: 20
