@@ -1,7 +1,7 @@
 ---
 title: zuzu-berry
 date: 2020-12-15 07:23:00 Z
-position: 210
+position: 73
 title-seo: Снюс Zuzu Berry on Board
 descr: 'Zuzu Berry on Board — снюс от бренда Faff. Вкус: гранат и клубника замешанные
   с черникой. Крепость 150 мг. Порций 20-25. Цветные порции, плотная набивка, насыщенные
@@ -13,8 +13,8 @@ brand: Faff
 price: 210
 opt-price: 190
 image: "/img/products/zuzu/zuzu-berry.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 150
 portions: 20-25

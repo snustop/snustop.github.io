@@ -1,7 +1,7 @@
 ---
 title: zuzu-kiwi-burn
 date: 2020-12-15 07:23:00 Z
-position: 212
+position: 71
 title-seo: "Снюс Zuzu Kiwi Burn⚡️\U0001F34F\U0001F95D 150 мг"
 descr: "Zuzu Kiwi Burn 150 mg никотина. Вкус энергетик Burn с яблоком и киви⚡️\U0001F34F\U0001F95D.
   20-25 порций."
@@ -11,8 +11,8 @@ strong: Очень крепкий
 brand: Faff
 price: 210
 image: "/img/products/zuzu/zuzu-kiwi-burn.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 150
 portions: 20-25

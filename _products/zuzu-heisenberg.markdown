@@ -1,7 +1,7 @@
 ---
 title: zuzu-heisenberg
 date: 2020-12-15 07:23:00 Z
-position: 163
+position: 72
 title-seo: "Снюс Zuzu Heisenberg\U0001F347\U0001FAD0 150 мг"
 descr: "Zuzu Heisenberg — снюс от бренда Faff. Вкус виноград и лесные ягоды\U0001F347\U0001FAD0.
   Крепость 150 мг."
@@ -11,8 +11,8 @@ strong: Очень крепкий
 brand: Faff
 price: 210
 image: "/img/products/zuzu/zuzu-heisenberg.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 150
 portions: 20-25
