@@ -1,7 +1,7 @@
 ---
 title: randm-blood
 date: 2020-12-15 07:23:00 Z
-position: 241
+position: 33
 title-seo: "Снюс RANDM by Faff \U0001F534BLOOD Гранат"
 descr: Снюс RANDM со вкусом граната. Крепость 150 мг. Порции слим. От бренда Faff.
 product-name: "RANDM \U0001F534 Гранат"
@@ -11,8 +11,8 @@ brand: Faff
 price: 210
 opt-price: 190
 image: "/img/products/rm/RM_Blood.png"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 150
 portions: 20-25
