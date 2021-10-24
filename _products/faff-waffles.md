@@ -1,7 +1,7 @@
 ---
 title: faff-waffles
 date: 2021-01-28 21:10:00 Z
-position: 175
+position: 62
 title-seo: Снюс FAFF WAFFLES 150mg купить в Украине
 descr: Faff WAFFLES — хрустящие сливочные вафли, 150 мг никотина. В банке ±29 белых
   порций слим.
@@ -13,8 +13,8 @@ composition: Белый
 price: 210
 opt-price: 190
 image: "/img/products/faff-waffles.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: "-"
 nicotine: 150
 portions: "±29"
