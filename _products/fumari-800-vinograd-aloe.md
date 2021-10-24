@@ -1,6 +1,6 @@
 ---
 title: fumari-pod-800-vinograd-aloe
-position: 325
+position: 326
 title-seo: "Fumari pods 800 Виноградный алоэ\U0001F347"
 descr: "Fumari pods электронная сигарета на 800 затяжек со вкусом Виноградный алоэ\U0001F347"
 product-name: "Fumari 800\U0001F4A8 Виноградный алоэ\U0001F347"

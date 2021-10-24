@@ -1,6 +1,6 @@
 ---
 title: killa-blueberry
-position: 244
+position: 245
 title-seo: "Снюс Killa Blueberry\U0001FAD0"
 descr: "Снюс Killa Blueberry\U0001FAD0. Крепость 16 мг никотина. В банке 20 порций
   белого цвета. Не содержит табак."
