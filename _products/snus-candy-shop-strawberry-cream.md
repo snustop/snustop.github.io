@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-strawberry-cream
-position: 271
+position: 48
 title-seo: "Снюс Candy shop \U0001F353Strawberry Cream 80 mg"
 descr: Снюс кенди Клубничный крем с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Strawberry Cream 80 mg
@@ -10,8 +10,8 @@ brand: Candy Shop
 composition: Белый
 price: 200
 image: "/img/products/candy/snus-candy-shop-strawberry-cream.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 80
 portions: 20
@@ -19,6 +19,7 @@ taste: "\U0001F353Клубничный крем"
 form: Порционный, slim
 composition-product: Целлюлоза, вода, пищевой глицерин, никотин, сода, карбонат натрия,
   пищевой ароматизатор
+position-brand: 12
 ---
 
 Снюс Candy shop 🍓Strawberry Cream — бестабачная жевательная смесь, со вкусом клубничного крема🍓.<br>

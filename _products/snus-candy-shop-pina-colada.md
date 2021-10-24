@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-pina-colada
-position: 265
+position: 45
 title-seo: "Снюс Candy shop \U0001F965\U0001F34DPina Colada 80 mg"
 descr: Снюс кенди Пина Колада с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Pina Colada 80 mg
@@ -10,8 +10,8 @@ brand: Candy Shop
 composition: Белый
 price: 200
 image: "/img/products/candy/snus-candy-shop-pina-colada.jpg"
-availability-descr: Ожидается
-has_availability: false
+availability-descr: В наличии
+has_availability: true
 gramm: 13
 nicotine: 80
 portions: 20
@@ -19,6 +19,7 @@ taste: "\U0001F965\U0001F34D Пина Колада"
 form: Порционный, slim
 composition-product: Целлюлоза, вода, пищевой глицерин, никотин, сода, карбонат натрия,
   пищевой ароматизатор
+position-brand: 11
 ---
 
 Снюс Candy shop 🥥🍍Pina Colada — бестабачная жевательная смесь, со вкусом напитка пина колада 🥥🍍.<br>
