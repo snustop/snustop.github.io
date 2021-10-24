@@ -1,7 +1,7 @@
 ---
 title: Arqa Raspberry Juice
 date: 2020-09-10 13:27:00 Z
-position: 141
+position: 140
 title-seo: Снюс Arqa Raspberry Juice 70 mg
 descr: "Снюс Arqa Raspberry Juice – снюс со вкусом \U0001F964малинового сока\U0001F964.
   Крепость 70 мг. В банке 20 порций."
