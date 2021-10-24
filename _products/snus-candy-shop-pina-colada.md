@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-pina-colada
-position: 46
+position: 47
 title-seo: "Снюс Candy shop \U0001F965\U0001F34DPina Colada 80 mg"
 descr: Снюс кенди Пина Колада с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Pina Colada 80 mg

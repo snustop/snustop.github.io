@@ -1,7 +1,7 @@
 ---
 title: LYFT Strong Ice Cool Mint Slim All White
 date: 2019-02-28 13:57:00 Z
-position: 17
+position: 18
 title-seo: "LYFT Ice Cool strong\U0001F535 | Lyft снюс купить"
 descr: "Снюс Синий\U0001F535 лифт на 3 точки. Крепость 14 мг, но ощущается больше.
   Белый снюс. 24 порции. Вкус приятная мята."

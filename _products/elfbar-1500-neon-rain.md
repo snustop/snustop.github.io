@@ -1,6 +1,6 @@
 ---
 title: elf-bar-neon-rain-1500
-position: 19
+position: 20
 title-seo: "Elf Bar 1500 со вкусом тропические фрукты\U0001F308\U0001F334"
 descr: "Elf Bar на 1500тяг, батарея 850mAh. Вкус тропические фрукты\U0001F308\U0001F334.
   5% Английская версия."
