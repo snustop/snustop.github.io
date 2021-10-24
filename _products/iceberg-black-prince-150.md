@@ -1,7 +1,7 @@
 ---
 title: Iceberg Black Prince
 date: 2020-10-08 16:46:00 Z
-position: 199
+position: 198
 title-seo: Снюс Iceberg Black Prince 150 мг
 descr: "Снюс айсберг со вкусом \U0001FAD0чёрной смородины\U0001FAD0. Крепость 150
   мг никотина. В банке 20-25 порций."

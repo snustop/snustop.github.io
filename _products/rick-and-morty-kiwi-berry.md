@@ -1,6 +1,6 @@
 ---
 title: rick-and-morty-kiwi-berry
-position: 58
+position: 65
 title-seo: "Rick and morty 1700 киви\U0001F95D с ягодами"
 descr: "Rick and morty Randm электронная сигарета на 1700 затяжек со вкусом киви\U0001F95D
   с ягодами"

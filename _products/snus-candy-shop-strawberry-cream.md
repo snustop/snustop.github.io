@@ -1,6 +1,6 @@
 ---
 title: snus-candy-shop-strawberry-cream
-position: 48
+position: 54
 title-seo: "Снюс Candy shop \U0001F353Strawberry Cream 80 mg"
 descr: Снюс кенди Клубничный крем с крепостью 80 мг никотина. 20 порций белого цвета.
 product-name: Candy shop Strawberry Cream 80 mg
