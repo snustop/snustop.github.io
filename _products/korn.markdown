@@ -1,7 +1,7 @@
 ---
 title: grant-Korn
 date: 2020-11-17 10:12:00 Z
-position: 287
+position: 288
 title-seo: Grant Korn 35 mg
 descr: Снюс Korn — качественный снюс со вкусом мяты. Крепость 35 мг никотина. В банке
   24-27 порций белого цвета.
